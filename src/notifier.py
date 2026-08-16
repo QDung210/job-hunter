@@ -43,9 +43,19 @@ def _time_ago(posted_at) -> str:
 
 
 def truncate_message(text: str, limit: int = MAX_LEN) -> str:
+    """Cuts at the last full line before `limit`, never mid-line — every line
+    in our messages is a self-contained HTML fragment (a tag opens and closes
+    on the same line), so a mid-character cut risks unbalanced HTML that
+    Telegram's parse_mode=HTML rejects outright with a 400."""
     if len(text) <= limit:
         return text
-    return text[: limit - 24].rstrip() + "\n\n… (truncated)"
+    suffix = "\n\n… (truncated)"
+    budget = limit - len(suffix)
+    truncated = text[:budget]
+    last_newline = truncated.rfind("\n")
+    if last_newline > 0:
+        truncated = truncated[:last_newline]
+    return truncated + suffix
 
 
 def format_job_message(sj: ScoredJob) -> str:
@@ -103,13 +113,33 @@ def format_job_message(sj: ScoredJob) -> str:
 
 
 def format_digest_message(jobs: list[ScoredJob]) -> str:
-    lines = [f"<b>📋 DIGEST — {len(jobs)} good match(es), score 75-81</b>", ""]
+    """Builds the digest one whole entry at a time and stops BEFORE exceeding
+    the safe budget, rather than formatting everything and truncating after
+    the fact — that risks cutting an entry (and its HTML tags) in half when
+    there are many jobs, which is exactly what caused a real Telegram 400
+    ("can't parse entities") in production with a 107-job digest."""
+    header = f"<b>📋 DIGEST — {len(jobs)} good match(es), score 75-81</b>\n\n"
+    footer_reserve = 60  # room for the "...and N more" footer below
+    budget = MAX_LEN - len(header) - footer_reserve
+
+    entries: list[str] = []
+    used = 0
+    shown = 0
     for sj in jobs:
         j = sj.job
-        lines.append(f"🟡 {sj.score}/100 — <b>{_esc(j.title)}</b> @ {_esc(j.company)}")
-        lines.append(f'   <a href="{_esc(j.dedupe_url)}">Apply</a> · {_esc(j.source)} · {_time_ago(j.posted_at)}')
-        lines.append("")
-    return truncate_message("\n".join(lines))
+        entry = (
+            f"🟡 {sj.score}/100 — <b>{_esc(j.title)}</b> @ {_esc(j.company)}\n"
+            f'   <a href="{_esc(j.dedupe_url)}">Apply</a> · {_esc(j.source)} · {_time_ago(j.posted_at)}\n\n'
+        )
+        if used + len(entry) > budget:
+            break
+        entries.append(entry)
+        used += len(entry)
+        shown += 1
+
+    remaining = len(jobs) - shown
+    footer = f"…and {remaining} more — see data/latest_jobs.json" if remaining > 0 else ""
+    return header + "".join(entries) + footer
 
 
 class TelegramNotifier:
@@ -139,7 +169,12 @@ class TelegramNotifier:
                 resp = httpx.post(url, json=payload, timeout=self.timeout)
                 if resp.status_code == 200:
                     return True
-                logger.warning("Telegram send failed (status %s), attempt %s", resp.status_code, attempt + 1)
+                # Telegram's error body (e.g. "can't parse entities") never
+                # contains the token — safe to log for debugging.
+                logger.warning(
+                    "Telegram send failed (status %s), attempt %s: %s",
+                    resp.status_code, attempt + 1, resp.text[:300],
+                )
             except httpx.HTTPError as e:
                 logger.warning("Telegram send error (attempt %s): %s", attempt + 1, e)
         return False

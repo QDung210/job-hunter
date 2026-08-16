@@ -1,0 +1,193 @@
+# Candidate profile — used by filters.py, scoring.py, taxonomy.py
+location:
+  country: Vietnam
+  city: Hanoi
+  timezone: Asia/Ho_Chi_Minh
+
+experience:
+  years: 2.5
+
+preferences:
+  remote: true
+
+# Roles we actively search/score for. Used for fuzzy Role Match scoring — a JD whose
+# title doesn't appear here can still score high overall via Technical Match (35%).
+role_titles:
+  - AI Engineer
+  - Artificial Intelligence Engineer
+  - Machine Learning Engineer
+  - ML Engineer
+  - Generative AI Engineer
+  - GenAI Engineer
+  - LLM Engineer
+  - Large Language Model Engineer
+  - Applied AI Engineer
+  - AI Software Engineer
+  - AI Backend Engineer
+  - AI Platform Engineer
+  - AI Infrastructure Engineer
+  - AI Product Engineer
+  - Agentic AI Engineer
+  - AI Agent Engineer
+  - Agent Engineer
+  - Agent Developer
+  - LLM Application Engineer
+  - LLM Application Developer
+  - AI Application Engineer
+  - AI Automation Engineer
+  - AI Solutions Engineer
+  - AI Solutions Developer
+  - AI Systems Engineer
+  - AI Research Engineer
+  - ML Platform Engineer
+  - MLOps Engineer
+  - NLP Engineer
+  - Conversational AI Engineer
+  - Voice AI Engineer
+  - RAG Engineer
+  - Retrieval Engineer
+  - Knowledge Graph Engineer
+  - Python AI Engineer
+  - Backend Engineer
+  - Backend Software Engineer
+  - Python Backend Engineer
+  - Software Engineer - AI
+  - Software Engineer - Machine Learning
+  - Full Stack AI Engineer
+  - Forward Deployed AI Engineer
+  - Forward Deployed Engineer
+  - AI Integration Engineer
+  - AI Workflow Engineer
+  - Automation Engineer
+  - AI Developer
+
+# Free-text search queries collectors fan out over (deduplicated after collection).
+search_queries:
+  - AI Engineer
+  - Generative AI Engineer
+  - LLM Engineer
+  - Agentic AI Engineer
+  - AI Agent Engineer
+  - Applied AI Engineer
+  - AI Backend Engineer
+  - Python AI Engineer
+  - Machine Learning Engineer
+  - AI Product Engineer
+  - AI Platform Engineer
+  - RAG Engineer
+  - Conversational AI Engineer
+  - Full Stack AI Engineer
+  - Backend Engineer AI
+  - MCP
+  - LangGraph
+  - LLM application
+
+# Terms the candidate already has direct hands-on experience with. Used by
+# taxonomy.py to decide technical_match (known term) vs transferable_match
+# (JD asks for a different term in the same transferable_group category).
+known_terms:
+  - python
+  - agentic ai
+  - ai agents
+  - multi-agent systems
+  - agent orchestration
+  - supervisor
+  - orchestrator-workers
+  - tool calling
+  - function calling
+  - hermes agent
+  - langgraph
+  - langchain
+  - mcp
+  - fastmcp
+  - model context protocol
+  - rag
+  - retrieval augmented generation
+  - lightrag
+  - llamaindex
+  - qdrant
+  - neo4j
+  - knowledge graph
+  - structured output
+  - pydantic
+  - pydantic v2
+  - fastapi
+  - aws
+  - amazon web services
+  - bedrock
+  - agentcore
+  - lambda
+  - docker
+  - ci/cd
+  - github actions
+  - llm evaluation
+  - observability
+  - openai
+  - anthropic
+  - claude
+  - postgresql
+  - redis
+
+location_rules:
+  # Explicit accept signals -> location_confidence: high, location_eligible: true
+  accept_phrases:
+    - remote worldwide
+    - remote global
+    - remote anywhere
+    - remote apac
+    - remote asia
+    - southeast asia
+    - " sea "
+    - asia-pacific
+    - vietnam
+    - fully remote
+    - work from anywhere
+    - anywhere in the world
+    - eor global
+    - async remote
+  # Explicit hard-reject signals -> location_eligible: false regardless of score
+  reject_phrases:
+    - us citizens only
+    - us citizen only
+    - us residents only
+    - us resident only
+    - united states residents only
+    - us work authorization required
+    - must be authorized to work in the us
+    - authorized to work in the united states
+    - canada only
+    - canadian residents only
+    - eu residents only
+    - european union residents only
+    - uk only
+    - united kingdom only
+    - uk residents only
+    - india only
+    - based in india only
+    - australia only
+    - australian residents only
+
+experience_rules:
+  # thresholds for penalty on required YOE above candidate's years, scaled by
+  # required vs preferred (see filters.py:parse_experience)
+  penalty_by_gap:
+    "1": 0        # <=1 year above candidate -> no penalty
+    "2": 5
+    "3": 15
+    "4": 30
+    "5": 50
+  preferred_penalty_multiplier: 0.4   # "preferred"/"nice to have" penalties scaled down
+
+thresholds:
+  notify: 82     # immediate Telegram notification
+  digest: 75     # batched digest notification
+  hot: 90        # 🚨🚨 HOT JOB 🚨🚨 prefix
+
+search:
+  max_age_days: 14           # jobs older than this are dropped before scoring
+  seen_jobs_expiry_days: 45  # prune data/seen_jobs.json entries older than this
+
+url_check:
+  enabled: true
+  min_score_to_check: 75     # only verify URLs for jobs that would be reported
+  timeout_seconds: 6

@@ -1,0 +1,434 @@
+# Technical taxonomy — categories, aliases and transferable-skill groups.
+#
+# transferable_group: true means: if a JD mentions a term in this category that the
+# candidate does NOT know, but the candidate's known_terms (profile.yaml) includes a
+# DIFFERENT term from the same category, it counts as a transferable_match (partial
+# credit) instead of a missing_skill. Example: JD wants "CrewAI", candidate knows
+# "LangGraph" -> both are in agent_frameworks -> transferable_match.
+#
+# Matching is word-boundary regex first; rapidfuzz partial/token-sort matching
+# (threshold ~90) is used as a fallback for minor spelling/spacing variants.
+
+categories:
+  agentic_ai:
+    transferable_group: false
+    terms:
+      - agentic ai
+      - ai agents
+      - autonomous agents
+      - multi-agent systems
+      - agent orchestration
+      - agent workflows
+      - agent framework
+      - agent runtime
+      - agent platform
+      - react agent
+      - react-style agent
+      - plan-and-solve
+      - reflection
+      - reflexion
+      - toolformer
+      - tree of thoughts
+      - chain of thought
+      - planner
+      - executor agent
+      - supervisor
+      - orchestrator-workers
+      - router agent
+      - agent swarm
+      - hierarchical agents
+      - human-in-the-loop
+      - hitl
+      - agent memory
+      - short-term memory
+      - long-term memory
+      - episodic memory
+      - semantic memory
+      - agent state
+      - agent graph
+      - tool use
+      - tool calling
+      - function calling
+      - structured tools
+      - computer use
+      - browser agents
+
+  agent_frameworks:
+    transferable_group: true
+    terms:
+      - hermes agent
+      - langgraph
+      - langchain
+      - llamaindex
+      - crewai
+      - autogen
+      - microsoft autogen
+      - semantic kernel
+      - pydanticai
+      - pydantic ai
+      - openai agents sdk
+      - google adk
+      - agent development kit
+      - aws bedrock agents
+      - aws bedrock agentcore
+      - strands agents
+      - smolagents
+      - haystack
+      - dspy
+      - agno
+      - phidata
+      - autogpt
+      - babyagi
+      - metagpt
+      - camel
+      - superagi
+      - mastra
+      - letta
+      - memgpt
+      - beeai
+      - atomic agents
+      - langroid
+      - swarm
+      - magentic-one
+      - autogen studio
+      - flowise
+      - langflow
+      - dify
+      - n8n ai agents
+
+  mcp_protocol:
+    transferable_group: false
+    terms:
+      - mcp
+      - model context protocol
+      - fastmcp
+      - mcp server
+      - mcp client
+      - mcp gateway
+      - mcp tools
+      - a2a
+      - agent-to-agent
+      - tool integration
+      - api integration
+      - rest apis
+      - graphql
+      - webhooks
+      - browser automation
+      - playwright
+      - selenium
+
+  rag_retrieval:
+    transferable_group: false
+    terms:
+      - rag
+      - retrieval augmented generation
+      - agentic rag
+      - graph rag
+      - graphrag
+      - hybrid rag
+      - hybrid search
+      - semantic search
+      - dense retrieval
+      - sparse retrieval
+      - bm25
+      - reranking
+      - cross encoder
+      - embedding
+      - embeddings
+      - retrieval
+      - chunking
+      - context retrieval
+      - query rewriting
+      - hyde
+      - multi-query retrieval
+      - self-query retrieval
+      - knowledge base
+      - document intelligence
+      - document parsing
+
+  rag_frameworks:
+    transferable_group: true
+    terms:
+      - llamaindex
+      - langchain
+      - haystack
+      - lightrag
+      - graphrag
+      - ragflow
+      - dify
+      - unstructured
+      - docling
+      - marker
+      - pymupdf
+
+  vector_db:
+    transferable_group: true
+    terms:
+      - qdrant
+      - pinecone
+      - weaviate
+      - milvus
+      - chroma
+      - chromadb
+      - faiss
+      - pgvector
+      - elasticsearch
+      - opensearch
+      - vespa
+      - redis vector
+      - mongodb atlas vector search
+      - azure ai search
+      - vertex ai vector search
+
+  graph:
+    transferable_group: true
+    terms:
+      - neo4j
+      - knowledge graph
+      - graph database
+      - cypher
+      - networkx
+      - rdf
+      - sparql
+      - graph retrieval
+
+  llm_providers:
+    transferable_group: true
+    terms:
+      - openai
+      - gpt
+      - claude
+      - anthropic
+      - gemini
+      - google ai
+      - llama
+      - meta llama
+      - mistral
+      - qwen
+      - deepseek
+      - cohere
+      - groq
+      - together ai
+      - fireworks ai
+      - openrouter
+      - aws bedrock
+      - azure openai
+      - vertex ai
+      - hugging face
+      - transformers
+      - vllm
+      - ollama
+      - llama.cpp
+      - tensorrt-llm
+      - sglang
+
+  prompt_structured_gen:
+    transferable_group: true
+    terms:
+      - prompt engineering
+      - prompt optimization
+      - prompt templates
+      - structured output
+      - json schema
+      - pydantic
+      - pydantic v2
+      - guardrails
+      - instructor
+      - outlines
+      - guidance
+      - function schemas
+      - schema validation
+
+  evaluation:
+    transferable_group: true
+    terms:
+      - llm evaluation
+      - evals
+      - rag evaluation
+      - agent evaluation
+      - ragas
+      - deepeval
+      - langsmith
+      - braintrust
+      - arize
+      - phoenix
+      - weights & biases
+      - w&b
+      - trulens
+      - promptfoo
+      - openai evals
+      - benchmarking
+      - llm-as-a-judge
+      - golden dataset
+      - offline evaluation
+      - online evaluation
+      - a/b testing
+
+  observability:
+    transferable_group: true
+    terms:
+      - observability
+      - tracing
+      - opentelemetry
+      - otel
+      - langfuse
+      - langsmith
+      - arize phoenix
+      - helicone
+      - grafana
+      - prometheus
+      - cloudwatch
+      - datadog
+      - new relic
+      - logging
+      - metrics
+      - traces
+
+  backend:
+    transferable_group: false
+    terms:
+      - python
+      - fastapi
+      - flask
+      - django
+      - starlette
+      - pydantic
+      - rest api
+      - websocket
+      - grpc
+      - graphql
+      - asyncio
+      - celery
+      - redis
+      - rabbitmq
+      - kafka
+      - microservices
+      - distributed systems
+      - go
+      - golang
+      - typescript
+      - javascript
+      - node.js
+      - nestjs
+      - java
+      - spring boot
+      - rust
+      - c#
+      - .net
+
+  data:
+    transferable_group: false
+    terms:
+      - postgresql
+      - postgres
+      - mysql
+      - sql
+      - mongodb
+      - redis
+      - dynamodb
+      - snowflake
+      - bigquery
+      - databricks
+      - spark
+      - kafka
+      - airflow
+      - dagster
+      - prefect
+      - kedro
+      - dbt
+
+  ml:
+    transferable_group: false
+    terms:
+      - pytorch
+      - tensorflow
+      - keras
+      - scikit-learn
+      - xgboost
+      - lightgbm
+      - transformers
+      - fine-tuning
+      - lora
+      - qlora
+      - peft
+      - rlhf
+      - dpo
+      - sft
+      - embedding models
+      - nlp
+      - classification
+      - ranking
+      - recommendation
+
+  mlops_infra:
+    transferable_group: false
+    terms:
+      - docker
+      - docker compose
+      - kubernetes
+      - k8s
+      - terraform
+      - ci/cd
+      - github actions
+      - gitlab ci
+      - jenkins
+      - mlflow
+      - kubeflow
+      - ray
+      - bentoml
+      - kserve
+      - sagemaker
+
+  cloud:
+    transferable_group: true
+    terms:
+      - aws
+      - amazon web services
+      - bedrock
+      - agentcore
+      - lambda
+      - ec2
+      - ecs
+      - eks
+      - s3
+      - sagemaker
+      - cloudwatch
+      - azure
+      - azure openai
+      - azure ai
+      - azure functions
+      - aks
+      - gcp
+      - google cloud
+      - vertex ai
+      - cloud run
+      - gke
+
+  voice_multimodal:
+    transferable_group: false
+    terms:
+      - voice ai
+      - speech ai
+      - stt
+      - tts
+      - asr
+      - elevenlabs
+      - whisper
+      - deepgram
+      - assemblyai
+      - livekit
+      - twilio
+      - vapi
+      - retell ai
+      - speech recognition
+      - speech synthesis
+      - vision language models
+      - vlm
+      - multimodal
+      - computer vision
+      - ocr
+      - document ai
+
+fuzzy:
+  enabled: true
+  threshold: 90

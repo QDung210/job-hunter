@@ -1,0 +1,61 @@
+# Curated seed list of company slugs/tokens per ATS platform. These are per-company
+# public job-board APIs, so there's no way to "search everywhere" — you extend this
+# list yourself as you discover companies you're interested in.
+#
+# How to find a slug:
+#   Greenhouse:      visit https://boards.greenhouse.io/<slug>            (slug is in the URL)
+#   Lever:           visit https://jobs.lever.co/<slug>
+#   Ashby:           visit https://jobs.ashbyhq.com/<slug>
+#   Workable:        visit https://apply.workable.com/<slug>
+#   SmartRecruiters: visit https://careers.smartrecruiters.com/<CompanyName>
+#
+# A 404/empty response for any slug is logged as a warning and skipped — it will
+# NOT fail the run. Remove stale slugs whenever you notice them in the warnings.
+
+greenhouse:
+  - stripe
+  - airbnb
+  - robinhood
+  - doordash
+  - reddit
+  - discord
+  - coinbase
+  - brex
+  - affirm
+  - gitlab
+  - grammarly
+  - databricks
+  - scaleai
+  - anduril
+  - cloudflare
+
+lever:
+  - netlify
+  - plaid
+  - shield-ai
+  - jobgether
+  - attentive
+  - branch
+  - lambdalabs
+  - synthesia
+  - eightsleep
+
+ashby:
+  - notion
+  - ramp
+  - linear
+  - vanta
+  - ashby
+  - mercury
+  - modal
+  - replit
+  - perplexity-ai
+  - openai
+
+workable:
+  - deepgram
+  - assemblyai
+
+smartrecruiters:
+  - bosch
+  - visa

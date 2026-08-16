@@ -1,0 +1,110 @@
+# Collector configuration. `tier: light` runs hourly, `tier: heavy` runs every 3h.
+# Disabling a source here (enabled: false) fully skips it without touching code.
+
+greenhouse:
+  enabled: true
+  tier: light
+  timeout_seconds: 10
+  retries: 2
+
+lever:
+  enabled: true
+  tier: light
+  timeout_seconds: 10
+  retries: 2
+
+ashby:
+  enabled: true
+  tier: light
+  timeout_seconds: 10
+  retries: 2
+
+workable:
+  enabled: true
+  tier: light
+  timeout_seconds: 10
+  retries: 2
+
+smartrecruiters:
+  enabled: true
+  tier: light
+  timeout_seconds: 10
+  retries: 2
+
+remoteok:
+  enabled: true
+  tier: light
+  timeout_seconds: 10
+  retries: 2
+  user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+
+remotive:
+  enabled: true
+  tier: light
+  timeout_seconds: 10
+  retries: 2
+  # queries taken from profile.yaml search_queries, category filter left blank
+  # (Remotive category slugs don't map cleanly onto our broad title list)
+
+arbeitnow:
+  enabled: true
+  tier: light
+  timeout_seconds: 10
+  retries: 2
+  max_pages: 3
+
+himalayas:
+  enabled: true
+  tier: light
+  timeout_seconds: 10
+  retries: 2
+  max_pages: 3
+
+jobicy:
+  enabled: true
+  tier: light
+  timeout_seconds: 10
+  retries: 2
+  count: 100
+
+weworkremotely:
+  enabled: true
+  tier: light
+  timeout_seconds: 10
+  retries: 2
+  feeds:
+    - https://weworkremotely.com/categories/remote-programming-jobs.rss
+    - https://weworkremotely.com/remote-jobs.rss
+
+jobspy:
+  enabled: true
+  tier: heavy
+  timeout_seconds: 60
+  retries: 1
+  results_wanted_per_site: 30
+  hours_old: 168   # 7 days; freshness scoring handles further decay
+  # Sites known to work reliably from shared CI IPs go first; LinkedIn/Glassdoor/
+  # Google are best-effort and wrapped individually so one failing doesn't drop
+  # the others.
+  sites:
+    - indeed
+    - zip_recruiter
+    - google
+    - linkedin
+    - glassdoor
+  country_indeed: vietnam
+
+wellfound:
+  enabled: true
+  tier: heavy
+  timeout_seconds: 12
+  retries: 1
+  user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+  # NOTE: wellfound.com/robots.txt disallows the exact job-search paths below.
+  # This collector is best-effort/read-only, low-volume, and fails silently
+  # (logs a warning, never fails the pipeline) on 403/429/block. See README
+  # "Known limitations" before relying on it. Disable by setting enabled: false.
+  role_location_urls:
+    - https://wellfound.com/role/l/software-engineer/remote
+    - https://wellfound.com/role/l/machine-learning-engineer/remote
+    - https://wellfound.com/role/l/backend-engineer/remote

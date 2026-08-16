@@ -1,0 +1,182 @@
+{
+  "name": "Job Hunter - Telegram Alert (Optional)",
+  "nodes": [
+    {
+      "parameters": {
+        "httpMethod": "POST",
+        "path": "job-alert",
+        "responseMode": "onReceived",
+        "options": {}
+      },
+      "id": "a1b2c3d4-0001-4000-8000-000000000001",
+      "name": "Webhook (push jobs in)",
+      "type": "n8n-nodes-base.webhook",
+      "typeVersion": 1,
+      "position": [240, 260]
+    },
+    {
+      "parameters": {
+        "rule": {
+          "interval": [
+            {
+              "field": "hours",
+              "hoursInterval": 1
+            }
+          ]
+        }
+      },
+      "id": "a1b2c3d4-0002-4000-8000-000000000002",
+      "name": "Schedule Trigger (pull feed instead)",
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 1,
+      "position": [240, 460]
+    },
+    {
+      "parameters": {
+        "url": "https://raw.githubusercontent.com/<your-github-username>/<your-repo>/main/data/latest_jobs.json",
+        "options": {}
+      },
+      "id": "a1b2c3d4-0003-4000-8000-000000000003",
+      "name": "Read latest_jobs.json",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 3,
+      "position": [460, 460],
+      "notes": "Replace the URL with your repo's raw GitHub URL for data/latest_jobs.json. Only works if the repo is public, or add a GitHub auth credential."
+    },
+    {
+      "parameters": {
+        "jsCode": "// Accepts either:\n//  - a single job object (from the Webhook body)\n//  - { \"jobs\": [...] } (a wrapped list)\n//  - a raw array (from data/latest_jobs.json)\n// and always returns one n8n item per job.\nlet payload = $input.first().json;\n\nif (payload.body) {\n  payload = payload.body;\n}\n\nlet jobs;\nif (Array.isArray(payload)) {\n  jobs = payload;\n} else if (Array.isArray(payload.jobs)) {\n  jobs = payload.jobs;\n} else {\n  jobs = [payload];\n}\n\nreturn jobs.map((job) => ({ json: job }));"
+      },
+      "id": "a1b2c3d4-0004-4000-8000-000000000004",
+      "name": "Normalize Payload",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 1,
+      "position": [680, 360]
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "number": [
+            {
+              "value1": "={{$json[\"score\"]}}",
+              "operation": "largerEqual",
+              "value2": 75
+            }
+          ]
+        }
+      },
+      "id": "a1b2c3d4-0005-4000-8000-000000000005",
+      "name": "IF score >= threshold",
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 1,
+      "position": [900, 360],
+      "notes": "Change the value2 threshold (default 75, matching the digest cutoff) to whatever you want n8n to alert on."
+    },
+    {
+      "parameters": {
+        "jsCode": "const j = $json;\nconst hot = (j.score >= 90) ? '\\ud83d\\udea8\\ud83d\\udea8 HOT JOB \\ud83d\\udea8\\ud83d\\udea8\\n' : '';\nconst tech = (j.technical_matches || []).slice(0, 10).map(t => `\\u2705 ${t}`).join('\\n');\nconst transfer = (j.transferable_matches || []).slice(0, 6).map(t => `\\u2022 ${t}`).join('\\n');\nconst text = `${hot}${j.priority || ''} ${j.score}/100\\n\\n` +\n  `<b>${j.title || ''}</b>\\n${j.company || ''}\\n\\n` +\n  `\\ud83c\\udf0d Remote: ${j.remote ? 'Yes' : (j.location || 'Unspecified')}\\n` +\n  `\\ud83d\\udcb0 ${j.salary || 'Not listed'}\\n` +\n  `\\ud83d\\udccd Source: ${j.source || ''}\\n\\n` +\n  (tech ? `<b>WHY IT MATCHES</b>\\n${tech}\\n\\n` : '') +\n  (transfer ? `<b>\\ud83d\\udd04 TRANSFERABLE</b>\\n${transfer}\\n\\n` : '') +\n  `Reason: ${j.reason || ''}\\n\\n` +\n  `\\ud83d\\udc49 <a href=\"${j.url}\">APPLY</a>`;\nreturn [{ json: { ...j, telegram_text: text } }];"
+      },
+      "id": "a1b2c3d4-0006-4000-8000-000000000006",
+      "name": "Format Telegram Message",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 1,
+      "position": [1120, 260]
+    },
+    {
+      "parameters": {
+        "chatId": "={{ $env.TELEGRAM_CHAT_ID }}",
+        "text": "={{$json[\"telegram_text\"]}}",
+        "additionalFields": {
+          "parse_mode": "HTML",
+          "disable_web_page_preview": true
+        }
+      },
+      "id": "a1b2c3d4-0007-4000-8000-000000000007",
+      "name": "Send Telegram Message",
+      "type": "n8n-nodes-base.telegram",
+      "typeVersion": 1,
+      "position": [1340, 260],
+      "credentials": {
+        "telegramApi": {
+          "id": "1",
+          "name": "Telegram account"
+        }
+      },
+      "notes": "Set up a 'Telegram account' credential in n8n (Settings > Credentials) with your bot token, then select it here. chatId reads from an n8n environment variable TELEGRAM_CHAT_ID -- set one, or replace with a literal chat id."
+    }
+  ],
+  "connections": {
+    "Webhook (push jobs in)": {
+      "main": [
+        [
+          {
+            "node": "Normalize Payload",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Schedule Trigger (pull feed instead)": {
+      "main": [
+        [
+          {
+            "node": "Read latest_jobs.json",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Read latest_jobs.json": {
+      "main": [
+        [
+          {
+            "node": "Normalize Payload",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Normalize Payload": {
+      "main": [
+        [
+          {
+            "node": "IF score >= threshold",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "IF score >= threshold": {
+      "main": [
+        [
+          {
+            "node": "Format Telegram Message",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        []
+      ]
+    },
+    "Format Telegram Message": {
+      "main": [
+        [
+          {
+            "node": "Send Telegram Message",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": false,
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "pinData": {}
+}

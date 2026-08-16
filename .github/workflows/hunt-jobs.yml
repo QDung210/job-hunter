@@ -1,0 +1,55 @@
+name: Hunt Jobs (Light)
+
+# Cheap, no-key API/RSS sources (Greenhouse, Lever, Ashby, Workable,
+# SmartRecruiters, RemoteOK, Remotive, Arbeitnow, Himalayas, Jobicy, We Work
+# Remotely). Runs hourly. See hunt-jobs-heavy.yml for JobSpy + Wellfound.
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Dry run (skip Telegram notifications)"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: hunt-jobs
+  cancel-in-progress: false
+
+jobs:
+  hunt:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run job hunter (light tier)
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          ARGS="--tier light"
+          if [ "${{ github.event.inputs.dry_run }}" = "true" ]; then
+            ARGS="$ARGS --dry-run"
+          fi
+          python -m src.main $ARGS
+
+      - name: Commit updated job data
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update job data (light run) [skip ci]"
+          file_pattern: "data/*.json data/*.csv"
+          commit_user_name: "job-hunter-bot"
+          commit_user_email: "actions@users.noreply.github.com"

@@ -25,12 +25,12 @@
     ],
     "transferable_matches": [
       "datadog ← experience with observability",
-      "eks ← experience with amazon web services",
+      "eks ← experience with bedrock",
       "logging ← experience with observability",
       "metrics ← experience with observability",
       "opentelemetry ← experience with observability",
       "otel ← experience with observability",
-      "s3 ← experience with amazon web services",
+      "s3 ← experience with bedrock",
       "tracing ← experience with observability"
     ],
     "missing_skills": [
@@ -91,7 +91,7 @@
     "transferable_matches": [
       "otel ← experience with observability",
       "prompt engineering ← experience with structured output",
-      "unstructured ← experience with langchain"
+      "unstructured ← experience with llamaindex"
     ],
     "missing_skills": [
       "airflow",
@@ -143,7 +143,7 @@
     "transferable_matches": [
       "otel ← experience with observability",
       "prompt engineering ← experience with structured output",
-      "unstructured ← experience with langchain"
+      "unstructured ← experience with llamaindex"
     ],
     "missing_skills": [
       "airflow",
@@ -194,11 +194,11 @@
       "rag"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with llamaindex",
       "guardrails ← experience with structured output",
       "metrics ← experience with observability",
       "prompt engineering ← experience with structured output",
-      "together ai ← experience with openai",
+      "together ai ← experience with anthropic",
       "tracing ← experience with observability"
     ],
     "missing_skills": [
@@ -236,6 +236,61 @@
   {
     "score": 91,
     "priority": "🔥 EXCEPTIONAL",
+    "title": "Staff Engineer, People Technology",
+    "company": "gitlab",
+    "source": "greenhouse",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8638295002",
+    "posted_at": "2026-08-17T18:53:56-04:00",
+    "remote": true,
+    "location": "Remote, Canada; Remote, United States",
+    "salary": null,
+    "technical_matches": [
+      "agent orchestration",
+      "aws",
+      "ci/cd",
+      "claude",
+      "docker",
+      "mcp",
+      "model context protocol",
+      "observability",
+      "python"
+    ],
+    "transferable_matches": [
+      "agno ← experience with llamaindex",
+      "gcp ← experience with bedrock",
+      "gke ← experience with bedrock",
+      "google cloud ← experience with bedrock",
+      "guidance ← experience with structured output"
+    ],
+    "missing_skills": [
+      "api integration",
+      "document ai",
+      "go",
+      "kubernetes",
+      "rust"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "not specified",
+    "location_eligible": true,
+    "location_confidence": "high",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at gitlab with strong overlap in agent orchestration, mcp, model context protocol, agno, guidance.",
+    "recommended_action": "APPLY_NOW",
+    "response_probability": "HIGH",
+    "url_status": "ok",
+    "score_breakdown": {
+      "technical": 100,
+      "role": 54,
+      "remote": 100,
+      "freshness": 100,
+      "experience": 100,
+      "response": 100,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 91,
+    "priority": "🔥 EXCEPTIONAL",
     "title": "AI Engineer - FDE (Forward Deployed Engineer)",
     "company": "databricks",
     "source": "greenhouse",
@@ -251,10 +306,10 @@
       "rag"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "dspy ← experience with langchain",
-      "gcp ← experience with amazon web services",
-      "hugging face ← experience with openai"
+      "azure ← experience with bedrock",
+      "dspy ← experience with llamaindex",
+      "gcp ← experience with bedrock",
+      "hugging face ← experience with anthropic"
     ],
     "missing_skills": [
       "databricks",
@@ -302,9 +357,9 @@
       "rag"
     ],
     "transferable_matches": [
-      "gcp ← experience with amazon web services",
-      "gemini ← experience with openai",
-      "vertex ai ← experience with amazon web services"
+      "gcp ← experience with bedrock",
+      "gemini ← experience with anthropic",
+      "vertex ai ← experience with bedrock"
     ],
     "missing_skills": [
       "java",
@@ -358,20 +413,20 @@
       "rag"
     ],
     "transferable_matches": [
-      "aws bedrock ← experience with openai",
+      "aws bedrock ← experience with anthropic",
       "datadog ← experience with observability",
-      "eks ← experience with amazon web services",
+      "eks ← experience with bedrock",
       "elasticsearch ← experience with qdrant",
       "evals ← experience with llm evaluation",
       "golden dataset ← experience with llm evaluation",
-      "graph database ← experience with neo4j",
-      "graphrag ← experience with langchain",
+      "graph database ← experience with knowledge graph",
+      "graphrag ← experience with llamaindex",
       "langfuse ← experience with observability",
       "opensearch ← experience with qdrant",
       "opentelemetry ← experience with observability",
       "otel ← experience with observability",
-      "pydantic ai ← experience with langchain",
-      "s3 ← experience with amazon web services"
+      "pydantic ai ← experience with llamaindex",
+      "s3 ← experience with bedrock"
     ],
     "missing_skills": [
       "agent workflows",
@@ -435,7 +490,7 @@
     "transferable_matches": [
       "arize ← experience with llm evaluation",
       "metrics ← experience with observability",
-      "transformers ← experience with openai"
+      "transformers ← experience with anthropic"
     ],
     "missing_skills": [
       "airflow",
@@ -498,7 +553,7 @@
     "transferable_matches": [
       "arize ← experience with llm evaluation",
       "metrics ← experience with observability",
-      "transformers ← experience with openai"
+      "transformers ← experience with anthropic"
     ],
     "missing_skills": [
       "airflow",
@@ -558,8 +613,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock",
       "metrics ← experience with observability"
     ],
     "missing_skills": [
@@ -594,71 +649,6 @@
     }
   },
   {
-    "score": 89,
-    "priority": "🟢 HIGH MATCH",
-    "title": "Agentic AI Software Engineer",
-    "company": "Machine Learning Reply",
-    "source": "arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/machine-learning-reply/agentic-ai-software-engineer-munich-353000",
-    "posted_at": "2026-08-17T17:30:16+00:00",
-    "remote": false,
-    "location": "Munich, Bayern, Germany",
-    "salary": null,
-    "technical_matches": [
-      "agentic ai",
-      "aws",
-      "ci/cd",
-      "docker",
-      "fastapi",
-      "langchain",
-      "langgraph",
-      "observability",
-      "openai",
-      "python",
-      "rag"
-    ],
-    "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
-      "hugging face ← experience with openai",
-      "prompt engineering ← experience with structured output"
-    ],
-    "missing_skills": [
-      "agentic rag",
-      "autonomous agents",
-      "fine-tuning",
-      "flask",
-      "java",
-      "javascript",
-      "kubernetes",
-      "pytorch",
-      "retrieval",
-      "rust",
-      "spring boot",
-      "sql",
-      "tensorflow",
-      "tool integration"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "not specified",
-    "location_eligible": true,
-    "location_confidence": "low",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at Machine Learning Reply with strong overlap in agentic ai, langgraph, langchain, hugging face, prompt engineering.",
-    "recommended_action": "APPLY_NOW",
-    "response_probability": "MEDIUM",
-    "url_status": "ok",
-    "score_breakdown": {
-      "technical": 100,
-      "role": 100,
-      "remote": 55,
-      "freshness": 100,
-      "experience": 100,
-      "response": 60,
-      "compensation": 50
-    }
-  },
-  {
     "score": 88,
     "priority": "🟢 HIGH MATCH",
     "title": "Forward Deployed Engineer - EMEA",
@@ -678,7 +668,7 @@
       "redis"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with llamaindex",
       "guidance ← experience with structured output",
       "traces ← experience with observability"
     ],
@@ -735,7 +725,7 @@
       "redis"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with llamaindex",
       "guidance ← experience with structured output",
       "traces ← experience with observability"
     ],
@@ -761,7 +751,7 @@
     "reason": "Recently posted role at gitlab with strong overlap in agent orchestration, observability, redis, agno, guidance.",
     "recommended_action": "APPLY_NOW",
     "response_probability": "HIGH",
-    "url_status": "ok",
+    "url_status": "unknown",
     "score_breakdown": {
       "technical": 100,
       "role": 100,
@@ -792,7 +782,7 @@
       "redis"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with llamaindex",
       "guidance ← experience with structured output",
       "traces ← experience with observability"
     ],
@@ -818,7 +808,7 @@
     "reason": "Recently posted role at gitlab with strong overlap in agent orchestration, observability, redis, agno, guidance.",
     "recommended_action": "APPLY_NOW",
     "response_probability": "HIGH",
-    "url_status": "ok",
+    "url_status": "unknown",
     "score_breakdown": {
       "technical": 100,
       "role": 100,
@@ -850,11 +840,11 @@
       "rag"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with llamaindex",
       "guardrails ← experience with structured output",
       "metrics ← experience with observability",
       "prompt engineering ← experience with structured output",
-      "together ai ← experience with openai",
+      "together ai ← experience with anthropic",
       "tracing ← experience with observability"
     ],
     "missing_skills": [
@@ -954,7 +944,7 @@
       "postgresql"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with llamaindex",
       "logging ← experience with observability",
       "metrics ← experience with observability",
       "tracing ← experience with observability"
@@ -1007,7 +997,7 @@
       "redis"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with llamaindex",
       "guidance ← experience with structured output",
       "traces ← experience with observability"
     ],
@@ -1066,9 +1056,9 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
+      "azure ← experience with bedrock",
       "grafana ← experience with observability",
-      "networkx ← experience with neo4j"
+      "networkx ← experience with knowledge graph"
     ],
     "missing_skills": [
       "go",
@@ -1111,12 +1101,12 @@
       "openai"
     ],
     "transferable_matches": [
-      "azure openai ← experience with amazon web services",
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "azure openai ← experience with bedrock",
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock",
       "guardrails ← experience with structured output",
-      "together ai ← experience with openai",
-      "vertex ai ← experience with amazon web services"
+      "together ai ← experience with anthropic",
+      "vertex ai ← experience with bedrock"
     ],
     "missing_skills": [
       "document ai",
@@ -1131,6 +1121,60 @@
     "location_confidence": "low",
     "freshness_confidence": "known",
     "reason": "Recently posted role at autoscout24 with strong overlap in openai, anthropic, aws, together ai, azure openai.",
+    "recommended_action": "APPLY_NOW",
+    "response_probability": "MEDIUM",
+    "url_status": "ok",
+    "score_breakdown": {
+      "technical": 100,
+      "role": 100,
+      "remote": 55,
+      "freshness": 100,
+      "experience": 95,
+      "response": 60,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 88,
+    "priority": "🟢 HIGH MATCH",
+    "title": "Staff Engineer - Heartbeat AI (m/f/d)",
+    "company": "1Komma5Grad",
+    "source": "arbeitnow",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/1komma5grad/remote-staff-engineer-heartbeat-ai-177229",
+    "posted_at": "2026-08-17T21:10:06+00:00",
+    "remote": false,
+    "location": "Remote",
+    "salary": null,
+    "technical_matches": [
+      "ai agents",
+      "ci/cd",
+      "github actions",
+      "observability",
+      "postgresql"
+    ],
+    "transferable_matches": [
+      "cloud run ← experience with bedrock",
+      "datadog ← experience with observability",
+      "gke ← experience with bedrock",
+      "google cloud ← experience with bedrock",
+      "opentelemetry ← experience with observability",
+      "otel ← experience with observability"
+    ],
+    "missing_skills": [
+      "bigquery",
+      "go",
+      "java",
+      "kubernetes",
+      "postgres",
+      "terraform",
+      "typescript"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "5+ years required",
+    "location_eligible": true,
+    "location_confidence": "low",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at 1Komma5Grad with strong overlap in ai agents, observability, postgresql, opentelemetry, otel.",
     "recommended_action": "APPLY_NOW",
     "response_probability": "MEDIUM",
     "url_status": "ok",
@@ -1164,7 +1208,7 @@
       "python"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with llamaindex",
       "otel ← experience with observability"
     ],
     "missing_skills": [
@@ -1216,7 +1260,7 @@
       "python"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with llamaindex",
       "otel ← experience with observability"
     ],
     "missing_skills": [
@@ -1251,6 +1295,71 @@
   {
     "score": 87,
     "priority": "🟢 HIGH MATCH",
+    "title": "Agentic AI Software Engineer",
+    "company": "Machine Learning Reply",
+    "source": "arbeitnow",
+    "url": "https://www.arbeitnow.com/jobs/companies/machine-learning-reply/agentic-ai-software-engineer-munich-353000",
+    "posted_at": "2026-08-17T17:30:16+00:00",
+    "remote": false,
+    "location": "Munich, Bayern, Germany",
+    "salary": null,
+    "technical_matches": [
+      "agentic ai",
+      "aws",
+      "ci/cd",
+      "docker",
+      "fastapi",
+      "langchain",
+      "langgraph",
+      "observability",
+      "openai",
+      "python",
+      "rag"
+    ],
+    "transferable_matches": [
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock",
+      "hugging face ← experience with anthropic",
+      "prompt engineering ← experience with structured output"
+    ],
+    "missing_skills": [
+      "agentic rag",
+      "autonomous agents",
+      "fine-tuning",
+      "flask",
+      "java",
+      "javascript",
+      "kubernetes",
+      "pytorch",
+      "retrieval",
+      "rust",
+      "spring boot",
+      "sql",
+      "tensorflow",
+      "tool integration"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "not specified",
+    "location_eligible": true,
+    "location_confidence": "low",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at Machine Learning Reply with strong overlap in agentic ai, langgraph, langchain, hugging face, prompt engineering.",
+    "recommended_action": "APPLY_NOW",
+    "response_probability": "MEDIUM",
+    "url_status": "ok",
+    "score_breakdown": {
+      "technical": 100,
+      "role": 100,
+      "remote": 55,
+      "freshness": 90,
+      "experience": 100,
+      "response": 60,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 87,
+    "priority": "🟢 HIGH MATCH",
     "title": "AI Solution Architect (m/w/d)",
     "company": "virtual7 GmbH",
     "source": "arbeitnow",
@@ -1271,12 +1380,12 @@
       "rag"
     ],
     "transferable_matches": [
-      "azure openai ← experience with amazon web services",
-      "azure ← experience with amazon web services",
-      "google cloud ← experience with amazon web services",
+      "azure openai ← experience with bedrock",
+      "azure ← experience with bedrock",
+      "google cloud ← experience with bedrock",
       "grafana ← experience with observability",
       "guardrails ← experience with structured output",
-      "llama ← experience with openai",
+      "llama ← experience with anthropic",
       "prometheus ← experience with observability",
       "prompt engineering ← experience with structured output"
     ],
@@ -1332,7 +1441,7 @@
       "python"
     ],
     "transferable_matches": [
-      "gcp ← experience with amazon web services",
+      "gcp ← experience with bedrock",
       "otel ← experience with observability",
       "prompt engineering ← experience with structured output"
     ],
@@ -1426,8 +1535,8 @@
       "observability"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
-      "gcp ← experience with amazon web services",
+      "agno ← experience with llamaindex",
+      "gcp ← experience with bedrock",
       "guardrails ← experience with structured output",
       "logging ← experience with observability",
       "metrics ← experience with observability"
@@ -1477,7 +1586,7 @@
       "python"
     ],
     "transferable_matches": [
-      "google cloud ← experience with amazon web services"
+      "google cloud ← experience with bedrock"
     ],
     "missing_skills": [
       "distributed systems",
@@ -1496,7 +1605,7 @@
     "reason": "Recently posted role at cloudflare with strong overlap in agentic ai, mcp, observability, google cloud.",
     "recommended_action": "APPLY_NOW",
     "response_probability": "HIGH",
-    "url_status": "unknown",
+    "url_status": "ok",
     "score_breakdown": {
       "technical": 100,
       "role": 84,
@@ -1526,7 +1635,7 @@
       "rag"
     ],
     "transferable_matches": [
-      "unstructured ← experience with langchain"
+      "unstructured ← experience with llamaindex"
     ],
     "missing_skills": [
       "databricks",
@@ -1568,7 +1677,7 @@
       "python"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with llamaindex",
       "guidance ← experience with structured output",
       "logging ← experience with observability",
       "metrics ← experience with observability",
@@ -1619,8 +1728,8 @@
     ],
     "transferable_matches": [
       "elasticsearch ← experience with qdrant",
-      "graph database ← experience with neo4j",
-      "hugging face ← experience with openai"
+      "graph database ← experience with knowledge graph",
+      "hugging face ← experience with anthropic"
     ],
     "missing_skills": [
       "api integration",
@@ -1649,56 +1758,6 @@
       "remote": 100,
       "freshness": 55,
       "experience": 95,
-      "response": 60,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 86,
-    "priority": "🟢 HIGH MATCH",
-    "title": "Senior Cloud Engineer (m/w/d)",
-    "company": "Letmeship",
-    "source": "arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/letmeship/senior-cloud-engineer-hamburg-268668",
-    "posted_at": "2026-08-17T17:29:49+00:00",
-    "remote": false,
-    "location": "Hamburg",
-    "salary": null,
-    "technical_matches": [
-      "aws",
-      "ci/cd",
-      "docker",
-      "observability",
-      "redis"
-    ],
-    "transferable_matches": [
-      "agno ← experience with langchain",
-      "azure ← experience with amazon web services",
-      "google cloud ← experience with amazon web services",
-      "grafana ← experience with observability",
-      "logging ← experience with observability",
-      "prometheus ← experience with observability"
-    ],
-    "missing_skills": [
-      "java",
-      "terraform",
-      "websocket"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "not specified",
-    "location_eligible": true,
-    "location_confidence": "low",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at Letmeship with strong overlap in observability, redis, docker, agno, grafana.",
-    "recommended_action": "APPLY_NOW",
-    "response_probability": "MEDIUM",
-    "url_status": "ok",
-    "score_breakdown": {
-      "technical": 100,
-      "role": 84,
-      "remote": 55,
-      "freshness": 100,
-      "experience": 100,
       "response": 60,
       "compensation": 50
     }
@@ -1777,7 +1836,7 @@
       "supervisor"
     ],
     "transferable_matches": [
-      "gcp ← experience with amazon web services",
+      "gcp ← experience with bedrock",
       "otel ← experience with observability"
     ],
     "missing_skills": [
@@ -1877,9 +1936,9 @@
       "github actions"
     ],
     "transferable_matches": [
-      "aks ← experience with amazon web services",
-      "azure functions ← experience with amazon web services",
-      "azure ← experience with amazon web services",
+      "aks ← experience with bedrock",
+      "azure functions ← experience with bedrock",
+      "azure ← experience with bedrock",
       "guidance ← experience with structured output",
       "logging ← experience with observability",
       "otel ← experience with observability"
@@ -2059,6 +2118,56 @@
   {
     "score": 85,
     "priority": "🟢 HIGH MATCH",
+    "title": "Senior Cloud Engineer (m/w/d)",
+    "company": "Letmeship",
+    "source": "arbeitnow",
+    "url": "https://www.arbeitnow.com/jobs/companies/letmeship/senior-cloud-engineer-hamburg-268668",
+    "posted_at": "2026-08-17T17:29:49+00:00",
+    "remote": false,
+    "location": "Hamburg",
+    "salary": null,
+    "technical_matches": [
+      "aws",
+      "ci/cd",
+      "docker",
+      "observability",
+      "redis"
+    ],
+    "transferable_matches": [
+      "agno ← experience with llamaindex",
+      "azure ← experience with bedrock",
+      "google cloud ← experience with bedrock",
+      "grafana ← experience with observability",
+      "logging ← experience with observability",
+      "prometheus ← experience with observability"
+    ],
+    "missing_skills": [
+      "java",
+      "terraform",
+      "websocket"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "not specified",
+    "location_eligible": true,
+    "location_confidence": "low",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at Letmeship with strong overlap in observability, redis, docker, agno, grafana.",
+    "recommended_action": "APPLY_NOW",
+    "response_probability": "MEDIUM",
+    "url_status": "ok",
+    "score_breakdown": {
+      "technical": 100,
+      "role": 84,
+      "remote": 55,
+      "freshness": 90,
+      "experience": 100,
+      "response": 60,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 85,
+    "priority": "🟢 HIGH MATCH",
     "title": "Senior AI Engineer",
     "company": "Quantum",
     "source": "arbeitnow",
@@ -2076,15 +2185,15 @@
       "tool calling"
     ],
     "transferable_matches": [
-      "autogen ← experience with langchain",
-      "crewai ← experience with langchain",
-      "gcp ← experience with amazon web services",
-      "gemini ← experience with openai",
-      "google cloud ← experience with amazon web services",
+      "autogen ← experience with llamaindex",
+      "crewai ← experience with llamaindex",
+      "gcp ← experience with bedrock",
+      "gemini ← experience with anthropic",
+      "google cloud ← experience with bedrock",
       "guardrails ← experience with structured output",
       "metrics ← experience with observability",
       "prompt engineering ← experience with structured output",
-      "vertex ai ← experience with amazon web services"
+      "vertex ai ← experience with bedrock"
     ],
     "missing_skills": [
       "airflow",
@@ -2140,13 +2249,13 @@
       "structured output"
     ],
     "transferable_matches": [
-      "autogen ← experience with langchain",
+      "autogen ← experience with llamaindex",
       "azure ai search ← experience with qdrant",
-      "azure ai ← experience with amazon web services",
-      "azure openai ← experience with amazon web services",
-      "azure ← experience with amazon web services",
-      "crewai ← experience with langchain",
-      "gemini ← experience with openai",
+      "azure ai ← experience with bedrock",
+      "azure openai ← experience with bedrock",
+      "azure ← experience with bedrock",
+      "crewai ← experience with llamaindex",
+      "gemini ← experience with anthropic",
       "guardrails ← experience with structured output",
       "logging ← experience with observability",
       "otel ← experience with observability",
@@ -2215,7 +2324,7 @@
     "transferable_matches": [
       "otel ← experience with observability",
       "pinecone ← experience with qdrant",
-      "vllm ← experience with openai",
+      "vllm ← experience with anthropic",
       "weaviate ← experience with qdrant"
     ],
     "missing_skills": [
@@ -2268,7 +2377,7 @@
       "structured output"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with llamaindex",
       "otel ← experience with observability"
     ],
     "missing_skills": [
@@ -2313,7 +2422,7 @@
       "structured output"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with llamaindex",
       "otel ← experience with observability"
     ],
     "missing_skills": [
@@ -2358,10 +2467,10 @@
       "rag"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "dspy ← experience with langchain",
-      "gcp ← experience with amazon web services",
-      "hugging face ← experience with openai"
+      "azure ← experience with bedrock",
+      "dspy ← experience with llamaindex",
+      "gcp ← experience with bedrock",
+      "hugging face ← experience with anthropic"
     ],
     "missing_skills": [
       "databricks",
@@ -2408,10 +2517,10 @@
       "rag"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "dspy ← experience with langchain",
-      "gcp ← experience with amazon web services",
-      "hugging face ← experience with openai"
+      "azure ← experience with bedrock",
+      "dspy ← experience with llamaindex",
+      "gcp ← experience with bedrock",
+      "hugging face ← experience with anthropic"
     ],
     "missing_skills": [
       "databricks",
@@ -2458,10 +2567,10 @@
       "rag"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "dspy ← experience with langchain",
-      "gcp ← experience with amazon web services",
-      "hugging face ← experience with openai"
+      "azure ← experience with bedrock",
+      "dspy ← experience with llamaindex",
+      "gcp ← experience with bedrock",
+      "hugging face ← experience with anthropic"
     ],
     "missing_skills": [
       "databricks",
@@ -2508,10 +2617,10 @@
       "rag"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "dspy ← experience with langchain",
-      "gcp ← experience with amazon web services",
-      "hugging face ← experience with openai"
+      "azure ← experience with bedrock",
+      "dspy ← experience with llamaindex",
+      "gcp ← experience with bedrock",
+      "hugging face ← experience with anthropic"
     ],
     "missing_skills": [
       "databricks",
@@ -2558,10 +2667,10 @@
       "rag"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "dspy ← experience with langchain",
-      "gcp ← experience with amazon web services",
-      "hugging face ← experience with openai"
+      "azure ← experience with bedrock",
+      "dspy ← experience with llamaindex",
+      "gcp ← experience with bedrock",
+      "hugging face ← experience with anthropic"
     ],
     "missing_skills": [
       "databricks",
@@ -2608,10 +2717,10 @@
       "rag"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "dspy ← experience with langchain",
-      "gcp ← experience with amazon web services",
-      "hugging face ← experience with openai"
+      "azure ← experience with bedrock",
+      "dspy ← experience with llamaindex",
+      "gcp ← experience with bedrock",
+      "hugging face ← experience with anthropic"
     ],
     "missing_skills": [
       "databricks",
@@ -2659,7 +2768,7 @@
       "python"
     ],
     "transferable_matches": [
-      "google cloud ← experience with amazon web services"
+      "google cloud ← experience with bedrock"
     ],
     "missing_skills": [
       "kubernetes",
@@ -2703,8 +2812,8 @@
       "observability"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock",
       "instructor ← experience with structured output"
     ],
     "missing_skills": [
@@ -2754,9 +2863,9 @@
       "rag"
     ],
     "transferable_matches": [
-      "llama ← experience with openai",
-      "ollama ← experience with openai",
-      "vllm ← experience with openai"
+      "llama ← experience with anthropic",
+      "ollama ← experience with anthropic",
+      "vllm ← experience with anthropic"
     ],
     "missing_skills": [
       "embedding",
@@ -2800,10 +2909,10 @@
       "python"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
-      "azure ← experience with amazon web services",
+      "agno ← experience with llamaindex",
+      "azure ← experience with bedrock",
       "datadog ← experience with observability",
-      "gcp ← experience with amazon web services",
+      "gcp ← experience with bedrock",
       "grafana ← experience with observability",
       "metrics ← experience with observability",
       "opentelemetry ← experience with observability",
@@ -2862,7 +2971,7 @@
       "python"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain"
+      "agno ← experience with llamaindex"
     ],
     "missing_skills": [
       "agent framework",
@@ -2912,8 +3021,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock"
     ],
     "missing_skills": [
       "c#",
@@ -2976,17 +3085,17 @@
       "redis"
     ],
     "transferable_matches": [
-      "aws bedrock ← experience with openai",
-      "azure ← experience with amazon web services",
-      "ec2 ← experience with amazon web services",
-      "eks ← experience with amazon web services",
+      "aws bedrock ← experience with anthropic",
+      "azure ← experience with bedrock",
+      "ec2 ← experience with bedrock",
+      "eks ← experience with bedrock",
       "elasticsearch ← experience with qdrant",
       "grafana ← experience with observability",
       "logging ← experience with observability",
       "opentelemetry ← experience with observability",
       "pgvector ← experience with qdrant",
       "prometheus ← experience with observability",
-      "s3 ← experience with amazon web services"
+      "s3 ← experience with bedrock"
     ],
     "missing_skills": [
       "embedding",
@@ -3043,7 +3152,7 @@
     ],
     "transferable_matches": [
       "otel ← experience with observability",
-      "sagemaker ← experience with amazon web services"
+      "sagemaker ← experience with bedrock"
     ],
     "missing_skills": [
       "airflow",
@@ -3090,7 +3199,7 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
+      "azure ← experience with bedrock",
       "otel ← experience with observability"
     ],
     "missing_skills": [
@@ -3134,7 +3243,7 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
+      "azure ← experience with bedrock",
       "otel ← experience with observability"
     ],
     "missing_skills": [
@@ -3182,7 +3291,7 @@
       "benchmarking ← experience with llm evaluation",
       "guidance ← experience with structured output",
       "otel ← experience with observability",
-      "together ai ← experience with openai"
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "distributed systems",
@@ -3235,7 +3344,7 @@
       "benchmarking ← experience with llm evaluation",
       "guidance ← experience with structured output",
       "otel ← experience with observability",
-      "together ai ← experience with openai"
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "distributed systems",
@@ -3340,8 +3449,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock"
     ],
     "missing_skills": [
       "c#",
@@ -3392,8 +3501,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock",
       "logging ← experience with observability",
       "prompt optimization ← experience with structured output"
     ],
@@ -3447,9 +3556,9 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
+      "azure ← experience with bedrock",
       "datadog ← experience with observability",
-      "gcp ← experience with amazon web services",
+      "gcp ← experience with bedrock",
       "guidance ← experience with structured output",
       "logging ← experience with observability",
       "metrics ← experience with observability",
@@ -3500,8 +3609,8 @@
       "observability"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock",
       "logging ← experience with observability",
       "tracing ← experience with observability"
     ],
@@ -3550,8 +3659,8 @@
       "rag"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock",
       "guardrails ← experience with structured output"
     ],
     "missing_skills": [
@@ -3630,55 +3739,6 @@
   {
     "score": 82,
     "priority": "🟢 HIGH MATCH",
-    "title": "Sr. Backend Software Engineer, Integrations Platform",
-    "company": "vanta",
-    "source": "ashby",
-    "url": "https://jobs.ashbyhq.com/vanta/e76ea2d6-a514-458c-87fd-0792e50ae6bf/application",
-    "posted_at": "2026-08-14T22:41:07.282000+00:00",
-    "remote": true,
-    "location": "Remote U.S.",
-    "salary": null,
-    "technical_matches": [
-      "ai agents",
-      "aws",
-      "ci/cd",
-      "observability"
-    ],
-    "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
-      "instructor ← experience with structured output"
-    ],
-    "missing_skills": [
-      "document ai",
-      "graphql",
-      "node.js",
-      "rust",
-      "typescript",
-      "webhooks"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "8+ years required",
-    "location_eligible": true,
-    "location_confidence": "high",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at vanta with strong overlap in ai agents, observability, ci/cd, instructor, azure.",
-    "recommended_action": "APPLY_NOW",
-    "response_probability": "HIGH",
-    "url_status": "ok",
-    "score_breakdown": {
-      "technical": 90,
-      "role": 78,
-      "remote": 100,
-      "freshness": 75,
-      "experience": 50,
-      "response": 100,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 82,
-    "priority": "🟢 HIGH MATCH",
     "title": "Senior GenAI Data Scientist (m/f/d)",
     "company": "autoscout24",
     "source": "arbeitnow",
@@ -3696,9 +3756,9 @@
       "rag"
     ],
     "transferable_matches": [
-      "atomic agents ← experience with langchain",
-      "autogen ← experience with langchain",
-      "dify ← experience with langchain",
+      "atomic agents ← experience with llamaindex",
+      "autogen ← experience with llamaindex",
+      "dify ← experience with llamaindex",
       "prompt engineering ← experience with structured output"
     ],
     "missing_skills": [
@@ -3747,9 +3807,9 @@
       "redis"
     ],
     "transferable_matches": [
-      "eks ← experience with amazon web services",
+      "eks ← experience with bedrock",
       "logging ← experience with observability",
-      "s3 ← experience with amazon web services"
+      "s3 ← experience with bedrock"
     ],
     "missing_skills": [
       "document ai",
@@ -3890,9 +3950,9 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "dify ← experience with langchain",
-      "gcp ← experience with amazon web services",
+      "azure ← experience with bedrock",
+      "dify ← experience with llamaindex",
+      "gcp ← experience with bedrock",
       "logging ← experience with observability",
       "metrics ← experience with observability",
       "otel ← experience with observability"
@@ -3917,61 +3977,6 @@
       "remote": 100,
       "freshness": 55,
       "experience": 95,
-      "response": 100,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 81,
-    "priority": "🟡 GOOD MATCH",
-    "title": "Staff Engineer, People Technology",
-    "company": "gitlab",
-    "source": "greenhouse",
-    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8638295002",
-    "posted_at": "2026-08-10T16:52:46-04:00",
-    "remote": true,
-    "location": "Remote, Canada; Remote, United States",
-    "salary": null,
-    "technical_matches": [
-      "agent orchestration",
-      "aws",
-      "ci/cd",
-      "claude",
-      "docker",
-      "mcp",
-      "model context protocol",
-      "observability",
-      "python"
-    ],
-    "transferable_matches": [
-      "agno ← experience with langchain",
-      "gcp ← experience with amazon web services",
-      "gke ← experience with amazon web services",
-      "google cloud ← experience with amazon web services",
-      "guidance ← experience with structured output"
-    ],
-    "missing_skills": [
-      "api integration",
-      "document ai",
-      "go",
-      "kubernetes",
-      "rust"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "not specified",
-    "location_eligible": true,
-    "location_confidence": "high",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at gitlab with strong overlap in agent orchestration, mcp, model context protocol, agno, guidance.",
-    "recommended_action": "REVIEW_AND_APPLY",
-    "response_probability": "HIGH",
-    "url_status": "ok",
-    "score_breakdown": {
-      "technical": 100,
-      "role": 54,
-      "remote": 100,
-      "freshness": 35,
-      "experience": 100,
       "response": 100,
       "compensation": 50
     }
@@ -4050,8 +4055,8 @@
       "rag"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock",
       "guardrails ← experience with structured output",
       "guidance ← experience with structured output",
       "logging ← experience with observability"
@@ -4103,8 +4108,8 @@
       "observability"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock",
       "logging ← experience with observability",
       "tracing ← experience with observability"
     ],
@@ -4154,11 +4159,11 @@
       "tool calling"
     ],
     "transferable_matches": [
-      "gcp ← experience with amazon web services",
+      "gcp ← experience with bedrock",
       "prompt templates ← experience with structured output",
-      "sglang ← experience with openai",
-      "tensorrt-llm ← experience with openai",
-      "vllm ← experience with openai"
+      "sglang ← experience with anthropic",
+      "tensorrt-llm ← experience with anthropic",
+      "vllm ← experience with anthropic"
     ],
     "missing_skills": [
       "go",
@@ -4191,43 +4196,71 @@
     "title": "Senior Machine Learning Engineer",
     "company": "cloudflare",
     "source": "greenhouse",
-    "url": "https://boards.greenhouse.io/cloudflare/jobs/8043974?gh_jid=8043974",
+    "url": "https://boards.greenhouse.io/cloudflare/jobs/8042034?gh_jid=8042034",
     "posted_at": "2026-08-06T15:17:31-04:00",
     "remote": false,
     "location": "Hybrid",
     "salary": null,
     "technical_matches": [
+      "agentic ai",
+      "ai agents",
+      "aws",
+      "ci/cd",
+      "docker",
+      "fastapi",
+      "langchain",
+      "langgraph",
+      "llm evaluation",
+      "mcp",
+      "model context protocol",
+      "multi-agent systems",
       "observability",
       "python",
-      "retrieval augmented generation"
+      "rag",
+      "tool calling"
     ],
     "transferable_matches": [
-      "benchmarking ← experience with llm evaluation",
-      "llama ← experience with openai",
-      "llama.cpp ← experience with openai",
-      "sglang ← experience with openai",
-      "tensorrt-llm ← experience with openai",
-      "vllm ← experience with openai"
+      "autogen ← experience with llamaindex",
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock",
+      "guardrails ← experience with structured output",
+      "ragas ← experience with llm evaluation",
+      "trulens ← experience with llm evaluation"
     ],
     "missing_skills": [
+      "agent framework",
+      "airflow",
+      "autonomous agents",
+      "bigquery",
+      "classification",
       "distributed systems",
       "document ai",
       "embedding",
       "embeddings",
-      "multimodal",
+      "fine-tuning",
+      "go",
+      "java",
+      "javascript",
+      "kubernetes",
+      "long-term memory",
+      "mcp server",
+      "postgres",
       "pytorch",
-      "retrieval",
-      "tensorflow"
+      "scikit-learn",
+      "structured tools",
+      "tensorflow",
+      "terraform",
+      "typescript"
     ],
     "hard_requirements_missing": [],
-    "experience_required": "not specified",
+    "experience_required": "3+ years required",
     "location_eligible": true,
     "location_confidence": "low",
     "freshness_confidence": "known",
-    "reason": "Recently posted role at cloudflare with strong overlap in retrieval augmented generation, observability, python, llama, vllm.",
+    "reason": "Recently posted role at cloudflare with strong overlap in agentic ai, ai agents, multi-agent systems, autogen, guardrails.",
     "recommended_action": "REVIEW_AND_APPLY",
     "response_probability": "HIGH",
-    "url_status": "unknown",
+    "url_status": "ok",
     "score_breakdown": {
       "technical": 100,
       "role": 100,
@@ -4467,100 +4500,6 @@
   {
     "score": 80,
     "priority": "🟡 GOOD MATCH",
-    "title": "Staff Software Engineer, Mobile (App Infrastructure)",
-    "company": "affirm",
-    "source": "greenhouse",
-    "url": "https://job-boards.greenhouse.io/affirm/jobs/7829427003",
-    "posted_at": "2026-08-14T19:00:47-04:00",
-    "remote": true,
-    "location": "Remote US",
-    "salary": null,
-    "technical_matches": [
-      "ci/cd",
-      "claude",
-      "observability"
-    ],
-    "transferable_matches": [
-      "guardrails ← experience with structured output",
-      "guidance ← experience with structured output",
-      "otel ← experience with observability",
-      "together ai ← experience with openai"
-    ],
-    "missing_skills": [
-      "go",
-      "java",
-      "javascript",
-      "typescript"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "7+ years required",
-    "location_eligible": true,
-    "location_confidence": "high",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at affirm with strong overlap in claude, observability, ci/cd, together ai, guardrails.",
-    "recommended_action": "REVIEW_AND_APPLY",
-    "response_probability": "HIGH",
-    "url_status": "ok",
-    "score_breakdown": {
-      "technical": 85,
-      "role": 64,
-      "remote": 100,
-      "freshness": 75,
-      "experience": 70,
-      "response": 100,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 80,
-    "priority": "🟡 GOOD MATCH",
-    "title": "Staff Software Engineer, Mobile (App Infrastructure)",
-    "company": "affirm",
-    "source": "greenhouse",
-    "url": "https://job-boards.greenhouse.io/affirm/jobs/7829429003",
-    "posted_at": "2026-08-14T19:00:49-04:00",
-    "remote": true,
-    "location": "Remote Canada",
-    "salary": null,
-    "technical_matches": [
-      "ci/cd",
-      "claude",
-      "observability"
-    ],
-    "transferable_matches": [
-      "guardrails ← experience with structured output",
-      "guidance ← experience with structured output",
-      "otel ← experience with observability",
-      "together ai ← experience with openai"
-    ],
-    "missing_skills": [
-      "go",
-      "java",
-      "javascript",
-      "typescript"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "7+ years required",
-    "location_eligible": true,
-    "location_confidence": "high",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at affirm with strong overlap in claude, observability, ci/cd, together ai, guardrails.",
-    "recommended_action": "REVIEW_AND_APPLY",
-    "response_probability": "HIGH",
-    "url_status": "ok",
-    "score_breakdown": {
-      "technical": 85,
-      "role": 64,
-      "remote": 100,
-      "freshness": 75,
-      "experience": 70,
-      "response": 100,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 80,
-    "priority": "🟡 GOOD MATCH",
     "title": "Senior Professional Services Engineer - Japan",
     "company": "gitlab",
     "source": "greenhouse",
@@ -4575,9 +4514,9 @@
       "aws"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
-      "google cloud ← experience with amazon web services",
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock",
+      "google cloud ← experience with bedrock",
       "guidance ← experience with structured output"
     ],
     "missing_skills": [
@@ -4606,59 +4545,6 @@
   {
     "score": 80,
     "priority": "🟡 GOOD MATCH",
-    "title": "Specialist Solutions Architect - AI/ML",
-    "company": "databricks",
-    "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8697991002",
-    "posted_at": "2026-08-14T18:46:22-04:00",
-    "remote": false,
-    "location": "United States",
-    "salary": null,
-    "technical_matches": [
-      "agent orchestration",
-      "ai agents",
-      "aws",
-      "langchain",
-      "observability",
-      "openai",
-      "rag",
-      "retrieval augmented generation",
-      "tool calling"
-    ],
-    "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
-      "guardrails ← experience with structured output",
-      "hugging face ← experience with openai"
-    ],
-    "missing_skills": [
-      "databricks",
-      "fine-tuning",
-      "retrieval",
-      "rust"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "5+ years required",
-    "location_eligible": true,
-    "location_confidence": "low",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at databricks with strong overlap in ai agents, agent orchestration, tool calling, hugging face, guardrails.",
-    "recommended_action": "REVIEW_AND_APPLY",
-    "response_probability": "HIGH",
-    "url_status": "ok",
-    "score_breakdown": {
-      "technical": 100,
-      "role": 60,
-      "remote": 55,
-      "freshness": 75,
-      "experience": 95,
-      "response": 100,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 80,
-    "priority": "🟡 GOOD MATCH",
     "title": "Sr Software Engineer, Infrastructure",
     "company": "databricks",
     "source": "greenhouse",
@@ -4676,11 +4562,11 @@
       "python"
     ],
     "transferable_matches": [
-      "aks ← experience with amazon web services",
-      "azure ← experience with amazon web services",
+      "aks ← experience with bedrock",
+      "azure ← experience with bedrock",
       "datadog ← experience with observability",
-      "eks ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "eks ← experience with bedrock",
+      "gcp ← experience with bedrock",
       "guidance ← experience with structured output",
       "logging ← experience with observability",
       "metrics ← experience with observability",
@@ -4781,9 +4667,9 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
+      "azure ← experience with bedrock",
       "datadog ← experience with observability",
-      "gcp ← experience with amazon web services",
+      "gcp ← experience with bedrock",
       "grafana ← experience with observability",
       "logging ← experience with observability",
       "metrics ← experience with observability",
@@ -4836,7 +4722,7 @@
       "rag"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services"
+      "azure ← experience with bedrock"
     ],
     "missing_skills": [],
     "hard_requirements_missing": [],
@@ -4855,6 +4741,55 @@
       "freshness": 55,
       "experience": 100,
       "response": 100,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 80,
+    "priority": "🟡 GOOD MATCH",
+    "title": "Staff Engineer - Virtual Assembly Line (m/f/d)",
+    "company": "1Komma5Grad",
+    "source": "arbeitnow",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/1komma5grad/remote-staff-engineer-virtual-assembly-line-260630",
+    "posted_at": "2026-08-17T21:10:06+00:00",
+    "remote": false,
+    "location": "Remote",
+    "salary": null,
+    "technical_matches": [
+      "ai agents",
+      "claude",
+      "postgresql"
+    ],
+    "transferable_matches": [
+      "cloud run ← experience with bedrock",
+      "datadog ← experience with observability",
+      "gke ← experience with bedrock",
+      "google cloud ← experience with bedrock",
+      "otel ← experience with observability"
+    ],
+    "missing_skills": [
+      "bigquery",
+      "kubernetes",
+      "postgres",
+      "terraform",
+      "typescript"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "10+ years required",
+    "location_eligible": true,
+    "location_confidence": "low",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at 1Komma5Grad with strong overlap in ai agents, claude, postgresql, otel, datadog.",
+    "recommended_action": "REVIEW_AND_APPLY",
+    "response_probability": "MEDIUM",
+    "url_status": "ok",
+    "score_breakdown": {
+      "technical": 95,
+      "role": 84,
+      "remote": 55,
+      "freshness": 100,
+      "experience": 50,
+      "response": 60,
       "compensation": 50
     }
   },
@@ -4887,20 +4822,20 @@
       "retrieval augmented generation"
     ],
     "transferable_matches": [
-      "aws bedrock ← experience with openai",
-      "azure openai ← experience with amazon web services",
-      "azure ← experience with amazon web services",
+      "aws bedrock ← experience with anthropic",
+      "azure openai ← experience with bedrock",
+      "azure ← experience with bedrock",
       "chroma ← experience with qdrant",
-      "crewai ← experience with langchain",
-      "gcp ← experience with amazon web services",
-      "gpt ← experience with openai",
-      "hugging face ← experience with openai",
+      "crewai ← experience with llamaindex",
+      "gcp ← experience with bedrock",
+      "gpt ← experience with anthropic",
+      "hugging face ← experience with anthropic",
       "logging ← experience with observability",
       "pgvector ← experience with qdrant",
       "pinecone ← experience with qdrant",
       "prompt engineering ← experience with structured output",
-      "vertex ai ← experience with amazon web services",
-      "vllm ← experience with openai",
+      "vertex ai ← experience with bedrock",
+      "vllm ← experience with anthropic",
       "weaviate ← experience with qdrant",
       "weights & biases ← experience with llm evaluation"
     ],
@@ -5046,7 +4981,7 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
+      "azure ← experience with bedrock",
       "otel ← experience with observability"
     ],
     "missing_skills": [
@@ -5093,7 +5028,7 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
+      "azure ← experience with bedrock",
       "otel ← experience with observability"
     ],
     "missing_skills": [
@@ -5192,7 +5127,7 @@
       "observability"
     ],
     "transferable_matches": [
-      "ec2 ← experience with amazon web services",
+      "ec2 ← experience with bedrock",
       "grafana ← experience with observability",
       "logging ← experience with observability",
       "metrics ← experience with observability",
@@ -5248,9 +5183,9 @@
       "rag"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "agno ← experience with llamaindex",
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock",
       "logging ← experience with observability",
       "prompt engineering ← experience with structured output",
       "tracing ← experience with observability"
@@ -5307,8 +5242,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock"
     ],
     "missing_skills": [
       "databricks",
@@ -5353,8 +5288,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock",
       "metrics ← experience with observability"
     ],
     "missing_skills": [
@@ -5406,8 +5341,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock",
       "metrics ← experience with observability"
     ],
     "missing_skills": [
@@ -5455,9 +5390,9 @@
       "rag"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
-      "hugging face ← experience with openai"
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock",
+      "hugging face ← experience with anthropic"
     ],
     "missing_skills": [
       "databricks",
@@ -5504,15 +5439,15 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gemini ← experience with openai",
-      "gpt ← experience with openai",
-      "llama ← experience with openai",
-      "qwen ← experience with openai",
-      "sagemaker ← experience with amazon web services",
-      "sglang ← experience with openai",
-      "vertex ai ← experience with amazon web services",
-      "vllm ← experience with openai"
+      "azure ← experience with bedrock",
+      "gemini ← experience with anthropic",
+      "gpt ← experience with anthropic",
+      "llama ← experience with anthropic",
+      "qwen ← experience with anthropic",
+      "sagemaker ← experience with bedrock",
+      "sglang ← experience with anthropic",
+      "vertex ai ← experience with bedrock",
+      "vllm ← experience with anthropic"
     ],
     "missing_skills": [
       "databricks",
@@ -5608,12 +5543,12 @@
       "rag"
     ],
     "transferable_matches": [
-      "autogen ← experience with langchain",
-      "crewai ← experience with langchain",
+      "autogen ← experience with llamaindex",
+      "crewai ← experience with llamaindex",
       "evals ← experience with llm evaluation",
       "metrics ← experience with observability",
       "prompt engineering ← experience with structured output",
-      "together ai ← experience with openai"
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "java",
@@ -5659,8 +5594,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock"
     ],
     "missing_skills": [
       "distributed systems",
@@ -5738,13 +5673,62 @@
     "reason": "Recently posted role at cloudflare with strong overlap in ai agents, tool calling, function calling, guardrails, evals.",
     "recommended_action": "REVIEW_AND_APPLY",
     "response_probability": "HIGH",
-    "url_status": "unknown",
+    "url_status": "ok",
     "score_breakdown": {
       "technical": 100,
       "role": 84,
       "remote": 55,
       "freshness": 35,
       "experience": 100,
+      "response": 100,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 79,
+    "priority": "🟡 GOOD MATCH",
+    "title": "Sr. Backend Software Engineer, Integrations Platform",
+    "company": "vanta",
+    "source": "ashby",
+    "url": "https://jobs.ashbyhq.com/vanta/e76ea2d6-a514-458c-87fd-0792e50ae6bf/application",
+    "posted_at": "2026-08-14T22:41:07.282000+00:00",
+    "remote": true,
+    "location": "Remote U.S.",
+    "salary": null,
+    "technical_matches": [
+      "ai agents",
+      "aws",
+      "ci/cd",
+      "observability"
+    ],
+    "transferable_matches": [
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock",
+      "instructor ← experience with structured output"
+    ],
+    "missing_skills": [
+      "document ai",
+      "graphql",
+      "node.js",
+      "rust",
+      "typescript",
+      "webhooks"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "8+ years required",
+    "location_eligible": true,
+    "location_confidence": "high",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at vanta with strong overlap in ai agents, observability, ci/cd, instructor, azure.",
+    "recommended_action": "REVIEW_AND_APPLY",
+    "response_probability": "HIGH",
+    "url_status": "ok",
+    "score_breakdown": {
+      "technical": 90,
+      "role": 78,
+      "remote": 100,
+      "freshness": 55,
+      "experience": 50,
       "response": 100,
       "compensation": 50
     }
@@ -5833,7 +5817,7 @@
     "reason": "Recently posted role at reddit with strong overlap in observability, arize, tracing.",
     "recommended_action": "REVIEW_AND_APPLY",
     "response_probability": "HIGH",
-    "url_status": "ok",
+    "url_status": "unknown",
     "score_breakdown": {
       "technical": 75,
       "role": 91,
@@ -5863,7 +5847,7 @@
       "python"
     ],
     "transferable_matches": [
-      "gpt ← experience with openai",
+      "gpt ← experience with anthropic",
       "tracing ← experience with observability"
     ],
     "missing_skills": [
@@ -5917,9 +5901,9 @@
       "docker"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
-      "google cloud ← experience with amazon web services"
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock",
+      "google cloud ← experience with bedrock"
     ],
     "missing_skills": [
       "kubernetes",
@@ -6007,7 +5991,7 @@
       "observability"
     ],
     "transferable_matches": [
-      "cohere ← experience with openai",
+      "cohere ← experience with anthropic",
       "metrics ← experience with observability",
       "traces ← experience with observability"
     ],
@@ -6053,8 +6037,8 @@
       "rag"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock"
     ],
     "missing_skills": [
       "databricks",
@@ -6103,10 +6087,10 @@
       "tool calling"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock",
       "guardrails ← experience with structured output",
-      "hugging face ← experience with openai"
+      "hugging face ← experience with anthropic"
     ],
     "missing_skills": [
       "databricks",
@@ -6119,6 +6103,59 @@
     "location_confidence": "low",
     "freshness_confidence": "known",
     "reason": "Recently posted role at databricks with strong overlap in agent orchestration, tool calling, langchain, hugging face, guardrails.",
+    "recommended_action": "REVIEW_AND_APPLY",
+    "response_probability": "HIGH",
+    "url_status": "ok",
+    "score_breakdown": {
+      "technical": 100,
+      "role": 60,
+      "remote": 55,
+      "freshness": 55,
+      "experience": 95,
+      "response": 100,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 78,
+    "priority": "🟡 GOOD MATCH",
+    "title": "Specialist Solutions Architect - AI/ML",
+    "company": "databricks",
+    "source": "greenhouse",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8697991002",
+    "posted_at": "2026-08-14T18:46:22-04:00",
+    "remote": false,
+    "location": "United States",
+    "salary": null,
+    "technical_matches": [
+      "agent orchestration",
+      "ai agents",
+      "aws",
+      "langchain",
+      "observability",
+      "openai",
+      "rag",
+      "retrieval augmented generation",
+      "tool calling"
+    ],
+    "transferable_matches": [
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock",
+      "guardrails ← experience with structured output",
+      "hugging face ← experience with anthropic"
+    ],
+    "missing_skills": [
+      "databricks",
+      "fine-tuning",
+      "retrieval",
+      "rust"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "5+ years required",
+    "location_eligible": true,
+    "location_confidence": "low",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at databricks with strong overlap in ai agents, agent orchestration, tool calling, hugging face, guardrails.",
     "recommended_action": "REVIEW_AND_APPLY",
     "response_probability": "HIGH",
     "url_status": "ok",
@@ -6150,8 +6187,8 @@
       "observability"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock",
       "logging ← experience with observability",
       "tracing ← experience with observability"
     ],
@@ -6202,10 +6239,10 @@
       "tool calling"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock",
       "guardrails ← experience with structured output",
-      "hugging face ← experience with openai"
+      "hugging face ← experience with anthropic"
     ],
     "missing_skills": [
       "databricks",
@@ -6220,7 +6257,7 @@
     "reason": "Recently posted role at databricks with strong overlap in agent orchestration, tool calling, langchain, hugging face, guardrails.",
     "recommended_action": "REVIEW_AND_APPLY",
     "response_probability": "HIGH",
-    "url_status": "ok",
+    "url_status": "unknown",
     "score_breakdown": {
       "technical": 100,
       "role": 60,
@@ -6250,9 +6287,9 @@
       "python"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "agno ← experience with llamaindex",
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock",
       "guardrails ← experience with structured output"
     ],
     "missing_skills": [
@@ -6300,11 +6337,11 @@
       "tool calling"
     ],
     "transferable_matches": [
-      "gcp ← experience with amazon web services",
+      "gcp ← experience with bedrock",
       "prompt templates ← experience with structured output",
-      "sglang ← experience with openai",
-      "tensorrt-llm ← experience with openai",
-      "vllm ← experience with openai"
+      "sglang ← experience with anthropic",
+      "tensorrt-llm ← experience with anthropic",
+      "vllm ← experience with anthropic"
     ],
     "missing_skills": [
       "go",
@@ -6357,8 +6394,8 @@
       "rag"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock",
       "golden dataset ← experience with llm evaluation",
       "guardrails ← experience with structured output",
       "llm-as-a-judge ← experience with llm evaluation",
@@ -6416,8 +6453,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock",
       "golden dataset ← experience with llm evaluation",
       "guardrails ← experience with structured output",
       "llm-as-a-judge ← experience with llm evaluation",
@@ -6479,8 +6516,8 @@
       "rag"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock",
       "golden dataset ← experience with llm evaluation",
       "guardrails ← experience with structured output",
       "llm-as-a-judge ← experience with llm evaluation",
@@ -6534,8 +6571,8 @@
       "observability"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock",
       "instructor ← experience with structured output"
     ],
     "missing_skills": [
@@ -6566,6 +6603,55 @@
   {
     "score": 78,
     "priority": "🟡 GOOD MATCH",
+    "title": "Senior Data Engineer - Real time analytics",
+    "company": "Aircall",
+    "source": "arbeitnow",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/aircall/senior-data-engineer-real-time-analytics-london-office-368823",
+    "posted_at": "2026-08-17T21:05:03+00:00",
+    "remote": false,
+    "location": "London Office",
+    "salary": null,
+    "technical_matches": [
+      "aws",
+      "python"
+    ],
+    "transferable_matches": [
+      "eks ← experience with bedrock",
+      "guidance ← experience with structured output",
+      "s3 ← experience with bedrock",
+      "together ai ← experience with anthropic",
+      "unstructured ← experience with llamaindex"
+    ],
+    "missing_skills": [
+      "airflow",
+      "go",
+      "kafka",
+      "rust",
+      "sql",
+      "typescript"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "5+ years required",
+    "location_eligible": true,
+    "location_confidence": "low",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at Aircall with strong overlap in python, aws, unstructured, together ai.",
+    "recommended_action": "REVIEW_AND_APPLY",
+    "response_probability": "UNKNOWN",
+    "url_status": "ok",
+    "score_breakdown": {
+      "technical": 80,
+      "role": 84,
+      "remote": 55,
+      "freshness": 100,
+      "experience": 95,
+      "response": 50,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 78,
+    "priority": "🟡 GOOD MATCH",
     "title": "DevOps Software Engineer Intern (Enrolled Students Only) (m/f/d)",
     "company": "Crewmeister",
     "source": "arbeitnow",
@@ -6581,8 +6667,8 @@
       "supervisor"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock"
     ],
     "missing_skills": [
       "jenkins"
@@ -6622,8 +6708,8 @@
       "openai"
     ],
     "transferable_matches": [
-      "llama ← experience with openai",
-      "mistral ← experience with openai",
+      "llama ← experience with anthropic",
+      "mistral ← experience with anthropic",
       "otel ← experience with observability"
     ],
     "missing_skills": [
@@ -6674,8 +6760,8 @@
     ],
     "transferable_matches": [
       "datadog ← experience with observability",
-      "ecs ← experience with amazon web services",
-      "eks ← experience with amazon web services",
+      "ecs ← experience with bedrock",
+      "eks ← experience with bedrock",
       "grafana ← experience with observability",
       "metrics ← experience with observability",
       "otel ← experience with observability",
@@ -6710,6 +6796,147 @@
   {
     "score": 77,
     "priority": "🟡 GOOD MATCH",
+    "title": "Program Manager, Intake & Portfolio Management",
+    "company": "stripe",
+    "source": "greenhouse",
+    "url": "https://stripe.com/jobs/search?gh_jid=7569678",
+    "posted_at": "2026-08-17T18:53:03-04:00",
+    "remote": true,
+    "location": "Remote",
+    "salary": null,
+    "technical_matches": [
+      "ai agents",
+      "rag",
+      "retrieval augmented generation"
+    ],
+    "transferable_matches": [
+      "guidance ← experience with structured output",
+      "metrics ← experience with observability",
+      "prompt engineering ← experience with structured output"
+    ],
+    "missing_skills": [
+      "document ai",
+      "human-in-the-loop",
+      "recommendation",
+      "retrieval",
+      "rust"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "7+ years required",
+    "location_eligible": true,
+    "location_confidence": "high",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at stripe with strong overlap in ai agents, rag, retrieval augmented generation, prompt engineering, guidance.",
+    "recommended_action": "REVIEW_AND_APPLY",
+    "response_probability": "HIGH",
+    "url_status": "ok",
+    "score_breakdown": {
+      "technical": 75,
+      "role": 42,
+      "remote": 100,
+      "freshness": 100,
+      "experience": 70,
+      "response": 100,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 77,
+    "priority": "🟡 GOOD MATCH",
+    "title": "Staff Software Engineer, Mobile (App Infrastructure)",
+    "company": "affirm",
+    "source": "greenhouse",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7829427003",
+    "posted_at": "2026-08-14T19:00:47-04:00",
+    "remote": true,
+    "location": "Remote US",
+    "salary": null,
+    "technical_matches": [
+      "ci/cd",
+      "claude",
+      "observability"
+    ],
+    "transferable_matches": [
+      "guardrails ← experience with structured output",
+      "guidance ← experience with structured output",
+      "otel ← experience with observability",
+      "together ai ← experience with anthropic"
+    ],
+    "missing_skills": [
+      "go",
+      "java",
+      "javascript",
+      "typescript"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "7+ years required",
+    "location_eligible": true,
+    "location_confidence": "high",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at affirm with strong overlap in claude, observability, ci/cd, together ai, guardrails.",
+    "recommended_action": "REVIEW_AND_APPLY",
+    "response_probability": "HIGH",
+    "url_status": "ok",
+    "score_breakdown": {
+      "technical": 85,
+      "role": 64,
+      "remote": 100,
+      "freshness": 55,
+      "experience": 70,
+      "response": 100,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 77,
+    "priority": "🟡 GOOD MATCH",
+    "title": "Staff Software Engineer, Mobile (App Infrastructure)",
+    "company": "affirm",
+    "source": "greenhouse",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7829429003",
+    "posted_at": "2026-08-14T19:00:49-04:00",
+    "remote": true,
+    "location": "Remote Canada",
+    "salary": null,
+    "technical_matches": [
+      "ci/cd",
+      "claude",
+      "observability"
+    ],
+    "transferable_matches": [
+      "guardrails ← experience with structured output",
+      "guidance ← experience with structured output",
+      "otel ← experience with observability",
+      "together ai ← experience with anthropic"
+    ],
+    "missing_skills": [
+      "go",
+      "java",
+      "javascript",
+      "typescript"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "7+ years required",
+    "location_eligible": true,
+    "location_confidence": "high",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at affirm with strong overlap in claude, observability, ci/cd, together ai, guardrails.",
+    "recommended_action": "REVIEW_AND_APPLY",
+    "response_probability": "HIGH",
+    "url_status": "ok",
+    "score_breakdown": {
+      "technical": 85,
+      "role": 64,
+      "remote": 100,
+      "freshness": 55,
+      "experience": 70,
+      "response": 100,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 77,
+    "priority": "🟡 GOOD MATCH",
     "title": "Incident Manager",
     "company": "databricks",
     "source": "greenhouse",
@@ -6724,12 +6951,12 @@
       "python"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with llamaindex",
       "arize ← experience with llm evaluation",
-      "azure ← experience with amazon web services",
+      "azure ← experience with bedrock",
       "datadog ← experience with observability",
       "elasticsearch ← experience with qdrant",
-      "gcp ← experience with amazon web services",
+      "gcp ← experience with bedrock",
       "grafana ← experience with observability",
       "logging ← experience with observability",
       "metrics ← experience with observability",
@@ -6778,11 +7005,11 @@
       "observability"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "agno ← experience with llamaindex",
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock",
       "guidance ← experience with structured output",
-      "s3 ← experience with amazon web services"
+      "s3 ← experience with bedrock"
     ],
     "missing_skills": [
       "databricks",
@@ -6833,11 +7060,11 @@
       "observability"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "agno ← experience with llamaindex",
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock",
       "guidance ← experience with structured output",
-      "s3 ← experience with amazon web services"
+      "s3 ← experience with bedrock"
     ],
     "missing_skills": [
       "databricks",
@@ -6888,11 +7115,11 @@
       "observability"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "agno ← experience with llamaindex",
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock",
       "guidance ← experience with structured output",
-      "s3 ← experience with amazon web services"
+      "s3 ← experience with bedrock"
     ],
     "missing_skills": [
       "databricks",
@@ -6943,11 +7170,11 @@
       "observability"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "agno ← experience with llamaindex",
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock",
       "guidance ← experience with structured output",
-      "s3 ← experience with amazon web services"
+      "s3 ← experience with bedrock"
     ],
     "missing_skills": [
       "databricks",
@@ -7018,7 +7245,7 @@
     "reason": "Recently posted role at cloudflare with strong overlap in ai agents, rag, retrieval augmented generation, prompt engineering, metrics.",
     "recommended_action": "REVIEW_AND_APPLY",
     "response_probability": "HIGH",
-    "url_status": "unknown",
+    "url_status": "ok",
     "score_breakdown": {
       "technical": 80,
       "role": 52,
@@ -7048,7 +7275,7 @@
       "tool calling"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with llamaindex",
       "evals ← experience with llm evaluation"
     ],
     "missing_skills": [
@@ -7067,7 +7294,7 @@
     "reason": "Recently posted role at cloudflare with strong overlap in ai agents, tool calling, mcp, agno, evals.",
     "recommended_action": "REVIEW_AND_APPLY",
     "response_probability": "HIGH",
-    "url_status": "unknown",
+    "url_status": "ok",
     "score_breakdown": {
       "technical": 95,
       "role": 84,
@@ -7410,7 +7637,7 @@
       "faiss ← experience with qdrant",
       "metrics ← experience with observability",
       "opensearch ← experience with qdrant",
-      "unstructured ← experience with langchain"
+      "unstructured ← experience with llamaindex"
     ],
     "missing_skills": [
       "agentic rag",
@@ -7475,9 +7702,9 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "dify ← experience with langchain",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with bedrock",
+      "dify ← experience with llamaindex",
+      "gcp ← experience with bedrock"
     ],
     "missing_skills": [
       "dynamodb",
@@ -7529,8 +7756,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock"
     ],
     "missing_skills": [
       "distributed systems",
@@ -7581,8 +7808,8 @@
       "retrieval augmented generation"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock",
       "guardrails ← experience with structured output",
       "prompt engineering ← experience with structured output"
     ],
@@ -7631,7 +7858,7 @@
       "logging ← experience with observability",
       "metrics ← experience with observability",
       "prometheus ← experience with observability",
-      "s3 ← experience with amazon web services"
+      "s3 ← experience with bedrock"
     ],
     "missing_skills": [
       "distributed systems",
@@ -7682,8 +7909,8 @@
       "retrieval augmented generation"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock",
       "metrics ← experience with observability",
       "prompt engineering ← experience with structured output"
     ],
@@ -7718,104 +7945,45 @@
   {
     "score": 76,
     "priority": "🟡 GOOD MATCH",
-    "title": "Senior Applied AI Engineer",
-    "company": "Pleo",
+    "title": "(Junior) Data Engineer - Data Platform (m/f/d)",
+    "company": "1Komma5Grad",
     "source": "arbeitnow",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/pleo/senior-applied-ai-engineer-london-218725",
-    "posted_at": "2026-08-16T06:40:06+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/1komma5grad/remote-junior-data-engineer-data-platform-159693",
+    "posted_at": "2026-08-17T21:10:04+00:00",
     "remote": false,
-    "location": "London",
+    "location": "Remote",
     "salary": null,
     "technical_matches": [
-      "aws",
-      "observability",
-      "python",
-      "rag"
+      "github actions",
+      "python"
     ],
     "transferable_matches": [
-      "gcp ← experience with amazon web services",
-      "logging ← experience with observability",
-      "together ai ← experience with openai"
+      "gcp ← experience with bedrock",
+      "google cloud ← experience with bedrock",
+      "otel ← experience with observability",
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
-      "chunking",
-      "embedding",
-      "embedding models",
-      "embeddings",
-      "go",
-      "hybrid search",
-      "ranking",
-      "retrieval",
-      "tool use"
+      "bigquery",
+      "sql",
+      "terraform"
     ],
     "hard_requirements_missing": [],
-    "experience_required": "10+ years required",
+    "experience_required": "2+ years required (meets bar)",
     "location_eligible": true,
     "location_confidence": "low",
     "freshness_confidence": "known",
-    "reason": "Recently posted role at Pleo with strong overlap in rag, observability, python, together ai, logging.",
+    "reason": "Recently posted role at 1Komma5Grad with strong overlap in python, github actions, together ai, otel.",
     "recommended_action": "REVIEW_AND_APPLY",
-    "response_probability": "MEDIUM",
+    "response_probability": "UNKNOWN",
     "url_status": "ok",
     "score_breakdown": {
-      "technical": 90,
-      "role": 100,
+      "technical": 70,
+      "role": 91,
       "remote": 55,
-      "freshness": 75,
-      "experience": 50,
-      "response": 60,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 76,
-    "priority": "🟡 GOOD MATCH",
-    "title": "Senior Applied AI Engineer",
-    "company": "Pleo",
-    "source": "arbeitnow",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/pleo/senior-applied-ai-engineer-united-kingdom-144957",
-    "posted_at": "2026-08-16T06:40:06+00:00",
-    "remote": false,
-    "location": "United Kingdom",
-    "salary": null,
-    "technical_matches": [
-      "aws",
-      "observability",
-      "python",
-      "rag"
-    ],
-    "transferable_matches": [
-      "gcp ← experience with amazon web services",
-      "logging ← experience with observability",
-      "together ai ← experience with openai"
-    ],
-    "missing_skills": [
-      "chunking",
-      "embedding",
-      "embedding models",
-      "embeddings",
-      "go",
-      "hybrid search",
-      "ranking",
-      "retrieval",
-      "tool use"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "10+ years required",
-    "location_eligible": true,
-    "location_confidence": "low",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at Pleo with strong overlap in rag, observability, python, together ai, logging.",
-    "recommended_action": "REVIEW_AND_APPLY",
-    "response_probability": "MEDIUM",
-    "url_status": "ok",
-    "score_breakdown": {
-      "technical": 90,
-      "role": 100,
-      "remote": 55,
-      "freshness": 75,
-      "experience": 50,
-      "response": 60,
+      "freshness": 100,
+      "experience": 100,
+      "response": 50,
       "compensation": 50
     }
   },
@@ -8077,8 +8245,8 @@
       "postgresql"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "google cloud ← experience with amazon web services",
+      "azure ← experience with bedrock",
+      "google cloud ← experience with bedrock",
       "grafana ← experience with observability",
       "prometheus ← experience with observability"
     ],
@@ -8126,8 +8294,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock"
     ],
     "missing_skills": [
       "databricks",
@@ -8173,8 +8341,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock"
     ],
     "missing_skills": [
       "databricks",
@@ -8220,8 +8388,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock"
     ],
     "missing_skills": [
       "databricks",
@@ -8267,8 +8435,8 @@
       "docker"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock",
       "metrics ← experience with observability"
     ],
     "missing_skills": [
@@ -8317,8 +8485,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock"
     ],
     "missing_skills": [
       "document ai",
@@ -8367,8 +8535,8 @@
       "retrieval augmented generation"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock",
       "guardrails ← experience with structured output",
       "prompt engineering ← experience with structured output"
     ],
@@ -8416,8 +8584,8 @@
       "retrieval augmented generation"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock",
       "guardrails ← experience with structured output",
       "prompt engineering ← experience with structured output"
     ],
@@ -8533,7 +8701,7 @@
     "reason": "Recently posted role at cloudflare with strong overlap in ai agents, rag, retrieval augmented generation, prompt engineering, metrics.",
     "recommended_action": "REVIEW_AND_APPLY",
     "response_probability": "HIGH",
-    "url_status": "unknown",
+    "url_status": "ok",
     "score_breakdown": {
       "technical": 80,
       "role": 84,
@@ -8562,9 +8730,9 @@
       "postgresql"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
+      "azure ← experience with bedrock",
       "elasticsearch ← experience with qdrant",
-      "gcp ← experience with amazon web services",
+      "gcp ← experience with bedrock",
       "grafana ← experience with observability",
       "prometheus ← experience with observability"
     ],
@@ -8585,7 +8753,7 @@
     "reason": "Recently posted role at cloudflare with strong overlap in observability, postgresql, ci/cd, elasticsearch, grafana.",
     "recommended_action": "REVIEW_AND_APPLY",
     "response_probability": "HIGH",
-    "url_status": "unknown",
+    "url_status": "ok",
     "score_breakdown": {
       "technical": 100,
       "role": 58,
@@ -8707,7 +8875,7 @@
       "redis"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services"
+      "azure ← experience with bedrock"
     ],
     "missing_skills": [
       "django",
@@ -8727,57 +8895,6 @@
       "role": 91,
       "remote": 55,
       "freshness": 90,
-      "experience": 100,
-      "response": 50,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 75,
-    "priority": "🟡 GOOD MATCH",
-    "title": "Back-End Engineer - Repeats",
-    "company": "iwoca",
-    "source": "arbeitnow",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/iwoca/back-end-engineer-repeats-london-58882",
-    "posted_at": "2026-08-16T06:40:11+00:00",
-    "remote": false,
-    "location": "London",
-    "salary": null,
-    "technical_matches": [
-      "aws",
-      "claude",
-      "docker",
-      "fastapi",
-      "postgresql",
-      "python"
-    ],
-    "transferable_matches": [
-      "metrics ← experience with observability"
-    ],
-    "missing_skills": [
-      "django",
-      "kubernetes",
-      "postgres",
-      "rust",
-      "snowflake",
-      "typescript"
-    ],
-    "hard_requirements_missing": [
-      "typescript"
-    ],
-    "experience_required": "1+ years required (meets bar)",
-    "location_eligible": true,
-    "location_confidence": "low",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at iwoca with strong overlap in claude, python, fastapi, metrics.",
-    "recommended_action": "REVIEW_AND_APPLY",
-    "response_probability": "UNKNOWN",
-    "url_status": "ok",
-    "score_breakdown": {
-      "technical": 80,
-      "role": 84,
-      "remote": 55,
-      "freshness": 75,
       "experience": 100,
       "response": 50,
       "compensation": 50
@@ -8895,7 +9012,7 @@
       "arize ← experience with llm evaluation",
       "guidance ← experience with structured output",
       "metrics ← experience with observability",
-      "together ai ← experience with openai"
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "api integration",
@@ -8941,7 +9058,7 @@
     ],
     "transferable_matches": [
       "arize ← experience with llm evaluation",
-      "gcp ← experience with amazon web services",
+      "gcp ← experience with bedrock",
       "metrics ← experience with observability",
       "otel ← experience with observability"
     ],
@@ -8998,7 +9115,7 @@
     ],
     "transferable_matches": [
       "arize ← experience with llm evaluation",
-      "gcp ← experience with amazon web services",
+      "gcp ← experience with bedrock",
       "metrics ← experience with observability",
       "otel ← experience with observability"
     ],
@@ -9099,10 +9216,10 @@
       "docker"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock",
       "guidance ← experience with structured output",
-      "together ai ← experience with openai"
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "kubernetes",
@@ -9144,8 +9261,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock"
     ],
     "missing_skills": [
       "databricks",
@@ -9188,8 +9305,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock"
     ],
     "missing_skills": [
       "databricks",
@@ -9337,8 +9454,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock",
       "metrics ← experience with observability"
     ],
     "missing_skills": [
@@ -9447,14 +9564,14 @@
     ],
     "transferable_matches": [
       "a/b testing ← experience with llm evaluation",
-      "agent development kit ← experience with langchain",
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "agent development kit ← experience with llamaindex",
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock",
       "guardrails ← experience with structured output",
-      "hugging face ← experience with openai",
-      "llama ← experience with openai",
+      "hugging face ← experience with anthropic",
+      "llama ← experience with anthropic",
       "prompt engineering ← experience with structured output",
-      "unstructured ← experience with langchain"
+      "unstructured ← experience with llamaindex"
     ],
     "missing_skills": [
       "embedding",
@@ -9506,7 +9623,7 @@
       "python"
     ],
     "transferable_matches": [
-      "google cloud ← experience with amazon web services"
+      "google cloud ← experience with bedrock"
     ],
     "missing_skills": [
       "document ai",
@@ -9595,8 +9712,8 @@
       "openai"
     ],
     "transferable_matches": [
-      "azure openai ← experience with amazon web services",
-      "azure ← experience with amazon web services"
+      "azure openai ← experience with bedrock",
+      "azure ← experience with bedrock"
     ],
     "missing_skills": [],
     "hard_requirements_missing": [],
@@ -9613,49 +9730,6 @@
       "role": 84,
       "remote": 100,
       "freshness": 55,
-      "experience": 100,
-      "response": 60,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 74,
-    "priority": "⚪ REVIEW",
-    "title": "Software Engineer, Model Deployment- ChatGPT Engineering",
-    "company": "openai",
-    "source": "ashby",
-    "url": "https://jobs.ashbyhq.com/openai/f8b84ae5-743b-41c9-8432-02dff9993d6b/application",
-    "posted_at": "2026-08-17T16:45:16.766000+00:00",
-    "remote": true,
-    "location": "London, UK",
-    "salary": null,
-    "technical_matches": [
-      "observability",
-      "openai",
-      "python"
-    ],
-    "transferable_matches": [
-      "agno ← experience with langchain"
-    ],
-    "missing_skills": [
-      "distributed systems",
-      "go",
-      "rust"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "not specified",
-    "location_eligible": true,
-    "location_confidence": "high",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at openai with strong overlap in openai, observability, python, agno.",
-    "recommended_action": "SKIP",
-    "response_probability": "MEDIUM",
-    "url_status": "not_checked",
-    "score_breakdown": {
-      "technical": 55,
-      "role": 60,
-      "remote": 100,
-      "freshness": 100,
       "experience": 100,
       "response": 60,
       "compensation": 50
@@ -9680,8 +9754,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock",
       "prompt engineering ← experience with structured output"
     ],
     "missing_skills": [
@@ -9723,9 +9797,9 @@
       "observability"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "agno ← experience with llamaindex",
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock",
       "logging ← experience with observability",
       "metrics ← experience with observability",
       "tracing ← experience with observability"
@@ -9761,10 +9835,10 @@
     "title": "Staff Software Engineer, Machine Learning Platform",
     "company": "stripe",
     "source": "greenhouse",
-    "url": "https://stripe.com/jobs/search?gh_jid=7939868",
-    "posted_at": "2026-08-06T12:10:07-04:00",
+    "url": "https://stripe.com/jobs/search?gh_jid=7712852",
+    "posted_at": "2026-08-06T12:10:00-04:00",
     "remote": false,
-    "location": "San Francisco, Seattle",
+    "location": "Toronto",
     "salary": null,
     "technical_matches": [
       "agent orchestration",
@@ -9776,7 +9850,7 @@
       "retrieval augmented generation"
     ],
     "transferable_matches": [
-      "sagemaker ← experience with amazon web services"
+      "sagemaker ← experience with bedrock"
     ],
     "missing_skills": [
       "databricks",
@@ -9810,10 +9884,10 @@
     "title": "Staff Software Engineer, Machine Learning Platform",
     "company": "stripe",
     "source": "greenhouse",
-    "url": "https://stripe.com/jobs/search?gh_jid=7712852",
-    "posted_at": "2026-08-06T12:10:00-04:00",
+    "url": "https://stripe.com/jobs/search?gh_jid=7939868",
+    "posted_at": "2026-08-06T12:10:07-04:00",
     "remote": false,
-    "location": "Toronto",
+    "location": "San Francisco, Seattle",
     "salary": null,
     "technical_matches": [
       "agent orchestration",
@@ -9825,7 +9899,7 @@
       "retrieval augmented generation"
     ],
     "transferable_matches": [
-      "sagemaker ← experience with amazon web services"
+      "sagemaker ← experience with bedrock"
     ],
     "missing_skills": [
       "databricks",
@@ -9870,7 +9944,7 @@
       "python"
     ],
     "transferable_matches": [
-      "eks ← experience with amazon web services",
+      "eks ← experience with bedrock",
       "guardrails ← experience with structured output",
       "metrics ← experience with observability"
     ],
@@ -9920,7 +9994,7 @@
       "postgresql"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with llamaindex",
       "guardrails ← experience with structured output",
       "metrics ← experience with observability",
       "tracing ← experience with observability"
@@ -10156,7 +10230,7 @@
       "python"
     ],
     "transferable_matches": [
-      "agent development kit ← experience with langchain",
+      "agent development kit ← experience with llamaindex",
       "otel ← experience with observability"
     ],
     "missing_skills": [
@@ -10204,7 +10278,7 @@
       "python"
     ],
     "transferable_matches": [
-      "agent development kit ← experience with langchain",
+      "agent development kit ← experience with llamaindex",
       "otel ← experience with observability"
     ],
     "missing_skills": [
@@ -10252,7 +10326,7 @@
       "python"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with llamaindex",
       "otel ← experience with observability"
     ],
     "missing_skills": [
@@ -10296,7 +10370,7 @@
       "python"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with llamaindex",
       "otel ← experience with observability"
     ],
     "missing_skills": [
@@ -10476,7 +10550,7 @@
       "postgresql"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with llamaindex",
       "guidance ← experience with structured output",
       "prompt engineering ← experience with structured output"
     ],
@@ -10514,10 +10588,10 @@
     "title": "Senior Backend Engineer",
     "company": "gitlab",
     "source": "greenhouse",
-    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8716138002",
-    "posted_at": "2026-08-14T14:16:35-04:00",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8715968002",
+    "posted_at": "2026-08-14T14:16:33-04:00",
     "remote": true,
-    "location": "Remote, Poland; Remote, United Kingdom",
+    "location": "Remote, Canada; Remote, United States",
     "salary": null,
     "technical_matches": [
       "agent orchestration",
@@ -10525,7 +10599,7 @@
       "postgresql"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with llamaindex",
       "guidance ← experience with structured output",
       "prompt engineering ← experience with structured output"
     ],
@@ -10563,10 +10637,10 @@
     "title": "Senior Backend Engineer",
     "company": "gitlab",
     "source": "greenhouse",
-    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8715968002",
-    "posted_at": "2026-08-14T14:16:33-04:00",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8716138002",
+    "posted_at": "2026-08-14T14:16:35-04:00",
     "remote": true,
-    "location": "Remote, Canada; Remote, United States",
+    "location": "Remote, Poland; Remote, United Kingdom",
     "salary": null,
     "technical_matches": [
       "agent orchestration",
@@ -10574,7 +10648,7 @@
       "postgresql"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with llamaindex",
       "guidance ← experience with structured output",
       "prompt engineering ← experience with structured output"
     ],
@@ -10670,10 +10744,10 @@
       "tool calling"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock",
       "guardrails ← experience with structured output",
-      "hugging face ← experience with openai"
+      "hugging face ← experience with anthropic"
     ],
     "missing_skills": [
       "databricks",
@@ -10720,7 +10794,7 @@
       "elasticsearch ← experience with qdrant",
       "guardrails ← experience with structured output",
       "metrics ← experience with observability",
-      "unstructured ← experience with langchain"
+      "unstructured ← experience with llamaindex"
     ],
     "missing_skills": [
       "databricks",
@@ -10768,9 +10842,9 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "sagemaker ← experience with amazon web services",
-      "vertex ai ← experience with amazon web services"
+      "azure ← experience with bedrock",
+      "sagemaker ← experience with bedrock",
+      "vertex ai ← experience with bedrock"
     ],
     "missing_skills": [
       "agent framework",
@@ -10820,10 +10894,10 @@
       "tool calling"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock",
       "guardrails ← experience with structured output",
-      "hugging face ← experience with openai"
+      "hugging face ← experience with anthropic"
     ],
     "missing_skills": [
       "databricks",
@@ -10868,9 +10942,9 @@
       "python"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "agno ← experience with llamaindex",
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock",
       "metrics ← experience with observability"
     ],
     "missing_skills": [
@@ -10917,9 +10991,9 @@
       "python"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "agno ← experience with llamaindex",
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock",
       "guardrails ← experience with structured output"
     ],
     "missing_skills": [
@@ -10966,15 +11040,15 @@
       "openai"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gemini ← experience with openai",
-      "gpt ← experience with openai",
-      "llama ← experience with openai",
-      "qwen ← experience with openai",
-      "sagemaker ← experience with amazon web services",
-      "sglang ← experience with openai",
-      "vertex ai ← experience with amazon web services",
-      "vllm ← experience with openai"
+      "azure ← experience with bedrock",
+      "gemini ← experience with anthropic",
+      "gpt ← experience with anthropic",
+      "llama ← experience with anthropic",
+      "qwen ← experience with anthropic",
+      "sagemaker ← experience with bedrock",
+      "sglang ← experience with anthropic",
+      "vertex ai ← experience with bedrock",
+      "vllm ← experience with anthropic"
     ],
     "missing_skills": [
       "databricks",
@@ -11022,7 +11096,7 @@
       "elasticsearch ← experience with qdrant",
       "guardrails ← experience with structured output",
       "metrics ← experience with observability",
-      "unstructured ← experience with langchain"
+      "unstructured ← experience with llamaindex"
     ],
     "missing_skills": [
       "databricks",
@@ -11080,14 +11154,14 @@
     ],
     "transferable_matches": [
       "a/b testing ← experience with llm evaluation",
-      "agent development kit ← experience with langchain",
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "agent development kit ← experience with llamaindex",
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock",
       "guardrails ← experience with structured output",
-      "hugging face ← experience with openai",
-      "llama ← experience with openai",
+      "hugging face ← experience with anthropic",
+      "llama ← experience with anthropic",
       "prompt engineering ← experience with structured output",
-      "unstructured ← experience with langchain"
+      "unstructured ← experience with llamaindex"
     ],
     "missing_skills": [
       "embedding",
@@ -11233,8 +11307,8 @@
       "retrieval augmented generation"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock",
       "metrics ← experience with observability",
       "prompt engineering ← experience with structured output"
     ],
@@ -11283,8 +11357,8 @@
       "retrieval augmented generation"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock",
       "metrics ← experience with observability",
       "prompt engineering ← experience with structured output"
     ],
@@ -11372,8 +11446,8 @@
       "ci/cd"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock",
       "guidance ← experience with structured output"
     ],
     "missing_skills": [
@@ -11423,7 +11497,7 @@
       "rag"
     ],
     "transferable_matches": [
-      "transformers ← experience with openai"
+      "transformers ← experience with anthropic"
     ],
     "missing_skills": [
       "typescript"
@@ -11465,7 +11539,7 @@
       "postgresql"
     ],
     "transferable_matches": [
-      "gemini ← experience with openai"
+      "gemini ← experience with anthropic"
     ],
     "missing_skills": [
       "gitlab ci",
@@ -11514,8 +11588,8 @@
       "python"
     ],
     "transferable_matches": [
-      "gemini ← experience with openai",
-      "google ai ← experience with openai",
+      "gemini ← experience with anthropic",
+      "google ai ← experience with anthropic",
       "guardrails ← experience with structured output"
     ],
     "missing_skills": [
@@ -11559,7 +11633,7 @@
       "postgresql"
     ],
     "transferable_matches": [
-      "gcp ← experience with amazon web services",
+      "gcp ← experience with bedrock",
       "otel ← experience with observability"
     ],
     "missing_skills": [
@@ -11601,7 +11675,7 @@
       "python"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with llamaindex",
       "datadog ← experience with observability",
       "prometheus ← experience with observability"
     ],
@@ -11648,7 +11722,7 @@
       "arize ← experience with llm evaluation",
       "metrics ← experience with observability",
       "offline evaluation ← experience with llm evaluation",
-      "transformers ← experience with openai"
+      "transformers ← experience with anthropic"
     ],
     "missing_skills": [
       "embedding",
@@ -11696,7 +11770,7 @@
       "guidance ← experience with structured output",
       "metrics ← experience with observability",
       "otel ← experience with observability",
-      "together ai ← experience with openai"
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "distributed systems",
@@ -12057,8 +12131,8 @@
       "aws"
     ],
     "transferable_matches": [
-      "gcp ← experience with amazon web services",
-      "google cloud ← experience with amazon web services"
+      "gcp ← experience with bedrock",
+      "google cloud ← experience with bedrock"
     ],
     "missing_skills": [
       "document ai",
@@ -12101,8 +12175,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock"
     ],
     "missing_skills": [
       "go",
@@ -12191,8 +12265,8 @@
       "python"
     ],
     "transferable_matches": [
-      "dspy ← experience with langchain",
-      "llama ← experience with openai"
+      "dspy ← experience with llamaindex",
+      "llama ← experience with anthropic"
     ],
     "missing_skills": [
       "agent framework",
@@ -12240,8 +12314,8 @@
       "python"
     ],
     "transferable_matches": [
-      "dspy ← experience with langchain",
-      "llama ← experience with openai"
+      "dspy ← experience with llamaindex",
+      "llama ← experience with anthropic"
     ],
     "missing_skills": [
       "agent framework",
@@ -12288,8 +12362,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock"
     ],
     "missing_skills": [
       "databricks",
@@ -12335,8 +12409,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock"
     ],
     "missing_skills": [
       "databricks",
@@ -12385,9 +12459,9 @@
       "rag"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "agno ← experience with llamaindex",
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock"
     ],
     "missing_skills": [
       "databricks",
@@ -12483,8 +12557,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock"
     ],
     "missing_skills": [
       "distributed systems",
@@ -12771,8 +12845,8 @@
       "rag"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock",
       "prompt engineering ← experience with structured output"
     ],
     "missing_skills": [
@@ -12856,8 +12930,8 @@
       "ci/cd"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock",
       "guardrails ← experience with structured output",
       "guidance ← experience with structured output",
       "instructor ← experience with structured output"
@@ -12888,6 +12962,49 @@
   {
     "score": 72,
     "priority": "⚪ REVIEW",
+    "title": "Software Engineer, Model Deployment- ChatGPT Engineering",
+    "company": "openai",
+    "source": "ashby",
+    "url": "https://jobs.ashbyhq.com/openai/f8b84ae5-743b-41c9-8432-02dff9993d6b/application",
+    "posted_at": "2026-08-17T16:45:16.766000+00:00",
+    "remote": true,
+    "location": "London, UK",
+    "salary": null,
+    "technical_matches": [
+      "observability",
+      "openai",
+      "python"
+    ],
+    "transferable_matches": [
+      "agno ← experience with llamaindex"
+    ],
+    "missing_skills": [
+      "distributed systems",
+      "go",
+      "rust"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "not specified",
+    "location_eligible": true,
+    "location_confidence": "high",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at openai with strong overlap in openai, observability, python, agno.",
+    "recommended_action": "SKIP",
+    "response_probability": "MEDIUM",
+    "url_status": "not_checked",
+    "score_breakdown": {
+      "technical": 55,
+      "role": 60,
+      "remote": 100,
+      "freshness": 90,
+      "experience": 100,
+      "response": 60,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 72,
+    "priority": "⚪ REVIEW",
     "title": "Senior Data Engineer",
     "company": "Lemon.io",
     "source": "remoteok",
@@ -12902,8 +13019,8 @@
       "supervisor"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock",
       "otel ← experience with observability"
     ],
     "missing_skills": [
@@ -12959,7 +13076,7 @@
       "openai"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
+      "azure ← experience with bedrock",
       "datadog ← experience with observability",
       "otel ← experience with observability"
     ],
@@ -13008,7 +13125,7 @@
       "metrics ← experience with observability",
       "otel ← experience with observability",
       "prometheus ← experience with observability",
-      "together ai ← experience with openai"
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "document ai",
@@ -13052,11 +13169,11 @@
       "python"
     ],
     "transferable_matches": [
-      "ec2 ← experience with amazon web services",
+      "ec2 ← experience with bedrock",
       "elasticsearch ← experience with qdrant",
       "guidance ← experience with structured output",
       "logging ← experience with observability",
-      "s3 ← experience with amazon web services"
+      "s3 ← experience with bedrock"
     ],
     "missing_skills": [
       "sql"
@@ -13096,8 +13213,8 @@
       "openai"
     ],
     "transferable_matches": [
-      "agent development kit ← experience with langchain",
-      "google cloud ← experience with amazon web services",
+      "agent development kit ← experience with llamaindex",
+      "google cloud ← experience with bedrock",
       "guardrails ← experience with structured output",
       "tracing ← experience with observability"
     ],
@@ -13189,7 +13306,7 @@
     ],
     "transferable_matches": [
       "arize ← experience with llm evaluation",
-      "gcp ← experience with amazon web services"
+      "gcp ← experience with bedrock"
     ],
     "missing_skills": [
       "bigquery",
@@ -13938,6 +14055,49 @@
   {
     "score": 71,
     "priority": "⚪ REVIEW",
+    "title": "Senior Internal Auditor, Technology",
+    "company": "gitlab",
+    "source": "greenhouse",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8643077002",
+    "posted_at": "2026-08-17T18:48:38-04:00",
+    "remote": true,
+    "location": "Remote, Canada; Remote, United States",
+    "salary": null,
+    "technical_matches": [
+      "agent orchestration",
+      "amazon web services",
+      "supervisor"
+    ],
+    "transferable_matches": [
+      "google cloud ← experience with bedrock"
+    ],
+    "missing_skills": [
+      "document ai",
+      "recommendation",
+      "rust"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "not specified",
+    "location_eligible": true,
+    "location_confidence": "high",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at gitlab with strong overlap in agent orchestration, supervisor, amazon web services, google cloud.",
+    "recommended_action": "SKIP",
+    "response_probability": "MEDIUM",
+    "url_status": "not_checked",
+    "score_breakdown": {
+      "technical": 55,
+      "role": 44,
+      "remote": 100,
+      "freshness": 100,
+      "experience": 100,
+      "response": 60,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 71,
+    "priority": "⚪ REVIEW",
     "title": "Senior Software Engineer (Money)",
     "company": "databricks",
     "source": "greenhouse",
@@ -13952,9 +14112,9 @@
       "docker"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
-      "together ai ← experience with openai"
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock",
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "databricks",
@@ -13999,8 +14159,8 @@
       "python"
     ],
     "transferable_matches": [
-      "dspy ← experience with langchain",
-      "llama ← experience with openai"
+      "dspy ← experience with llamaindex",
+      "llama ← experience with anthropic"
     ],
     "missing_skills": [
       "agent framework",
@@ -14048,8 +14208,8 @@
       "python"
     ],
     "transferable_matches": [
-      "dspy ← experience with langchain",
-      "llama ← experience with openai"
+      "dspy ← experience with llamaindex",
+      "llama ← experience with anthropic"
     ],
     "missing_skills": [
       "agent framework",
@@ -14183,7 +14343,7 @@
       "python"
     ],
     "transferable_matches": [
-      "gcp ← experience with amazon web services",
+      "gcp ← experience with bedrock",
       "guidance ← experience with structured output"
     ],
     "missing_skills": [
@@ -14265,7 +14425,7 @@
     ],
     "transferable_matches": [
       "elasticsearch ← experience with qdrant",
-      "together ai ← experience with openai"
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "java",
@@ -14310,9 +14470,9 @@
       "aws"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
+      "azure ← experience with bedrock",
       "datadog ← experience with observability",
-      "gcp ← experience with amazon web services",
+      "gcp ← experience with bedrock",
       "instructor ← experience with structured output",
       "metrics ← experience with observability"
     ],
@@ -14346,50 +14506,6 @@
   {
     "score": 71,
     "priority": "⚪ REVIEW",
-    "title": "Sr. Fullstack Software Engineer, Integrations Platform",
-    "company": "vanta",
-    "source": "ashby",
-    "url": "https://jobs.ashbyhq.com/vanta/539cb2a8-b704-4f39-af0d-2bee5b529d1d/application",
-    "posted_at": "2026-08-14T22:41:27.080000+00:00",
-    "remote": true,
-    "location": "Remote U.S.",
-    "salary": null,
-    "technical_matches": [
-      "aws",
-      "observability"
-    ],
-    "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
-      "instructor ← experience with structured output"
-    ],
-    "missing_skills": [
-      "node.js",
-      "rust",
-      "typescript"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "5+ years required",
-    "location_eligible": true,
-    "location_confidence": "high",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at vanta with strong overlap in observability, aws, instructor, azure.",
-    "recommended_action": "SKIP",
-    "response_probability": "MEDIUM",
-    "url_status": "not_checked",
-    "score_breakdown": {
-      "technical": 60,
-      "role": 57,
-      "remote": 100,
-      "freshness": 75,
-      "experience": 95,
-      "response": 60,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 71,
-    "priority": "⚪ REVIEW",
     "title": "Software Development Engineer",
     "company": "beyondtrust",
     "source": "arbeitnow",
@@ -14403,9 +14519,9 @@
       "claude"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
-      "azure ← experience with amazon web services",
-      "together ai ← experience with openai"
+      "agno ← experience with llamaindex",
+      "azure ← experience with bedrock",
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "java",
@@ -14448,7 +14564,7 @@
       "claude"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
+      "azure ← experience with bedrock",
       "guardrails ← experience with structured output",
       "guidance ← experience with structured output",
       "logging ← experience with observability"
@@ -14493,7 +14609,7 @@
       "python"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with llamaindex",
       "guidance ← experience with structured output"
     ],
     "missing_skills": [
@@ -14542,8 +14658,8 @@
       "benchmarking ← experience with llm evaluation",
       "guardrails ← experience with structured output",
       "metrics ← experience with observability",
-      "transformers ← experience with openai",
-      "unstructured ← experience with langchain"
+      "transformers ← experience with anthropic",
+      "unstructured ← experience with llamaindex"
     ],
     "missing_skills": [
       "agentic rag",
@@ -14593,7 +14709,7 @@
       "python"
     ],
     "transferable_matches": [
-      "gcp ← experience with amazon web services"
+      "gcp ← experience with bedrock"
     ],
     "missing_skills": [
       "kubernetes",
@@ -14682,8 +14798,8 @@
       "openai"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
-      "gemini ← experience with openai",
+      "agno ← experience with llamaindex",
+      "gemini ← experience with anthropic",
       "metrics ← experience with observability"
     ],
     "missing_skills": [
@@ -14714,10 +14830,51 @@
   {
     "score": 70,
     "priority": "⚪ REVIEW",
+    "title": "Senior Manager, Internal Audit - Audit Automation & Technology Risk",
+    "company": "gitlab",
+    "source": "greenhouse",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8642850002",
+    "posted_at": "2026-08-17T18:50:34-04:00",
+    "remote": false,
+    "location": "Bangalore, India",
+    "salary": null,
+    "technical_matches": [
+      "agent orchestration",
+      "ai agents",
+      "ci/cd",
+      "python"
+    ],
+    "transferable_matches": [],
+    "missing_skills": [
+      "rust",
+      "sql"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "not specified",
+    "location_eligible": true,
+    "location_confidence": "low",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at gitlab with strong overlap in ai agents, agent orchestration, python.",
+    "recommended_action": "SKIP",
+    "response_probability": "MEDIUM",
+    "url_status": "not_checked",
+    "score_breakdown": {
+      "technical": 60,
+      "role": 68,
+      "remote": 55,
+      "freshness": 100,
+      "experience": 100,
+      "response": 60,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 70,
+    "priority": "⚪ REVIEW",
     "title": "Staff Fullstack Engineer - Data Products",
     "company": "gitlab",
     "source": "greenhouse",
-    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8623763002",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8613165002",
     "posted_at": "2026-08-10T16:52:46-04:00",
     "remote": false,
     "location": "Bangalore, India",
@@ -14776,8 +14933,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock"
     ],
     "missing_skills": [
       "databricks",
@@ -14823,8 +14980,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock"
     ],
     "missing_skills": [
       "databricks",
@@ -14869,9 +15026,9 @@
       "ci/cd"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "dify ← experience with langchain",
-      "gcp ← experience with amazon web services",
+      "azure ← experience with bedrock",
+      "dify ← experience with llamaindex",
+      "gcp ← experience with bedrock",
       "guardrails ← experience with structured output",
       "logging ← experience with observability"
     ],
@@ -14915,8 +15072,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock"
     ],
     "missing_skills": [
       "databricks",
@@ -15012,8 +15169,8 @@
       "docker"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock",
       "metrics ← experience with observability"
     ],
     "missing_skills": [
@@ -15060,9 +15217,9 @@
       "python"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "agno ← experience with llamaindex",
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock",
       "guardrails ← experience with structured output"
     ],
     "missing_skills": [
@@ -15109,8 +15266,8 @@
       "postgresql"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock"
     ],
     "missing_skills": [
       "graphql",
@@ -15156,8 +15313,8 @@
       "retrieval augmented generation"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock",
       "metrics ← experience with observability",
       "prompt engineering ← experience with structured output"
     ],
@@ -15206,8 +15363,8 @@
       "rag"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock",
       "otel ← experience with observability"
     ],
     "missing_skills": [
@@ -16089,42 +16246,39 @@
   {
     "score": 70,
     "priority": "⚪ REVIEW",
-    "title": "Senior Fullstack Engineer (m/f/d)",
-    "company": "Verivox",
+    "title": "Member of Technical Staff - RL Environments",
+    "company": "Cohere",
     "source": "arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/verivox/senior-fullstack-engineer-berlin-382051",
-    "posted_at": "2026-08-16T23:09:34+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/cohere/member-of-technical-staff-rl-environments-london-453662",
+    "posted_at": "2026-08-17T21:40:16+00:00",
     "remote": false,
-    "location": "Berlin",
+    "location": "London",
     "salary": null,
     "technical_matches": [
-      "ci/cd",
-      "docker",
-      "postgresql",
-      "redis"
+      "agentic ai",
+      "ai agents"
     ],
-    "transferable_matches": [],
-    "missing_skills": [
-      "kubernetes",
-      "nestjs",
-      "node.js",
-      "postgres",
-      "typescript"
+    "transferable_matches": [
+      "cohere ← experience with anthropic",
+      "evals ← experience with llm evaluation",
+      "guidance ← experience with structured output",
+      "otel ← experience with observability"
     ],
+    "missing_skills": [],
     "hard_requirements_missing": [],
     "experience_required": "not specified",
     "location_eligible": true,
     "location_confidence": "low",
     "freshness_confidence": "known",
-    "reason": "Recently posted role at Verivox with strong overlap in redis, postgresql, docker.",
+    "reason": "Recently posted role at Cohere with strong overlap in agentic ai, ai agents, cohere, guidance.",
     "recommended_action": "SKIP",
     "response_probability": "UNKNOWN",
     "url_status": "not_checked",
     "score_breakdown": {
-      "technical": 60,
-      "role": 84,
+      "technical": 70,
+      "role": 48,
       "remote": 55,
-      "freshness": 90,
+      "freshness": 100,
       "experience": 100,
       "response": 50,
       "compensation": 50
@@ -16147,7 +16301,7 @@
       "python"
     ],
     "transferable_matches": [
-      "gcp ← experience with amazon web services",
+      "gcp ← experience with bedrock",
       "guidance ← experience with structured output"
     ],
     "missing_skills": [
@@ -16192,7 +16346,7 @@
     ],
     "transferable_matches": [
       "a/b testing ← experience with llm evaluation",
-      "agno ← experience with langchain",
+      "agno ← experience with llamaindex",
       "arize ← experience with llm evaluation",
       "online evaluation ← experience with llm evaluation"
     ],
@@ -16505,8 +16659,8 @@
       "python"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
-      "dify ← experience with langchain",
+      "agno ← experience with llamaindex",
+      "dify ← experience with llamaindex",
       "guardrails ← experience with structured output"
     ],
     "missing_skills": [
@@ -16553,8 +16707,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock"
     ],
     "missing_skills": [
       "databricks",
@@ -16600,8 +16754,8 @@
       "rag"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock"
     ],
     "missing_skills": [
       "databricks",
@@ -16645,8 +16799,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock"
     ],
     "missing_skills": [
       "databricks",
@@ -16691,8 +16845,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock"
     ],
     "missing_skills": [
       "databricks",
@@ -16736,12 +16890,12 @@
       "openai"
     ],
     "transferable_matches": [
-      "gpt ← experience with openai",
+      "gpt ← experience with anthropic",
       "guidance ← experience with structured output",
-      "llama ← experience with openai",
-      "qwen ← experience with openai",
-      "sglang ← experience with openai",
-      "vllm ← experience with openai"
+      "llama ← experience with anthropic",
+      "qwen ← experience with anthropic",
+      "sglang ← experience with anthropic",
+      "vllm ← experience with anthropic"
     ],
     "missing_skills": [
       "databricks",
@@ -16783,9 +16937,9 @@
       "docker"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
-      "together ai ← experience with openai"
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock",
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "databricks",
@@ -16831,8 +16985,8 @@
     ],
     "transferable_matches": [
       "benchmarking ← experience with llm evaluation",
-      "gcp ← experience with amazon web services",
-      "swarm ← experience with langchain"
+      "gcp ← experience with bedrock",
+      "swarm ← experience with llamaindex"
     ],
     "missing_skills": [
       "agent framework",
@@ -16932,8 +17086,8 @@
       "retrieval augmented generation"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock",
       "metrics ← experience with observability",
       "prompt engineering ← experience with structured output"
     ],
@@ -17127,8 +17281,8 @@
       "observability"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock"
     ],
     "missing_skills": [],
     "hard_requirements_missing": [],
@@ -17238,6 +17392,56 @@
   {
     "score": 69,
     "priority": "⚪ REVIEW",
+    "title": "(Senior) Backend Engineer, Maps",
+    "company": "Wheely",
+    "source": "arbeitnow",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/wheely/senior-backend-engineer-maps-london-495117",
+    "posted_at": "2026-08-17T21:55:32+00:00",
+    "remote": false,
+    "location": "London",
+    "salary": null,
+    "technical_matches": [
+      "aws",
+      "postgresql",
+      "python",
+      "redis"
+    ],
+    "transferable_matches": [],
+    "missing_skills": [
+      "go",
+      "grpc",
+      "java",
+      "kafka",
+      "kubernetes",
+      "microservices",
+      "mongodb",
+      "postgres",
+      "rabbitmq",
+      "rust",
+      "terraform"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "5+ years required",
+    "location_eligible": true,
+    "location_confidence": "low",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at Wheely with strong overlap in python, redis, postgresql.",
+    "recommended_action": "SKIP",
+    "response_probability": "UNKNOWN",
+    "url_status": "not_checked",
+    "score_breakdown": {
+      "technical": 60,
+      "role": 68,
+      "remote": 55,
+      "freshness": 100,
+      "experience": 95,
+      "response": 50,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 69,
+    "priority": "⚪ REVIEW",
     "title": "Backend Software Engineer - AI Systems (m/w/d)",
     "company": "HAIAR GmbH",
     "source": "arbeitnow",
@@ -17292,7 +17496,7 @@
       "ci/cd"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
+      "azure ← experience with bedrock",
       "logging ← experience with observability"
     ],
     "missing_skills": [
@@ -17335,12 +17539,12 @@
       "observability"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with llamaindex",
       "benchmarking ← experience with llm evaluation",
       "datadog ← experience with observability",
       "grafana ← experience with observability",
       "opentelemetry ← experience with observability",
-      "together ai ← experience with openai"
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "rust"
@@ -17877,7 +18081,7 @@
     "transferable_matches": [
       "guidance ← experience with structured output",
       "otel ← experience with observability",
-      "together ai ← experience with openai"
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "document ai",
@@ -17922,7 +18126,7 @@
     "transferable_matches": [
       "guidance ← experience with structured output",
       "otel ← experience with observability",
-      "together ai ← experience with openai"
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "kubernetes",
@@ -17966,7 +18170,7 @@
     "transferable_matches": [
       "guidance ← experience with structured output",
       "otel ← experience with observability",
-      "together ai ← experience with openai"
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "airflow",
@@ -18013,7 +18217,7 @@
     "transferable_matches": [
       "guidance ← experience with structured output",
       "otel ← experience with observability",
-      "together ai ← experience with openai"
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "airflow",
@@ -18058,7 +18262,7 @@
       "aws"
     ],
     "transferable_matches": [
-      "google cloud ← experience with amazon web services",
+      "google cloud ← experience with bedrock",
       "metrics ← experience with observability"
     ],
     "missing_skills": [
@@ -18179,6 +18383,47 @@
   {
     "score": 68,
     "priority": "⚪ REVIEW",
+    "title": "Senior Solutions Architect (Singapore) ",
+    "company": "gitlab",
+    "source": "greenhouse",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8627768002",
+    "posted_at": "2026-08-17T18:48:29-04:00",
+    "remote": true,
+    "location": "Remote",
+    "salary": null,
+    "technical_matches": [
+      "agent orchestration",
+      "agentic ai"
+    ],
+    "transferable_matches": [
+      "guidance ← experience with structured output"
+    ],
+    "missing_skills": [
+      "go",
+      "rust"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "not specified",
+    "location_eligible": true,
+    "location_confidence": "high",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at gitlab with strong overlap in agentic ai, agent orchestration, guidance.",
+    "recommended_action": "SKIP",
+    "response_probability": "MEDIUM",
+    "url_status": "not_checked",
+    "score_breakdown": {
+      "technical": 40,
+      "role": 60,
+      "remote": 100,
+      "freshness": 100,
+      "experience": 100,
+      "response": 60,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 68,
+    "priority": "⚪ REVIEW",
     "title": "Senior Designated Support Engineer",
     "company": "databricks",
     "source": "greenhouse",
@@ -18193,8 +18438,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock",
       "metrics ← experience with observability"
     ],
     "missing_skills": [
@@ -18243,9 +18488,9 @@
       "docker"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "agno ← experience with llamaindex",
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock"
     ],
     "missing_skills": [
       "databricks",
@@ -18289,9 +18534,9 @@
       "docker"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "agno ← experience with llamaindex",
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock"
     ],
     "missing_skills": [
       "databricks",
@@ -18336,8 +18581,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock"
     ],
     "missing_skills": [
       "c#",
@@ -18386,8 +18631,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock",
       "guidance ← experience with structured output"
     ],
     "missing_skills": [
@@ -18432,8 +18677,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock",
       "metrics ← experience with observability"
     ],
     "missing_skills": [
@@ -18484,8 +18729,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock",
       "metrics ← experience with observability"
     ],
     "missing_skills": [
@@ -18535,8 +18780,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock",
       "metrics ← experience with observability"
     ],
     "missing_skills": [
@@ -18586,10 +18831,10 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock",
       "guidance ← experience with structured output",
-      "together ai ← experience with openai"
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "api integration",
@@ -18631,7 +18876,7 @@
       "aws"
     ],
     "transferable_matches": [
-      "gcp ← experience with amazon web services",
+      "gcp ← experience with bedrock",
       "guidance ← experience with structured output",
       "prompt engineering ← experience with structured output"
     ],
@@ -18675,7 +18920,7 @@
     "transferable_matches": [
       "grafana ← experience with observability",
       "logging ← experience with observability",
-      "networkx ← experience with neo4j",
+      "networkx ← experience with knowledge graph",
       "prometheus ← experience with observability"
     ],
     "missing_skills": [
@@ -19127,6 +19372,50 @@
   {
     "score": 68,
     "priority": "⚪ REVIEW",
+    "title": "Sr. Fullstack Software Engineer, Integrations Platform",
+    "company": "vanta",
+    "source": "ashby",
+    "url": "https://jobs.ashbyhq.com/vanta/539cb2a8-b704-4f39-af0d-2bee5b529d1d/application",
+    "posted_at": "2026-08-14T22:41:27.080000+00:00",
+    "remote": true,
+    "location": "Remote U.S.",
+    "salary": null,
+    "technical_matches": [
+      "aws",
+      "observability"
+    ],
+    "transferable_matches": [
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock",
+      "instructor ← experience with structured output"
+    ],
+    "missing_skills": [
+      "node.js",
+      "rust",
+      "typescript"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "5+ years required",
+    "location_eligible": true,
+    "location_confidence": "high",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at vanta with strong overlap in observability, aws, instructor, azure.",
+    "recommended_action": "SKIP",
+    "response_probability": "MEDIUM",
+    "url_status": "not_checked",
+    "score_breakdown": {
+      "technical": 60,
+      "role": 57,
+      "remote": 100,
+      "freshness": 55,
+      "experience": 95,
+      "response": 60,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 68,
+    "priority": "⚪ REVIEW",
     "title": "Aragon AI",
     "company": "AI Supermarket",
     "source": "remoteok",
@@ -19141,8 +19430,8 @@
       "supervisor"
     ],
     "transferable_matches": [
-      "gemini ← experience with openai",
-      "gpt ← experience with openai"
+      "gemini ← experience with anthropic",
+      "gpt ← experience with anthropic"
     ],
     "missing_skills": [
       "browser automation",
@@ -19187,8 +19476,8 @@
       "github actions"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock"
     ],
     "missing_skills": [
       "gitlab ci",
@@ -19217,6 +19506,56 @@
   {
     "score": 68,
     "priority": "⚪ REVIEW",
+    "title": "(Senior) Backend Engineer, Marketplace",
+    "company": "Wheely",
+    "source": "arbeitnow",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/wheely/senior-backend-engineer-marketplace-london-297644",
+    "posted_at": "2026-08-17T21:55:32+00:00",
+    "remote": false,
+    "location": "London",
+    "salary": null,
+    "technical_matches": [
+      "aws",
+      "postgresql",
+      "python",
+      "redis"
+    ],
+    "transferable_matches": [],
+    "missing_skills": [
+      "go",
+      "grpc",
+      "java",
+      "kafka",
+      "kubernetes",
+      "microservices",
+      "mongodb",
+      "postgres",
+      "rabbitmq",
+      "rust",
+      "terraform"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "5+ years required",
+    "location_eligible": true,
+    "location_confidence": "low",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at Wheely with strong overlap in python, redis, postgresql.",
+    "recommended_action": "SKIP",
+    "response_probability": "UNKNOWN",
+    "url_status": "not_checked",
+    "score_breakdown": {
+      "technical": 60,
+      "role": 63,
+      "remote": 55,
+      "freshness": 100,
+      "experience": 95,
+      "response": 50,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 68,
+    "priority": "⚪ REVIEW",
     "title": "Data Analyst (Amsterdam, NLD)",
     "company": "Blab",
     "source": "arbeitnow",
@@ -19231,7 +19570,7 @@
       "python"
     ],
     "transferable_matches": [
-      "cohere ← experience with openai",
+      "cohere ← experience with anthropic",
       "guidance ← experience with structured output",
       "instructor ← experience with structured output"
     ],
@@ -19257,6 +19596,50 @@
       "role": 32,
       "remote": 55,
       "freshness": 90,
+      "experience": 100,
+      "response": 50,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 68,
+    "priority": "⚪ REVIEW",
+    "title": "Senior Fullstack Engineer (m/f/d)",
+    "company": "Verivox",
+    "source": "arbeitnow",
+    "url": "https://www.arbeitnow.com/jobs/companies/verivox/senior-fullstack-engineer-berlin-382051",
+    "posted_at": "2026-08-16T23:09:34+00:00",
+    "remote": false,
+    "location": "Berlin",
+    "salary": null,
+    "technical_matches": [
+      "ci/cd",
+      "docker",
+      "postgresql",
+      "redis"
+    ],
+    "transferable_matches": [],
+    "missing_skills": [
+      "kubernetes",
+      "nestjs",
+      "node.js",
+      "postgres",
+      "typescript"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "not specified",
+    "location_eligible": true,
+    "location_confidence": "low",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at Verivox with strong overlap in redis, postgresql, docker.",
+    "recommended_action": "SKIP",
+    "response_probability": "UNKNOWN",
+    "url_status": "not_checked",
+    "score_breakdown": {
+      "technical": 60,
+      "role": 84,
+      "remote": 55,
+      "freshness": 75,
       "experience": 100,
       "response": 50,
       "compensation": 50
@@ -19320,9 +19703,9 @@
       "openai"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
-      "gemini ← experience with openai",
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock",
+      "gemini ← experience with anthropic",
       "guidance ← experience with structured output"
     ],
     "missing_skills": [
@@ -19368,7 +19751,7 @@
       "python"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with llamaindex",
       "guidance ← experience with structured output"
     ],
     "missing_skills": [
@@ -19415,9 +19798,9 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
-      "unstructured ← experience with langchain"
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock",
+      "unstructured ← experience with llamaindex"
     ],
     "missing_skills": [
       "autonomous agents",
@@ -19503,7 +19886,7 @@
       "python"
     ],
     "transferable_matches": [
-      "gcp ← experience with amazon web services"
+      "gcp ← experience with bedrock"
     ],
     "missing_skills": [
       "agentic rag",
@@ -19705,40 +20088,41 @@
   {
     "score": 67,
     "priority": "⚪ REVIEW",
-    "title": "Senior Solutions Architect",
+    "title": "RPA Engineer, UiPath",
     "company": "gitlab",
     "source": "greenhouse",
-    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8627768002",
-    "posted_at": "2026-08-17T02:24:31-04:00",
-    "remote": true,
-    "location": "Remote",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8705011002",
+    "posted_at": "2026-08-17T18:32:41-04:00",
+    "remote": false,
+    "location": "Bangalore, India",
     "salary": null,
     "technical_matches": [
       "agent orchestration",
-      "agentic ai"
+      "agentic ai",
+      "ci/cd",
+      "python"
     ],
-    "transferable_matches": [
-      "guidance ← experience with structured output"
-    ],
+    "transferable_matches": [],
     "missing_skills": [
-      "go",
-      "rust"
+      "document ai",
+      "rust",
+      "sql"
     ],
     "hard_requirements_missing": [],
-    "experience_required": "not specified",
+    "experience_required": "6+ years required",
     "location_eligible": true,
-    "location_confidence": "high",
+    "location_confidence": "low",
     "freshness_confidence": "known",
-    "reason": "Recently posted role at gitlab with strong overlap in agentic ai, agent orchestration, guidance.",
+    "reason": "Recently posted role at gitlab with strong overlap in agentic ai, agent orchestration, python.",
     "recommended_action": "SKIP",
     "response_probability": "MEDIUM",
     "url_status": "not_checked",
     "score_breakdown": {
-      "technical": 40,
-      "role": 63,
-      "remote": 100,
-      "freshness": 90,
-      "experience": 100,
+      "technical": 60,
+      "role": 68,
+      "remote": 55,
+      "freshness": 100,
+      "experience": 70,
       "response": 60,
       "compensation": 50
     }
@@ -19759,10 +20143,10 @@
       "openai"
     ],
     "transferable_matches": [
-      "gemini ← experience with openai",
-      "gpt ← experience with openai",
-      "llama ← experience with openai",
-      "qwen ← experience with openai"
+      "gemini ← experience with anthropic",
+      "gpt ← experience with anthropic",
+      "llama ← experience with anthropic",
+      "qwen ← experience with anthropic"
     ],
     "missing_skills": [
       "databricks",
@@ -19804,8 +20188,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock"
     ],
     "missing_skills": [
       "databricks",
@@ -19851,8 +20235,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "google cloud ← experience with amazon web services"
+      "azure ← experience with bedrock",
+      "google cloud ← experience with bedrock"
     ],
     "missing_skills": [
       "databricks",
@@ -19896,8 +20280,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock"
     ],
     "missing_skills": [
       "databricks",
@@ -19944,8 +20328,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock"
     ],
     "missing_skills": [
       "databricks",
@@ -19993,8 +20377,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock"
     ],
     "missing_skills": [
       "databricks",
@@ -20040,8 +20424,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock"
     ],
     "missing_skills": [
       "databricks",
@@ -20087,8 +20471,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock"
     ],
     "missing_skills": [
       "databricks",
@@ -20134,8 +20518,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock"
     ],
     "missing_skills": [
       "databricks",
@@ -20181,8 +20565,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock"
     ],
     "missing_skills": [
       "databricks",
@@ -20225,8 +20609,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock"
     ],
     "missing_skills": [
       "databricks",
@@ -20272,8 +20656,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock"
     ],
     "missing_skills": [
       "databricks",
@@ -20319,8 +20703,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock"
     ],
     "missing_skills": [
       "databricks",
@@ -20366,8 +20750,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock"
     ],
     "missing_skills": [
       "databricks",
@@ -20413,8 +20797,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock"
     ],
     "missing_skills": [
       "databricks",
@@ -20460,8 +20844,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock"
     ],
     "missing_skills": [
       "databricks",
@@ -20507,8 +20891,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock"
     ],
     "missing_skills": [
       "databricks",
@@ -20554,8 +20938,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock"
     ],
     "missing_skills": [
       "databricks",
@@ -20601,8 +20985,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock"
     ],
     "missing_skills": [
       "databricks",
@@ -20648,8 +21032,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock"
     ],
     "missing_skills": [
       "databricks",
@@ -20695,8 +21079,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock"
     ],
     "missing_skills": [
       "databricks",
@@ -20742,8 +21126,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock"
     ],
     "missing_skills": [
       "databricks",
@@ -20789,8 +21173,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock"
     ],
     "missing_skills": [
       "databricks",
@@ -20836,8 +21220,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock"
     ],
     "missing_skills": [
       "databricks",
@@ -20883,8 +21267,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock"
     ],
     "missing_skills": [
       "databricks",
@@ -20930,8 +21314,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock"
     ],
     "missing_skills": [
       "databricks",
@@ -20977,8 +21361,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock"
     ],
     "missing_skills": [
       "databricks",
@@ -21024,8 +21408,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock"
     ],
     "missing_skills": [
       "databricks",
@@ -21071,8 +21455,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock"
     ],
     "missing_skills": [
       "databricks",
@@ -21118,8 +21502,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock"
     ],
     "missing_skills": [
       "databricks",
@@ -21165,8 +21549,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock"
     ],
     "missing_skills": [
       "databricks",
@@ -21212,8 +21596,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock"
     ],
     "missing_skills": [
       "databricks",
@@ -21259,8 +21643,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock"
     ],
     "missing_skills": [
       "databricks",
@@ -21306,8 +21690,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock"
     ],
     "missing_skills": [
       "databricks",
@@ -21353,8 +21737,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock"
     ],
     "missing_skills": [
       "databricks",
@@ -21400,8 +21784,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock"
     ],
     "missing_skills": [
       "databricks",
@@ -21447,8 +21831,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock"
     ],
     "missing_skills": [
       "databricks",
@@ -21494,8 +21878,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock"
     ],
     "missing_skills": [
       "databricks",
@@ -21541,8 +21925,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock"
     ],
     "missing_skills": [
       "databricks",
@@ -21588,8 +21972,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock"
     ],
     "missing_skills": [
       "databricks",
@@ -21635,8 +22019,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock"
     ],
     "missing_skills": [
       "databricks",
@@ -21682,8 +22066,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock"
     ],
     "missing_skills": [
       "databricks",
@@ -21729,8 +22113,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock"
     ],
     "missing_skills": [
       "databricks",
@@ -21776,8 +22160,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock"
     ],
     "missing_skills": [
       "databricks",
@@ -21823,8 +22207,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock"
     ],
     "missing_skills": [
       "databricks",
@@ -21870,8 +22254,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock"
     ],
     "missing_skills": [
       "databricks",
@@ -21917,8 +22301,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock"
     ],
     "missing_skills": [
       "databricks",
@@ -21964,8 +22348,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock"
     ],
     "missing_skills": [
       "databricks",
@@ -22011,8 +22395,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock"
     ],
     "missing_skills": [
       "databricks",
@@ -22058,8 +22442,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock"
     ],
     "missing_skills": [
       "databricks",
@@ -22105,8 +22489,8 @@
       "mcp"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock",
       "guidance ← experience with structured output"
     ],
     "missing_skills": [
@@ -22149,8 +22533,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock",
       "guidance ← experience with structured output",
       "metrics ← experience with observability"
     ],
@@ -22196,8 +22580,8 @@
       "docker"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock",
       "logging ← experience with observability",
       "metrics ← experience with observability"
     ],
@@ -22242,7 +22626,7 @@
       "tool calling"
     ],
     "transferable_matches": [
-      "agent development kit ← experience with langchain"
+      "agent development kit ← experience with llamaindex"
     ],
     "missing_skills": [
       "browser automation",
@@ -22291,8 +22675,8 @@
       "observability"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock",
       "logging ← experience with observability"
     ],
     "missing_skills": [
@@ -22393,7 +22777,7 @@
       "python"
     ],
     "transferable_matches": [
-      "unstructured ← experience with langchain"
+      "unstructured ← experience with llamaindex"
     ],
     "missing_skills": [
       "bigquery",
@@ -22876,7 +23260,7 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services"
+      "azure ← experience with bedrock"
     ],
     "missing_skills": [
       "java",
@@ -23350,7 +23734,7 @@
       "python"
     ],
     "transferable_matches": [
-      "dify ← experience with langchain"
+      "dify ← experience with llamaindex"
     ],
     "missing_skills": [
       "java",
@@ -23435,8 +23819,8 @@
       "openai"
     ],
     "transferable_matches": [
-      "cohere ← experience with openai",
-      "together ai ← experience with openai"
+      "cohere ← experience with anthropic",
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "lora",
@@ -23508,48 +23892,6 @@
   {
     "score": 67,
     "priority": "⚪ REVIEW",
-    "title": "Senior Product Engineer, eComm (all gender)",
-    "company": "Distribusion Technologies",
-    "source": "arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/distribusion-technologies/remote-senior-product-engineer-ecomm-all-gender-berlin-296049",
-    "posted_at": "2026-08-16T23:30:13+00:00",
-    "remote": true,
-    "location": "Remote job",
-    "salary": null,
-    "technical_matches": [
-      "docker",
-      "fastapi",
-      "python"
-    ],
-    "transferable_matches": [],
-    "missing_skills": [
-      "django",
-      "kubernetes",
-      "sql",
-      "typescript"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "not specified",
-    "location_eligible": true,
-    "location_confidence": "high",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at Distribusion Technologies with strong overlap in python, fastapi, docker.",
-    "recommended_action": "SKIP",
-    "response_probability": "UNKNOWN",
-    "url_status": "not_checked",
-    "score_breakdown": {
-      "technical": 45,
-      "role": 54,
-      "remote": 100,
-      "freshness": 90,
-      "experience": 100,
-      "response": 50,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 67,
-    "priority": "⚪ REVIEW",
     "title": "AI Operations & Automation Manager - Europe/LaTAM",
     "company": "Storyblok",
     "source": "weworkremotely",
@@ -23565,7 +23907,7 @@
     "transferable_matches": [
       "metrics ← experience with observability",
       "otel ← experience with observability",
-      "together ai ← experience with openai"
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "document ai",
@@ -23650,7 +23992,7 @@
       "python"
     ],
     "transferable_matches": [
-      "gcp ← experience with amazon web services",
+      "gcp ← experience with bedrock",
       "prompt engineering ← experience with structured output"
     ],
     "missing_skills": [
@@ -23694,8 +24036,8 @@
       "postgresql"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock",
       "metrics ← experience with observability",
       "tracing ← experience with observability"
     ],
@@ -23745,7 +24087,7 @@
       "python"
     ],
     "transferable_matches": [
-      "gcp ← experience with amazon web services"
+      "gcp ← experience with bedrock"
     ],
     "missing_skills": [
       "document ai",
@@ -23930,9 +24272,9 @@
       "aws"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with llamaindex",
       "arize ← experience with llm evaluation",
-      "gcp ← experience with amazon web services",
+      "gcp ← experience with bedrock",
       "metrics ← experience with observability"
     ],
     "missing_skills": [
@@ -24020,7 +24362,7 @@
     "transferable_matches": [
       "guidance ← experience with structured output",
       "otel ← experience with observability",
-      "together ai ← experience with openai"
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "distributed systems",
@@ -24066,7 +24408,7 @@
     "transferable_matches": [
       "guidance ← experience with structured output",
       "otel ← experience with observability",
-      "together ai ← experience with openai"
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "distributed systems",
@@ -24112,7 +24454,7 @@
     "transferable_matches": [
       "guidance ← experience with structured output",
       "otel ← experience with observability",
-      "together ai ← experience with openai"
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "document ai",
@@ -24156,7 +24498,7 @@
     "transferable_matches": [
       "guidance ← experience with structured output",
       "otel ← experience with observability",
-      "together ai ← experience with openai"
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "kubernetes",
@@ -24199,7 +24541,7 @@
     "transferable_matches": [
       "guidance ← experience with structured output",
       "otel ← experience with observability",
-      "together ai ← experience with openai"
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "distributed systems",
@@ -24244,7 +24586,7 @@
     "transferable_matches": [
       "guidance ← experience with structured output",
       "otel ← experience with observability",
-      "together ai ← experience with openai"
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "distributed systems",
@@ -24289,7 +24631,7 @@
     "transferable_matches": [
       "guidance ← experience with structured output",
       "otel ← experience with observability",
-      "together ai ← experience with openai"
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "distributed systems",
@@ -24334,7 +24676,7 @@
     "transferable_matches": [
       "guidance ← experience with structured output",
       "otel ← experience with observability",
-      "together ai ← experience with openai"
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "distributed systems",
@@ -24380,7 +24722,7 @@
     "transferable_matches": [
       "guidance ← experience with structured output",
       "otel ← experience with observability",
-      "together ai ← experience with openai"
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "distributed systems",
@@ -24425,7 +24767,7 @@
       "python"
     ],
     "transferable_matches": [
-      "together ai ← experience with openai"
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "api integration",
@@ -24471,7 +24813,7 @@
       "python"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with llamaindex",
       "metrics ← experience with observability"
     ],
     "missing_skills": [
@@ -24497,6 +24839,46 @@
       "role": 49,
       "remote": 100,
       "freshness": 35,
+      "experience": 100,
+      "response": 60,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 66,
+    "priority": "⚪ REVIEW",
+    "title": "Senior FP&A Analyst, Corporate Finance",
+    "company": "gitlab",
+    "source": "greenhouse",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8621204002",
+    "posted_at": "2026-08-17T18:52:18-04:00",
+    "remote": true,
+    "location": "Remote, Canada; Remote, United States",
+    "salary": null,
+    "technical_matches": [
+      "agent orchestration",
+      "claude"
+    ],
+    "transferable_matches": [
+      "gemini ← experience with anthropic"
+    ],
+    "missing_skills": [
+      "rust"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "not specified",
+    "location_eligible": true,
+    "location_confidence": "high",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at gitlab with strong overlap in agent orchestration, claude, gemini.",
+    "recommended_action": "SKIP",
+    "response_probability": "MEDIUM",
+    "url_status": "not_checked",
+    "score_breakdown": {
+      "technical": 40,
+      "role": 43,
+      "remote": 100,
+      "freshness": 100,
       "experience": 100,
       "response": 60,
       "compensation": 50
@@ -24559,8 +24941,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock"
     ],
     "missing_skills": [
       "databricks",
@@ -24609,7 +24991,7 @@
       "python"
     ],
     "transferable_matches": [
-      "gemini ← experience with openai"
+      "gemini ← experience with anthropic"
     ],
     "missing_skills": [
       "databricks",
@@ -24654,7 +25036,7 @@
       "python"
     ],
     "transferable_matches": [
-      "gemini ← experience with openai"
+      "gemini ← experience with anthropic"
     ],
     "missing_skills": [
       "databricks",
@@ -24685,54 +25067,6 @@
   {
     "score": 66,
     "priority": "⚪ REVIEW",
-    "title": "Sr. Solutions Engineer - Public Sector (DoW - 4th Estate)",
-    "company": "databricks",
-    "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8415025002",
-    "posted_at": "2026-08-14T18:46:11-04:00",
-    "remote": false,
-    "location": "Maryland; Virginia; Washington, D.C.",
-    "salary": null,
-    "technical_matches": [
-      "aws",
-      "python"
-    ],
-    "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
-    ],
-    "missing_skills": [
-      "databricks",
-      "java",
-      "kafka",
-      "mlflow",
-      "rust",
-      "scikit-learn",
-      "spark",
-      "sql"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "5+ years required",
-    "location_eligible": true,
-    "location_confidence": "low",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at databricks with strong overlap in python, aws, azure, gcp.",
-    "recommended_action": "SKIP",
-    "response_probability": "MEDIUM",
-    "url_status": "not_checked",
-    "score_breakdown": {
-      "technical": 50,
-      "role": 92,
-      "remote": 55,
-      "freshness": 75,
-      "experience": 95,
-      "response": 60,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 66,
-    "priority": "⚪ REVIEW",
     "title": "Sr. Staff Forward Deployed Engineer",
     "company": "databricks",
     "source": "greenhouse",
@@ -24747,7 +25081,7 @@
       "python"
     ],
     "transferable_matches": [
-      "gemini ← experience with openai"
+      "gemini ← experience with anthropic"
     ],
     "missing_skills": [
       "databricks",
@@ -24792,8 +25126,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock"
     ],
     "missing_skills": [
       "kubernetes",
@@ -25123,7 +25457,7 @@
       "ci/cd"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services"
+      "azure ← experience with bedrock"
     ],
     "missing_skills": [],
     "hard_requirements_missing": [],
@@ -25161,7 +25495,7 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services"
+      "azure ← experience with bedrock"
     ],
     "missing_skills": [
       "java",
@@ -25243,7 +25577,7 @@
       "aws"
     ],
     "transferable_matches": [
-      "gcp ← experience with amazon web services"
+      "gcp ← experience with bedrock"
     ],
     "missing_skills": [],
     "hard_requirements_missing": [],
@@ -25280,7 +25614,7 @@
       "aws"
     ],
     "transferable_matches": [
-      "gcp ← experience with amazon web services"
+      "gcp ← experience with bedrock"
     ],
     "missing_skills": [],
     "hard_requirements_missing": [],
@@ -25317,7 +25651,7 @@
       "aws"
     ],
     "transferable_matches": [
-      "gcp ← experience with amazon web services"
+      "gcp ← experience with bedrock"
     ],
     "missing_skills": [],
     "hard_requirements_missing": [],
@@ -25355,7 +25689,7 @@
       "python"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain"
+      "agno ← experience with llamaindex"
     ],
     "missing_skills": [],
     "hard_requirements_missing": [],
@@ -25394,7 +25728,7 @@
     ],
     "transferable_matches": [
       "arize ← experience with llm evaluation",
-      "together ai ← experience with openai",
+      "together ai ← experience with anthropic",
       "traces ← experience with observability"
     ],
     "missing_skills": [
@@ -25440,7 +25774,7 @@
       "python"
     ],
     "transferable_matches": [
-      "together ai ← experience with openai"
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "embedding",
@@ -25484,7 +25818,7 @@
       "python"
     ],
     "transferable_matches": [
-      "together ai ← experience with openai"
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "embedding",
@@ -25528,8 +25862,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock",
       "instructor ← experience with structured output"
     ],
     "missing_skills": [
@@ -25574,8 +25908,8 @@
       "python"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
-      "transformers ← experience with openai"
+      "agno ← experience with llamaindex",
+      "transformers ← experience with anthropic"
     ],
     "missing_skills": [
       "distributed systems",
@@ -25621,7 +25955,7 @@
       "python"
     ],
     "transferable_matches": [
-      "dify ← experience with langchain",
+      "dify ← experience with llamaindex",
       "guidance ← experience with structured output"
     ],
     "missing_skills": [
@@ -25664,7 +25998,7 @@
       "python"
     ],
     "transferable_matches": [
-      "together ai ← experience with openai"
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "go",
@@ -25734,48 +26068,6 @@
   {
     "score": 66,
     "priority": "⚪ REVIEW",
-    "title": "Machine Learning Consultant (m/w/d)",
-    "company": "Machine Learning Reply",
-    "source": "arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/machine-learning-reply/machine-learning-consultant-munich-280382",
-    "posted_at": "2026-08-17T17:30:16+00:00",
-    "remote": false,
-    "location": "Munich, Bayern, Germany",
-    "salary": null,
-    "technical_matches": [
-      "docker",
-      "python",
-      "rag"
-    ],
-    "transferable_matches": [],
-    "missing_skills": [
-      "java",
-      "kubernetes",
-      "spark",
-      "sql"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "not specified",
-    "location_eligible": true,
-    "location_confidence": "low",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at Machine Learning Reply with strong overlap in rag, python, docker.",
-    "recommended_action": "SKIP",
-    "response_probability": "UNKNOWN",
-    "url_status": "not_checked",
-    "score_breakdown": {
-      "technical": 45,
-      "role": 78,
-      "remote": 55,
-      "freshness": 100,
-      "experience": 100,
-      "response": 50,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 66,
-    "priority": "⚪ REVIEW",
     "title": "Software Development Engineer II, Routing Tiling",
     "company": "Mapbox",
     "source": "arbeitnow",
@@ -25788,8 +26080,8 @@
       "aws"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock",
       "guidance ← experience with structured output"
     ],
     "missing_skills": [
@@ -25831,7 +26123,7 @@
       "python"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with llamaindex",
       "metrics ← experience with observability",
       "otel ← experience with observability"
     ],
@@ -25878,7 +26170,7 @@
     ],
     "transferable_matches": [
       "guardrails ← experience with structured output",
-      "unstructured ← experience with langchain"
+      "unstructured ← experience with llamaindex"
     ],
     "missing_skills": [
       "autonomous agents",
@@ -25923,8 +26215,8 @@
       "docker"
     ],
     "transferable_matches": [
-      "ec2 ← experience with amazon web services",
-      "ecs ← experience with amazon web services"
+      "ec2 ← experience with bedrock",
+      "ecs ← experience with bedrock"
     ],
     "missing_skills": [
       "dynamodb",
@@ -26046,10 +26338,10 @@
     "title": "Senior Staff Data Scientist - Consumer Experimentation",
     "company": "reddit",
     "source": "greenhouse",
-    "url": "https://job-boards.greenhouse.io/reddit/jobs/7974507",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/7974504",
     "posted_at": "2026-08-17T08:13:17-04:00",
     "remote": true,
-    "location": "Remote - Ontario, Canada",
+    "location": "Remote - United States",
     "salary": null,
     "technical_matches": [
       "python"
@@ -26092,10 +26384,10 @@
     "title": "Senior Staff Data Scientist - Consumer Experimentation",
     "company": "reddit",
     "source": "greenhouse",
-    "url": "https://job-boards.greenhouse.io/reddit/jobs/7974504",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/7974507",
     "posted_at": "2026-08-17T08:13:17-04:00",
     "remote": true,
-    "location": "Remote - United States",
+    "location": "Remote - Ontario, Canada",
     "salary": null,
     "technical_matches": [
       "python"
@@ -26498,7 +26790,7 @@
       "aws"
     ],
     "transferable_matches": [
-      "google cloud ← experience with amazon web services",
+      "google cloud ← experience with bedrock",
       "metrics ← experience with observability"
     ],
     "missing_skills": [
@@ -26539,8 +26831,8 @@
       "ci/cd"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
-      "dify ← experience with langchain",
+      "agno ← experience with llamaindex",
+      "dify ← experience with llamaindex",
       "metrics ← experience with observability"
     ],
     "missing_skills": [
@@ -26583,8 +26875,8 @@
       "python"
     ],
     "transferable_matches": [
-      "gcp ← experience with amazon web services",
-      "together ai ← experience with openai"
+      "gcp ← experience with bedrock",
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "agent workflows",
@@ -26672,8 +26964,8 @@
       "ci/cd"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock",
       "guidance ← experience with structured output"
     ],
     "missing_skills": [
@@ -26720,8 +27012,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock"
     ],
     "missing_skills": [
       "databricks",
@@ -26768,8 +27060,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock"
     ],
     "missing_skills": [
       "databricks",
@@ -26863,8 +27155,8 @@
       "github actions"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock"
     ],
     "missing_skills": [
       "kubernetes",
@@ -26953,7 +27245,7 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services"
+      "azure ← experience with bedrock"
     ],
     "missing_skills": [
       "rest api",
@@ -27078,7 +27370,7 @@
       "arize ← experience with llm evaluation",
       "guardrails ← experience with structured output",
       "guidance ← experience with structured output",
-      "together ai ← experience with openai"
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "go",
@@ -27120,7 +27412,7 @@
       "python"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain"
+      "agno ← experience with llamaindex"
     ],
     "missing_skills": [
       "document ai",
@@ -27162,7 +27454,7 @@
       "python"
     ],
     "transferable_matches": [
-      "dify ← experience with langchain",
+      "dify ← experience with llamaindex",
       "guidance ← experience with structured output"
     ],
     "missing_skills": [
@@ -27185,44 +27477,6 @@
       "remote": 100,
       "freshness": 35,
       "experience": 95,
-      "response": 60,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 65,
-    "priority": "⚪ REVIEW",
-    "title": "People Systems Lead",
-    "company": "openai",
-    "source": "ashby",
-    "url": "https://jobs.ashbyhq.com/openai/9bfc3ebf-c154-4037-8fef-900d3a49ec89/application",
-    "posted_at": "2026-08-17T16:52:22.556000+00:00",
-    "remote": true,
-    "location": "San Francisco",
-    "salary": null,
-    "technical_matches": [
-      "ai agents",
-      "openai"
-    ],
-    "transferable_matches": [],
-    "missing_skills": [
-      "rust"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "not specified",
-    "location_eligible": true,
-    "location_confidence": "high",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at openai with strong overlap in ai agents, openai.",
-    "recommended_action": "SKIP",
-    "response_probability": "MEDIUM",
-    "url_status": "not_checked",
-    "score_breakdown": {
-      "technical": 30,
-      "role": 57,
-      "remote": 100,
-      "freshness": 100,
-      "experience": 100,
       "response": 60,
       "compensation": 50
     }
@@ -27262,6 +27516,48 @@
       "role": 85,
       "remote": 55,
       "freshness": 90,
+      "experience": 100,
+      "response": 50,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 65,
+    "priority": "⚪ REVIEW",
+    "title": "Senior Product Engineer, eComm (all gender)",
+    "company": "Distribusion Technologies",
+    "source": "arbeitnow",
+    "url": "https://www.arbeitnow.com/jobs/companies/distribusion-technologies/remote-senior-product-engineer-ecomm-all-gender-berlin-296049",
+    "posted_at": "2026-08-16T23:30:13+00:00",
+    "remote": true,
+    "location": "Remote job",
+    "salary": null,
+    "technical_matches": [
+      "docker",
+      "fastapi",
+      "python"
+    ],
+    "transferable_matches": [],
+    "missing_skills": [
+      "django",
+      "kubernetes",
+      "sql",
+      "typescript"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "not specified",
+    "location_eligible": true,
+    "location_confidence": "high",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at Distribusion Technologies with strong overlap in python, fastapi, docker.",
+    "recommended_action": "SKIP",
+    "response_probability": "UNKNOWN",
+    "url_status": "not_checked",
+    "score_breakdown": {
+      "technical": 45,
+      "role": 54,
+      "remote": 100,
+      "freshness": 75,
       "experience": 100,
       "response": 50,
       "compensation": 50

@@ -62,10 +62,10 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
+      "azure ← experience with amazon web services",
       "dify ← experience with langchain",
-      "gcp ← experience with aws",
-      "google cloud ← experience with aws",
+      "gcp ← experience with amazon web services",
+      "google cloud ← experience with amazon web services",
       "otel ← experience with observability"
     ],
     "missing_skills": [
@@ -111,9 +111,9 @@
       "rag"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
+      "azure ← experience with amazon web services",
       "dspy ← experience with langchain",
-      "gcp ← experience with aws",
+      "gcp ← experience with amazon web services",
       "hugging face ← experience with claude"
     ],
     "missing_skills": [
@@ -303,12 +303,12 @@
       "mcp"
     ],
     "transferable_matches": [
-      "guidance ← experience with pydantic v2",
-      "instructor ← experience with pydantic v2",
+      "guidance ← experience with structured output",
+      "instructor ← experience with structured output",
       "metrics ← experience with observability",
-      "prompt engineering ← experience with pydantic v2",
+      "prompt engineering ← experience with structured output",
       "together ai ← experience with claude",
-      "unstructured ← experience with lightrag"
+      "unstructured ← experience with llamaindex"
     ],
     "missing_skills": [
       "classification",
@@ -354,7 +354,7 @@
       "rag"
     ],
     "transferable_matches": [
-      "unstructured ← experience with lightrag"
+      "unstructured ← experience with llamaindex"
     ],
     "missing_skills": [
       "semantic search"
@@ -580,18 +580,18 @@
     "transferable_matches": [
       "aws bedrock ← experience with claude",
       "datadog ← experience with observability",
-      "eks ← experience with aws",
+      "eks ← experience with amazon web services",
       "elasticsearch ← experience with qdrant",
       "evals ← experience with llm evaluation",
       "golden dataset ← experience with llm evaluation",
       "graph database ← experience with knowledge graph",
-      "graphrag ← experience with lightrag",
+      "graphrag ← experience with llamaindex",
       "langfuse ← experience with observability",
       "opensearch ← experience with qdrant",
       "opentelemetry ← experience with observability",
       "otel ← experience with observability",
       "pydantic ai ← experience with langchain",
-      "s3 ← experience with aws"
+      "s3 ← experience with amazon web services"
     ],
     "missing_skills": [
       "agent workflows",
@@ -655,8 +655,8 @@
     ],
     "transferable_matches": [
       "otel ← experience with observability",
-      "prompt engineering ← experience with pydantic v2",
-      "unstructured ← experience with lightrag"
+      "prompt engineering ← experience with structured output",
+      "unstructured ← experience with llamaindex"
     ],
     "missing_skills": [
       "airflow",
@@ -707,8 +707,8 @@
     ],
     "transferable_matches": [
       "otel ← experience with observability",
-      "prompt engineering ← experience with pydantic v2",
-      "unstructured ← experience with lightrag"
+      "prompt engineering ← experience with structured output",
+      "unstructured ← experience with llamaindex"
     ],
     "missing_skills": [
       "airflow",
@@ -760,9 +760,9 @@
     ],
     "transferable_matches": [
       "agno ← experience with langchain",
-      "guardrails ← experience with pydantic v2",
+      "guardrails ← experience with structured output",
       "metrics ← experience with observability",
-      "prompt engineering ← experience with pydantic v2",
+      "prompt engineering ← experience with structured output",
       "together ai ← experience with claude",
       "tracing ← experience with observability"
     ],
@@ -819,7 +819,7 @@
     ],
     "transferable_matches": [
       "agno ← experience with langchain",
-      "guidance ← experience with pydantic v2",
+      "guidance ← experience with structured output",
       "traces ← experience with observability"
     ],
     "missing_skills": [
@@ -876,7 +876,7 @@
     ],
     "transferable_matches": [
       "agno ← experience with langchain",
-      "guidance ← experience with pydantic v2",
+      "guidance ← experience with structured output",
       "traces ← experience with observability"
     ],
     "missing_skills": [
@@ -933,7 +933,7 @@
     ],
     "transferable_matches": [
       "agno ← experience with langchain",
-      "guidance ← experience with pydantic v2",
+      "guidance ← experience with structured output",
       "traces ← experience with observability"
     ],
     "missing_skills": [
@@ -991,9 +991,9 @@
     ],
     "transferable_matches": [
       "agno ← experience with langchain",
-      "guardrails ← experience with pydantic v2",
+      "guardrails ← experience with structured output",
       "metrics ← experience with observability",
-      "prompt engineering ← experience with pydantic v2",
+      "prompt engineering ← experience with structured output",
       "together ai ← experience with claude",
       "tracing ← experience with observability"
     ],
@@ -1148,7 +1148,7 @@
     ],
     "transferable_matches": [
       "agno ← experience with langchain",
-      "guidance ← experience with pydantic v2",
+      "guidance ← experience with structured output",
       "traces ← experience with observability"
     ],
     "missing_skills": [
@@ -1206,7 +1206,7 @@
       "rag"
     ],
     "transferable_matches": [
-      "gcp ← experience with aws",
+      "gcp ← experience with amazon web services",
       "gemini ← experience with claude",
       "vertex ai ← experience with claude"
     ],
@@ -1252,7 +1252,7 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
+      "azure ← experience with amazon web services",
       "grafana ← experience with observability",
       "networkx ← experience with knowledge graph"
     ],
@@ -1302,7 +1302,7 @@
     ],
     "transferable_matches": [
       "cohere ← experience with claude",
-      "guardrails ← experience with pydantic v2",
+      "guardrails ← experience with structured output",
       "logging ← experience with observability"
     ],
     "missing_skills": [
@@ -1364,10 +1364,10 @@
     ],
     "transferable_matches": [
       "agno ← experience with langchain",
-      "gcp ← experience with aws",
-      "gke ← experience with aws",
-      "google cloud ← experience with aws",
-      "guidance ← experience with pydantic v2"
+      "gcp ← experience with amazon web services",
+      "gke ← experience with amazon web services",
+      "google cloud ← experience with amazon web services",
+      "guidance ← experience with structured output"
     ],
     "missing_skills": [
       "api integration",
@@ -1413,9 +1413,9 @@
       "rag"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
+      "azure ← experience with amazon web services",
       "dspy ← experience with langchain",
-      "gcp ← experience with aws",
+      "gcp ← experience with amazon web services",
       "hugging face ← experience with claude"
     ],
     "missing_skills": [
@@ -1463,9 +1463,9 @@
       "rag"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
+      "azure ← experience with amazon web services",
       "dspy ← experience with langchain",
-      "gcp ← experience with aws",
+      "gcp ← experience with amazon web services",
       "hugging face ← experience with claude"
     ],
     "missing_skills": [
@@ -1513,9 +1513,9 @@
       "rag"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
+      "azure ← experience with amazon web services",
       "dspy ← experience with langchain",
-      "gcp ← experience with aws",
+      "gcp ← experience with amazon web services",
       "hugging face ← experience with claude"
     ],
     "missing_skills": [
@@ -1563,9 +1563,9 @@
       "rag"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
+      "azure ← experience with amazon web services",
       "dspy ← experience with langchain",
-      "gcp ← experience with aws",
+      "gcp ← experience with amazon web services",
       "hugging face ← experience with claude"
     ],
     "missing_skills": [
@@ -1615,7 +1615,7 @@
       "python"
     ],
     "transferable_matches": [
-      "google cloud ← experience with aws"
+      "google cloud ← experience with amazon web services"
     ],
     "missing_skills": [
       "java",
@@ -1663,9 +1663,9 @@
     ],
     "transferable_matches": [
       "agno ← experience with langchain",
-      "ecs ← experience with aws",
+      "ecs ← experience with amazon web services",
       "langfuse ← experience with observability",
-      "prompt engineering ← experience with pydantic v2"
+      "prompt engineering ← experience with structured output"
     ],
     "missing_skills": [
       "dynamodb",
@@ -1716,8 +1716,8 @@
       "tool calling"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws",
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
       "logging ← experience with observability"
     ],
     "missing_skills": [
@@ -1826,7 +1826,7 @@
     ],
     "transferable_matches": [
       "agno ← experience with langchain",
-      "azure ← experience with aws",
+      "azure ← experience with amazon web services",
       "pgvector ← experience with qdrant",
       "pinecone ← experience with qdrant",
       "together ai ← experience with claude",
@@ -1893,7 +1893,7 @@
       "supervisor"
     ],
     "transferable_matches": [
-      "guardrails ← experience with pydantic v2"
+      "guardrails ← experience with structured output"
     ],
     "missing_skills": [
       "celery",
@@ -1929,67 +1929,6 @@
   {
     "score": 87,
     "priority": "🟢 HIGH MATCH",
-    "title": "Software Engineer",
-    "company": "Letly",
-    "source": "arbeitnow",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/letly/software-engineer-london-375270",
-    "posted_at": "2026-08-19T12:40:18+00:00",
-    "remote": false,
-    "location": "London",
-    "salary": null,
-    "technical_matches": [
-      "agentic ai",
-      "aws",
-      "ci/cd",
-      "docker",
-      "fastapi",
-      "observability",
-      "python",
-      "redis",
-      "tool calling"
-    ],
-    "transferable_matches": [
-      "gcp ← experience with aws",
-      "gke ← experience with aws",
-      "guardrails ← experience with pydantic v2"
-    ],
-    "missing_skills": [
-      ".net",
-      "c#",
-      "distributed systems",
-      "django",
-      "go",
-      "java",
-      "kafka",
-      "kubernetes",
-      "mongodb",
-      "nestjs",
-      "rust",
-      "spring boot",
-      "typescript"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "2+ years required (meets bar)",
-    "location_eligible": true,
-    "location_confidence": "low",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at Letly with strong overlap in agentic ai, tool calling, observability, guardrails, gcp.",
-    "recommended_action": "APPLY_NOW",
-    "response_probability": "MEDIUM",
-    "url_status": "ok",
-    "score_breakdown": {
-      "technical": 100,
-      "role": 100,
-      "remote": 55,
-      "freshness": 90,
-      "experience": 100,
-      "response": 60,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 87,
-    "priority": "🟢 HIGH MATCH",
     "title": "AI Platform Engineer",
     "company": "CHAPTERS Group AG",
     "source": "arbeitnow",
@@ -2010,9 +1949,9 @@
       "redis"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "guardrails ← experience with pydantic v2",
-      "guidance ← experience with pydantic v2"
+      "azure ← experience with amazon web services",
+      "guardrails ← experience with structured output",
+      "guidance ← experience with structured output"
     ],
     "missing_skills": [
       "document ai",
@@ -2060,8 +1999,8 @@
     ],
     "transferable_matches": [
       "azure openai ← experience with claude",
-      "azure ← experience with aws",
-      "prompt engineering ← experience with pydantic v2"
+      "azure ← experience with amazon web services",
+      "prompt engineering ← experience with structured output"
     ],
     "missing_skills": [
       "databricks",
@@ -2106,10 +2045,10 @@
       "tool calling"
     ],
     "transferable_matches": [
-      "azure ai ← experience with aws",
-      "azure ← experience with aws",
+      "azure ai ← experience with amazon web services",
+      "azure ← experience with amazon web services",
       "evals ← experience with llm evaluation",
-      "guardrails ← experience with pydantic v2",
+      "guardrails ← experience with structured output",
       "pydantic ai ← experience with langchain",
       "pydanticai ← experience with langchain"
     ],
@@ -2201,8 +2140,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws",
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
       "metrics ← experience with observability"
     ],
     "missing_skills": [
@@ -2256,8 +2195,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "c#",
@@ -2311,7 +2250,7 @@
       "logging ← experience with observability",
       "metrics ← experience with observability",
       "prometheus ← experience with observability",
-      "s3 ← experience with aws"
+      "s3 ← experience with amazon web services"
     ],
     "missing_skills": [
       "distributed systems",
@@ -2416,8 +2355,8 @@
     ],
     "transferable_matches": [
       "agno ← experience with langchain",
-      "guardrails ← experience with pydantic v2",
-      "guidance ← experience with pydantic v2",
+      "guardrails ← experience with structured output",
+      "guidance ← experience with structured output",
       "llama ← experience with claude",
       "llama.cpp ← experience with claude",
       "qwen ← experience with claude",
@@ -2525,10 +2464,10 @@
     ],
     "transferable_matches": [
       "agno ← experience with langchain",
-      "guardrails ← experience with pydantic v2",
-      "guidance ← experience with pydantic v2",
+      "guardrails ← experience with structured output",
+      "guidance ← experience with structured output",
       "traces ← experience with observability",
-      "unstructured ← experience with lightrag"
+      "unstructured ← experience with llamaindex"
     ],
     "missing_skills": [
       "agent workflows",
@@ -2580,7 +2519,7 @@
       "python"
     ],
     "transferable_matches": [
-      "gcp ← experience with aws",
+      "gcp ← experience with amazon web services",
       "gemini ← experience with claude"
     ],
     "missing_skills": [
@@ -2630,7 +2569,7 @@
       "supervisor"
     ],
     "transferable_matches": [
-      "gcp ← experience with aws",
+      "gcp ← experience with amazon web services",
       "otel ← experience with observability"
     ],
     "missing_skills": [
@@ -2676,10 +2615,10 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws",
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
       "logging ← experience with observability",
-      "prompt optimization ← experience with pydantic v2"
+      "prompt optimization ← experience with structured output"
     ],
     "missing_skills": [
       "databricks",
@@ -2731,8 +2670,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "c#",
@@ -2785,10 +2724,10 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
+      "azure ← experience with amazon web services",
       "datadog ← experience with observability",
-      "gcp ← experience with aws",
-      "guidance ← experience with pydantic v2",
+      "gcp ← experience with amazon web services",
+      "guidance ← experience with structured output",
       "logging ← experience with observability",
       "metrics ← experience with observability",
       "prometheus ← experience with observability",
@@ -2838,8 +2777,8 @@
       "observability"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws",
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
       "logging ← experience with observability",
       "tracing ← experience with observability"
     ],
@@ -2888,9 +2827,9 @@
       "rag"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws",
-      "guardrails ← experience with pydantic v2"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
+      "guardrails ← experience with structured output"
     ],
     "missing_skills": [
       "databricks",
@@ -2988,9 +2927,9 @@
     ],
     "transferable_matches": [
       "agno ← experience with langchain",
-      "guardrails ← experience with pydantic v2",
+      "guardrails ← experience with structured output",
       "traces ← experience with observability",
-      "unstructured ← experience with lightrag"
+      "unstructured ← experience with llamaindex"
     ],
     "missing_skills": [
       "agent workflows",
@@ -3042,7 +2981,7 @@
     ],
     "transferable_matches": [
       "grafana ← experience with observability",
-      "guardrails ← experience with pydantic v2",
+      "guardrails ← experience with structured output",
       "logging ← experience with observability",
       "metrics ← experience with observability",
       "prometheus ← experience with observability"
@@ -3091,7 +3030,7 @@
     ],
     "transferable_matches": [
       "grafana ← experience with observability",
-      "guardrails ← experience with pydantic v2",
+      "guardrails ← experience with structured output",
       "logging ← experience with observability",
       "metrics ← experience with observability",
       "prometheus ← experience with observability"
@@ -3140,7 +3079,7 @@
     ],
     "transferable_matches": [
       "grafana ← experience with observability",
-      "guardrails ← experience with pydantic v2",
+      "guardrails ← experience with structured output",
       "logging ← experience with observability",
       "metrics ← experience with observability",
       "prometheus ← experience with observability"
@@ -3189,7 +3128,7 @@
     ],
     "transferable_matches": [
       "grafana ← experience with observability",
-      "guardrails ← experience with pydantic v2",
+      "guardrails ← experience with structured output",
       "logging ← experience with observability",
       "metrics ← experience with observability",
       "prometheus ← experience with observability"
@@ -3238,7 +3177,7 @@
     ],
     "transferable_matches": [
       "grafana ← experience with observability",
-      "guardrails ← experience with pydantic v2",
+      "guardrails ← experience with structured output",
       "logging ← experience with observability",
       "metrics ← experience with observability",
       "prometheus ← experience with observability"
@@ -3287,7 +3226,7 @@
     ],
     "transferable_matches": [
       "grafana ← experience with observability",
-      "guardrails ← experience with pydantic v2",
+      "guardrails ← experience with structured output",
       "logging ← experience with observability",
       "metrics ← experience with observability",
       "prometheus ← experience with observability"
@@ -3336,7 +3275,7 @@
     ],
     "transferable_matches": [
       "grafana ← experience with observability",
-      "guardrails ← experience with pydantic v2",
+      "guardrails ← experience with structured output",
       "logging ← experience with observability",
       "metrics ← experience with observability",
       "prometheus ← experience with observability"
@@ -3387,8 +3326,8 @@
     ],
     "transferable_matches": [
       "agno ← experience with langchain",
-      "cloudwatch ← experience with observability",
-      "ecs ← experience with aws",
+      "cloudwatch ← experience with amazon web services",
+      "ecs ← experience with amazon web services",
       "elasticsearch ← experience with qdrant",
       "grafana ← experience with observability",
       "metrics ← experience with observability",
@@ -3603,10 +3542,10 @@
       "rag"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws",
-      "guardrails ← experience with pydantic v2",
-      "guidance ← experience with pydantic v2",
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
+      "guardrails ← experience with structured output",
+      "guidance ← experience with structured output",
       "logging ← experience with observability"
     ],
     "missing_skills": [
@@ -3656,8 +3595,8 @@
       "observability"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws",
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
       "logging ← experience with observability",
       "tracing ← experience with observability"
     ],
@@ -3710,11 +3649,11 @@
       "tool calling"
     ],
     "transferable_matches": [
-      "azure ai ← experience with aws",
-      "azure ← experience with aws",
+      "azure ai ← experience with amazon web services",
+      "azure ← experience with amazon web services",
       "cohere ← experience with claude",
       "evals ← experience with llm evaluation",
-      "guardrails ← experience with pydantic v2",
+      "guardrails ← experience with structured output",
       "pydantic ai ← experience with langchain",
       "pydanticai ← experience with langchain",
       "together ai ← experience with claude"
@@ -3761,9 +3700,9 @@
     ],
     "transferable_matches": [
       "agno ← experience with langchain",
-      "azure ← experience with aws",
+      "azure ← experience with amazon web services",
       "datadog ← experience with observability",
-      "ecs ← experience with aws",
+      "ecs ← experience with amazon web services",
       "grafana ← experience with observability",
       "logging ← experience with observability",
       "metrics ← experience with observability",
@@ -3814,7 +3753,7 @@
       "python"
     ],
     "transferable_matches": [
-      "guidance ← experience with pydantic v2",
+      "guidance ← experience with structured output",
       "metrics ← experience with observability",
       "otel ← experience with observability"
     ],
@@ -3898,50 +3837,6 @@
   {
     "score": 83,
     "priority": "🟢 HIGH MATCH",
-    "title": "Senior Backend Engineer (Ruby), Plan: Portfolio Experience",
-    "company": "gitlab",
-    "source": "greenhouse",
-    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8682707002",
-    "posted_at": "2026-08-17T07:10:39-04:00",
-    "remote": true,
-    "location": "Remote, Canada; Remote, United States",
-    "salary": null,
-    "technical_matches": [
-      "agent orchestration",
-      "observability",
-      "postgresql",
-      "python"
-    ],
-    "transferable_matches": [
-      "elasticsearch ← experience with qdrant"
-    ],
-    "missing_skills": [
-      "graphql",
-      "postgres",
-      "rust"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "not specified",
-    "location_eligible": true,
-    "location_confidence": "high",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at gitlab with strong overlap in agent orchestration, observability, python, elasticsearch.",
-    "recommended_action": "APPLY_NOW",
-    "response_probability": "HIGH",
-    "url_status": "ok",
-    "score_breakdown": {
-      "technical": 70,
-      "role": 100,
-      "remote": 100,
-      "freshness": 75,
-      "experience": 100,
-      "response": 100,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 83,
-    "priority": "🟢 HIGH MATCH",
     "title": "Site Reliability Engineer, Intermediate to Senior Staff — Infrastructure Platforms",
     "company": "gitlab",
     "source": "greenhouse",
@@ -3958,8 +3853,8 @@
     ],
     "transferable_matches": [
       "agno ← experience with langchain",
-      "gcp ← experience with aws",
-      "guardrails ← experience with pydantic v2",
+      "gcp ← experience with amazon web services",
+      "guardrails ← experience with structured output",
       "logging ← experience with observability",
       "metrics ← experience with observability"
     ],
@@ -4008,12 +3903,12 @@
       "python"
     ],
     "transferable_matches": [
-      "aks ← experience with aws",
-      "azure ← experience with aws",
+      "aks ← experience with amazon web services",
+      "azure ← experience with amazon web services",
       "datadog ← experience with observability",
-      "eks ← experience with aws",
-      "gcp ← experience with aws",
-      "guidance ← experience with pydantic v2",
+      "eks ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
+      "guidance ← experience with structured output",
       "logging ← experience with observability",
       "metrics ← experience with observability",
       "prometheus ← experience with observability",
@@ -4063,8 +3958,8 @@
     ],
     "transferable_matches": [
       "agno ← experience with langchain",
-      "aks ← experience with aws",
-      "azure ← experience with aws",
+      "aks ← experience with amazon web services",
+      "azure ← experience with amazon web services",
       "elasticsearch ← experience with qdrant",
       "grafana ← experience with observability",
       "metrics ← experience with observability",
@@ -4116,7 +4011,7 @@
     ],
     "transferable_matches": [
       "elasticsearch ← experience with qdrant",
-      "guidance ← experience with pydantic v2",
+      "guidance ← experience with structured output",
       "otel ← experience with observability"
     ],
     "missing_skills": [
@@ -4145,6 +4040,55 @@
     }
   },
   {
+    "score": 83,
+    "priority": "🟢 HIGH MATCH",
+    "title": "Senior Security Engineer",
+    "company": "Docebo",
+    "source": "arbeitnow",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/docebo/senior-security-engineer-london-164567",
+    "posted_at": "2026-08-19T21:40:21+00:00",
+    "remote": false,
+    "location": "London, UK",
+    "salary": null,
+    "technical_matches": [
+      "aws",
+      "ci/cd",
+      "python"
+    ],
+    "transferable_matches": [
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
+      "guardrails ← experience with structured output",
+      "guidance ← experience with structured output",
+      "together ai ← experience with claude"
+    ],
+    "missing_skills": [
+      "document ai",
+      "go",
+      "kubernetes",
+      "rust",
+      "terraform"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "5+ years required",
+    "location_eligible": true,
+    "location_confidence": "low",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at Docebo with strong overlap in python, ci/cd, aws, together ai, guardrails.",
+    "recommended_action": "APPLY_NOW",
+    "response_probability": "MEDIUM",
+    "url_status": "ok",
+    "score_breakdown": {
+      "technical": 95,
+      "role": 84,
+      "remote": 55,
+      "freshness": 90,
+      "experience": 95,
+      "response": 60,
+      "compensation": 50
+    }
+  },
+  {
     "score": 82,
     "priority": "🟢 HIGH MATCH",
     "title": "Full Stack Engineer, Expansion",
@@ -4164,8 +4108,8 @@
     ],
     "transferable_matches": [
       "a/b testing ← experience with llm evaluation",
-      "guardrails ← experience with pydantic v2",
-      "prompt engineering ← experience with pydantic v2"
+      "guardrails ← experience with structured output",
+      "prompt engineering ← experience with structured output"
     ],
     "missing_skills": [
       "airflow",
@@ -4266,7 +4210,7 @@
       "python"
     ],
     "transferable_matches": [
-      "guidance ← experience with pydantic v2",
+      "guidance ← experience with structured output",
       "metrics ← experience with observability"
     ],
     "missing_skills": [
@@ -4323,10 +4267,10 @@
     ],
     "transferable_matches": [
       "agno ← experience with langchain",
-      "azure ← experience with aws",
-      "gcp ← experience with aws",
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
       "logging ← experience with observability",
-      "prompt engineering ← experience with pydantic v2",
+      "prompt engineering ← experience with structured output",
       "tracing ← experience with observability"
     ],
     "missing_skills": [
@@ -4381,8 +4325,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws",
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
       "metrics ← experience with observability"
     ],
     "missing_skills": [
@@ -4434,8 +4378,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws",
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
       "metrics ← experience with observability"
     ],
     "missing_skills": [
@@ -4483,8 +4427,8 @@
       "rag"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws",
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
       "hugging face ← experience with claude"
     ],
     "missing_skills": [
@@ -4532,12 +4476,12 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
+      "azure ← experience with amazon web services",
       "gemini ← experience with claude",
       "gpt ← experience with claude",
       "llama ← experience with claude",
       "qwen ← experience with claude",
-      "sagemaker ← experience with aws",
+      "sagemaker ← experience with amazon web services",
       "sglang ← experience with claude",
       "vertex ai ← experience with claude",
       "vllm ← experience with claude"
@@ -4634,7 +4578,7 @@
       "rag"
     ],
     "transferable_matches": [
-      "unstructured ← experience with lightrag"
+      "unstructured ← experience with llamaindex"
     ],
     "missing_skills": [
       "databricks",
@@ -4677,7 +4621,7 @@
     ],
     "transferable_matches": [
       "agno ← experience with langchain",
-      "guidance ← experience with pydantic v2",
+      "guidance ← experience with structured output",
       "logging ← experience with observability",
       "metrics ← experience with observability",
       "tracing ← experience with observability"
@@ -4728,10 +4672,10 @@
     "transferable_matches": [
       "crewai ← experience with langchain",
       "evals ← experience with llm evaluation",
-      "guardrails ← experience with pydantic v2",
+      "guardrails ← experience with structured output",
       "openai agents sdk ← experience with langchain",
       "pinecone ← experience with qdrant",
-      "prompt engineering ← experience with pydantic v2",
+      "prompt engineering ← experience with structured output",
       "weaviate ← experience with qdrant"
     ],
     "missing_skills": [
@@ -4779,9 +4723,9 @@
     ],
     "transferable_matches": [
       "agno ← experience with langchain",
-      "azure ← experience with aws",
+      "azure ← experience with amazon web services",
       "datadog ← experience with observability",
-      "gcp ← experience with aws",
+      "gcp ← experience with amazon web services",
       "grafana ← experience with observability",
       "metrics ← experience with observability",
       "opentelemetry ← experience with observability",
@@ -4925,7 +4869,7 @@
       "python"
     ],
     "transferable_matches": [
-      "guidance ← experience with pydantic v2",
+      "guidance ← experience with structured output",
       "metrics ← experience with observability",
       "otel ← experience with observability"
     ],
@@ -4969,7 +4913,7 @@
       "python"
     ],
     "transferable_matches": [
-      "guidance ← experience with pydantic v2",
+      "guidance ← experience with structured output",
       "metrics ← experience with observability",
       "otel ← experience with observability"
     ],
@@ -5015,8 +4959,8 @@
       "rag"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -5062,8 +5006,8 @@
       "observability"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws",
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
       "logging ← experience with observability",
       "tracing ← experience with observability"
     ],
@@ -5113,9 +5057,9 @@
     ],
     "transferable_matches": [
       "agno ← experience with langchain",
-      "azure ← experience with aws",
-      "gcp ← experience with aws",
-      "guardrails ← experience with pydantic v2"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
+      "guardrails ← experience with structured output"
     ],
     "missing_skills": [
       "agentic rag",
@@ -5162,8 +5106,8 @@
       "tool calling"
     ],
     "transferable_matches": [
-      "gcp ← experience with aws",
-      "prompt templates ← experience with pydantic v2",
+      "gcp ← experience with amazon web services",
+      "prompt templates ← experience with structured output",
       "sglang ← experience with claude",
       "tensorrt-llm ← experience with claude",
       "vllm ← experience with claude"
@@ -5182,7 +5126,7 @@
     "reason": "Recently posted role at scaleai with strong overlap in tool calling, observability, python, vllm, tensorrt-llm.",
     "recommended_action": "REVIEW_AND_APPLY",
     "response_probability": "HIGH",
-    "url_status": "unknown",
+    "url_status": "ok",
     "score_breakdown": {
       "technical": 100,
       "role": 79,
@@ -5213,7 +5157,7 @@
       "python"
     ],
     "transferable_matches": [
-      "google cloud ← experience with aws"
+      "google cloud ← experience with amazon web services"
     ],
     "missing_skills": [
       "distributed systems",
@@ -5314,7 +5258,7 @@
       "openai"
     ],
     "transferable_matches": [
-      "instructor ← experience with pydantic v2"
+      "instructor ← experience with structured output"
     ],
     "missing_skills": [
       "document ai",
@@ -5361,12 +5305,12 @@
       "python"
     ],
     "transferable_matches": [
-      "cloudwatch ← experience with observability",
-      "ecs ← experience with aws",
-      "eks ← experience with aws",
+      "cloudwatch ← experience with amazon web services",
+      "ecs ← experience with amazon web services",
+      "eks ← experience with amazon web services",
       "grafana ← experience with observability",
-      "guardrails ← experience with pydantic v2",
-      "guidance ← experience with pydantic v2",
+      "guardrails ← experience with structured output",
+      "guidance ← experience with structured output",
       "logging ← experience with observability",
       "prometheus ← experience with observability",
       "together ai ← experience with claude"
@@ -5416,8 +5360,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws",
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
       "gemini ← experience with claude",
       "gpt ← experience with claude",
       "grafana ← experience with observability",
@@ -5467,8 +5411,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws",
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
       "metrics ← experience with observability",
       "otel ← experience with observability"
     ],
@@ -5498,6 +5442,50 @@
   {
     "score": 80,
     "priority": "🟡 GOOD MATCH",
+    "title": "Senior Backend Engineer (Ruby), Plan: Portfolio Experience",
+    "company": "gitlab",
+    "source": "greenhouse",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8682707002",
+    "posted_at": "2026-08-17T07:10:39-04:00",
+    "remote": true,
+    "location": "Remote, Canada; Remote, United States",
+    "salary": null,
+    "technical_matches": [
+      "agent orchestration",
+      "observability",
+      "postgresql",
+      "python"
+    ],
+    "transferable_matches": [
+      "elasticsearch ← experience with qdrant"
+    ],
+    "missing_skills": [
+      "graphql",
+      "postgres",
+      "rust"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "not specified",
+    "location_eligible": true,
+    "location_confidence": "high",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at gitlab with strong overlap in agent orchestration, observability, python, elasticsearch.",
+    "recommended_action": "REVIEW_AND_APPLY",
+    "response_probability": "HIGH",
+    "url_status": "ok",
+    "score_breakdown": {
+      "technical": 70,
+      "role": 100,
+      "remote": 100,
+      "freshness": 55,
+      "experience": 100,
+      "response": 100,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 80,
+    "priority": "🟡 GOOD MATCH",
     "title": "Senior Professional Services Engineer - Japan",
     "company": "gitlab",
     "source": "greenhouse",
@@ -5512,10 +5500,10 @@
       "aws"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws",
-      "google cloud ← experience with aws",
-      "guidance ← experience with pydantic v2"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
+      "google cloud ← experience with amazon web services",
+      "guidance ← experience with structured output"
     ],
     "missing_skills": [
       "rust",
@@ -5559,10 +5547,10 @@
     "transferable_matches": [
       "agno ← experience with langchain",
       "arize ← experience with llm evaluation",
-      "azure ← experience with aws",
+      "azure ← experience with amazon web services",
       "datadog ← experience with observability",
       "elasticsearch ← experience with qdrant",
-      "gcp ← experience with aws",
+      "gcp ← experience with amazon web services",
       "grafana ← experience with observability",
       "logging ← experience with observability",
       "metrics ← experience with observability",
@@ -5617,9 +5605,9 @@
       "tool calling"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws",
-      "guardrails ← experience with pydantic v2",
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
+      "guardrails ← experience with structured output",
       "hugging face ← experience with claude"
     ],
     "missing_skills": [
@@ -5668,9 +5656,9 @@
       "tool calling"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws",
-      "guardrails ← experience with pydantic v2",
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
+      "guardrails ← experience with structured output",
       "hugging face ← experience with claude"
     ],
     "missing_skills": [
@@ -5718,9 +5706,9 @@
       "tool calling"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws",
-      "guardrails ← experience with pydantic v2",
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
+      "guardrails ← experience with structured output",
       "hugging face ← experience with claude"
     ],
     "missing_skills": [
@@ -5765,10 +5753,10 @@
     ],
     "transferable_matches": [
       "agno ← experience with langchain",
-      "azure ← experience with aws",
-      "gcp ← experience with aws",
-      "guidance ← experience with pydantic v2",
-      "s3 ← experience with aws"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
+      "guidance ← experience with structured output",
+      "s3 ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -5820,10 +5808,10 @@
     ],
     "transferable_matches": [
       "agno ← experience with langchain",
-      "azure ← experience with aws",
-      "gcp ← experience with aws",
-      "guidance ← experience with pydantic v2",
-      "s3 ← experience with aws"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
+      "guidance ← experience with structured output",
+      "s3 ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -5875,10 +5863,10 @@
     ],
     "transferable_matches": [
       "agno ← experience with langchain",
-      "azure ← experience with aws",
-      "gcp ← experience with aws",
-      "guidance ← experience with pydantic v2",
-      "s3 ← experience with aws"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
+      "guidance ← experience with structured output",
+      "s3 ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -5930,10 +5918,10 @@
     ],
     "transferable_matches": [
       "agno ← experience with langchain",
-      "azure ← experience with aws",
-      "gcp ← experience with aws",
-      "guidance ← experience with pydantic v2",
-      "s3 ← experience with aws"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
+      "guidance ← experience with structured output",
+      "s3 ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -6005,7 +5993,7 @@
     "reason": "Recently posted role at scaleai with strong overlap in agentic ai, ai agents, tool calling, metrics.",
     "recommended_action": "REVIEW_AND_APPLY",
     "response_probability": "HIGH",
-    "url_status": "unknown",
+    "url_status": "ok",
     "score_breakdown": {
       "technical": 100,
       "role": 78,
@@ -6035,9 +6023,9 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
+      "azure ← experience with amazon web services",
       "datadog ← experience with observability",
-      "gcp ← experience with aws",
+      "gcp ← experience with amazon web services",
       "grafana ← experience with observability",
       "logging ← experience with observability",
       "metrics ← experience with observability",
@@ -6109,7 +6097,7 @@
     "reason": "Recently posted role at scaleai with strong overlap in agentic ai, ai agents, agent orchestration, agent evaluation, traces.",
     "recommended_action": "REVIEW_AND_APPLY",
     "response_probability": "HIGH",
-    "url_status": "unknown",
+    "url_status": "ok",
     "score_breakdown": {
       "technical": 80,
       "role": 100,
@@ -6138,7 +6126,7 @@
       "rag"
     ],
     "transferable_matches": [
-      "azure ← experience with aws"
+      "azure ← experience with amazon web services"
     ],
     "missing_skills": [],
     "hard_requirements_missing": [],
@@ -6178,7 +6166,7 @@
     ],
     "transferable_matches": [
       "agno ← experience with langchain",
-      "guidance ← experience with pydantic v2"
+      "guidance ← experience with structured output"
     ],
     "missing_skills": [
       "go",
@@ -6225,7 +6213,7 @@
     ],
     "transferable_matches": [
       "agno ← experience with langchain",
-      "guidance ← experience with pydantic v2"
+      "guidance ← experience with structured output"
     ],
     "missing_skills": [
       "go",
@@ -6273,11 +6261,11 @@
       "observability"
     ],
     "transferable_matches": [
-      "ecs ← experience with aws",
-      "eks ← experience with aws",
-      "guardrails ← experience with pydantic v2",
+      "ecs ← experience with amazon web services",
+      "eks ← experience with amazon web services",
+      "guardrails ← experience with structured output",
       "opensearch ← experience with qdrant",
-      "s3 ← experience with aws"
+      "s3 ← experience with amazon web services"
     ],
     "missing_skills": [
       "distributed systems",
@@ -6327,9 +6315,9 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws",
-      "prompt engineering ← experience with pydantic v2"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
+      "prompt engineering ← experience with structured output"
     ],
     "missing_skills": [
       "databricks",
@@ -6371,8 +6359,8 @@
     ],
     "transferable_matches": [
       "agno ← experience with langchain",
-      "azure ← experience with aws",
-      "gcp ← experience with aws",
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
       "logging ← experience with observability",
       "metrics ← experience with observability",
       "tracing ← experience with observability"
@@ -6423,7 +6411,7 @@
       "retrieval augmented generation"
     ],
     "transferable_matches": [
-      "sagemaker ← experience with aws"
+      "sagemaker ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -6472,7 +6460,7 @@
       "retrieval augmented generation"
     ],
     "transferable_matches": [
-      "sagemaker ← experience with aws"
+      "sagemaker ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -6518,7 +6506,7 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
+      "azure ← experience with amazon web services",
       "otel ← experience with observability"
     ],
     "missing_skills": [
@@ -6562,7 +6550,7 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
+      "azure ← experience with amazon web services",
       "otel ← experience with observability"
     ],
     "missing_skills": [
@@ -6606,7 +6594,7 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
+      "azure ← experience with amazon web services",
       "otel ← experience with observability"
     ],
     "missing_skills": [
@@ -6653,7 +6641,7 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
+      "azure ← experience with amazon web services",
       "otel ← experience with observability"
     ],
     "missing_skills": [
@@ -6702,7 +6690,7 @@
     ],
     "transferable_matches": [
       "benchmarking ← experience with llm evaluation",
-      "guidance ← experience with pydantic v2",
+      "guidance ← experience with structured output",
       "otel ← experience with observability",
       "together ai ← experience with claude"
     ],
@@ -6755,7 +6743,7 @@
     ],
     "transferable_matches": [
       "benchmarking ← experience with llm evaluation",
-      "guidance ← experience with pydantic v2",
+      "guidance ← experience with structured output",
       "otel ← experience with observability",
       "together ai ← experience with claude"
     ],
@@ -6911,7 +6899,7 @@
     "transferable_matches": [
       "arize ← experience with llm evaluation",
       "evals ← experience with llm evaluation",
-      "guardrails ← experience with pydantic v2",
+      "guardrails ← experience with structured output",
       "logging ← experience with observability",
       "metrics ← experience with observability",
       "traces ← experience with observability",
@@ -6966,7 +6954,7 @@
       "openai"
     ],
     "transferable_matches": [
-      "instructor ← experience with pydantic v2",
+      "instructor ← experience with structured output",
       "metrics ← experience with observability"
     ],
     "missing_skills": [
@@ -7012,9 +7000,9 @@
       "observability"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws",
-      "instructor ← experience with pydantic v2"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
+      "instructor ← experience with structured output"
     ],
     "missing_skills": [
       "document ai",
@@ -7063,7 +7051,7 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
+      "azure ← experience with amazon web services",
       "grafana ← experience with observability",
       "logging ← experience with observability"
     ],
@@ -7354,9 +7342,9 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
+      "azure ← experience with amazon web services",
       "dify ← experience with langchain",
-      "gcp ← experience with aws",
+      "gcp ← experience with amazon web services",
       "logging ← experience with observability",
       "metrics ← experience with observability",
       "otel ← experience with observability"
@@ -7403,9 +7391,9 @@
       "docker"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws",
-      "google cloud ← experience with aws"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
+      "google cloud ← experience with amazon web services"
     ],
     "missing_skills": [
       "kubernetes",
@@ -7493,8 +7481,8 @@
       "aws"
     ],
     "transferable_matches": [
-      "gcp ← experience with aws",
-      "google cloud ← experience with aws"
+      "gcp ← experience with amazon web services",
+      "google cloud ← experience with amazon web services"
     ],
     "missing_skills": [
       "document ai",
@@ -7537,8 +7525,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "go",
@@ -7582,8 +7570,8 @@
       "docker"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws",
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
       "metrics ← experience with observability"
     ],
     "missing_skills": [
@@ -7634,7 +7622,7 @@
       "faiss ← experience with qdrant",
       "metrics ← experience with observability",
       "opensearch ← experience with qdrant",
-      "unstructured ← experience with lightrag"
+      "unstructured ← experience with llamaindex"
     ],
     "missing_skills": [
       "agentic rag",
@@ -7699,7 +7687,7 @@
     "transferable_matches": [
       "evals ← experience with llm evaluation",
       "golden dataset ← experience with llm evaluation",
-      "instructor ← experience with pydantic v2",
+      "instructor ← experience with structured output",
       "traces ← experience with observability"
     ],
     "missing_skills": [
@@ -7725,6 +7713,54 @@
     }
   },
   {
+    "score": 78,
+    "priority": "🟡 GOOD MATCH",
+    "title": "Senior Cloud Infrastructure Engineer",
+    "company": "Applied",
+    "source": "arbeitnow",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/applied/senior-cloud-infrastructure-engineer-london-215639",
+    "posted_at": "2026-08-19T21:40:08+00:00",
+    "remote": false,
+    "location": "London",
+    "salary": null,
+    "technical_matches": [
+      "aws",
+      "ci/cd",
+      "docker",
+      "python"
+    ],
+    "transferable_matches": [
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
+    ],
+    "missing_skills": [
+      "distributed systems",
+      "go",
+      "kubernetes",
+      "microservices",
+      "rust",
+      "terraform"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "7+ years preferred",
+    "location_eligible": true,
+    "location_confidence": "low",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at Applied with strong overlap in python, docker, ci/cd, azure, gcp.",
+    "recommended_action": "REVIEW_AND_APPLY",
+    "response_probability": "UNKNOWN",
+    "url_status": "ok",
+    "score_breakdown": {
+      "technical": 80,
+      "role": 93,
+      "remote": 55,
+      "freshness": 90,
+      "experience": 88,
+      "response": 50,
+      "compensation": 50
+    }
+  },
+  {
     "score": 77,
     "priority": "🟡 GOOD MATCH",
     "title": "Senior Software Engineer, Safety Backend",
@@ -7741,7 +7777,7 @@
       "python"
     ],
     "transferable_matches": [
-      "gcp ← experience with aws",
+      "gcp ← experience with amazon web services",
       "metrics ← experience with observability",
       "otel ← experience with observability"
     ],
@@ -7787,7 +7823,7 @@
       "python"
     ],
     "transferable_matches": [
-      "guidance ← experience with pydantic v2",
+      "guidance ← experience with structured output",
       "metrics ← experience with observability",
       "otel ← experience with observability"
     ],
@@ -7832,8 +7868,8 @@
       "observability"
     ],
     "transferable_matches": [
-      "guardrails ← experience with pydantic v2",
-      "guidance ← experience with pydantic v2",
+      "guardrails ← experience with structured output",
+      "guidance ← experience with structured output",
       "otel ← experience with observability",
       "together ai ← experience with claude"
     ],
@@ -7879,8 +7915,8 @@
       "observability"
     ],
     "transferable_matches": [
-      "guardrails ← experience with pydantic v2",
-      "guidance ← experience with pydantic v2",
+      "guardrails ← experience with structured output",
+      "guidance ← experience with structured output",
       "otel ← experience with observability",
       "together ai ← experience with claude"
     ],
@@ -7927,8 +7963,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -7979,7 +8015,7 @@
     ],
     "transferable_matches": [
       "golden dataset ← experience with llm evaluation",
-      "guardrails ← experience with pydantic v2"
+      "guardrails ← experience with structured output"
     ],
     "missing_skills": [
       "a2a",
@@ -8028,8 +8064,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws",
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
       "metrics ← experience with observability"
     ],
     "missing_skills": [
@@ -8080,7 +8116,7 @@
       "python"
     ],
     "transferable_matches": [
-      "google cloud ← experience with aws"
+      "google cloud ← experience with amazon web services"
     ],
     "missing_skills": [
       "distributed systems",
@@ -8173,7 +8209,7 @@
       "python"
     ],
     "transferable_matches": [
-      "guidance ← experience with pydantic v2",
+      "guidance ← experience with structured output",
       "metrics ← experience with observability",
       "together ai ← experience with claude"
     ],
@@ -8220,9 +8256,9 @@
       "aws"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
+      "azure ← experience with amazon web services",
       "cohere ← experience with claude",
-      "gcp ← experience with aws",
+      "gcp ← experience with amazon web services",
       "hugging face ← experience with claude",
       "otel ← experience with observability",
       "together ai ← experience with claude"
@@ -8274,7 +8310,7 @@
       "python"
     ],
     "transferable_matches": [
-      "guardrails ← experience with pydantic v2"
+      "guardrails ← experience with structured output"
     ],
     "missing_skills": [
       "go",
@@ -8526,51 +8562,6 @@
   {
     "score": 76,
     "priority": "🟡 GOOD MATCH",
-    "title": "Senior Backend Engineer (Ruby), Plan: Spec-Driven Development",
-    "company": "gitlab",
-    "source": "greenhouse",
-    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8682860002",
-    "posted_at": "2026-08-17T07:10:50-04:00",
-    "remote": true,
-    "location": "Remote, Poland; Remote, United Kingdom",
-    "salary": null,
-    "technical_matches": [
-      "agent orchestration",
-      "postgresql",
-      "python"
-    ],
-    "transferable_matches": [
-      "benchmarking ← experience with llm evaluation"
-    ],
-    "missing_skills": [
-      "agent platform",
-      "agent workflows",
-      "graphql",
-      "postgres",
-      "rust"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "not specified",
-    "location_eligible": true,
-    "location_confidence": "high",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at gitlab with strong overlap in agent orchestration, python, postgresql, benchmarking.",
-    "recommended_action": "REVIEW_AND_APPLY",
-    "response_probability": "MEDIUM",
-    "url_status": "ok",
-    "score_breakdown": {
-      "technical": 55,
-      "role": 100,
-      "remote": 100,
-      "freshness": 75,
-      "experience": 100,
-      "response": 60,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 76,
-    "priority": "🟡 GOOD MATCH",
     "title": "Senior Specialist Solutions Architect (AI/ML)",
     "company": "databricks",
     "source": "greenhouse",
@@ -8588,9 +8579,9 @@
       "tool calling"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws",
-      "guardrails ← experience with pydantic v2",
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
+      "guardrails ← experience with structured output",
       "hugging face ← experience with claude"
     ],
     "missing_skills": [
@@ -8636,9 +8627,9 @@
     ],
     "transferable_matches": [
       "elasticsearch ← experience with qdrant",
-      "guardrails ← experience with pydantic v2",
+      "guardrails ← experience with structured output",
       "metrics ← experience with observability",
-      "unstructured ← experience with lightrag"
+      "unstructured ← experience with llamaindex"
     ],
     "missing_skills": [
       "databricks",
@@ -8686,8 +8677,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -8735,7 +8726,7 @@
       "tool calling"
     ],
     "transferable_matches": [
-      "prompt engineering ← experience with pydantic v2"
+      "prompt engineering ← experience with structured output"
     ],
     "missing_skills": [
       "api integration",
@@ -8779,8 +8770,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "sagemaker ← experience with aws",
+      "azure ← experience with amazon web services",
+      "sagemaker ← experience with amazon web services",
       "vertex ai ← experience with claude"
     ],
     "missing_skills": [
@@ -8830,8 +8821,8 @@
     ],
     "transferable_matches": [
       "agno ← experience with langchain",
-      "azure ← experience with aws",
-      "gcp ← experience with aws",
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
       "metrics ← experience with observability"
     ],
     "missing_skills": [
@@ -8879,9 +8870,9 @@
     ],
     "transferable_matches": [
       "agno ← experience with langchain",
-      "azure ← experience with aws",
-      "gcp ← experience with aws",
-      "guardrails ← experience with pydantic v2"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
+      "guardrails ← experience with structured output"
     ],
     "missing_skills": [
       "databricks",
@@ -8927,12 +8918,12 @@
       "openai"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
+      "azure ← experience with amazon web services",
       "gemini ← experience with claude",
       "gpt ← experience with claude",
       "llama ← experience with claude",
       "qwen ← experience with claude",
-      "sagemaker ← experience with aws",
+      "sagemaker ← experience with amazon web services",
       "sglang ← experience with claude",
       "vertex ai ← experience with claude",
       "vllm ← experience with claude"
@@ -8981,9 +8972,9 @@
     ],
     "transferable_matches": [
       "elasticsearch ← experience with qdrant",
-      "guardrails ← experience with pydantic v2",
+      "guardrails ← experience with structured output",
       "metrics ← experience with observability",
-      "unstructured ← experience with lightrag"
+      "unstructured ← experience with llamaindex"
     ],
     "missing_skills": [
       "databricks",
@@ -9039,7 +9030,7 @@
       "crewai ← experience with langchain",
       "evals ← experience with llm evaluation",
       "metrics ← experience with observability",
-      "prompt engineering ← experience with pydantic v2",
+      "prompt engineering ← experience with structured output",
       "together ai ← experience with claude"
     ],
     "missing_skills": [
@@ -9054,7 +9045,7 @@
     "reason": "Recently posted role at scaleai with strong overlap in langgraph, langchain, rag, crewai, autogen.",
     "recommended_action": "REVIEW_AND_APPLY",
     "response_probability": "HIGH",
-    "url_status": "unknown",
+    "url_status": "ok",
     "score_breakdown": {
       "technical": 100,
       "role": 65,
@@ -9084,10 +9075,10 @@
       "retrieval augmented generation"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws",
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
       "metrics ← experience with observability",
-      "prompt engineering ← experience with pydantic v2"
+      "prompt engineering ← experience with structured output"
     ],
     "missing_skills": [
       "document ai",
@@ -9136,7 +9127,7 @@
     ],
     "transferable_matches": [
       "metrics ← experience with observability",
-      "prompt engineering ← experience with pydantic v2"
+      "prompt engineering ← experience with structured output"
     ],
     "missing_skills": [
       "document ai",
@@ -9182,7 +9173,7 @@
       "retrieval augmented generation"
     ],
     "transferable_matches": [
-      "unstructured ← experience with lightrag"
+      "unstructured ← experience with llamaindex"
     ],
     "missing_skills": [
       "java",
@@ -9225,9 +9216,9 @@
       "observability"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws",
-      "instructor ← experience with pydantic v2"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
+      "instructor ← experience with structured output"
     ],
     "missing_skills": [
       "node.js",
@@ -9472,8 +9463,8 @@
     ],
     "transferable_matches": [
       "agno ← experience with langchain",
-      "azure ← experience with aws",
-      "gcp ← experience with aws"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -9523,9 +9514,9 @@
       "postgresql"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
+      "azure ← experience with amazon web services",
       "elasticsearch ← experience with qdrant",
-      "gcp ← experience with aws",
+      "gcp ← experience with amazon web services",
       "grafana ← experience with observability",
       "prometheus ← experience with observability"
     ],
@@ -9872,7 +9863,7 @@
       "python"
     ],
     "transferable_matches": [
-      "unstructured ← experience with lightrag"
+      "unstructured ← experience with llamaindex"
     ],
     "missing_skills": [
       "document ai",
@@ -10064,7 +10055,7 @@
     ],
     "transferable_matches": [
       "arize ← experience with llm evaluation",
-      "gcp ← experience with aws"
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "go",
@@ -10112,7 +10103,7 @@
     ],
     "transferable_matches": [
       "arize ← experience with llm evaluation",
-      "guidance ← experience with pydantic v2",
+      "guidance ← experience with structured output",
       "metrics ← experience with observability",
       "together ai ← experience with claude"
     ],
@@ -10160,7 +10151,7 @@
     ],
     "transferable_matches": [
       "arize ← experience with llm evaluation",
-      "gcp ← experience with aws",
+      "gcp ← experience with amazon web services",
       "metrics ← experience with observability",
       "otel ← experience with observability"
     ],
@@ -10217,7 +10208,7 @@
     ],
     "transferable_matches": [
       "arize ← experience with llm evaluation",
-      "gcp ← experience with aws",
+      "gcp ← experience with amazon web services",
       "metrics ← experience with observability",
       "otel ← experience with observability"
     ],
@@ -10363,7 +10354,7 @@
       "python"
     ],
     "transferable_matches": [
-      "guidance ← experience with pydantic v2",
+      "guidance ← experience with structured output",
       "metrics ← experience with observability",
       "otel ← experience with observability"
     ],
@@ -10407,7 +10398,7 @@
       "python"
     ],
     "transferable_matches": [
-      "guidance ← experience with pydantic v2",
+      "guidance ← experience with structured output",
       "metrics ← experience with observability",
       "otel ← experience with observability"
     ],
@@ -10453,7 +10444,7 @@
       "python"
     ],
     "transferable_matches": [
-      "guidance ← experience with pydantic v2",
+      "guidance ← experience with structured output",
       "metrics ← experience with observability",
       "otel ← experience with observability"
     ],
@@ -10545,7 +10536,7 @@
       "observability"
     ],
     "transferable_matches": [
-      "guidance ← experience with pydantic v2"
+      "guidance ← experience with structured output"
     ],
     "missing_skills": [
       "agent platform",
@@ -10588,9 +10579,9 @@
       "docker"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws",
-      "guidance ← experience with pydantic v2",
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
+      "guidance ← experience with structured output",
       "together ai ← experience with claude"
     ],
     "missing_skills": [
@@ -10633,8 +10624,8 @@
       "docker"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws",
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
       "together ai ← experience with claude"
     ],
     "missing_skills": [
@@ -10777,8 +10768,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -10825,8 +10816,8 @@
       "rag"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -10871,8 +10862,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "sagemaker ← experience with aws",
+      "azure ← experience with amazon web services",
+      "sagemaker ← experience with amazon web services",
       "vertex ai ← experience with claude"
     ],
     "missing_skills": [
@@ -10922,7 +10913,7 @@
       "python"
     ],
     "transferable_matches": [
-      "google cloud ← experience with aws"
+      "google cloud ← experience with amazon web services"
     ],
     "missing_skills": [
       "document ai",
@@ -11018,9 +11009,9 @@
       "aws"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws",
-      "guardrails ← experience with pydantic v2",
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
+      "guardrails ← experience with structured output",
       "together ai ← experience with claude"
     ],
     "missing_skills": [
@@ -11065,10 +11056,10 @@
       "openai"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws",
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
       "gemini ← experience with claude",
-      "guidance ← experience with pydantic v2"
+      "guidance ← experience with structured output"
     ],
     "missing_skills": [
       "databricks",
@@ -11112,9 +11103,9 @@
       "retrieval augmented generation"
     ],
     "transferable_matches": [
-      "guidance ← experience with pydantic v2",
+      "guidance ← experience with structured output",
       "metrics ← experience with observability",
-      "prompt engineering ← experience with pydantic v2"
+      "prompt engineering ← experience with structured output"
     ],
     "missing_skills": [
       "document ai",
@@ -11161,7 +11152,7 @@
     ],
     "transferable_matches": [
       "agno ← experience with langchain",
-      "guidance ← experience with pydantic v2"
+      "guidance ← experience with structured output"
     ],
     "missing_skills": [
       "document ai",
@@ -11207,7 +11198,7 @@
     ],
     "transferable_matches": [
       "agno ← experience with langchain",
-      "guidance ← experience with pydantic v2"
+      "guidance ← experience with structured output"
     ],
     "missing_skills": [
       "document ai",
@@ -11253,9 +11244,9 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws",
-      "unstructured ← experience with lightrag"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
+      "unstructured ← experience with llamaindex"
     ],
     "missing_skills": [
       "autonomous agents",
@@ -11487,8 +11478,8 @@
     "transferable_matches": [
       "evals ← experience with llm evaluation",
       "gemini ← experience with claude",
-      "guardrails ← experience with pydantic v2",
-      "prompt engineering ← experience with pydantic v2"
+      "guardrails ← experience with structured output",
+      "prompt engineering ← experience with structured output"
     ],
     "missing_skills": [
       "agentic rag",
@@ -11533,8 +11524,8 @@
       "python"
     ],
     "transferable_matches": [
-      "guardrails ← experience with pydantic v2",
-      "guidance ← experience with pydantic v2",
+      "guardrails ← experience with structured output",
+      "guidance ← experience with structured output",
       "metrics ← experience with observability",
       "otel ← experience with observability"
     ],
@@ -11578,8 +11569,8 @@
       "python"
     ],
     "transferable_matches": [
-      "guardrails ← experience with pydantic v2",
-      "guidance ← experience with pydantic v2",
+      "guardrails ← experience with structured output",
+      "guidance ← experience with structured output",
       "metrics ← experience with observability",
       "otel ← experience with observability"
     ],
@@ -11624,7 +11615,7 @@
       "observability"
     ],
     "transferable_matches": [
-      "guidance ← experience with pydantic v2",
+      "guidance ← experience with structured output",
       "logging ← experience with observability",
       "metrics ← experience with observability"
     ],
@@ -11674,8 +11665,8 @@
     ],
     "transferable_matches": [
       "agno ← experience with langchain",
-      "guidance ← experience with pydantic v2",
-      "prompt engineering ← experience with pydantic v2"
+      "guidance ← experience with structured output",
+      "prompt engineering ← experience with structured output"
     ],
     "missing_skills": [
       "api integration",
@@ -11723,8 +11714,8 @@
     ],
     "transferable_matches": [
       "agno ← experience with langchain",
-      "guidance ← experience with pydantic v2",
-      "prompt engineering ← experience with pydantic v2"
+      "guidance ← experience with structured output",
+      "prompt engineering ← experience with structured output"
     ],
     "missing_skills": [
       "api integration",
@@ -11757,6 +11748,51 @@
   {
     "score": 73,
     "priority": "⚪ REVIEW",
+    "title": "Senior Backend Engineer (Ruby), Plan: Spec-Driven Development",
+    "company": "gitlab",
+    "source": "greenhouse",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8682860002",
+    "posted_at": "2026-08-17T07:10:50-04:00",
+    "remote": true,
+    "location": "Remote, Poland; Remote, United Kingdom",
+    "salary": null,
+    "technical_matches": [
+      "agent orchestration",
+      "postgresql",
+      "python"
+    ],
+    "transferable_matches": [
+      "benchmarking ← experience with llm evaluation"
+    ],
+    "missing_skills": [
+      "agent platform",
+      "agent workflows",
+      "graphql",
+      "postgres",
+      "rust"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "not specified",
+    "location_eligible": true,
+    "location_confidence": "high",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at gitlab with strong overlap in agent orchestration, python, postgresql, benchmarking.",
+    "recommended_action": "SKIP",
+    "response_probability": "MEDIUM",
+    "url_status": "not_checked",
+    "score_breakdown": {
+      "technical": 55,
+      "role": 100,
+      "remote": 100,
+      "freshness": 55,
+      "experience": 100,
+      "response": 60,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 73,
+    "priority": "⚪ REVIEW",
     "title": "Senior Solutions Architect - AI & Platforms SME",
     "company": "gitlab",
     "source": "greenhouse",
@@ -11772,7 +11808,7 @@
       "ci/cd"
     ],
     "transferable_matches": [
-      "guidance ← experience with pydantic v2"
+      "guidance ← experience with structured output"
     ],
     "missing_skills": [
       "document ai",
@@ -11815,8 +11851,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -11862,8 +11898,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -11909,8 +11945,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -11956,8 +11992,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -12003,8 +12039,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -12049,10 +12085,10 @@
       "ci/cd"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
+      "azure ← experience with amazon web services",
       "dify ← experience with langchain",
-      "gcp ← experience with aws",
-      "guardrails ← experience with pydantic v2",
+      "gcp ← experience with amazon web services",
+      "guardrails ← experience with structured output",
       "logging ← experience with observability"
     ],
     "missing_skills": [
@@ -12095,8 +12131,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -12192,8 +12228,8 @@
       "docker"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws",
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
       "metrics ← experience with observability"
     ],
     "missing_skills": [
@@ -12241,9 +12277,9 @@
     ],
     "transferable_matches": [
       "agno ← experience with langchain",
-      "azure ← experience with aws",
-      "gcp ← experience with aws",
-      "guardrails ← experience with pydantic v2"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
+      "guardrails ← experience with structured output"
     ],
     "missing_skills": [
       "databricks",
@@ -12290,7 +12326,7 @@
     ],
     "transferable_matches": [
       "metrics ← experience with observability",
-      "prompt engineering ← experience with pydantic v2"
+      "prompt engineering ← experience with structured output"
     ],
     "missing_skills": [
       "document ai",
@@ -12388,10 +12424,10 @@
       "retrieval augmented generation"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws",
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
       "metrics ← experience with observability",
-      "prompt engineering ← experience with pydantic v2"
+      "prompt engineering ← experience with structured output"
     ],
     "missing_skills": [
       "document ai",
@@ -12438,10 +12474,10 @@
       "retrieval augmented generation"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws",
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
       "metrics ← experience with observability",
-      "prompt engineering ← experience with pydantic v2"
+      "prompt engineering ← experience with structured output"
     ],
     "missing_skills": [
       "document ai",
@@ -12489,7 +12525,7 @@
     ],
     "transferable_matches": [
       "metrics ← experience with observability",
-      "prompt engineering ← experience with pydantic v2"
+      "prompt engineering ← experience with structured output"
     ],
     "missing_skills": [
       "document ai",
@@ -12578,7 +12614,7 @@
       "model context protocol"
     ],
     "transferable_matches": [
-      "instructor ← experience with pydantic v2",
+      "instructor ← experience with structured output",
       "metrics ← experience with observability"
     ],
     "missing_skills": [
@@ -12608,6 +12644,59 @@
   {
     "score": 73,
     "priority": "⚪ REVIEW",
+    "title": "Solutions Architect",
+    "company": "Plane",
+    "source": "arbeitnow",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/plane/solutions-architect-united-kingdom-277231",
+    "posted_at": "2026-08-19T21:40:23+00:00",
+    "remote": false,
+    "location": "United Kingdom",
+    "salary": null,
+    "technical_matches": [
+      "ai agents",
+      "aws",
+      "docker",
+      "python",
+      "redis"
+    ],
+    "transferable_matches": [],
+    "missing_skills": [
+      "django",
+      "docker compose",
+      "document ai",
+      "go",
+      "golang",
+      "hyde",
+      "kafka",
+      "kubernetes",
+      "node.js",
+      "postgres",
+      "rabbitmq",
+      "react agent",
+      "rust"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "not specified",
+    "location_eligible": true,
+    "location_confidence": "low",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at Plane with strong overlap in ai agents, python, redis.",
+    "recommended_action": "SKIP",
+    "response_probability": "UNKNOWN",
+    "url_status": "not_checked",
+    "score_breakdown": {
+      "technical": 75,
+      "role": 65,
+      "remote": 55,
+      "freshness": 90,
+      "experience": 100,
+      "response": 50,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 73,
+    "priority": "⚪ REVIEW",
     "title": "Applied AI Architect, Industries",
     "company": "anthropic",
     "source": "arbeitnow",
@@ -12624,7 +12713,7 @@
     "transferable_matches": [
       "evals ← experience with llm evaluation",
       "gpt ← experience with claude",
-      "guidance ← experience with pydantic v2"
+      "guidance ← experience with structured output"
     ],
     "missing_skills": [
       "multimodal",
@@ -12666,8 +12755,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "go",
@@ -12711,7 +12800,7 @@
       "postgresql"
     ],
     "transferable_matches": [
-      "gcp ← experience with aws",
+      "gcp ← experience with amazon web services",
       "otel ← experience with observability"
     ],
     "missing_skills": [
@@ -12753,8 +12842,8 @@
       "python"
     ],
     "transferable_matches": [
-      "gcp ← experience with aws",
-      "prompt engineering ← experience with pydantic v2"
+      "gcp ← experience with amazon web services",
+      "prompt engineering ← experience with structured output"
     ],
     "missing_skills": [
       "go",
@@ -12797,8 +12886,8 @@
       "postgresql"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws",
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
       "metrics ← experience with observability",
       "tracing ← experience with observability"
     ],
@@ -12943,7 +13032,7 @@
       "python"
     ],
     "transferable_matches": [
-      "guidance ← experience with pydantic v2",
+      "guidance ← experience with structured output",
       "metrics ← experience with observability",
       "otel ← experience with observability"
     ],
@@ -12991,7 +13080,7 @@
       "python"
     ],
     "transferable_matches": [
-      "guidance ← experience with pydantic v2",
+      "guidance ← experience with structured output",
       "metrics ← experience with observability",
       "otel ← experience with observability"
     ],
@@ -13039,7 +13128,7 @@
       "python"
     ],
     "transferable_matches": [
-      "guidance ← experience with pydantic v2",
+      "guidance ← experience with structured output",
       "metrics ← experience with observability",
       "otel ← experience with observability"
     ],
@@ -13087,7 +13176,7 @@
       "python"
     ],
     "transferable_matches": [
-      "guidance ← experience with pydantic v2",
+      "guidance ← experience with structured output",
       "metrics ← experience with observability",
       "otel ← experience with observability"
     ],
@@ -13176,8 +13265,8 @@
       "observability"
     ],
     "transferable_matches": [
-      "guardrails ← experience with pydantic v2",
-      "guidance ← experience with pydantic v2",
+      "guardrails ← experience with structured output",
+      "guidance ← experience with structured output",
       "metrics ← experience with observability"
     ],
     "missing_skills": [
@@ -13264,8 +13353,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -13311,7 +13400,7 @@
     ],
     "transferable_matches": [
       "gpt ← experience with claude",
-      "guidance ← experience with pydantic v2",
+      "guidance ← experience with structured output",
       "llama ← experience with claude",
       "qwen ← experience with claude",
       "sglang ← experience with claude",
@@ -13357,8 +13446,8 @@
       "docker"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws",
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
       "together ai ← experience with claude"
     ],
     "missing_skills": [
@@ -13405,7 +13494,7 @@
     ],
     "transferable_matches": [
       "metrics ← experience with observability",
-      "prompt engineering ← experience with pydantic v2"
+      "prompt engineering ← experience with structured output"
     ],
     "missing_skills": [
       "document ai",
@@ -13453,7 +13542,7 @@
     ],
     "transferable_matches": [
       "evals ← experience with llm evaluation",
-      "instructor ← experience with pydantic v2",
+      "instructor ← experience with structured output",
       "metrics ← experience with observability"
     ],
     "missing_skills": [
@@ -13503,7 +13592,7 @@
     ],
     "transferable_matches": [
       "metrics ← experience with observability",
-      "prompt engineering ← experience with pydantic v2"
+      "prompt engineering ← experience with structured output"
     ],
     "missing_skills": [
       "document ai",
@@ -13551,7 +13640,7 @@
     ],
     "transferable_matches": [
       "metrics ← experience with observability",
-      "prompt engineering ← experience with pydantic v2"
+      "prompt engineering ← experience with structured output"
     ],
     "missing_skills": [
       "document ai",
@@ -13599,7 +13688,7 @@
     ],
     "transferable_matches": [
       "metrics ← experience with observability",
-      "prompt engineering ← experience with pydantic v2"
+      "prompt engineering ← experience with structured output"
     ],
     "missing_skills": [
       "document ai",
@@ -13647,7 +13736,7 @@
     ],
     "transferable_matches": [
       "metrics ← experience with observability",
-      "prompt engineering ← experience with pydantic v2"
+      "prompt engineering ← experience with structured output"
     ],
     "missing_skills": [
       "document ai",
@@ -13695,7 +13784,7 @@
     ],
     "transferable_matches": [
       "metrics ← experience with observability",
-      "prompt engineering ← experience with pydantic v2"
+      "prompt engineering ← experience with structured output"
     ],
     "missing_skills": [
       "document ai",
@@ -13743,7 +13832,7 @@
     ],
     "transferable_matches": [
       "metrics ← experience with observability",
-      "prompt engineering ← experience with pydantic v2"
+      "prompt engineering ← experience with structured output"
     ],
     "missing_skills": [
       "document ai",
@@ -13789,9 +13878,9 @@
       "rag"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws",
-      "prompt engineering ← experience with pydantic v2"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
+      "prompt engineering ← experience with structured output"
     ],
     "missing_skills": [
       "document ai",
@@ -13835,8 +13924,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "document ai",
@@ -13878,7 +13967,7 @@
       "observability"
     ],
     "transferable_matches": [
-      "gcp ← experience with aws"
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "node.js",
@@ -14086,8 +14175,8 @@
       "supervisor"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws",
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
       "otel ← experience with observability"
     ],
     "missing_skills": [
@@ -14143,11 +14232,11 @@
       "python"
     ],
     "transferable_matches": [
-      "ec2 ← experience with aws",
+      "ec2 ← experience with amazon web services",
       "elasticsearch ← experience with qdrant",
-      "guidance ← experience with pydantic v2",
+      "guidance ← experience with structured output",
       "logging ← experience with observability",
-      "s3 ← experience with aws"
+      "s3 ← experience with amazon web services"
     ],
     "missing_skills": [
       "sql"
@@ -14191,7 +14280,7 @@
       "logging ← experience with observability",
       "metrics ← experience with observability",
       "traces ← experience with observability",
-      "unstructured ← experience with lightrag"
+      "unstructured ← experience with llamaindex"
     ],
     "missing_skills": [
       "airflow",
@@ -14243,8 +14332,8 @@
     ],
     "transferable_matches": [
       "agent development kit ← experience with langchain",
-      "google cloud ← experience with aws",
-      "guardrails ← experience with pydantic v2",
+      "google cloud ← experience with amazon web services",
+      "guardrails ← experience with structured output",
       "tracing ← experience with observability"
     ],
     "missing_skills": [
@@ -14289,7 +14378,7 @@
     ],
     "transferable_matches": [
       "evals ← experience with llm evaluation",
-      "gcp ← experience with aws",
+      "gcp ← experience with amazon web services",
       "logging ← experience with observability"
     ],
     "missing_skills": [
@@ -14332,7 +14421,7 @@
     "transferable_matches": [
       "arize ← experience with llm evaluation",
       "benchmarking ← experience with llm evaluation",
-      "guardrails ← experience with pydantic v2",
+      "guardrails ← experience with structured output",
       "otel ← experience with observability"
     ],
     "missing_skills": [
@@ -14377,7 +14466,7 @@
     ],
     "transferable_matches": [
       "arize ← experience with llm evaluation",
-      "guardrails ← experience with pydantic v2",
+      "guardrails ← experience with structured output",
       "otel ← experience with observability"
     ],
     "missing_skills": [
@@ -14424,7 +14513,7 @@
     ],
     "transferable_matches": [
       "arize ← experience with llm evaluation",
-      "gcp ← experience with aws"
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "bigquery",
@@ -14474,7 +14563,7 @@
       "python"
     ],
     "transferable_matches": [
-      "guidance ← experience with pydantic v2",
+      "guidance ← experience with structured output",
       "metrics ← experience with observability",
       "otel ← experience with observability"
     ],
@@ -14520,8 +14609,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws",
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
       "metrics ← experience with observability"
     ],
     "missing_skills": [
@@ -14571,8 +14660,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "c#",
@@ -14622,8 +14711,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws",
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
       "metrics ← experience with observability"
     ],
     "missing_skills": [
@@ -14674,8 +14763,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws",
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
       "metrics ← experience with observability"
     ],
     "missing_skills": [
@@ -14725,8 +14814,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws",
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
       "metrics ← experience with observability"
     ],
     "missing_skills": [
@@ -14776,9 +14865,9 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws",
-      "guidance ← experience with pydantic v2",
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
+      "guidance ← experience with structured output",
       "together ai ← experience with claude"
     ],
     "missing_skills": [
@@ -14823,8 +14912,8 @@
     ],
     "transferable_matches": [
       "arize ← experience with llm evaluation",
-      "guardrails ← experience with pydantic v2",
-      "guidance ← experience with pydantic v2",
+      "guardrails ← experience with structured output",
+      "guidance ← experience with structured output",
       "logging ← experience with observability"
     ],
     "missing_skills": [
@@ -14871,8 +14960,8 @@
       "python"
     ],
     "transferable_matches": [
-      "gcp ← experience with aws",
-      "guidance ← experience with pydantic v2"
+      "gcp ← experience with amazon web services",
+      "guidance ← experience with structured output"
     ],
     "missing_skills": [
       "agent workflows"
@@ -15000,10 +15089,10 @@
       "aws"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
+      "azure ← experience with amazon web services",
       "datadog ← experience with observability",
-      "gcp ← experience with aws",
-      "instructor ← experience with pydantic v2",
+      "gcp ← experience with amazon web services",
+      "instructor ← experience with structured output",
       "metrics ← experience with observability"
     ],
     "missing_skills": [
@@ -15050,7 +15139,7 @@
       "python"
     ],
     "transferable_matches": [
-      "gcp ← experience with aws"
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [],
     "hard_requirements_missing": [],
@@ -15092,8 +15181,8 @@
       "gemini ← experience with claude",
       "logging ← experience with observability",
       "metrics ← experience with observability",
-      "prompt engineering ← experience with pydantic v2",
-      "unstructured ← experience with lightrag"
+      "prompt engineering ← experience with structured output",
+      "unstructured ← experience with llamaindex"
     ],
     "missing_skills": [
       "lora",
@@ -15142,10 +15231,10 @@
     "transferable_matches": [
       "a/b testing ← experience with llm evaluation",
       "benchmarking ← experience with llm evaluation",
-      "guardrails ← experience with pydantic v2",
+      "guardrails ← experience with structured output",
       "metrics ← experience with observability",
       "transformers ← experience with claude",
-      "unstructured ← experience with lightrag"
+      "unstructured ← experience with llamaindex"
     ],
     "missing_skills": [
       "agentic rag",
@@ -15193,8 +15282,8 @@
       "python"
     ],
     "transferable_matches": [
-      "eks ← experience with aws",
-      "guardrails ← experience with pydantic v2",
+      "eks ← experience with amazon web services",
+      "guardrails ← experience with structured output",
       "metrics ← experience with observability"
     ],
     "missing_skills": [
@@ -15244,7 +15333,7 @@
     ],
     "transferable_matches": [
       "agno ← experience with langchain",
-      "guardrails ← experience with pydantic v2",
+      "guardrails ← experience with structured output",
       "metrics ← experience with observability",
       "tracing ← experience with observability"
     ],
@@ -15294,7 +15383,7 @@
       "python"
     ],
     "transferable_matches": [
-      "gcp ← experience with aws"
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "kubernetes",
@@ -15337,7 +15426,7 @@
       "python"
     ],
     "transferable_matches": [
-      "guidance ← experience with pydantic v2",
+      "guidance ← experience with structured output",
       "otel ← experience with observability"
     ],
     "missing_skills": [
@@ -15559,7 +15648,7 @@
       "observability"
     ],
     "transferable_matches": [
-      "guidance ← experience with pydantic v2",
+      "guidance ← experience with structured output",
       "metrics ← experience with observability",
       "opentelemetry ← experience with observability"
     ],
@@ -15651,8 +15740,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -15698,8 +15787,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "google cloud ← experience with aws"
+      "azure ← experience with amazon web services",
+      "google cloud ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -15744,8 +15833,8 @@
     ],
     "transferable_matches": [
       "agno ← experience with langchain",
-      "azure ← experience with aws",
-      "gcp ← experience with aws"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -15790,8 +15879,8 @@
     ],
     "transferable_matches": [
       "agno ← experience with langchain",
-      "azure ← experience with aws",
-      "gcp ← experience with aws"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -15835,8 +15924,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -15883,8 +15972,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -15931,8 +16020,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -15980,8 +16069,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -16027,8 +16116,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -16074,8 +16163,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -16121,8 +16210,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -16168,8 +16257,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -16215,8 +16304,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -16259,8 +16348,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -16306,8 +16395,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -16353,8 +16442,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -16400,8 +16489,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -16447,8 +16536,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -16494,8 +16583,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -16541,8 +16630,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -16588,8 +16677,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -16635,8 +16724,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -16682,8 +16771,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -16729,8 +16818,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -16776,8 +16865,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -16823,8 +16912,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -16870,8 +16959,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -16917,8 +17006,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -16964,8 +17053,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -17011,8 +17100,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -17058,8 +17147,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -17105,8 +17194,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -17152,8 +17241,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -17199,8 +17288,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -17246,8 +17335,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -17293,8 +17382,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -17340,8 +17429,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -17387,8 +17476,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -17434,8 +17523,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -17481,8 +17570,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -17528,8 +17617,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -17575,8 +17664,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -17622,8 +17711,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -17669,8 +17758,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -17716,8 +17805,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -17763,8 +17852,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -17810,8 +17899,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -17857,8 +17946,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -17904,8 +17993,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -17951,8 +18040,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -18000,8 +18089,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -18047,8 +18136,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -18094,8 +18183,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -18141,8 +18230,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -18188,8 +18277,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -18235,8 +18324,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -18282,8 +18371,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -18329,8 +18418,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -18376,9 +18465,9 @@
       "mcp"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws",
-      "guidance ← experience with pydantic v2"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
+      "guidance ← experience with structured output"
     ],
     "missing_skills": [
       "databricks"
@@ -18418,9 +18507,9 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws",
-      "guidance ← experience with pydantic v2"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
+      "guidance ← experience with structured output"
     ],
     "missing_skills": [
       "document ai",
@@ -18464,10 +18553,10 @@
       "retrieval augmented generation"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws",
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
       "metrics ← experience with observability",
-      "prompt engineering ← experience with pydantic v2"
+      "prompt engineering ← experience with structured output"
     ],
     "missing_skills": [
       "document ai",
@@ -18514,8 +18603,8 @@
       "rag"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws",
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
       "otel ← experience with observability"
     ],
     "missing_skills": [
@@ -18567,7 +18656,7 @@
     ],
     "transferable_matches": [
       "metrics ← experience with observability",
-      "prompt engineering ← experience with pydantic v2"
+      "prompt engineering ← experience with structured output"
     ],
     "missing_skills": [
       "document ai",
@@ -19139,6 +19228,46 @@
   {
     "score": 70,
     "priority": "⚪ REVIEW",
+    "title": "Sr Lead Network Reliability Engineer",
+    "company": "jobgether",
+    "source": "lever",
+    "url": "https://jobs.lever.co/jobgether/7827a183-2c23-4463-99f3-120e81980746/apply",
+    "posted_at": "2026-08-20T10:54:33.675000+00:00",
+    "remote": true,
+    "location": "US",
+    "salary": null,
+    "technical_matches": [
+      "aws"
+    ],
+    "transferable_matches": [
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
+    ],
+    "missing_skills": [
+      "kubernetes"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "not specified",
+    "location_eligible": true,
+    "location_confidence": "high",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at jobgether with strong overlap in aws, azure, gcp.",
+    "recommended_action": "SKIP",
+    "response_probability": "MEDIUM",
+    "url_status": "not_checked",
+    "score_breakdown": {
+      "technical": 35,
+      "role": 84,
+      "remote": 100,
+      "freshness": 100,
+      "experience": 100,
+      "response": 60,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 70,
+    "priority": "⚪ REVIEW",
     "title": "Staff AI Platform Developer",
     "company": "jobgether",
     "source": "lever",
@@ -19153,7 +19282,7 @@
       "retrieval augmented generation"
     ],
     "transferable_matches": [
-      "guardrails ← experience with pydantic v2"
+      "guardrails ← experience with structured output"
     ],
     "missing_skills": [
       "retrieval"
@@ -19276,9 +19405,9 @@
       "ci/cd"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws",
-      "guidance ← experience with pydantic v2"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
+      "guidance ← experience with structured output"
     ],
     "missing_skills": [
       "distributed systems",
@@ -19327,7 +19456,7 @@
       "lambda"
     ],
     "transferable_matches": [
-      "sagemaker ← experience with aws"
+      "sagemaker ← experience with amazon web services"
     ],
     "missing_skills": [
       "microservices",
@@ -19408,9 +19537,9 @@
       "aws"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws",
-      "guardrails ← experience with pydantic v2"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
+      "guardrails ← experience with structured output"
     ],
     "missing_skills": [
       "embedding",
@@ -19453,7 +19582,7 @@
       "openai"
     ],
     "transferable_matches": [
-      "guidance ← experience with pydantic v2",
+      "guidance ← experience with structured output",
       "metrics ← experience with observability",
       "new relic ← experience with observability"
     ],
@@ -19627,7 +19756,7 @@
       "python"
     ],
     "transferable_matches": [
-      "guidance ← experience with pydantic v2",
+      "guidance ← experience with structured output",
       "metrics ← experience with observability",
       "otel ← experience with observability",
       "together ai ← experience with claude"
@@ -19812,8 +19941,8 @@
     ],
     "transferable_matches": [
       "agno ← experience with langchain",
-      "guidance ← experience with pydantic v2",
-      "prompt engineering ← experience with pydantic v2"
+      "guidance ← experience with structured output",
+      "prompt engineering ← experience with structured output"
     ],
     "missing_skills": [
       "api integration",
@@ -19861,7 +19990,7 @@
     "transferable_matches": [
       "agno ← experience with langchain",
       "dify ← experience with langchain",
-      "guardrails ← experience with pydantic v2"
+      "guardrails ← experience with structured output"
     ],
     "missing_skills": [
       "autonomous agents",
@@ -20043,10 +20172,10 @@
       "retrieval augmented generation"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws",
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
       "metrics ← experience with observability",
-      "prompt engineering ← experience with pydantic v2"
+      "prompt engineering ← experience with structured output"
     ],
     "missing_skills": [
       "document ai",
@@ -20094,7 +20223,7 @@
       "observability"
     ],
     "transferable_matches": [
-      "guardrails ← experience with pydantic v2"
+      "guardrails ← experience with structured output"
     ],
     "missing_skills": [
       "distributed systems",
@@ -20188,8 +20317,8 @@
       "aws"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "kubernetes"
@@ -20229,11 +20358,11 @@
       "ci/cd"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws",
-      "guardrails ← experience with pydantic v2",
-      "guidance ← experience with pydantic v2",
-      "instructor ← experience with pydantic v2"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
+      "guardrails ← experience with structured output",
+      "guidance ← experience with structured output",
+      "instructor ← experience with structured output"
     ],
     "missing_skills": [
       "rust",
@@ -20323,9 +20452,9 @@
       "rag"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws",
-      "guidance ← experience with pydantic v2",
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
+      "guidance ← experience with structured output",
       "together ai ← experience with claude"
     ],
     "missing_skills": [
@@ -20358,48 +20487,6 @@
   {
     "score": 69,
     "priority": "⚪ REVIEW",
-    "title": "AI Engineer",
-    "company": "51D",
-    "source": "arbeitnow",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/51d/remote-ai-engineer-452167",
-    "posted_at": "2026-08-19T12:40:15+00:00",
-    "remote": false,
-    "location": "Remote - UK",
-    "salary": null,
-    "technical_matches": [
-      "ai agents",
-      "python"
-    ],
-    "transferable_matches": [
-      "guardrails ← experience with pydantic v2",
-      "together ai ← experience with claude"
-    ],
-    "missing_skills": [
-      "document ai",
-      "rust"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "2+ years required (meets bar)",
-    "location_eligible": true,
-    "location_confidence": "low",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at 51D with strong overlap in ai agents, python, together ai, guardrails.",
-    "recommended_action": "SKIP",
-    "response_probability": "UNKNOWN",
-    "url_status": "not_checked",
-    "score_breakdown": {
-      "technical": 50,
-      "role": 100,
-      "remote": 55,
-      "freshness": 90,
-      "experience": 100,
-      "response": 50,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 69,
-    "priority": "⚪ REVIEW",
     "title": "Senior Sales Engineer, ACT",
     "company": "Commvault",
     "source": "weworkremotely",
@@ -20412,9 +20499,9 @@
       "aws"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws",
-      "guidance ← experience with pydantic v2",
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
+      "guidance ← experience with structured output",
       "otel ← experience with observability"
     ],
     "missing_skills": [
@@ -20457,7 +20544,7 @@
       "openai"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
+      "azure ← experience with amazon web services",
       "datadog ← experience with observability",
       "otel ← experience with observability"
     ],
@@ -20502,7 +20589,7 @@
       "python"
     ],
     "transferable_matches": [
-      "guardrails ← experience with pydantic v2",
+      "guardrails ← experience with structured output",
       "otel ← experience with observability"
     ],
     "missing_skills": [
@@ -20546,7 +20633,7 @@
       "python"
     ],
     "transferable_matches": [
-      "guardrails ← experience with pydantic v2",
+      "guardrails ← experience with structured output",
       "otel ← experience with observability"
     ],
     "missing_skills": [
@@ -20589,7 +20676,7 @@
       "python"
     ],
     "transferable_matches": [
-      "guidance ← experience with pydantic v2",
+      "guidance ← experience with structured output",
       "metrics ← experience with observability",
       "otel ← experience with observability"
     ],
@@ -20636,7 +20723,7 @@
       "python"
     ],
     "transferable_matches": [
-      "guidance ← experience with pydantic v2",
+      "guidance ← experience with structured output",
       "metrics ← experience with observability",
       "otel ← experience with observability"
     ],
@@ -20683,7 +20770,7 @@
       "python"
     ],
     "transferable_matches": [
-      "guidance ← experience with pydantic v2",
+      "guidance ← experience with structured output",
       "metrics ← experience with observability",
       "otel ← experience with observability"
     ],
@@ -20726,7 +20813,7 @@
       "python"
     ],
     "transferable_matches": [
-      "guidance ← experience with pydantic v2",
+      "guidance ← experience with structured output",
       "metrics ← experience with observability",
       "otel ← experience with observability"
     ],
@@ -20771,7 +20858,7 @@
       "python"
     ],
     "transferable_matches": [
-      "guidance ← experience with pydantic v2",
+      "guidance ← experience with structured output",
       "metrics ← experience with observability",
       "otel ← experience with observability"
     ],
@@ -20816,7 +20903,7 @@
       "python"
     ],
     "transferable_matches": [
-      "guidance ← experience with pydantic v2",
+      "guidance ← experience with structured output",
       "metrics ← experience with observability",
       "otel ← experience with observability"
     ],
@@ -20860,7 +20947,7 @@
       "python"
     ],
     "transferable_matches": [
-      "guidance ← experience with pydantic v2",
+      "guidance ← experience with structured output",
       "metrics ← experience with observability",
       "otel ← experience with observability"
     ],
@@ -20904,7 +20991,7 @@
       "python"
     ],
     "transferable_matches": [
-      "guidance ← experience with pydantic v2",
+      "guidance ← experience with structured output",
       "metrics ← experience with observability",
       "otel ← experience with observability"
     ],
@@ -20927,49 +21014,6 @@
       "role": 78,
       "remote": 100,
       "freshness": 35,
-      "experience": 95,
-      "response": 60,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 68,
-    "priority": "⚪ REVIEW",
-    "title": "Senior Software Engineer, Fullstack (International) ",
-    "company": "affirm",
-    "source": "greenhouse",
-    "url": "https://job-boards.greenhouse.io/affirm/jobs/7827039003",
-    "posted_at": "2026-08-13T06:52:16-04:00",
-    "remote": true,
-    "location": "Remote UK",
-    "salary": null,
-    "technical_matches": [
-      "aws",
-      "python"
-    ],
-    "transferable_matches": [
-      "guidance ← experience with pydantic v2",
-      "metrics ← experience with observability",
-      "otel ← experience with observability"
-    ],
-    "missing_skills": [
-      "kubernetes",
-      "mysql"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "4+ years required",
-    "location_eligible": true,
-    "location_confidence": "high",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at affirm with strong overlap in python, aws, guidance, otel.",
-    "recommended_action": "SKIP",
-    "response_probability": "MEDIUM",
-    "url_status": "not_checked",
-    "score_breakdown": {
-      "technical": 60,
-      "role": 57,
-      "remote": 100,
-      "freshness": 55,
       "experience": 95,
       "response": 60,
       "compensation": 50
@@ -21122,7 +21166,7 @@
       "aws"
     ],
     "transferable_matches": [
-      "google cloud ← experience with aws",
+      "google cloud ← experience with amazon web services",
       "metrics ← experience with observability"
     ],
     "missing_skills": [
@@ -21166,7 +21210,7 @@
       "python"
     ],
     "transferable_matches": [
-      "json schema ← experience with pydantic v2"
+      "json schema ← experience with structured output"
     ],
     "missing_skills": [
       "agent platform",
@@ -21216,7 +21260,7 @@
       "supervisor"
     ],
     "transferable_matches": [
-      "google cloud ← experience with aws"
+      "google cloud ← experience with amazon web services"
     ],
     "missing_skills": [
       "document ai",
@@ -21258,7 +21302,7 @@
       "ai agents"
     ],
     "transferable_matches": [
-      "guidance ← experience with pydantic v2",
+      "guidance ← experience with structured output",
       "metrics ← experience with observability"
     ],
     "missing_skills": [
@@ -21300,9 +21344,9 @@
       "ci/cd"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws",
-      "guidance ← experience with pydantic v2"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
+      "guidance ← experience with structured output"
     ],
     "missing_skills": [
       "databricks",
@@ -21348,8 +21392,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -21397,8 +21441,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -21445,9 +21489,9 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws",
-      "guidance ← experience with pydantic v2",
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
+      "guidance ← experience with structured output",
       "metrics ← experience with observability"
     ],
     "missing_skills": [
@@ -21492,7 +21536,7 @@
     ],
     "transferable_matches": [
       "logging ← experience with observability",
-      "prompt engineering ← experience with pydantic v2"
+      "prompt engineering ← experience with structured output"
     ],
     "missing_skills": [
       "databricks",
@@ -21573,44 +21617,6 @@
   {
     "score": 68,
     "priority": "⚪ REVIEW",
-    "title": "Application Developer/Systems Engineer",
-    "company": "jobgether",
-    "source": "lever",
-    "url": "https://jobs.lever.co/jobgether/89a9a945-b8c9-432d-8cf5-ae850e49f93c/apply",
-    "posted_at": "2026-08-19T11:07:26.644000+00:00",
-    "remote": true,
-    "location": "US",
-    "salary": null,
-    "technical_matches": [
-      "ci/cd",
-      "docker"
-    ],
-    "transferable_matches": [],
-    "missing_skills": [
-      "kubernetes"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "not specified",
-    "location_eligible": true,
-    "location_confidence": "high",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at jobgether with strong overlap in docker, ci/cd.",
-    "recommended_action": "SKIP",
-    "response_probability": "MEDIUM",
-    "url_status": "not_checked",
-    "score_breakdown": {
-      "technical": 30,
-      "role": 93,
-      "remote": 100,
-      "freshness": 90,
-      "experience": 100,
-      "response": 60,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 68,
-    "priority": "⚪ REVIEW",
     "title": "Principal Solutions Engineer",
     "company": "jobgether",
     "source": "lever",
@@ -21665,7 +21671,7 @@
     "transferable_matches": [
       "benchmarking ← experience with llm evaluation",
       "metrics ← experience with observability",
-      "prompt engineering ← experience with pydantic v2"
+      "prompt engineering ← experience with structured output"
     ],
     "missing_skills": [
       "retrieval"
@@ -21707,7 +21713,7 @@
     "transferable_matches": [
       "benchmarking ← experience with llm evaluation",
       "metrics ← experience with observability",
-      "prompt engineering ← experience with pydantic v2"
+      "prompt engineering ← experience with structured output"
     ],
     "missing_skills": [
       "retrieval"
@@ -21749,7 +21755,7 @@
     "transferable_matches": [
       "benchmarking ← experience with llm evaluation",
       "metrics ← experience with observability",
-      "prompt engineering ← experience with pydantic v2"
+      "prompt engineering ← experience with structured output"
     ],
     "missing_skills": [
       "retrieval"
@@ -21791,7 +21797,7 @@
     "transferable_matches": [
       "benchmarking ← experience with llm evaluation",
       "metrics ← experience with observability",
-      "prompt engineering ← experience with pydantic v2"
+      "prompt engineering ← experience with structured output"
     ],
     "missing_skills": [
       "retrieval"
@@ -21833,7 +21839,7 @@
     "transferable_matches": [
       "benchmarking ← experience with llm evaluation",
       "metrics ← experience with observability",
-      "prompt engineering ← experience with pydantic v2"
+      "prompt engineering ← experience with structured output"
     ],
     "missing_skills": [
       "retrieval"
@@ -21875,7 +21881,7 @@
     "transferable_matches": [
       "benchmarking ← experience with llm evaluation",
       "metrics ← experience with observability",
-      "prompt engineering ← experience with pydantic v2"
+      "prompt engineering ← experience with structured output"
     ],
     "missing_skills": [
       "retrieval"
@@ -21917,7 +21923,7 @@
     "transferable_matches": [
       "benchmarking ← experience with llm evaluation",
       "metrics ← experience with observability",
-      "prompt engineering ← experience with pydantic v2"
+      "prompt engineering ← experience with structured output"
     ],
     "missing_skills": [
       "retrieval"
@@ -22797,7 +22803,7 @@
       "observability"
     ],
     "transferable_matches": [
-      "azure ← experience with aws"
+      "azure ← experience with amazon web services"
     ],
     "missing_skills": [
       "distributed systems"
@@ -22921,7 +22927,7 @@
       "observability"
     ],
     "transferable_matches": [
-      "azure ← experience with aws"
+      "azure ← experience with amazon web services"
     ],
     "missing_skills": [
       "document ai",
@@ -22969,7 +22975,7 @@
       "redis"
     ],
     "transferable_matches": [
-      "s3 ← experience with aws"
+      "s3 ← experience with amazon web services"
     ],
     "missing_skills": [
       "distributed systems",
@@ -23020,7 +23026,7 @@
     ],
     "transferable_matches": [
       "cohere ← experience with claude",
-      "guidance ← experience with pydantic v2",
+      "guidance ← experience with structured output",
       "metrics ← experience with observability"
     ],
     "missing_skills": [
@@ -23101,7 +23107,7 @@
       "python"
     ],
     "transferable_matches": [
-      "guardrails ← experience with pydantic v2",
+      "guardrails ← experience with structured output",
       "otel ← experience with observability"
     ],
     "missing_skills": [
@@ -23232,8 +23238,8 @@
       "rag"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -23277,8 +23283,8 @@
       "observability"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -23324,8 +23330,8 @@
       "rag"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -23370,8 +23376,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -23418,8 +23424,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -23463,7 +23469,7 @@
       "python"
     ],
     "transferable_matches": [
-      "guidance ← experience with pydantic v2",
+      "guidance ← experience with structured output",
       "logging ← experience with observability"
     ],
     "missing_skills": [
@@ -23509,8 +23515,8 @@
       "docker"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -23556,9 +23562,9 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws",
-      "guidance ← experience with pydantic v2",
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
+      "guidance ← experience with structured output",
       "metrics ← experience with observability"
     ],
     "missing_skills": [
@@ -23657,7 +23663,7 @@
     ],
     "transferable_matches": [
       "metrics ← experience with observability",
-      "prompt engineering ← experience with pydantic v2"
+      "prompt engineering ← experience with structured output"
     ],
     "missing_skills": [
       "document ai",
@@ -23706,7 +23712,7 @@
     ],
     "transferable_matches": [
       "metrics ← experience with observability",
-      "prompt engineering ← experience with pydantic v2"
+      "prompt engineering ← experience with structured output"
     ],
     "missing_skills": [
       "document ai",
@@ -23754,7 +23760,7 @@
       "python"
     ],
     "transferable_matches": [
-      "unstructured ← experience with lightrag"
+      "unstructured ← experience with llamaindex"
     ],
     "missing_skills": [
       "bigquery",
@@ -24285,7 +24291,7 @@
       "python"
     ],
     "transferable_matches": [
-      "guidance ← experience with pydantic v2"
+      "guidance ← experience with structured output"
     ],
     "missing_skills": [
       "distributed systems",
@@ -24412,8 +24418,8 @@
       "docker"
     ],
     "transferable_matches": [
-      "gcp ← experience with aws",
-      "google cloud ← experience with aws"
+      "gcp ← experience with amazon web services",
+      "google cloud ← experience with amazon web services"
     ],
     "missing_skills": [
       "jenkins",
@@ -24683,7 +24689,7 @@
     "transferable_matches": [
       "agno ← experience with langchain",
       "arize ← experience with llm evaluation",
-      "gcp ← experience with aws",
+      "gcp ← experience with amazon web services",
       "metrics ← experience with observability"
     ],
     "missing_skills": [
@@ -24900,7 +24906,7 @@
       "python"
     ],
     "transferable_matches": [
-      "guidance ← experience with pydantic v2",
+      "guidance ← experience with structured output",
       "otel ← experience with observability",
       "together ai ← experience with claude"
     ],
@@ -24946,7 +24952,7 @@
       "python"
     ],
     "transferable_matches": [
-      "guidance ← experience with pydantic v2",
+      "guidance ← experience with structured output",
       "otel ← experience with observability",
       "together ai ← experience with claude"
     ],
@@ -25128,8 +25134,8 @@
       "observability"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -25173,8 +25179,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -25219,8 +25225,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -25263,8 +25269,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -25307,8 +25313,8 @@
       "docker"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -25352,8 +25358,8 @@
       "ci/cd"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -25397,8 +25403,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -25444,8 +25450,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -25490,8 +25496,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -25538,8 +25544,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -25586,8 +25592,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -25634,8 +25640,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -25681,8 +25687,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -25730,8 +25736,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "kubernetes",
@@ -25777,7 +25783,7 @@
     ],
     "transferable_matches": [
       "metrics ← experience with observability",
-      "prompt engineering ← experience with pydantic v2"
+      "prompt engineering ← experience with structured output"
     ],
     "missing_skills": [
       "document ai",
@@ -25825,7 +25831,7 @@
     ],
     "transferable_matches": [
       "metrics ← experience with observability",
-      "prompt engineering ← experience with pydantic v2"
+      "prompt engineering ← experience with structured output"
     ],
     "missing_skills": [
       "document ai",
@@ -25873,7 +25879,7 @@
     ],
     "transferable_matches": [
       "metrics ← experience with observability",
-      "prompt engineering ← experience with pydantic v2"
+      "prompt engineering ← experience with structured output"
     ],
     "missing_skills": [
       "document ai",
@@ -25921,7 +25927,7 @@
     ],
     "transferable_matches": [
       "metrics ← experience with observability",
-      "prompt engineering ← experience with pydantic v2"
+      "prompt engineering ← experience with structured output"
     ],
     "missing_skills": [
       "document ai",
@@ -25969,7 +25975,7 @@
     ],
     "transferable_matches": [
       "metrics ← experience with observability",
-      "prompt engineering ← experience with pydantic v2"
+      "prompt engineering ← experience with structured output"
     ],
     "missing_skills": [
       "document ai",
@@ -26017,7 +26023,7 @@
     ],
     "transferable_matches": [
       "metrics ← experience with observability",
-      "prompt engineering ← experience with pydantic v2"
+      "prompt engineering ← experience with structured output"
     ],
     "missing_skills": [
       "document ai",
@@ -26065,7 +26071,7 @@
     ],
     "transferable_matches": [
       "metrics ← experience with observability",
-      "prompt engineering ← experience with pydantic v2"
+      "prompt engineering ← experience with structured output"
     ],
     "missing_skills": [
       "document ai",
@@ -26113,7 +26119,7 @@
     ],
     "transferable_matches": [
       "metrics ← experience with observability",
-      "prompt engineering ← experience with pydantic v2"
+      "prompt engineering ← experience with structured output"
     ],
     "missing_skills": [
       "document ai",
@@ -26161,7 +26167,7 @@
     ],
     "transferable_matches": [
       "metrics ← experience with observability",
-      "prompt engineering ← experience with pydantic v2"
+      "prompt engineering ← experience with structured output"
     ],
     "missing_skills": [
       "document ai",
@@ -26209,7 +26215,7 @@
     ],
     "transferable_matches": [
       "metrics ← experience with observability",
-      "prompt engineering ← experience with pydantic v2"
+      "prompt engineering ← experience with structured output"
     ],
     "missing_skills": [
       "document ai",
@@ -26235,6 +26241,44 @@
       "freshness": 35,
       "experience": 100,
       "response": 100,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 66,
+    "priority": "⚪ REVIEW",
+    "title": "Application Developer/Systems Engineer",
+    "company": "jobgether",
+    "source": "lever",
+    "url": "https://jobs.lever.co/jobgether/89a9a945-b8c9-432d-8cf5-ae850e49f93c/apply",
+    "posted_at": "2026-08-19T11:07:26.644000+00:00",
+    "remote": true,
+    "location": "US",
+    "salary": null,
+    "technical_matches": [
+      "ci/cd",
+      "docker"
+    ],
+    "transferable_matches": [],
+    "missing_skills": [
+      "kubernetes"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "not specified",
+    "location_eligible": true,
+    "location_confidence": "high",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at jobgether with strong overlap in docker, ci/cd.",
+    "recommended_action": "SKIP",
+    "response_probability": "MEDIUM",
+    "url_status": "not_checked",
+    "score_breakdown": {
+      "technical": 30,
+      "role": 93,
+      "remote": 100,
+      "freshness": 75,
+      "experience": 100,
+      "response": 60,
       "compensation": 50
     }
   },
@@ -26366,7 +26410,7 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws"
+      "azure ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -26773,9 +26817,9 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws",
-      "instructor ← experience with pydantic v2"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
+      "instructor ← experience with structured output"
     ],
     "missing_skills": [
       "api integration",
@@ -26819,7 +26863,7 @@
     ],
     "transferable_matches": [
       "dify ← experience with langchain",
-      "guidance ← experience with pydantic v2"
+      "guidance ← experience with structured output"
     ],
     "missing_skills": [
       "java",
@@ -27028,7 +27072,7 @@
       "python"
     ],
     "transferable_matches": [
-      "prompt engineering ← experience with pydantic v2"
+      "prompt engineering ← experience with structured output"
     ],
     "missing_skills": [
       "java",
@@ -27072,7 +27116,7 @@
       "rag"
     ],
     "transferable_matches": [
-      "guardrails ← experience with pydantic v2"
+      "guardrails ← experience with structured output"
     ],
     "missing_skills": [
       "fine-tuning",
@@ -27114,8 +27158,8 @@
       "rag"
     ],
     "transferable_matches": [
-      "guardrails ← experience with pydantic v2",
-      "unstructured ← experience with lightrag"
+      "guardrails ← experience with structured output",
+      "unstructured ← experience with llamaindex"
     ],
     "missing_skills": [
       "autonomous agents",
@@ -27161,8 +27205,8 @@
       "python"
     ],
     "transferable_matches": [
-      "gcp ← experience with aws",
-      "guidance ← experience with pydantic v2"
+      "gcp ← experience with amazon web services",
+      "guidance ← experience with structured output"
     ],
     "missing_skills": [
       "go",
@@ -27297,7 +27341,7 @@
     "transferable_matches": [
       "a/b testing ← experience with llm evaluation",
       "arize ← experience with llm evaluation",
-      "guardrails ← experience with pydantic v2",
+      "guardrails ← experience with structured output",
       "metrics ← experience with observability"
     ],
     "missing_skills": [
@@ -27343,7 +27387,7 @@
     "transferable_matches": [
       "a/b testing ← experience with llm evaluation",
       "arize ← experience with llm evaluation",
-      "guardrails ← experience with pydantic v2",
+      "guardrails ← experience with structured output",
       "metrics ← experience with observability"
     ],
     "missing_skills": [
@@ -27432,7 +27476,7 @@
       "docker"
     ],
     "transferable_matches": [
-      "gcp ← experience with aws"
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "distributed systems",
@@ -27474,7 +27518,7 @@
       "python"
     ],
     "transferable_matches": [
-      "guidance ← experience with pydantic v2",
+      "guidance ← experience with structured output",
       "metrics ← experience with observability",
       "otel ← experience with observability"
     ],
@@ -27614,7 +27658,7 @@
       "python"
     ],
     "transferable_matches": [
-      "guidance ← experience with pydantic v2",
+      "guidance ← experience with structured output",
       "metrics ← experience with observability",
       "otel ← experience with observability"
     ],
@@ -27645,6 +27689,49 @@
   {
     "score": 65,
     "priority": "⚪ REVIEW",
+    "title": "Senior Software Engineer, Fullstack (International) ",
+    "company": "affirm",
+    "source": "greenhouse",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7827039003",
+    "posted_at": "2026-08-13T06:52:16-04:00",
+    "remote": true,
+    "location": "Remote UK",
+    "salary": null,
+    "technical_matches": [
+      "aws",
+      "python"
+    ],
+    "transferable_matches": [
+      "guidance ← experience with structured output",
+      "metrics ← experience with observability",
+      "otel ← experience with observability"
+    ],
+    "missing_skills": [
+      "kubernetes",
+      "mysql"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "4+ years required",
+    "location_eligible": true,
+    "location_confidence": "high",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at affirm with strong overlap in python, aws, guidance, otel.",
+    "recommended_action": "SKIP",
+    "response_probability": "MEDIUM",
+    "url_status": "not_checked",
+    "score_breakdown": {
+      "technical": 60,
+      "role": 57,
+      "remote": 100,
+      "freshness": 35,
+      "experience": 95,
+      "response": 60,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 65,
+    "priority": "⚪ REVIEW",
     "title": "Senior Software Engineer, Fullstack (Servicing International)",
     "company": "affirm",
     "source": "greenhouse",
@@ -27658,7 +27745,7 @@
       "python"
     ],
     "transferable_matches": [
-      "guidance ← experience with pydantic v2",
+      "guidance ← experience with structured output",
       "metrics ← experience with observability",
       "otel ← experience with observability"
     ],
@@ -27788,7 +27875,7 @@
       "python"
     ],
     "transferable_matches": [
-      "guidance ← experience with pydantic v2",
+      "guidance ← experience with structured output",
       "otel ← experience with observability",
       "together ai ← experience with claude"
     ],
@@ -27833,7 +27920,7 @@
       "python"
     ],
     "transferable_matches": [
-      "guidance ← experience with pydantic v2",
+      "guidance ← experience with structured output",
       "otel ← experience with observability",
       "together ai ← experience with claude"
     ],
@@ -27877,7 +27964,7 @@
       "python"
     ],
     "transferable_matches": [
-      "guidance ← experience with pydantic v2",
+      "guidance ← experience with structured output",
       "otel ← experience with observability",
       "together ai ← experience with claude"
     ],
@@ -27924,7 +28011,7 @@
       "python"
     ],
     "transferable_matches": [
-      "guidance ← experience with pydantic v2",
+      "guidance ← experience with structured output",
       "otel ← experience with observability",
       "together ai ← experience with claude"
     ],
@@ -27971,7 +28058,7 @@
       "aws"
     ],
     "transferable_matches": [
-      "google cloud ← experience with aws",
+      "google cloud ← experience with amazon web services",
       "metrics ← experience with observability"
     ],
     "missing_skills": [
@@ -28056,7 +28143,7 @@
       "python"
     ],
     "transferable_matches": [
-      "gcp ← experience with aws",
+      "gcp ← experience with amazon web services",
       "together ai ← experience with claude"
     ],
     "missing_skills": [
@@ -28140,7 +28227,7 @@
       "agentic ai"
     ],
     "transferable_matches": [
-      "guidance ← experience with pydantic v2"
+      "guidance ← experience with structured output"
     ],
     "missing_skills": [
       "go",
@@ -28182,7 +28269,7 @@
       "claude"
     ],
     "transferable_matches": [
-      "guidance ← experience with pydantic v2",
+      "guidance ← experience with structured output",
       "metrics ← experience with observability"
     ],
     "missing_skills": [
@@ -28227,9 +28314,9 @@
       "observability"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws",
-      "guidance ← experience with pydantic v2",
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
+      "guidance ← experience with structured output",
       "metrics ← experience with observability"
     ],
     "missing_skills": [
@@ -28270,8 +28357,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -28313,8 +28400,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -28356,8 +28443,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -28401,8 +28488,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws",
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
       "together ai ← experience with claude"
     ],
     "missing_skills": [
@@ -28446,8 +28533,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws",
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
       "together ai ← experience with claude"
     ],
     "missing_skills": [
@@ -28490,8 +28577,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -28537,8 +28624,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -28582,8 +28669,8 @@
     ],
     "transferable_matches": [
       "agno ← experience with langchain",
-      "azure ← experience with aws",
-      "gcp ← experience with aws"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -28628,8 +28715,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -28676,9 +28763,9 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws",
-      "guidance ← experience with pydantic v2"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
+      "guidance ← experience with structured output"
     ],
     "missing_skills": [
       "databricks",
@@ -28770,8 +28857,8 @@
       "observability"
     ],
     "transferable_matches": [
-      "azure ← experience with aws",
-      "gcp ← experience with aws",
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
       "logging ← experience with observability"
     ],
     "missing_skills": [
@@ -28871,7 +28958,7 @@
     ],
     "transferable_matches": [
       "metrics ← experience with observability",
-      "prompt engineering ← experience with pydantic v2"
+      "prompt engineering ← experience with structured output"
     ],
     "missing_skills": [
       "document ai",
@@ -28952,7 +29039,7 @@
       "ci/cd"
     ],
     "transferable_matches": [
-      "guardrails ← experience with pydantic v2"
+      "guardrails ← experience with structured output"
     ],
     "missing_skills": [
       "agent runtime"
@@ -29134,6 +29221,41 @@
   {
     "score": 65,
     "priority": "⚪ REVIEW",
+    "title": "Software Engineer - Performance and Tools",
+    "company": "jobgether",
+    "source": "lever",
+    "url": "https://jobs.lever.co/jobgether/88f845cb-7909-45ae-b528-2cd5934a08ac/apply",
+    "posted_at": "2026-08-20T11:23:35.454000+00:00",
+    "remote": true,
+    "location": "US",
+    "salary": null,
+    "technical_matches": [
+      "observability"
+    ],
+    "transferable_matches": [],
+    "missing_skills": [],
+    "hard_requirements_missing": [],
+    "experience_required": "not specified",
+    "location_eligible": true,
+    "location_confidence": "high",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at jobgether with strong overlap in observability.",
+    "recommended_action": "SKIP",
+    "response_probability": "MEDIUM",
+    "url_status": "not_checked",
+    "score_breakdown": {
+      "technical": 15,
+      "role": 92,
+      "remote": 100,
+      "freshness": 100,
+      "experience": 100,
+      "response": 60,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 65,
+    "priority": "⚪ REVIEW",
     "title": "AI Product Counsel",
     "company": "notion",
     "source": "ashby",
@@ -29147,8 +29269,8 @@
     ],
     "transferable_matches": [
       "arize ← experience with llm evaluation",
-      "guardrails ← experience with pydantic v2",
-      "guidance ← experience with pydantic v2",
+      "guardrails ← experience with structured output",
+      "guidance ← experience with structured output",
       "together ai ← experience with claude"
     ],
     "missing_skills": [
@@ -29313,8 +29435,8 @@
       "ci/cd"
     ],
     "transferable_matches": [
-      "ec2 ← experience with aws",
-      "eks ← experience with aws",
+      "ec2 ← experience with amazon web services",
+      "eks ← experience with amazon web services",
       "metrics ← experience with observability"
     ],
     "missing_skills": [
@@ -29355,7 +29477,7 @@
     "salary": null,
     "technical_matches": [],
     "transferable_matches": [
-      "guidance ← experience with pydantic v2",
+      "guidance ← experience with structured output",
       "metrics ← experience with observability",
       "otel ← experience with observability",
       "tracing ← experience with observability"

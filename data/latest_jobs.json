@@ -64,9 +64,9 @@
     ],
     "transferable_matches": [
       "azure ← experience with bedrock",
-      "dspy ← experience with langchain",
+      "dspy ← experience with llamaindex",
       "gcp ← experience with bedrock",
-      "hugging face ← experience with openai"
+      "hugging face ← experience with anthropic"
     ],
     "missing_skills": [
       "databricks",
@@ -116,7 +116,7 @@
     ],
     "transferable_matches": [
       "langfuse ← experience with observability",
-      "pydantic ai ← experience with langchain"
+      "pydantic ai ← experience with llamaindex"
     ],
     "missing_skills": [
       "agent workflows"
@@ -160,7 +160,7 @@
       "rag"
     ],
     "transferable_matches": [
-      "crewai ← experience with langchain"
+      "crewai ← experience with llamaindex"
     ],
     "missing_skills": [],
     "hard_requirements_missing": [],
@@ -202,7 +202,7 @@
       "python"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with llamaindex",
       "guidance ← experience with structured output"
     ],
     "missing_skills": [
@@ -248,7 +248,7 @@
     ],
     "transferable_matches": [
       "azure ← experience with bedrock",
-      "dify ← experience with langchain",
+      "dify ← experience with llamaindex",
       "gcp ← experience with bedrock",
       "google cloud ← experience with bedrock",
       "otel ← experience with observability"
@@ -273,49 +273,6 @@
       "role": 84,
       "remote": 100,
       "freshness": 75,
-      "experience": 100,
-      "response": 100,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 91,
-    "priority": "🔥 EXCEPTIONAL",
-    "title": "AI & Data Engineer",
-    "company": "jobgether",
-    "source": "lever",
-    "url": "https://jobs.lever.co/jobgether/2729318f-05d3-4430-aac5-ca644f550244/apply",
-    "posted_at": "2026-08-20T02:10:18.679000+00:00",
-    "remote": true,
-    "location": "India",
-    "salary": null,
-    "technical_matches": [
-      "agentic ai",
-      "ai agents",
-      "ci/cd",
-      "observability",
-      "rag"
-    ],
-    "transferable_matches": [
-      "unstructured ← experience with lightrag"
-    ],
-    "missing_skills": [
-      "semantic search"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "not specified",
-    "location_eligible": true,
-    "location_confidence": "high",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at jobgether with strong overlap in agentic ai, ai agents, rag, unstructured.",
-    "recommended_action": "APPLY_NOW",
-    "response_probability": "HIGH",
-    "url_status": "ok",
-    "score_breakdown": {
-      "technical": 85,
-      "role": 100,
-      "remote": 100,
-      "freshness": 90,
       "experience": 100,
       "response": 100,
       "compensation": 50
@@ -443,8 +400,8 @@
       "instructor ← experience with structured output",
       "metrics ← experience with observability",
       "prompt engineering ← experience with structured output",
-      "together ai ← experience with openai",
-      "unstructured ← experience with lightrag"
+      "together ai ← experience with anthropic",
+      "unstructured ← experience with llamaindex"
     ],
     "missing_skills": [
       "classification",
@@ -493,8 +450,8 @@
       "gcp ← experience with bedrock",
       "instructor ← experience with structured output",
       "new relic ← experience with observability",
-      "together ai ← experience with openai",
-      "unstructured ← experience with lightrag"
+      "together ai ← experience with anthropic",
+      "unstructured ← experience with llamaindex"
     ],
     "missing_skills": [
       "golang",
@@ -545,8 +502,8 @@
       "claude"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
-      "gemini ← experience with openai",
+      "agno ← experience with llamaindex",
+      "gemini ← experience with anthropic",
       "metrics ← experience with observability",
       "prompt engineering ← experience with structured output"
     ],
@@ -599,7 +556,7 @@
     "transferable_matches": [
       "otel ← experience with observability",
       "prompt engineering ← experience with structured output",
-      "unstructured ← experience with lightrag"
+      "unstructured ← experience with llamaindex"
     ],
     "missing_skills": [
       "airflow",
@@ -651,7 +608,7 @@
     "transferable_matches": [
       "otel ← experience with observability",
       "prompt engineering ← experience with structured output",
-      "unstructured ← experience with lightrag"
+      "unstructured ← experience with llamaindex"
     ],
     "missing_skills": [
       "airflow",
@@ -702,11 +659,11 @@
       "rag"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with llamaindex",
       "guardrails ← experience with structured output",
       "metrics ← experience with observability",
       "prompt engineering ← experience with structured output",
-      "together ai ← experience with openai",
+      "together ai ← experience with anthropic",
       "tracing ← experience with observability"
     ],
     "missing_skills": [
@@ -747,10 +704,10 @@
     "title": "Forward Deployed Engineer - EMEA",
     "company": "gitlab",
     "source": "greenhouse",
-    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8522265002",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8522408002",
     "posted_at": "2026-08-10T16:52:46-04:00",
     "remote": true,
-    "location": "Remote Ireland; Remote, Denmark; Remote, France; Remote, Germany; Remote, Italy; Remote, Netherlands; Remote, Sweden; Remote, United Kingdom",
+    "location": "Remote Ireland; Remote, Austria; Remote, Denmark; Remote, France; Remote, Germany; Remote, Netherlands; Remote, Switzerland; Remote, United Kingdom",
     "salary": null,
     "technical_matches": [
       "agent orchestration",
@@ -761,7 +718,7 @@
       "redis"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with llamaindex",
       "guidance ← experience with structured output",
       "traces ← experience with observability"
     ],
@@ -804,10 +761,10 @@
     "title": "Forward Deployed Engineer - EMEA",
     "company": "gitlab",
     "source": "greenhouse",
-    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8522408002",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8522265002",
     "posted_at": "2026-08-10T16:52:46-04:00",
     "remote": true,
-    "location": "Remote Ireland; Remote, Austria; Remote, Denmark; Remote, France; Remote, Germany; Remote, Netherlands; Remote, Switzerland; Remote, United Kingdom",
+    "location": "Remote Ireland; Remote, Denmark; Remote, France; Remote, Germany; Remote, Italy; Remote, Netherlands; Remote, Sweden; Remote, United Kingdom",
     "salary": null,
     "technical_matches": [
       "agent orchestration",
@@ -818,7 +775,7 @@
       "redis"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with llamaindex",
       "guidance ← experience with structured output",
       "traces ← experience with observability"
     ],
@@ -875,7 +832,7 @@
       "redis"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with llamaindex",
       "guidance ← experience with structured output",
       "traces ← experience with observability"
     ],
@@ -933,11 +890,11 @@
       "rag"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with llamaindex",
       "guardrails ← experience with structured output",
       "metrics ← experience with observability",
       "prompt engineering ← experience with structured output",
-      "together ai ← experience with openai",
+      "together ai ← experience with anthropic",
       "tracing ← experience with observability"
     ],
     "missing_skills": [
@@ -1036,7 +993,7 @@
       "postgresql"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with llamaindex",
       "logging ← experience with observability",
       "metrics ← experience with observability",
       "tracing ← experience with observability"
@@ -1089,7 +1046,7 @@
       "redis"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with llamaindex",
       "guidance ← experience with structured output",
       "traces ← experience with observability"
     ],
@@ -1130,6 +1087,49 @@
     }
   },
   {
+    "score": 88,
+    "priority": "🟢 HIGH MATCH",
+    "title": "AI & Data Engineer",
+    "company": "jobgether",
+    "source": "lever",
+    "url": "https://jobs.lever.co/jobgether/2729318f-05d3-4430-aac5-ca644f550244/apply",
+    "posted_at": "2026-08-20T02:10:18.679000+00:00",
+    "remote": true,
+    "location": "India",
+    "salary": null,
+    "technical_matches": [
+      "agentic ai",
+      "ai agents",
+      "ci/cd",
+      "observability",
+      "rag"
+    ],
+    "transferable_matches": [
+      "unstructured ← experience with llamaindex"
+    ],
+    "missing_skills": [
+      "semantic search"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "not specified",
+    "location_eligible": true,
+    "location_confidence": "high",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at jobgether with strong overlap in agentic ai, ai agents, rag, unstructured.",
+    "recommended_action": "APPLY_NOW",
+    "response_probability": "HIGH",
+    "url_status": "ok",
+    "score_breakdown": {
+      "technical": 85,
+      "role": 100,
+      "remote": 100,
+      "freshness": 75,
+      "experience": 100,
+      "response": 100,
+      "compensation": 50
+    }
+  },
+  {
     "score": 87,
     "priority": "🟢 HIGH MATCH",
     "title": "Senior Machine Learning Engineer",
@@ -1150,7 +1150,7 @@
     "transferable_matches": [
       "arize ← experience with llm evaluation",
       "metrics ← experience with observability",
-      "transformers ← experience with openai"
+      "transformers ← experience with anthropic"
     ],
     "missing_skills": [
       "airflow",
@@ -1213,7 +1213,7 @@
     "transferable_matches": [
       "arize ← experience with llm evaluation",
       "metrics ← experience with observability",
-      "transformers ← experience with openai"
+      "transformers ← experience with anthropic"
     ],
     "missing_skills": [
       "airflow",
@@ -1261,10 +1261,10 @@
     "title": "AI Engineer - FDE (Forward Deployed Engineer)",
     "company": "databricks",
     "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8546367002",
-    "posted_at": "2026-08-18T14:10:59-04:00",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8569392002",
+    "posted_at": "2026-08-18T14:15:26-04:00",
     "remote": false,
-    "location": "United States",
+    "location": "Tokyo, Japan",
     "salary": null,
     "technical_matches": [
       "aws",
@@ -1274,9 +1274,9 @@
     ],
     "transferable_matches": [
       "azure ← experience with bedrock",
-      "dspy ← experience with langchain",
+      "dspy ← experience with llamaindex",
       "gcp ← experience with bedrock",
-      "hugging face ← experience with openai"
+      "hugging face ← experience with anthropic"
     ],
     "missing_skills": [
       "databricks",
@@ -1311,10 +1311,10 @@
     "title": "AI Engineer - FDE (Forward Deployed Engineer)",
     "company": "databricks",
     "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8569392002",
-    "posted_at": "2026-08-18T14:15:26-04:00",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8546367002",
+    "posted_at": "2026-08-18T14:10:59-04:00",
     "remote": false,
-    "location": "Tokyo, Japan",
+    "location": "United States",
     "salary": null,
     "technical_matches": [
       "aws",
@@ -1324,9 +1324,9 @@
     ],
     "transferable_matches": [
       "azure ← experience with bedrock",
-      "dspy ← experience with langchain",
+      "dspy ← experience with llamaindex",
       "gcp ← experience with bedrock",
-      "hugging face ← experience with openai"
+      "hugging face ← experience with anthropic"
     ],
     "missing_skills": [
       "databricks",
@@ -1374,9 +1374,9 @@
     ],
     "transferable_matches": [
       "azure ← experience with bedrock",
-      "dspy ← experience with langchain",
+      "dspy ← experience with llamaindex",
       "gcp ← experience with bedrock",
-      "hugging face ← experience with openai"
+      "hugging face ← experience with anthropic"
     ],
     "missing_skills": [
       "databricks",
@@ -1424,9 +1424,9 @@
     ],
     "transferable_matches": [
       "azure ← experience with bedrock",
-      "dspy ← experience with langchain",
+      "dspy ← experience with llamaindex",
       "gcp ← experience with bedrock",
-      "hugging face ← experience with openai"
+      "hugging face ← experience with anthropic"
     ],
     "missing_skills": [
       "databricks",
@@ -1484,7 +1484,7 @@
       "tool calling"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with llamaindex",
       "arize phoenix ← experience with observability",
       "arize ← experience with llm evaluation",
       "azure ← experience with bedrock",
@@ -1492,7 +1492,7 @@
       "golden dataset ← experience with llm evaluation",
       "json schema ← experience with structured output",
       "langfuse ← experience with observability",
-      "mastra ← experience with langchain",
+      "mastra ← experience with llamaindex",
       "metrics ← experience with observability",
       "opentelemetry ← experience with observability",
       "pgvector ← experience with qdrant",
@@ -1526,6 +1526,58 @@
     "location_confidence": "low",
     "freshness_confidence": "known",
     "reason": "Recently posted role at Nejo with strong overlap in agent orchestration, tool calling, function calling, agno, mastra.",
+    "recommended_action": "APPLY_NOW",
+    "response_probability": "MEDIUM",
+    "url_status": "ok",
+    "score_breakdown": {
+      "technical": 100,
+      "role": 100,
+      "remote": 55,
+      "freshness": 90,
+      "experience": 100,
+      "response": 60,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 87,
+    "priority": "🟢 HIGH MATCH",
+    "title": "Staff AI Engineer",
+    "company": "Algo1",
+    "source": "arbeitnow",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/algo1/staff-ai-engineer-london-434966",
+    "posted_at": "2026-08-20T15:40:23+00:00",
+    "remote": false,
+    "location": "London",
+    "salary": null,
+    "technical_matches": [
+      "agentic ai",
+      "fastapi",
+      "pydantic",
+      "python",
+      "rag",
+      "retrieval augmented generation"
+    ],
+    "transferable_matches": [
+      "agent development kit ← experience with llamaindex",
+      "evals ← experience with llm evaluation",
+      "metrics ← experience with observability",
+      "otel ← experience with observability",
+      "pydantic ai ← experience with llamaindex",
+      "pydanticai ← experience with llamaindex"
+    ],
+    "missing_skills": [
+      "agentic rag",
+      "kafka",
+      "postgres",
+      "retrieval"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "not specified",
+    "location_eligible": true,
+    "location_confidence": "low",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at Algo1 with strong overlap in agentic ai, rag, retrieval augmented generation, pydanticai, pydantic ai.",
     "recommended_action": "APPLY_NOW",
     "response_probability": "MEDIUM",
     "url_status": "ok",
@@ -1576,58 +1628,6 @@
     "location_confidence": "low",
     "freshness_confidence": "known",
     "reason": "Recently posted role at Black Semiconductor GmbH with strong overlap in agentic ai, openai, claude, prompt engineering.",
-    "recommended_action": "APPLY_NOW",
-    "response_probability": "MEDIUM",
-    "url_status": "ok",
-    "score_breakdown": {
-      "technical": 100,
-      "role": 100,
-      "remote": 55,
-      "freshness": 90,
-      "experience": 100,
-      "response": 60,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 87,
-    "priority": "🟢 HIGH MATCH",
-    "title": "Staff AI Engineer",
-    "company": "Algo1",
-    "source": "arbeitnow",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/algo1/staff-ai-engineer-london-434966",
-    "posted_at": "2026-08-20T15:40:23+00:00",
-    "remote": false,
-    "location": "London",
-    "salary": null,
-    "technical_matches": [
-      "agentic ai",
-      "fastapi",
-      "pydantic",
-      "python",
-      "rag",
-      "retrieval augmented generation"
-    ],
-    "transferable_matches": [
-      "agent development kit ← experience with langchain",
-      "evals ← experience with llm evaluation",
-      "metrics ← experience with observability",
-      "otel ← experience with observability",
-      "pydantic ai ← experience with langchain",
-      "pydanticai ← experience with langchain"
-    ],
-    "missing_skills": [
-      "agentic rag",
-      "kafka",
-      "postgres",
-      "retrieval"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "not specified",
-    "location_eligible": true,
-    "location_confidence": "low",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at Algo1 with strong overlap in agentic ai, rag, retrieval augmented generation, pydanticai, pydantic ai.",
     "recommended_action": "APPLY_NOW",
     "response_probability": "MEDIUM",
     "url_status": "ok",
@@ -1715,8 +1715,8 @@
     ],
     "transferable_matches": [
       "elasticsearch ← experience with qdrant",
-      "graph database ← experience with neo4j",
-      "hugging face ← experience with openai"
+      "graph database ← experience with knowledge graph",
+      "hugging face ← experience with anthropic"
     ],
     "missing_skills": [
       "api integration",
@@ -1771,7 +1771,7 @@
       "tool calling"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with llamaindex",
       "grafana ← experience with observability",
       "prometheus ← experience with observability"
     ],
@@ -1878,19 +1878,19 @@
       "rag"
     ],
     "transferable_matches": [
-      "aws bedrock ← experience with openai",
+      "aws bedrock ← experience with anthropic",
       "datadog ← experience with observability",
       "eks ← experience with bedrock",
       "elasticsearch ← experience with qdrant",
       "evals ← experience with llm evaluation",
       "golden dataset ← experience with llm evaluation",
-      "graph database ← experience with neo4j",
-      "graphrag ← experience with lightrag",
+      "graph database ← experience with knowledge graph",
+      "graphrag ← experience with llamaindex",
       "langfuse ← experience with observability",
       "opensearch ← experience with qdrant",
       "opentelemetry ← experience with observability",
       "otel ← experience with observability",
-      "pydantic ai ← experience with langchain",
+      "pydantic ai ← experience with llamaindex",
       "s3 ← experience with bedrock"
     ],
     "missing_skills": [
@@ -2003,7 +2003,7 @@
       "rag"
     ],
     "transferable_matches": [
-      "cohere ← experience with openai",
+      "cohere ← experience with anthropic",
       "guardrails ← experience with structured output",
       "logging ← experience with observability"
     ],
@@ -2038,6 +2038,59 @@
       "remote": 100,
       "freshness": 75,
       "experience": 50,
+      "response": 100,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 85,
+    "priority": "🟢 HIGH MATCH",
+    "title": "Senior Software Engineer - Fullstack",
+    "company": "databricks",
+    "source": "greenhouse",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7898766002",
+    "posted_at": "2026-08-18T13:17:04-04:00",
+    "remote": false,
+    "location": "Mountain View, California; San Francisco, California",
+    "salary": null,
+    "technical_matches": [
+      "aws",
+      "docker",
+      "observability",
+      "python"
+    ],
+    "transferable_matches": [
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock",
+      "logging ← experience with observability",
+      "prompt optimization ← experience with structured output"
+    ],
+    "missing_skills": [
+      "databricks",
+      "distributed systems",
+      "fine-tuning",
+      "go",
+      "java",
+      "javascript",
+      "kubernetes",
+      "microservices",
+      "sql"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "5+ years required",
+    "location_eligible": true,
+    "location_confidence": "low",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at databricks with strong overlap in observability, python, docker, prompt optimization, logging.",
+    "recommended_action": "APPLY_NOW",
+    "response_probability": "HIGH",
+    "url_status": "ok",
+    "score_breakdown": {
+      "technical": 100,
+      "role": 92,
+      "remote": 55,
+      "freshness": 75,
+      "experience": 95,
       "response": 100,
       "compensation": 50
     }
@@ -2083,59 +2136,6 @@
     "location_confidence": "low",
     "freshness_confidence": "known",
     "reason": "Recently posted role at databricks with strong overlap in mcp, claude, observability, azure, gcp.",
-    "recommended_action": "APPLY_NOW",
-    "response_probability": "HIGH",
-    "url_status": "ok",
-    "score_breakdown": {
-      "technical": 100,
-      "role": 92,
-      "remote": 55,
-      "freshness": 75,
-      "experience": 95,
-      "response": 100,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 85,
-    "priority": "🟢 HIGH MATCH",
-    "title": "Senior Software Engineer - Fullstack",
-    "company": "databricks",
-    "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7898766002",
-    "posted_at": "2026-08-18T13:17:04-04:00",
-    "remote": false,
-    "location": "Mountain View, California; San Francisco, California",
-    "salary": null,
-    "technical_matches": [
-      "aws",
-      "docker",
-      "observability",
-      "python"
-    ],
-    "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock",
-      "logging ← experience with observability",
-      "prompt optimization ← experience with structured output"
-    ],
-    "missing_skills": [
-      "databricks",
-      "distributed systems",
-      "fine-tuning",
-      "go",
-      "java",
-      "javascript",
-      "kubernetes",
-      "microservices",
-      "sql"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "5+ years required",
-    "location_eligible": true,
-    "location_confidence": "low",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at databricks with strong overlap in observability, python, docker, prompt optimization, logging.",
     "recommended_action": "APPLY_NOW",
     "response_probability": "HIGH",
     "url_status": "ok",
@@ -2325,7 +2325,7 @@
       "azure ← experience with bedrock",
       "benchmarking ← experience with llm evaluation",
       "gcp ← experience with bedrock",
-      "llama ← experience with openai"
+      "llama ← experience with anthropic"
     ],
     "missing_skills": [
       "classification",
@@ -2373,7 +2373,7 @@
     "transferable_matches": [
       "azure ← experience with bedrock",
       "grafana ← experience with observability",
-      "networkx ← experience with neo4j"
+      "networkx ← experience with knowledge graph"
     ],
     "missing_skills": [
       "go",
@@ -2420,7 +2420,7 @@
       "redis"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with llamaindex",
       "datadog ← experience with observability",
       "grafana ← experience with observability",
       "prometheus ← experience with observability",
@@ -2511,10 +2511,10 @@
     "title": "Senior Software Engineer, Backend (Lake Analytics Platform) ",
     "company": "affirm",
     "source": "greenhouse",
-    "url": "https://job-boards.greenhouse.io/affirm/jobs/7799631003",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7799633003",
     "posted_at": "2026-08-12T15:12:11-04:00",
     "remote": true,
-    "location": "Remote US",
+    "location": "Remote Canada",
     "salary": null,
     "technical_matches": [
       "agentic ai",
@@ -2525,7 +2525,7 @@
       "python"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with llamaindex",
       "otel ← experience with observability"
     ],
     "missing_skills": [
@@ -2563,10 +2563,10 @@
     "title": "Senior Software Engineer, Backend (Lake Analytics Platform) ",
     "company": "affirm",
     "source": "greenhouse",
-    "url": "https://job-boards.greenhouse.io/affirm/jobs/7799633003",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7799631003",
     "posted_at": "2026-08-12T15:12:11-04:00",
     "remote": true,
-    "location": "Remote Canada",
+    "location": "Remote US",
     "salary": null,
     "technical_matches": [
       "agentic ai",
@@ -2577,7 +2577,7 @@
       "python"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with llamaindex",
       "otel ← experience with observability"
     ],
     "missing_skills": [
@@ -2679,7 +2679,7 @@
       "python"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with llamaindex",
       "gcp ← experience with bedrock",
       "gke ← experience with bedrock",
       "google cloud ← experience with bedrock",
@@ -3000,12 +3000,12 @@
       "rag"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with llamaindex",
       "guardrails ← experience with structured output",
       "guidance ← experience with structured output",
-      "llama ← experience with openai",
-      "llama.cpp ← experience with openai",
-      "qwen ← experience with openai",
+      "llama ← experience with anthropic",
+      "llama.cpp ← experience with anthropic",
+      "qwen ← experience with anthropic",
       "rag evaluation ← experience with llm evaluation"
     ],
     "missing_skills": [
@@ -3048,7 +3048,7 @@
       "observability"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with llamaindex",
       "azure ← experience with bedrock",
       "datadog ← experience with observability",
       "ecs ← experience with bedrock",
@@ -3153,7 +3153,7 @@
       "python"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain"
+      "agno ← experience with llamaindex"
     ],
     "missing_skills": [
       "agent framework",
@@ -3201,7 +3201,7 @@
       "observability"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with llamaindex",
       "gcp ← experience with bedrock",
       "guardrails ← experience with structured output",
       "logging ← experience with observability",
@@ -3361,7 +3361,7 @@
       "tool calling"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with llamaindex",
       "evals ← experience with llm evaluation"
     ],
     "missing_skills": [
@@ -3614,7 +3614,7 @@
       "rag"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with llamaindex",
       "azure ← experience with bedrock",
       "gcp ← experience with bedrock",
       "logging ← experience with observability",
@@ -3777,7 +3777,7 @@
     "transferable_matches": [
       "azure ← experience with bedrock",
       "gcp ← experience with bedrock",
-      "hugging face ← experience with openai"
+      "hugging face ← experience with anthropic"
     ],
     "missing_skills": [
       "databricks",
@@ -3825,14 +3825,14 @@
     ],
     "transferable_matches": [
       "azure ← experience with bedrock",
-      "gemini ← experience with openai",
-      "gpt ← experience with openai",
-      "llama ← experience with openai",
-      "qwen ← experience with openai",
+      "gemini ← experience with anthropic",
+      "gpt ← experience with anthropic",
+      "llama ← experience with anthropic",
+      "qwen ← experience with anthropic",
       "sagemaker ← experience with bedrock",
-      "sglang ← experience with openai",
-      "vertex ai ← experience with openai",
-      "vllm ← experience with openai"
+      "sglang ← experience with anthropic",
+      "vertex ai ← experience with bedrock",
+      "vllm ← experience with anthropic"
     ],
     "missing_skills": [
       "databricks",
@@ -3924,7 +3924,7 @@
       "python"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with llamaindex",
       "guidance ← experience with structured output",
       "logging ← experience with observability",
       "metrics ← experience with observability",
@@ -3974,7 +3974,7 @@
     "transferable_matches": [
       "grafana ← experience with observability",
       "prometheus ← experience with observability",
-      "together ai ← experience with openai"
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "go",
@@ -4012,60 +4012,6 @@
   {
     "score": 82,
     "priority": "🟢 HIGH MATCH",
-    "title": "Staff Data Engineer (f/m/d)_metrify",
-    "company": "Enpal",
-    "source": "arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/enpal/staff-data-engineer-metrify-berlin-347291",
-    "posted_at": "2026-08-20T11:40:14+00:00",
-    "remote": false,
-    "location": "Berlin",
-    "salary": null,
-    "technical_matches": [
-      "ci/cd",
-      "observability",
-      "postgresql",
-      "python"
-    ],
-    "transferable_matches": [
-      "aks ← experience with bedrock",
-      "azure ← experience with bedrock",
-      "guardrails ← experience with structured output",
-      "together ai ← experience with openai"
-    ],
-    "missing_skills": [
-      "airflow",
-      "dbt",
-      "document ai",
-      "go",
-      "kafka",
-      "kubernetes",
-      "postgres",
-      "snowflake",
-      "sql",
-      "terraform"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "6+ years required",
-    "location_eligible": true,
-    "location_confidence": "low",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at Enpal with strong overlap in observability, python, postgresql, together ai, guardrails.",
-    "recommended_action": "APPLY_NOW",
-    "response_probability": "MEDIUM",
-    "url_status": "ok",
-    "score_breakdown": {
-      "technical": 100,
-      "role": 84,
-      "remote": 55,
-      "freshness": 90,
-      "experience": 70,
-      "response": 60,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 82,
-    "priority": "🟢 HIGH MATCH",
     "title": "Lead Site Reliability Engineer",
     "company": "Nice",
     "source": "arbeitnow",
@@ -4080,7 +4026,7 @@
       "python"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with llamaindex",
       "aks ← experience with bedrock",
       "azure ← experience with bedrock",
       "elasticsearch ← experience with qdrant",
@@ -4118,6 +4064,60 @@
   {
     "score": 82,
     "priority": "🟢 HIGH MATCH",
+    "title": "Staff Data Engineer (f/m/d)_metrify",
+    "company": "Enpal",
+    "source": "arbeitnow",
+    "url": "https://www.arbeitnow.com/jobs/companies/enpal/staff-data-engineer-metrify-berlin-347291",
+    "posted_at": "2026-08-20T11:40:14+00:00",
+    "remote": false,
+    "location": "Berlin",
+    "salary": null,
+    "technical_matches": [
+      "ci/cd",
+      "observability",
+      "postgresql",
+      "python"
+    ],
+    "transferable_matches": [
+      "aks ← experience with bedrock",
+      "azure ← experience with bedrock",
+      "guardrails ← experience with structured output",
+      "together ai ← experience with anthropic"
+    ],
+    "missing_skills": [
+      "airflow",
+      "dbt",
+      "document ai",
+      "go",
+      "kafka",
+      "kubernetes",
+      "postgres",
+      "snowflake",
+      "sql",
+      "terraform"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "6+ years required",
+    "location_eligible": true,
+    "location_confidence": "low",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at Enpal with strong overlap in observability, python, postgresql, together ai, guardrails.",
+    "recommended_action": "APPLY_NOW",
+    "response_probability": "MEDIUM",
+    "url_status": "ok",
+    "score_breakdown": {
+      "technical": 100,
+      "role": 84,
+      "remote": 55,
+      "freshness": 90,
+      "experience": 70,
+      "response": 60,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 82,
+    "priority": "🟢 HIGH MATCH",
     "title": "Senior Data Engineer (f/m/d)_metrify",
     "company": "Enpal",
     "source": "arbeitnow",
@@ -4136,7 +4136,7 @@
       "aks ← experience with bedrock",
       "azure ← experience with bedrock",
       "guardrails ← experience with structured output",
-      "together ai ← experience with openai"
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "airflow",
@@ -4187,7 +4187,7 @@
       "python"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with llamaindex",
       "azure ← experience with bedrock",
       "datadog ← experience with observability",
       "gcp ← experience with bedrock",
@@ -4245,7 +4245,7 @@
       "structured output"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with llamaindex",
       "otel ← experience with observability"
     ],
     "missing_skills": [
@@ -4290,7 +4290,7 @@
       "structured output"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with llamaindex",
       "otel ← experience with observability"
     ],
     "missing_skills": [
@@ -4313,50 +4313,6 @@
       "remote": 100,
       "freshness": 35,
       "experience": 100,
-      "response": 100,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 81,
-    "priority": "🟡 GOOD MATCH",
-    "title": "Senior Software Engineer, Backend (Recoveries)",
-    "company": "affirm",
-    "source": "greenhouse",
-    "url": "https://job-boards.greenhouse.io/affirm/jobs/7854606003",
-    "posted_at": "2026-08-18T10:17:41-04:00",
-    "remote": true,
-    "location": "Remote Spain",
-    "salary": null,
-    "technical_matches": [
-      "aws",
-      "observability",
-      "python"
-    ],
-    "transferable_matches": [
-      "guidance ← experience with structured output",
-      "metrics ← experience with observability",
-      "otel ← experience with observability"
-    ],
-    "missing_skills": [
-      "kubernetes",
-      "mysql"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "4+ years required",
-    "location_eligible": true,
-    "location_confidence": "high",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at affirm with strong overlap in observability, python, aws, guidance, otel.",
-    "recommended_action": "REVIEW_AND_APPLY",
-    "response_probability": "HIGH",
-    "url_status": "ok",
-    "score_breakdown": {
-      "technical": 75,
-      "role": 78,
-      "remote": 100,
-      "freshness": 75,
-      "experience": 95,
       "response": 100,
       "compensation": 50
     }
@@ -4409,6 +4365,50 @@
   {
     "score": 81,
     "priority": "🟡 GOOD MATCH",
+    "title": "Senior Software Engineer, Backend (Recoveries)",
+    "company": "affirm",
+    "source": "greenhouse",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7854606003",
+    "posted_at": "2026-08-18T10:17:41-04:00",
+    "remote": true,
+    "location": "Remote Spain",
+    "salary": null,
+    "technical_matches": [
+      "aws",
+      "observability",
+      "python"
+    ],
+    "transferable_matches": [
+      "guidance ← experience with structured output",
+      "metrics ← experience with observability",
+      "otel ← experience with observability"
+    ],
+    "missing_skills": [
+      "kubernetes",
+      "mysql"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "4+ years required",
+    "location_eligible": true,
+    "location_confidence": "high",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at affirm with strong overlap in observability, python, aws, guidance, otel.",
+    "recommended_action": "REVIEW_AND_APPLY",
+    "response_probability": "HIGH",
+    "url_status": "ok",
+    "score_breakdown": {
+      "technical": 75,
+      "role": 78,
+      "remote": 100,
+      "freshness": 75,
+      "experience": 95,
+      "response": 100,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 81,
+    "priority": "🟡 GOOD MATCH",
     "title": "Intermediate Software Engineer, Security Factory: Vulnerability Management ",
     "company": "gitlab",
     "source": "greenhouse",
@@ -4423,9 +4423,9 @@
     ],
     "transferable_matches": [
       "elasticsearch ← experience with qdrant",
-      "graph database ← experience with neo4j",
+      "graph database ← experience with knowledge graph",
       "guidance ← experience with structured output",
-      "together ai ← experience with openai"
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "java",
@@ -4614,7 +4614,7 @@
       "python"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with llamaindex",
       "azure ← experience with bedrock",
       "gcp ← experience with bedrock",
       "guardrails ← experience with structured output"
@@ -4641,56 +4641,6 @@
       "remote": 55,
       "freshness": 75,
       "experience": 50,
-      "response": 100,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 81,
-    "priority": "🟡 GOOD MATCH",
-    "title": "Senior Data Engineer",
-    "company": "cloudflare",
-    "source": "greenhouse",
-    "url": "https://boards.greenhouse.io/cloudflare/jobs/8007032?gh_jid=8007032",
-    "posted_at": "2026-08-17T05:05:43-04:00",
-    "remote": false,
-    "location": "In-Office",
-    "salary": null,
-    "technical_matches": [
-      "agentic ai",
-      "docker",
-      "mcp",
-      "observability",
-      "postgresql",
-      "python"
-    ],
-    "transferable_matches": [
-      "google cloud ← experience with bedrock"
-    ],
-    "missing_skills": [
-      "distributed systems",
-      "document ai",
-      "go",
-      "kubernetes",
-      "mysql",
-      "postgres",
-      "sql"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "5+ years required",
-    "location_eligible": true,
-    "location_confidence": "low",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at cloudflare with strong overlap in agentic ai, mcp, observability, google cloud.",
-    "recommended_action": "REVIEW_AND_APPLY",
-    "response_probability": "HIGH",
-    "url_status": "unknown",
-    "score_breakdown": {
-      "technical": 100,
-      "role": 84,
-      "remote": 55,
-      "freshness": 55,
-      "experience": 95,
       "response": 100,
       "compensation": 50
     }
@@ -4767,7 +4717,7 @@
       "tool calling"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with llamaindex",
       "arize phoenix ← experience with observability",
       "arize ← experience with llm evaluation",
       "azure ← experience with bedrock",
@@ -4776,7 +4726,7 @@
       "guidance ← experience with structured output",
       "json schema ← experience with structured output",
       "langfuse ← experience with observability",
-      "mastra ← experience with langchain",
+      "mastra ← experience with llamaindex",
       "metrics ← experience with observability",
       "opentelemetry ← experience with observability",
       "pgvector ← experience with qdrant",
@@ -4843,7 +4793,7 @@
       "azure ← experience with bedrock",
       "gcp ← experience with bedrock",
       "logging ← experience with observability",
-      "together ai ← experience with openai"
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "go",
@@ -4896,7 +4846,7 @@
       "tool calling"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with llamaindex",
       "grafana ← experience with observability",
       "prometheus ← experience with observability"
     ],
@@ -5078,7 +5028,7 @@
       "python"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with llamaindex",
       "arize ← experience with llm evaluation",
       "azure ← experience with bedrock",
       "datadog ← experience with observability",
@@ -5121,6 +5071,56 @@
     "title": "Specialist Solutions Architect - AI/ML",
     "company": "databricks",
     "source": "greenhouse",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7811355002",
+    "posted_at": "2026-08-18T13:17:05-04:00",
+    "remote": false,
+    "location": "Sao Paulo, Brazil",
+    "salary": null,
+    "technical_matches": [
+      "agent orchestration",
+      "aws",
+      "langchain",
+      "observability",
+      "openai",
+      "rag",
+      "tool calling"
+    ],
+    "transferable_matches": [
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock",
+      "guardrails ← experience with structured output",
+      "hugging face ← experience with anthropic"
+    ],
+    "missing_skills": [
+      "databricks",
+      "fine-tuning",
+      "rust"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "5+ years required",
+    "location_eligible": true,
+    "location_confidence": "low",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at databricks with strong overlap in agent orchestration, tool calling, langchain, hugging face, guardrails.",
+    "recommended_action": "REVIEW_AND_APPLY",
+    "response_probability": "HIGH",
+    "url_status": "ok",
+    "score_breakdown": {
+      "technical": 100,
+      "role": 60,
+      "remote": 55,
+      "freshness": 75,
+      "experience": 95,
+      "response": 100,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 80,
+    "priority": "🟡 GOOD MATCH",
+    "title": "Specialist Solutions Architect - AI/ML",
+    "company": "databricks",
+    "source": "greenhouse",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8697991002",
     "posted_at": "2026-08-18T14:52:58-04:00",
     "remote": false,
@@ -5141,7 +5141,7 @@
       "azure ← experience with bedrock",
       "gcp ← experience with bedrock",
       "guardrails ← experience with structured output",
-      "hugging face ← experience with openai"
+      "hugging face ← experience with anthropic"
     ],
     "missing_skills": [
       "databricks",
@@ -5155,56 +5155,6 @@
     "location_confidence": "low",
     "freshness_confidence": "known",
     "reason": "Recently posted role at databricks with strong overlap in ai agents, agent orchestration, tool calling, hugging face, guardrails.",
-    "recommended_action": "REVIEW_AND_APPLY",
-    "response_probability": "HIGH",
-    "url_status": "ok",
-    "score_breakdown": {
-      "technical": 100,
-      "role": 60,
-      "remote": 55,
-      "freshness": 75,
-      "experience": 95,
-      "response": 100,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 80,
-    "priority": "🟡 GOOD MATCH",
-    "title": "Specialist Solutions Architect - AI/ML",
-    "company": "databricks",
-    "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7811355002",
-    "posted_at": "2026-08-18T13:17:05-04:00",
-    "remote": false,
-    "location": "Sao Paulo, Brazil",
-    "salary": null,
-    "technical_matches": [
-      "agent orchestration",
-      "aws",
-      "langchain",
-      "observability",
-      "openai",
-      "rag",
-      "tool calling"
-    ],
-    "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock",
-      "guardrails ← experience with structured output",
-      "hugging face ← experience with openai"
-    ],
-    "missing_skills": [
-      "databricks",
-      "fine-tuning",
-      "rust"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "5+ years required",
-    "location_eligible": true,
-    "location_confidence": "low",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at databricks with strong overlap in agent orchestration, tool calling, langchain, hugging face, guardrails.",
     "recommended_action": "REVIEW_AND_APPLY",
     "response_probability": "HIGH",
     "url_status": "ok",
@@ -5242,7 +5192,7 @@
       "azure ← experience with bedrock",
       "gcp ← experience with bedrock",
       "guardrails ← experience with structured output",
-      "hugging face ← experience with openai"
+      "hugging face ← experience with anthropic"
     ],
     "missing_skills": [
       "databricks",
@@ -5274,10 +5224,10 @@
     "title": "Staff Software Engineer - Backend",
     "company": "databricks",
     "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6544443002",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=5408888002",
     "posted_at": "2026-08-18T13:17:04-04:00",
     "remote": false,
-    "location": "Mountain View, California",
+    "location": "San Francisco, California",
     "salary": null,
     "technical_matches": [
       "aws",
@@ -5285,7 +5235,7 @@
       "observability"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with llamaindex",
       "azure ← experience with bedrock",
       "gcp ← experience with bedrock",
       "guidance ← experience with structured output",
@@ -5340,7 +5290,7 @@
       "observability"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with llamaindex",
       "azure ← experience with bedrock",
       "gcp ← experience with bedrock",
       "guidance ← experience with structured output",
@@ -5395,7 +5345,7 @@
       "observability"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with llamaindex",
       "azure ← experience with bedrock",
       "gcp ← experience with bedrock",
       "guidance ← experience with structured output",
@@ -5439,10 +5389,10 @@
     "title": "Staff Software Engineer - Backend",
     "company": "databricks",
     "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=5408888002",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6544443002",
     "posted_at": "2026-08-18T13:17:04-04:00",
     "remote": false,
-    "location": "San Francisco, California",
+    "location": "Mountain View, California",
     "salary": null,
     "technical_matches": [
       "aws",
@@ -5450,7 +5400,7 @@
       "observability"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with llamaindex",
       "azure ← experience with bedrock",
       "gcp ← experience with bedrock",
       "guidance ← experience with structured output",
@@ -5593,7 +5543,7 @@
       "python"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with llamaindex",
       "guidance ← experience with structured output"
     ],
     "missing_skills": [
@@ -5640,7 +5590,7 @@
       "python"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with llamaindex",
       "guidance ← experience with structured output"
     ],
     "missing_skills": [
@@ -5694,14 +5644,14 @@
     "transferable_matches": [
       "azure ← experience with bedrock",
       "gcp ← experience with bedrock",
-      "hugging face ← experience with openai",
+      "hugging face ← experience with anthropic",
       "instructor ← experience with structured output",
-      "llama ← experience with openai",
+      "llama ← experience with anthropic",
       "pgvector ← experience with qdrant",
       "pinecone ← experience with qdrant",
       "prompt engineering ← experience with structured output",
       "sagemaker ← experience with bedrock",
-      "vertex ai ← experience with openai",
+      "vertex ai ← experience with bedrock",
       "weaviate ← experience with qdrant"
     ],
     "missing_skills": [
@@ -5755,7 +5705,7 @@
     ],
     "transferable_matches": [
       "azure ← experience with bedrock",
-      "dify ← experience with langchain",
+      "dify ← experience with llamaindex",
       "gcp ← experience with bedrock",
       "guardrails ← experience with structured output"
     ],
@@ -5902,7 +5852,7 @@
       "observability"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with llamaindex",
       "azure ← experience with bedrock",
       "gcp ← experience with bedrock",
       "logging ← experience with observability",
@@ -6049,7 +5999,7 @@
       "postgresql"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with llamaindex",
       "guardrails ← experience with structured output",
       "metrics ← experience with observability",
       "tracing ← experience with observability"
@@ -6315,62 +6265,13 @@
   {
     "score": 79,
     "priority": "🟡 GOOD MATCH",
-    "title": "Staff Software Engineer, Backend (Cost Engineering)",
-    "company": "affirm",
-    "source": "greenhouse",
-    "url": "https://job-boards.greenhouse.io/affirm/jobs/7821440003",
-    "posted_at": "2026-08-20T17:01:56-04:00",
-    "remote": true,
-    "location": "Remote Canada",
-    "salary": null,
-    "technical_matches": [
-      "aws",
-      "python"
-    ],
-    "transferable_matches": [
-      "guidance ← experience with structured output",
-      "metrics ← experience with observability",
-      "otel ← experience with observability",
-      "together ai ← experience with openai"
-    ],
-    "missing_skills": [
-      "distributed systems",
-      "kubernetes",
-      "mysql",
-      "snowflake",
-      "spark",
-      "sql",
-      "terraform"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "8+ years required",
-    "location_eligible": true,
-    "location_confidence": "high",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at affirm with strong overlap in python, aws, together ai, guidance.",
-    "recommended_action": "REVIEW_AND_APPLY",
-    "response_probability": "HIGH",
-    "url_status": "ok",
-    "score_breakdown": {
-      "technical": 70,
-      "role": 78,
-      "remote": 100,
-      "freshness": 100,
-      "experience": 50,
-      "response": 100,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 79,
-    "priority": "🟡 GOOD MATCH",
     "title": "Staff Software Engineer, Backend (Online Storage) ",
     "company": "affirm",
     "source": "greenhouse",
-    "url": "https://job-boards.greenhouse.io/affirm/jobs/7833952003",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7833950003",
     "posted_at": "2026-08-12T15:12:11-04:00",
     "remote": true,
-    "location": "Remote Canada",
+    "location": "Remote US",
     "salary": null,
     "technical_matches": [
       "agentic ai",
@@ -6383,7 +6284,7 @@
       "benchmarking ← experience with llm evaluation",
       "guidance ← experience with structured output",
       "otel ← experience with observability",
-      "together ai ← experience with openai"
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "distributed systems",
@@ -6420,10 +6321,10 @@
     "title": "Staff Software Engineer, Backend (Online Storage) ",
     "company": "affirm",
     "source": "greenhouse",
-    "url": "https://job-boards.greenhouse.io/affirm/jobs/7833950003",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7833952003",
     "posted_at": "2026-08-12T15:12:11-04:00",
     "remote": true,
-    "location": "Remote US",
+    "location": "Remote Canada",
     "salary": null,
     "technical_matches": [
       "agentic ai",
@@ -6436,7 +6337,7 @@
       "benchmarking ← experience with llm evaluation",
       "guidance ← experience with structured output",
       "otel ← experience with observability",
-      "together ai ← experience with openai"
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "distributed systems",
@@ -6677,7 +6578,7 @@
       "python"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with llamaindex",
       "datadog ← experience with observability",
       "prometheus ← experience with observability"
     ],
@@ -6818,7 +6719,7 @@
       "python"
     ],
     "transferable_matches": [
-      "gpt ← experience with openai",
+      "gpt ← experience with anthropic",
       "tracing ← experience with observability"
     ],
     "missing_skills": [
@@ -6872,7 +6773,7 @@
     ],
     "transferable_matches": [
       "azure ← experience with bedrock",
-      "dify ← experience with langchain",
+      "dify ← experience with llamaindex",
       "gcp ← experience with bedrock",
       "logging ← experience with observability",
       "metrics ← experience with observability",
@@ -6899,95 +6800,6 @@
       "freshness": 35,
       "experience": 95,
       "response": 100,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 78,
-    "priority": "🟡 GOOD MATCH",
-    "title": "Senior Software Engineer, Backend (ML Feature Platform) ",
-    "company": "affirm",
-    "source": "greenhouse",
-    "url": "https://job-boards.greenhouse.io/affirm/jobs/7806924003",
-    "posted_at": "2026-08-20T17:01:58-04:00",
-    "remote": true,
-    "location": "Remote Canada",
-    "salary": null,
-    "technical_matches": [
-      "aws",
-      "python"
-    ],
-    "transferable_matches": [
-      "guidance ← experience with structured output",
-      "metrics ← experience with observability",
-      "otel ← experience with observability"
-    ],
-    "missing_skills": [
-      "distributed systems",
-      "kubernetes",
-      "lora",
-      "mysql"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "4+ years required",
-    "location_eligible": true,
-    "location_confidence": "high",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at affirm with strong overlap in python, aws, guidance, otel.",
-    "recommended_action": "REVIEW_AND_APPLY",
-    "response_probability": "MEDIUM",
-    "url_status": "ok",
-    "score_breakdown": {
-      "technical": 60,
-      "role": 78,
-      "remote": 100,
-      "freshness": 100,
-      "experience": 95,
-      "response": 60,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 78,
-    "priority": "🟡 GOOD MATCH",
-    "title": "Software Engineer II, Backend (PMI Integrations)",
-    "company": "affirm",
-    "source": "greenhouse",
-    "url": "https://job-boards.greenhouse.io/affirm/jobs/7590373003",
-    "posted_at": "2026-08-20T17:01:42-04:00",
-    "remote": true,
-    "location": "Remote Canada",
-    "salary": null,
-    "technical_matches": [
-      "aws",
-      "python"
-    ],
-    "transferable_matches": [
-      "metrics ← experience with observability",
-      "otel ← experience with observability"
-    ],
-    "missing_skills": [
-      "api integration",
-      "distributed systems",
-      "kubernetes",
-      "mysql"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "5+ years required",
-    "location_eligible": true,
-    "location_confidence": "high",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at affirm with strong overlap in python, aws, otel, metrics.",
-    "recommended_action": "REVIEW_AND_APPLY",
-    "response_probability": "MEDIUM",
-    "url_status": "ok",
-    "score_breakdown": {
-      "technical": 50,
-      "role": 100,
-      "remote": 100,
-      "freshness": 100,
-      "experience": 95,
-      "response": 60,
       "compensation": 50
     }
   },
@@ -7054,7 +6866,7 @@
       "observability"
     ],
     "transferable_matches": [
-      "cohere ← experience with openai",
+      "cohere ← experience with anthropic",
       "metrics ← experience with observability",
       "traces ← experience with observability"
     ],
@@ -7240,7 +7052,7 @@
       "faiss ← experience with qdrant",
       "metrics ← experience with observability",
       "opensearch ← experience with qdrant",
-      "unstructured ← experience with lightrag"
+      "unstructured ← experience with llamaindex"
     ],
     "missing_skills": [
       "agentic rag",
@@ -7306,9 +7118,9 @@
     "transferable_matches": [
       "gcp ← experience with bedrock",
       "prompt templates ← experience with structured output",
-      "sglang ← experience with openai",
-      "tensorrt-llm ← experience with openai",
-      "vllm ← experience with openai"
+      "sglang ← experience with anthropic",
+      "tensorrt-llm ← experience with anthropic",
+      "vllm ← experience with anthropic"
     ],
     "missing_skills": [
       "go",
@@ -7665,13 +7477,62 @@
   {
     "score": 77,
     "priority": "🟡 GOOD MATCH",
+    "title": "Staff Software Engineer, Backend (Cost Engineering)",
+    "company": "affirm",
+    "source": "greenhouse",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7821440003",
+    "posted_at": "2026-08-20T17:01:56-04:00",
+    "remote": true,
+    "location": "Remote Canada",
+    "salary": null,
+    "technical_matches": [
+      "aws",
+      "python"
+    ],
+    "transferable_matches": [
+      "guidance ← experience with structured output",
+      "metrics ← experience with observability",
+      "otel ← experience with observability",
+      "together ai ← experience with anthropic"
+    ],
+    "missing_skills": [
+      "distributed systems",
+      "kubernetes",
+      "mysql",
+      "snowflake",
+      "spark",
+      "sql",
+      "terraform"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "8+ years required",
+    "location_eligible": true,
+    "location_confidence": "high",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at affirm with strong overlap in python, aws, together ai, guidance.",
+    "recommended_action": "REVIEW_AND_APPLY",
+    "response_probability": "HIGH",
+    "url_status": "ok",
+    "score_breakdown": {
+      "technical": 70,
+      "role": 78,
+      "remote": 100,
+      "freshness": 90,
+      "experience": 50,
+      "response": 100,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 77,
+    "priority": "🟡 GOOD MATCH",
     "title": "Staff Software Engineer, Mobile (App Infrastructure)",
     "company": "affirm",
     "source": "greenhouse",
-    "url": "https://job-boards.greenhouse.io/affirm/jobs/7829429003",
-    "posted_at": "2026-08-14T19:00:49-04:00",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7829427003",
+    "posted_at": "2026-08-14T19:00:47-04:00",
     "remote": true,
-    "location": "Remote Canada",
+    "location": "Remote US",
     "salary": null,
     "technical_matches": [
       "ci/cd",
@@ -7682,7 +7543,7 @@
       "guardrails ← experience with structured output",
       "guidance ← experience with structured output",
       "otel ← experience with observability",
-      "together ai ← experience with openai"
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "go",
@@ -7715,10 +7576,10 @@
     "title": "Staff Software Engineer, Mobile (App Infrastructure)",
     "company": "affirm",
     "source": "greenhouse",
-    "url": "https://job-boards.greenhouse.io/affirm/jobs/7829427003",
-    "posted_at": "2026-08-14T19:00:47-04:00",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7829429003",
+    "posted_at": "2026-08-14T19:00:49-04:00",
     "remote": true,
-    "location": "Remote US",
+    "location": "Remote Canada",
     "salary": null,
     "technical_matches": [
       "ci/cd",
@@ -7729,7 +7590,7 @@
       "guardrails ← experience with structured output",
       "guidance ← experience with structured output",
       "otel ← experience with observability",
-      "together ai ← experience with openai"
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "go",
@@ -8181,7 +8042,7 @@
       "openai"
     ],
     "transferable_matches": [
-      "agent development kit ← experience with langchain",
+      "agent development kit ← experience with llamaindex",
       "google cloud ← experience with bedrock",
       "guardrails ← experience with structured output",
       "tracing ← experience with observability"
@@ -8217,10 +8078,10 @@
     "title": "Senior Software Engineer, Backend (Merchant & Partner Lifecycle)",
     "company": "affirm",
     "source": "greenhouse",
-    "url": "https://job-boards.greenhouse.io/affirm/jobs/7636414003",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7636416003",
     "posted_at": "2026-08-18T16:43:51-04:00",
     "remote": true,
-    "location": "Remote US",
+    "location": "Remote Canada",
     "salary": null,
     "technical_matches": [
       "aws",
@@ -8228,7 +8089,7 @@
       "python"
     ],
     "transferable_matches": [
-      "agent development kit ← experience with langchain",
+      "agent development kit ← experience with llamaindex",
       "otel ← experience with observability"
     ],
     "missing_skills": [
@@ -8265,10 +8126,10 @@
     "title": "Senior Software Engineer, Backend (Merchant & Partner Lifecycle)",
     "company": "affirm",
     "source": "greenhouse",
-    "url": "https://job-boards.greenhouse.io/affirm/jobs/7636416003",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7636414003",
     "posted_at": "2026-08-18T16:43:51-04:00",
     "remote": true,
-    "location": "Remote Canada",
+    "location": "Remote US",
     "salary": null,
     "technical_matches": [
       "aws",
@@ -8276,7 +8137,7 @@
       "python"
     ],
     "transferable_matches": [
-      "agent development kit ← experience with langchain",
+      "agent development kit ← experience with llamaindex",
       "otel ← experience with observability"
     ],
     "missing_skills": [
@@ -8310,6 +8171,51 @@
   {
     "score": 76,
     "priority": "🟡 GOOD MATCH",
+    "title": "Senior Software Engineer, Backend (ML Feature Platform) ",
+    "company": "affirm",
+    "source": "greenhouse",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7806924003",
+    "posted_at": "2026-08-20T17:01:58-04:00",
+    "remote": true,
+    "location": "Remote Canada",
+    "salary": null,
+    "technical_matches": [
+      "aws",
+      "python"
+    ],
+    "transferable_matches": [
+      "guidance ← experience with structured output",
+      "metrics ← experience with observability",
+      "otel ← experience with observability"
+    ],
+    "missing_skills": [
+      "distributed systems",
+      "kubernetes",
+      "lora",
+      "mysql"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "4+ years required",
+    "location_eligible": true,
+    "location_confidence": "high",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at affirm with strong overlap in python, aws, guidance, otel.",
+    "recommended_action": "REVIEW_AND_APPLY",
+    "response_probability": "MEDIUM",
+    "url_status": "ok",
+    "score_breakdown": {
+      "technical": 60,
+      "role": 78,
+      "remote": 100,
+      "freshness": 90,
+      "experience": 95,
+      "response": 60,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 76,
+    "priority": "🟡 GOOD MATCH",
     "title": "Senior Software Engineer, Backend (Test Enablers)",
     "company": "affirm",
     "source": "greenhouse",
@@ -8324,7 +8230,7 @@
       "python"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with llamaindex",
       "otel ← experience with observability"
     ],
     "missing_skills": [
@@ -8355,11 +8261,11 @@
   {
     "score": 76,
     "priority": "🟡 GOOD MATCH",
-    "title": "Software Engineer II (Money Movement & Card Ledger)",
+    "title": "Software Engineer II, Backend (PMI Integrations)",
     "company": "affirm",
     "source": "greenhouse",
-    "url": "https://job-boards.greenhouse.io/affirm/jobs/7779962003",
-    "posted_at": "2026-08-20T17:01:48-04:00",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7590373003",
+    "posted_at": "2026-08-20T17:01:42-04:00",
     "remote": true,
     "location": "Remote Canada",
     "salary": null,
@@ -8372,10 +8278,10 @@
       "otel ← experience with observability"
     ],
     "missing_skills": [
+      "api integration",
       "distributed systems",
       "kubernetes",
-      "mysql",
-      "rust"
+      "mysql"
     ],
     "hard_requirements_missing": [],
     "experience_required": "5+ years required",
@@ -8388,9 +8294,9 @@
     "url_status": "ok",
     "score_breakdown": {
       "technical": 50,
-      "role": 91,
+      "role": 100,
       "remote": 100,
-      "freshness": 100,
+      "freshness": 90,
       "experience": 95,
       "response": 60,
       "compensation": 50
@@ -8463,7 +8369,7 @@
       "azure ← experience with bedrock",
       "gcp ← experience with bedrock",
       "guardrails ← experience with structured output",
-      "hugging face ← experience with openai"
+      "hugging face ← experience with anthropic"
     ],
     "missing_skills": [
       "databricks",
@@ -8510,7 +8416,7 @@
       "elasticsearch ← experience with qdrant",
       "guardrails ← experience with structured output",
       "metrics ← experience with observability",
-      "unstructured ← experience with lightrag"
+      "unstructured ← experience with llamaindex"
     ],
     "missing_skills": [
       "databricks",
@@ -8653,7 +8559,7 @@
     "transferable_matches": [
       "azure ← experience with bedrock",
       "sagemaker ← experience with bedrock",
-      "vertex ai ← experience with openai"
+      "vertex ai ← experience with bedrock"
     ],
     "missing_skills": [
       "agent framework",
@@ -8701,7 +8607,7 @@
       "python"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with llamaindex",
       "azure ← experience with bedrock",
       "gcp ← experience with bedrock",
       "metrics ← experience with observability"
@@ -8750,7 +8656,7 @@
       "python"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with llamaindex",
       "azure ← experience with bedrock",
       "gcp ← experience with bedrock",
       "guardrails ← experience with structured output"
@@ -8800,14 +8706,14 @@
     ],
     "transferable_matches": [
       "azure ← experience with bedrock",
-      "gemini ← experience with openai",
-      "gpt ← experience with openai",
-      "llama ← experience with openai",
-      "qwen ← experience with openai",
+      "gemini ← experience with anthropic",
+      "gpt ← experience with anthropic",
+      "llama ← experience with anthropic",
+      "qwen ← experience with anthropic",
       "sagemaker ← experience with bedrock",
-      "sglang ← experience with openai",
-      "vertex ai ← experience with openai",
-      "vllm ← experience with openai"
+      "sglang ← experience with anthropic",
+      "vertex ai ← experience with bedrock",
+      "vllm ← experience with anthropic"
     ],
     "missing_skills": [
       "databricks",
@@ -8855,7 +8761,7 @@
       "elasticsearch ← experience with qdrant",
       "guardrails ← experience with structured output",
       "metrics ← experience with observability",
-      "unstructured ← experience with lightrag"
+      "unstructured ← experience with llamaindex"
     ],
     "missing_skills": [
       "databricks",
@@ -8907,12 +8813,12 @@
       "rag"
     ],
     "transferable_matches": [
-      "autogen ← experience with langchain",
-      "crewai ← experience with langchain",
+      "autogen ← experience with llamaindex",
+      "crewai ← experience with llamaindex",
       "evals ← experience with llm evaluation",
       "metrics ← experience with observability",
       "prompt engineering ← experience with structured output",
-      "together ai ← experience with openai"
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "java",
@@ -8954,7 +8860,7 @@
       "retrieval augmented generation"
     ],
     "transferable_matches": [
-      "unstructured ← experience with lightrag"
+      "unstructured ← experience with llamaindex"
     ],
     "missing_skills": [
       "java",
@@ -9049,9 +8955,9 @@
     ],
     "transferable_matches": [
       "guidance ← experience with structured output",
-      "sglang ← experience with openai",
+      "sglang ← experience with anthropic",
       "traces ← experience with observability",
-      "vllm ← experience with openai"
+      "vllm ← experience with anthropic"
     ],
     "missing_skills": [
       "distributed systems",
@@ -9241,7 +9147,7 @@
       "arize ← experience with llm evaluation",
       "guidance ← experience with structured output",
       "metrics ← experience with observability",
-      "together ai ← experience with openai"
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "api integration",
@@ -9259,7 +9165,7 @@
     "reason": "Recently posted role at reddit with strong overlap in claude, observability, together ai, guidance.",
     "recommended_action": "REVIEW_AND_APPLY",
     "response_probability": "HIGH",
-    "url_status": "ok",
+    "url_status": "unknown",
     "score_breakdown": {
       "technical": 70,
       "role": 54,
@@ -9285,7 +9191,7 @@
       "observability"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with llamaindex",
       "datadog ← experience with observability",
       "grafana ← experience with observability",
       "prometheus ← experience with observability",
@@ -9308,6 +9214,50 @@
     "score_breakdown": {
       "technical": 65,
       "role": 57,
+      "remote": 100,
+      "freshness": 90,
+      "experience": 95,
+      "response": 60,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 75,
+    "priority": "🟡 GOOD MATCH",
+    "title": "Software Engineer II (Money Movement & Card Ledger)",
+    "company": "affirm",
+    "source": "greenhouse",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7779962003",
+    "posted_at": "2026-08-20T17:01:48-04:00",
+    "remote": true,
+    "location": "Remote Canada",
+    "salary": null,
+    "technical_matches": [
+      "aws",
+      "python"
+    ],
+    "transferable_matches": [
+      "metrics ← experience with observability",
+      "otel ← experience with observability"
+    ],
+    "missing_skills": [
+      "distributed systems",
+      "kubernetes",
+      "mysql",
+      "rust"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "5+ years required",
+    "location_eligible": true,
+    "location_confidence": "high",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at affirm with strong overlap in python, aws, otel, metrics.",
+    "recommended_action": "REVIEW_AND_APPLY",
+    "response_probability": "MEDIUM",
+    "url_status": "ok",
+    "score_breakdown": {
+      "technical": 50,
+      "role": 91,
       "remote": 100,
       "freshness": 90,
       "experience": 95,
@@ -9383,8 +9333,8 @@
       "python"
     ],
     "transferable_matches": [
-      "dspy ← experience with langchain",
-      "llama ← experience with openai"
+      "dspy ← experience with llamaindex",
+      "llama ← experience with anthropic"
     ],
     "missing_skills": [
       "agent framework",
@@ -9432,8 +9382,8 @@
       "python"
     ],
     "transferable_matches": [
-      "dspy ← experience with langchain",
-      "llama ← experience with openai"
+      "dspy ← experience with llamaindex",
+      "llama ← experience with anthropic"
     ],
     "missing_skills": [
       "agent framework",
@@ -9483,7 +9433,7 @@
       "rag"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with llamaindex",
       "azure ← experience with bedrock",
       "gcp ← experience with bedrock"
     ],
@@ -9801,7 +9751,7 @@
     ],
     "transferable_matches": [
       "metrics ← experience with observability",
-      "together ai ← experience with openai"
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "computer vision",
@@ -9891,11 +9841,11 @@
     ],
     "transferable_matches": [
       "azure ← experience with bedrock",
-      "cohere ← experience with openai",
+      "cohere ← experience with anthropic",
       "gcp ← experience with bedrock",
-      "hugging face ← experience with openai",
+      "hugging face ← experience with anthropic",
       "otel ← experience with observability",
-      "together ai ← experience with openai"
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "go",
@@ -10166,10 +10116,10 @@
     "title": "Manager, Software Engineering (Developer Environments)",
     "company": "affirm",
     "source": "greenhouse",
-    "url": "https://job-boards.greenhouse.io/affirm/jobs/7730668003",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7730670003",
     "posted_at": "2026-08-12T15:12:11-04:00",
     "remote": true,
-    "location": "Remote US",
+    "location": "Remote Canada",
     "salary": null,
     "technical_matches": [
       "aws",
@@ -10211,10 +10161,10 @@
     "title": "Manager, Software Engineering (Developer Environments)",
     "company": "affirm",
     "source": "greenhouse",
-    "url": "https://job-boards.greenhouse.io/affirm/jobs/7730670003",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7730668003",
     "posted_at": "2026-08-12T15:12:11-04:00",
     "remote": true,
-    "location": "Remote Canada",
+    "location": "Remote US",
     "salary": null,
     "technical_matches": [
       "aws",
@@ -10343,92 +10293,6 @@
   {
     "score": 74,
     "priority": "⚪ REVIEW",
-    "title": "Software Engineer I, Backend (Collections)",
-    "company": "affirm",
-    "source": "greenhouse",
-    "url": "https://job-boards.greenhouse.io/affirm/jobs/7807508003",
-    "posted_at": "2026-08-20T15:58:28-04:00",
-    "remote": true,
-    "location": "Remote Poland",
-    "salary": null,
-    "technical_matches": [
-      "aws",
-      "python"
-    ],
-    "transferable_matches": [
-      "otel ← experience with observability"
-    ],
-    "missing_skills": [
-      "distributed systems",
-      "document ai",
-      "kubernetes",
-      "mysql"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "not specified",
-    "location_eligible": true,
-    "location_confidence": "high",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at affirm with strong overlap in python, aws, otel.",
-    "recommended_action": "SKIP",
-    "response_probability": "MEDIUM",
-    "url_status": "not_checked",
-    "score_breakdown": {
-      "technical": 40,
-      "role": 100,
-      "remote": 100,
-      "freshness": 100,
-      "experience": 100,
-      "response": 60,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 74,
-    "priority": "⚪ REVIEW",
-    "title": "Software Engineer I, Backend (Collections)",
-    "company": "affirm",
-    "source": "greenhouse",
-    "url": "https://job-boards.greenhouse.io/affirm/jobs/7807506003",
-    "posted_at": "2026-08-20T15:58:28-04:00",
-    "remote": true,
-    "location": "Remote Spain",
-    "salary": null,
-    "technical_matches": [
-      "aws",
-      "python"
-    ],
-    "transferable_matches": [
-      "otel ← experience with observability"
-    ],
-    "missing_skills": [
-      "distributed systems",
-      "document ai",
-      "kubernetes",
-      "mysql"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "not specified",
-    "location_eligible": true,
-    "location_confidence": "high",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at affirm with strong overlap in python, aws, otel.",
-    "recommended_action": "SKIP",
-    "response_probability": "MEDIUM",
-    "url_status": "not_checked",
-    "score_breakdown": {
-      "technical": 40,
-      "role": 100,
-      "remote": 100,
-      "freshness": 100,
-      "experience": 100,
-      "response": 60,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 74,
-    "priority": "⚪ REVIEW",
     "title": "Software Engineer II, Backend (Furnishing Platform) ",
     "company": "affirm",
     "source": "greenhouse",
@@ -10535,7 +10399,7 @@
       "azure ← experience with bedrock",
       "gcp ← experience with bedrock",
       "guidance ← experience with structured output",
-      "together ai ← experience with openai"
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "kubernetes",
@@ -10579,7 +10443,7 @@
     "transferable_matches": [
       "azure ← experience with bedrock",
       "gcp ← experience with bedrock",
-      "together ai ← experience with openai"
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "databricks",
@@ -10624,8 +10488,8 @@
       "python"
     ],
     "transferable_matches": [
-      "dspy ← experience with langchain",
-      "llama ← experience with openai"
+      "dspy ← experience with llamaindex",
+      "llama ← experience with anthropic"
     ],
     "missing_skills": [
       "agent framework",
@@ -10673,8 +10537,8 @@
       "python"
     ],
     "transferable_matches": [
-      "dspy ← experience with langchain",
-      "llama ← experience with openai"
+      "dspy ← experience with llamaindex",
+      "llama ← experience with anthropic"
     ],
     "missing_skills": [
       "agent framework",
@@ -10770,7 +10634,7 @@
     "transferable_matches": [
       "azure ← experience with bedrock",
       "sagemaker ← experience with bedrock",
-      "vertex ai ← experience with openai"
+      "vertex ai ← experience with bedrock"
     ],
     "missing_skills": [
       "agent framework",
@@ -10905,7 +10769,7 @@
       "python"
     ],
     "transferable_matches": [
-      "google adk ← experience with langchain",
+      "google adk ← experience with llamaindex",
       "prompt engineering ← experience with structured output"
     ],
     "missing_skills": [
@@ -10954,7 +10818,7 @@
       "python"
     ],
     "transferable_matches": [
-      "unstructured ← experience with lightrag"
+      "unstructured ← experience with llamaindex"
     ],
     "missing_skills": [
       "document ai",
@@ -11004,7 +10868,7 @@
     "transferable_matches": [
       "azure ← experience with bedrock",
       "gcp ← experience with bedrock",
-      "gemini ← experience with openai",
+      "gemini ← experience with anthropic",
       "guidance ← experience with structured output"
     ],
     "missing_skills": [
@@ -11097,7 +10961,7 @@
       "python"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with llamaindex",
       "guidance ← experience with structured output"
     ],
     "missing_skills": [
@@ -11143,7 +11007,7 @@
       "python"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with llamaindex",
       "guidance ← experience with structured output"
     ],
     "missing_skills": [
@@ -11192,7 +11056,7 @@
     "transferable_matches": [
       "azure ← experience with bedrock",
       "gcp ← experience with bedrock",
-      "unstructured ← experience with lightrag"
+      "unstructured ← experience with llamaindex"
     ],
     "missing_skills": [
       "autonomous agents",
@@ -11335,7 +11199,7 @@
       "arize ← experience with llm evaluation",
       "metrics ← experience with observability",
       "offline evaluation ← experience with llm evaluation",
-      "transformers ← experience with openai"
+      "transformers ← experience with anthropic"
     ],
     "missing_skills": [
       "embedding",
@@ -11584,6 +11448,92 @@
   {
     "score": 73,
     "priority": "⚪ REVIEW",
+    "title": "Software Engineer I, Backend (Collections)",
+    "company": "affirm",
+    "source": "greenhouse",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7807506003",
+    "posted_at": "2026-08-20T15:58:28-04:00",
+    "remote": true,
+    "location": "Remote Spain",
+    "salary": null,
+    "technical_matches": [
+      "aws",
+      "python"
+    ],
+    "transferable_matches": [
+      "otel ← experience with observability"
+    ],
+    "missing_skills": [
+      "distributed systems",
+      "document ai",
+      "kubernetes",
+      "mysql"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "not specified",
+    "location_eligible": true,
+    "location_confidence": "high",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at affirm with strong overlap in python, aws, otel.",
+    "recommended_action": "SKIP",
+    "response_probability": "MEDIUM",
+    "url_status": "not_checked",
+    "score_breakdown": {
+      "technical": 40,
+      "role": 100,
+      "remote": 100,
+      "freshness": 90,
+      "experience": 100,
+      "response": 60,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 73,
+    "priority": "⚪ REVIEW",
+    "title": "Software Engineer I, Backend (Collections)",
+    "company": "affirm",
+    "source": "greenhouse",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7807508003",
+    "posted_at": "2026-08-20T15:58:28-04:00",
+    "remote": true,
+    "location": "Remote Poland",
+    "salary": null,
+    "technical_matches": [
+      "aws",
+      "python"
+    ],
+    "transferable_matches": [
+      "otel ← experience with observability"
+    ],
+    "missing_skills": [
+      "distributed systems",
+      "document ai",
+      "kubernetes",
+      "mysql"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "not specified",
+    "location_eligible": true,
+    "location_confidence": "high",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at affirm with strong overlap in python, aws, otel.",
+    "recommended_action": "SKIP",
+    "response_probability": "MEDIUM",
+    "url_status": "not_checked",
+    "score_breakdown": {
+      "technical": 40,
+      "role": 100,
+      "remote": 100,
+      "freshness": 90,
+      "experience": 100,
+      "response": 60,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 73,
+    "priority": "⚪ REVIEW",
     "title": "Engineering Manager, Data Foundations",
     "company": "gitlab",
     "source": "greenhouse",
@@ -11678,10 +11628,10 @@
     "title": "Senior Backend Engineer",
     "company": "gitlab",
     "source": "greenhouse",
-    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8716138002",
-    "posted_at": "2026-08-14T14:16:35-04:00",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8715968002",
+    "posted_at": "2026-08-14T14:16:33-04:00",
     "remote": true,
-    "location": "Remote, Poland; Remote, United Kingdom",
+    "location": "Remote, Canada; Remote, United States",
     "salary": null,
     "technical_matches": [
       "agent orchestration",
@@ -11689,7 +11639,7 @@
       "postgresql"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with llamaindex",
       "guidance ← experience with structured output",
       "prompt engineering ← experience with structured output"
     ],
@@ -11727,10 +11677,10 @@
     "title": "Senior Backend Engineer",
     "company": "gitlab",
     "source": "greenhouse",
-    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8715968002",
-    "posted_at": "2026-08-14T14:16:33-04:00",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8716138002",
+    "posted_at": "2026-08-14T14:16:35-04:00",
     "remote": true,
-    "location": "Remote, Canada; Remote, United States",
+    "location": "Remote, Poland; Remote, United Kingdom",
     "salary": null,
     "technical_matches": [
       "agent orchestration",
@@ -11738,7 +11688,7 @@
       "postgresql"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with llamaindex",
       "guidance ← experience with structured output",
       "prompt engineering ← experience with structured output"
     ],
@@ -12111,7 +12061,7 @@
     ],
     "transferable_matches": [
       "azure ← experience with bedrock",
-      "dify ← experience with langchain",
+      "dify ← experience with llamaindex",
       "gcp ← experience with bedrock",
       "guardrails ← experience with structured output",
       "logging ← experience with observability"
@@ -12301,7 +12251,7 @@
       "python"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with llamaindex",
       "azure ← experience with bedrock",
       "gcp ← experience with bedrock",
       "guardrails ← experience with structured output"
@@ -12395,7 +12345,7 @@
       "python"
     ],
     "transferable_matches": [
-      "llama ← experience with openai",
+      "llama ← experience with anthropic",
       "prompt engineering ← experience with structured output"
     ],
     "missing_skills": [
@@ -12673,7 +12623,7 @@
     ],
     "transferable_matches": [
       "a/b testing ← experience with llm evaluation",
-      "agno ← experience with langchain",
+      "agno ← experience with llamaindex",
       "arize ← experience with llm evaluation",
       "online evaluation ← experience with llm evaluation"
     ],
@@ -12704,54 +12654,6 @@
       "remote": 100,
       "freshness": 75,
       "experience": 95,
-      "response": 60,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 72,
-    "priority": "⚪ REVIEW",
-    "title": "Senior Machine Learning Engineer (Fraud)",
-    "company": "affirm",
-    "source": "greenhouse",
-    "url": "https://job-boards.greenhouse.io/affirm/jobs/7806920003",
-    "posted_at": "2026-08-20T17:01:53-04:00",
-    "remote": true,
-    "location": "Remote Canada",
-    "salary": null,
-    "technical_matches": [
-      "claude",
-      "python"
-    ],
-    "transferable_matches": [
-      "otel ← experience with observability"
-    ],
-    "missing_skills": [
-      "airflow",
-      "classification",
-      "kubeflow",
-      "lightgbm",
-      "mlflow",
-      "pytorch",
-      "ray",
-      "spark",
-      "xgboost"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "6+ years required",
-    "location_eligible": true,
-    "location_confidence": "high",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at affirm with strong overlap in claude, python, otel.",
-    "recommended_action": "SKIP",
-    "response_probability": "MEDIUM",
-    "url_status": "not_checked",
-    "score_breakdown": {
-      "technical": 40,
-      "role": 100,
-      "remote": 100,
-      "freshness": 100,
-      "experience": 70,
       "response": 60,
       "compensation": 50
     }
@@ -13094,12 +12996,12 @@
       "openai"
     ],
     "transferable_matches": [
-      "gpt ← experience with openai",
+      "gpt ← experience with anthropic",
       "guidance ← experience with structured output",
-      "llama ← experience with openai",
-      "qwen ← experience with openai",
-      "sglang ← experience with openai",
-      "vllm ← experience with openai"
+      "llama ← experience with anthropic",
+      "qwen ← experience with anthropic",
+      "sglang ← experience with anthropic",
+      "vllm ← experience with anthropic"
     ],
     "missing_skills": [
       "databricks",
@@ -13143,7 +13045,7 @@
     "transferable_matches": [
       "azure ← experience with bedrock",
       "gcp ← experience with bedrock",
-      "together ai ← experience with openai"
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "databricks",
@@ -13808,7 +13710,7 @@
       "logging ← experience with observability",
       "metrics ← experience with observability",
       "traces ← experience with observability",
-      "unstructured ← experience with lightrag"
+      "unstructured ← experience with llamaindex"
     ],
     "missing_skills": [
       "airflow",
@@ -13996,7 +13898,7 @@
       "ci/cd"
     ],
     "transferable_matches": [
-      "together ai ← experience with openai"
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "document ai",
@@ -14130,6 +14032,57 @@
     "title": "Staff Designated Support Engineer",
     "company": "databricks",
     "source": "greenhouse",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7839474002",
+    "posted_at": "2026-08-18T13:17:06-04:00",
+    "remote": false,
+    "location": "San Francisco, California",
+    "salary": null,
+    "technical_matches": [
+      "aws",
+      "ci/cd",
+      "python"
+    ],
+    "transferable_matches": [
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock",
+      "metrics ← experience with observability"
+    ],
+    "missing_skills": [
+      "bigquery",
+      "databricks",
+      "document ai",
+      "java",
+      "knowledge base",
+      "rust",
+      "snowflake",
+      "spark",
+      "sql"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "12+ years required",
+    "location_eligible": true,
+    "location_confidence": "low",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at databricks with strong overlap in python, ci/cd, aws, metrics, azure.",
+    "recommended_action": "SKIP",
+    "response_probability": "HIGH",
+    "url_status": "not_checked",
+    "score_breakdown": {
+      "technical": 75,
+      "role": 84,
+      "remote": 55,
+      "freshness": 75,
+      "experience": 50,
+      "response": 100,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 71,
+    "priority": "⚪ REVIEW",
+    "title": "Staff Designated Support Engineer",
+    "company": "databricks",
+    "source": "greenhouse",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8554463002",
     "posted_at": "2026-08-18T13:17:14-04:00",
     "remote": false,
@@ -14230,57 +14183,6 @@
   {
     "score": 71,
     "priority": "⚪ REVIEW",
-    "title": "Staff Designated Support Engineer",
-    "company": "databricks",
-    "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7839474002",
-    "posted_at": "2026-08-18T13:17:06-04:00",
-    "remote": false,
-    "location": "San Francisco, California",
-    "salary": null,
-    "technical_matches": [
-      "aws",
-      "ci/cd",
-      "python"
-    ],
-    "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock",
-      "metrics ← experience with observability"
-    ],
-    "missing_skills": [
-      "bigquery",
-      "databricks",
-      "document ai",
-      "java",
-      "knowledge base",
-      "rust",
-      "snowflake",
-      "spark",
-      "sql"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "12+ years required",
-    "location_eligible": true,
-    "location_confidence": "low",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at databricks with strong overlap in python, ci/cd, aws, metrics, azure.",
-    "recommended_action": "SKIP",
-    "response_probability": "HIGH",
-    "url_status": "not_checked",
-    "score_breakdown": {
-      "technical": 75,
-      "role": 84,
-      "remote": 55,
-      "freshness": 75,
-      "experience": 50,
-      "response": 100,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 71,
-    "priority": "⚪ REVIEW",
     "title": "Staff Partner Engineer, Azure ",
     "company": "databricks",
     "source": "greenhouse",
@@ -14298,7 +14200,7 @@
       "azure ← experience with bedrock",
       "gcp ← experience with bedrock",
       "guidance ← experience with structured output",
-      "together ai ← experience with openai"
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "api integration",
@@ -14517,7 +14419,7 @@
     ],
     "transferable_matches": [
       "elasticsearch ← experience with qdrant",
-      "together ai ← experience with openai"
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "java",
@@ -14710,11 +14612,11 @@
     ],
     "transferable_matches": [
       "a/b testing ← experience with llm evaluation",
-      "gemini ← experience with openai",
+      "gemini ← experience with anthropic",
       "logging ← experience with observability",
       "metrics ← experience with observability",
       "prompt engineering ← experience with structured output",
-      "unstructured ← experience with lightrag"
+      "unstructured ← experience with llamaindex"
     ],
     "missing_skills": [
       "lora",
@@ -14765,8 +14667,8 @@
       "benchmarking ← experience with llm evaluation",
       "guardrails ← experience with structured output",
       "metrics ← experience with observability",
-      "transformers ← experience with openai",
-      "unstructured ← experience with lightrag"
+      "transformers ← experience with anthropic",
+      "unstructured ← experience with llamaindex"
     ],
     "missing_skills": [
       "agentic rag",
@@ -14803,10 +14705,10 @@
     "title": "Senior Software Engineer, Custody Services",
     "company": "robinhood",
     "source": "greenhouse",
-    "url": "https://boards.greenhouse.io/robinhood/jobs/7648454?t=gh_src=&gh_jid=7648454",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/7648452?t=gh_src=&gh_jid=7648452",
     "posted_at": "2026-08-20T10:44:44-04:00",
     "remote": false,
-    "location": "Ljubljana, Slovenia",
+    "location": "London, UK",
     "salary": null,
     "technical_matches": [
       "aws",
@@ -14848,10 +14750,10 @@
     "title": "Senior Software Engineer, Custody Services",
     "company": "robinhood",
     "source": "greenhouse",
-    "url": "https://boards.greenhouse.io/robinhood/jobs/7648452?t=gh_src=&gh_jid=7648452",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/7648454?t=gh_src=&gh_jid=7648454",
     "posted_at": "2026-08-20T10:44:44-04:00",
     "remote": false,
-    "location": "London, UK",
+    "location": "Ljubljana, Slovenia",
     "salary": null,
     "technical_matches": [
       "aws",
@@ -15034,7 +14936,7 @@
     ],
     "transferable_matches": [
       "evals ← experience with llm evaluation",
-      "gemini ← experience with openai",
+      "gemini ← experience with anthropic",
       "guardrails ← experience with structured output",
       "prompt engineering ← experience with structured output"
     ],
@@ -15061,6 +14963,54 @@
       "remote": 100,
       "freshness": 75,
       "experience": 100,
+      "response": 60,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 70,
+    "priority": "⚪ REVIEW",
+    "title": "Senior Machine Learning Engineer (Fraud)",
+    "company": "affirm",
+    "source": "greenhouse",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7806920003",
+    "posted_at": "2026-08-20T17:01:53-04:00",
+    "remote": true,
+    "location": "Remote Canada",
+    "salary": null,
+    "technical_matches": [
+      "claude",
+      "python"
+    ],
+    "transferable_matches": [
+      "otel ← experience with observability"
+    ],
+    "missing_skills": [
+      "airflow",
+      "classification",
+      "kubeflow",
+      "lightgbm",
+      "mlflow",
+      "pytorch",
+      "ray",
+      "spark",
+      "xgboost"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "6+ years required",
+    "location_eligible": true,
+    "location_confidence": "high",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at affirm with strong overlap in claude, python, otel.",
+    "recommended_action": "SKIP",
+    "response_probability": "MEDIUM",
+    "url_status": "not_checked",
+    "score_breakdown": {
+      "technical": 40,
+      "role": 100,
+      "remote": 100,
+      "freshness": 90,
+      "experience": 70,
       "response": 60,
       "compensation": 50
     }
@@ -15127,7 +15077,7 @@
       "python"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with llamaindex",
       "otel ← experience with observability"
     ],
     "missing_skills": [
@@ -15257,8 +15207,8 @@
       "openai"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
-      "gemini ← experience with openai",
+      "agno ← experience with llamaindex",
+      "gemini ← experience with anthropic",
       "metrics ← experience with observability"
     ],
     "missing_skills": [
@@ -15350,10 +15300,10 @@
       "openai"
     ],
     "transferable_matches": [
-      "gemini ← experience with openai",
-      "gpt ← experience with openai",
-      "llama ← experience with openai",
-      "qwen ← experience with openai"
+      "gemini ← experience with anthropic",
+      "gpt ← experience with anthropic",
+      "llama ← experience with anthropic",
+      "qwen ← experience with anthropic"
     ],
     "missing_skills": [
       "databricks",
@@ -15487,7 +15437,7 @@
       "docker"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with llamaindex",
       "azure ← experience with bedrock",
       "gcp ← experience with bedrock"
     ],
@@ -15533,7 +15483,7 @@
       "docker"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with llamaindex",
       "azure ← experience with bedrock",
       "gcp ← experience with bedrock"
     ],
@@ -15665,53 +15615,6 @@
     "title": "Sr. Forward Deployed Engineer",
     "company": "databricks",
     "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8568173002",
-    "posted_at": "2026-08-18T14:04:31-04:00",
-    "remote": false,
-    "location": "Tokyo, Japan",
-    "salary": null,
-    "technical_matches": [
-      "aws",
-      "ci/cd",
-      "python"
-    ],
-    "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
-    ],
-    "missing_skills": [
-      "databricks",
-      "document ai",
-      "java",
-      "javascript",
-      "spark",
-      "typescript"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "6+ years required",
-    "location_eligible": true,
-    "location_confidence": "low",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at databricks with strong overlap in python, ci/cd, aws, azure, gcp.",
-    "recommended_action": "SKIP",
-    "response_probability": "MEDIUM",
-    "url_status": "not_checked",
-    "score_breakdown": {
-      "technical": 65,
-      "role": 100,
-      "remote": 55,
-      "freshness": 75,
-      "experience": 70,
-      "response": 60,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 70,
-    "priority": "⚪ REVIEW",
-    "title": "Sr. Forward Deployed Engineer",
-    "company": "databricks",
-    "source": "greenhouse",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8645054002",
     "posted_at": "2026-08-18T14:41:41-04:00",
     "remote": false,
@@ -15756,13 +15659,13 @@
   {
     "score": 70,
     "priority": "⚪ REVIEW",
-    "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
+    "title": "Sr. Forward Deployed Engineer",
     "company": "databricks",
     "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461239002",
-    "posted_at": "2026-08-18T13:54:10-04:00",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8568173002",
+    "posted_at": "2026-08-18T14:04:31-04:00",
     "remote": false,
-    "location": "Atlanta, Georgia",
+    "location": "Tokyo, Japan",
     "salary": null,
     "technical_matches": [
       "aws",
@@ -15806,198 +15709,10 @@
     "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
     "company": "databricks",
     "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461163002",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461193002",
     "posted_at": "2026-08-18T13:54:10-04:00",
     "remote": false,
-    "location": "San Francisco, California",
-    "salary": null,
-    "technical_matches": [
-      "aws",
-      "ci/cd",
-      "python"
-    ],
-    "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
-    ],
-    "missing_skills": [
-      "databricks",
-      "document ai",
-      "java",
-      "javascript",
-      "spark",
-      "typescript"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "6+ years required",
-    "location_eligible": true,
-    "location_confidence": "low",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at databricks with strong overlap in python, ci/cd, aws, azure, gcp.",
-    "recommended_action": "SKIP",
-    "response_probability": "MEDIUM",
-    "url_status": "not_checked",
-    "score_breakdown": {
-      "technical": 65,
-      "role": 100,
-      "remote": 55,
-      "freshness": 75,
-      "experience": 70,
-      "response": 60,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 70,
-    "priority": "⚪ REVIEW",
-    "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
-    "company": "databricks",
-    "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461243002",
-    "posted_at": "2026-08-18T13:54:10-04:00",
-    "remote": false,
-    "location": "Denver, Colorado",
-    "salary": null,
-    "technical_matches": [
-      "aws",
-      "ci/cd",
-      "python"
-    ],
-    "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
-    ],
-    "missing_skills": [
-      "databricks",
-      "document ai",
-      "java",
-      "javascript",
-      "spark",
-      "typescript"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "6+ years required",
-    "location_eligible": true,
-    "location_confidence": "low",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at databricks with strong overlap in python, ci/cd, aws, azure, gcp.",
-    "recommended_action": "SKIP",
-    "response_probability": "MEDIUM",
-    "url_status": "not_checked",
-    "score_breakdown": {
-      "technical": 65,
-      "role": 100,
-      "remote": 55,
-      "freshness": 75,
-      "experience": 70,
-      "response": 60,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 70,
-    "priority": "⚪ REVIEW",
-    "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
-    "company": "databricks",
-    "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461168002",
-    "posted_at": "2026-08-18T13:54:10-04:00",
-    "remote": false,
-    "location": "Los Angeles, California",
-    "salary": null,
-    "technical_matches": [
-      "aws",
-      "ci/cd",
-      "python"
-    ],
-    "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
-    ],
-    "missing_skills": [
-      "databricks",
-      "document ai",
-      "java",
-      "javascript",
-      "spark",
-      "typescript"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "6+ years required",
-    "location_eligible": true,
-    "location_confidence": "low",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at databricks with strong overlap in python, ci/cd, aws, azure, gcp.",
-    "recommended_action": "SKIP",
-    "response_probability": "MEDIUM",
-    "url_status": "not_checked",
-    "score_breakdown": {
-      "technical": 65,
-      "role": 100,
-      "remote": 55,
-      "freshness": 75,
-      "experience": 70,
-      "response": 60,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 70,
-    "priority": "⚪ REVIEW",
-    "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
-    "company": "databricks",
-    "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461251002",
-    "posted_at": "2026-08-18T13:54:10-04:00",
-    "remote": false,
-    "location": "Mountain View, California",
-    "salary": null,
-    "technical_matches": [
-      "aws",
-      "ci/cd",
-      "python"
-    ],
-    "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
-    ],
-    "missing_skills": [
-      "databricks",
-      "document ai",
-      "java",
-      "javascript",
-      "spark",
-      "typescript"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "6+ years required",
-    "location_eligible": true,
-    "location_confidence": "low",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at databricks with strong overlap in python, ci/cd, aws, azure, gcp.",
-    "recommended_action": "SKIP",
-    "response_probability": "MEDIUM",
-    "url_status": "not_checked",
-    "score_breakdown": {
-      "technical": 65,
-      "role": 100,
-      "remote": 55,
-      "freshness": 75,
-      "experience": 70,
-      "response": 60,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 70,
-    "priority": "⚪ REVIEW",
-    "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
-    "company": "databricks",
-    "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461258002",
-    "posted_at": "2026-08-18T13:54:10-04:00",
-    "remote": false,
-    "location": "Raleigh, North Carolina",
+    "location": "Seattle, Washington",
     "salary": null,
     "technical_matches": [
       "aws",
@@ -16059,194 +15774,6 @@
       "databricks",
       "document ai",
       "spark"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "6+ years required",
-    "location_eligible": true,
-    "location_confidence": "low",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at databricks with strong overlap in python, ci/cd, aws, azure, gcp.",
-    "recommended_action": "SKIP",
-    "response_probability": "MEDIUM",
-    "url_status": "not_checked",
-    "score_breakdown": {
-      "technical": 65,
-      "role": 100,
-      "remote": 55,
-      "freshness": 75,
-      "experience": 70,
-      "response": 60,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 70,
-    "priority": "⚪ REVIEW",
-    "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
-    "company": "databricks",
-    "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8494153002",
-    "posted_at": "2026-08-18T13:54:10-04:00",
-    "remote": false,
-    "location": "Philadelphia, Pennsylvania",
-    "salary": null,
-    "technical_matches": [
-      "aws",
-      "ci/cd",
-      "python"
-    ],
-    "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
-    ],
-    "missing_skills": [
-      "databricks",
-      "document ai",
-      "java",
-      "javascript",
-      "spark",
-      "typescript"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "6+ years required",
-    "location_eligible": true,
-    "location_confidence": "low",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at databricks with strong overlap in python, ci/cd, aws, azure, gcp.",
-    "recommended_action": "SKIP",
-    "response_probability": "MEDIUM",
-    "url_status": "not_checked",
-    "score_breakdown": {
-      "technical": 65,
-      "role": 100,
-      "remote": 55,
-      "freshness": 75,
-      "experience": 70,
-      "response": 60,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 70,
-    "priority": "⚪ REVIEW",
-    "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
-    "company": "databricks",
-    "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461241002",
-    "posted_at": "2026-08-18T13:54:10-04:00",
-    "remote": false,
-    "location": "Washington, D.C.",
-    "salary": null,
-    "technical_matches": [
-      "aws",
-      "ci/cd",
-      "python"
-    ],
-    "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
-    ],
-    "missing_skills": [
-      "databricks",
-      "document ai",
-      "java",
-      "javascript",
-      "spark",
-      "typescript"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "6+ years required",
-    "location_eligible": true,
-    "location_confidence": "low",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at databricks with strong overlap in python, ci/cd, aws, azure, gcp.",
-    "recommended_action": "SKIP",
-    "response_probability": "MEDIUM",
-    "url_status": "not_checked",
-    "score_breakdown": {
-      "technical": 65,
-      "role": 100,
-      "remote": 55,
-      "freshness": 75,
-      "experience": 70,
-      "response": 60,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 70,
-    "priority": "⚪ REVIEW",
-    "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
-    "company": "databricks",
-    "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461222002",
-    "posted_at": "2026-08-18T13:54:10-04:00",
-    "remote": false,
-    "location": "Boston, Massachusetts",
-    "salary": null,
-    "technical_matches": [
-      "aws",
-      "ci/cd",
-      "python"
-    ],
-    "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
-    ],
-    "missing_skills": [
-      "databricks",
-      "document ai",
-      "java",
-      "javascript",
-      "spark",
-      "typescript"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "6+ years required",
-    "location_eligible": true,
-    "location_confidence": "low",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at databricks with strong overlap in python, ci/cd, aws, azure, gcp.",
-    "recommended_action": "SKIP",
-    "response_probability": "MEDIUM",
-    "url_status": "not_checked",
-    "score_breakdown": {
-      "technical": 65,
-      "role": 100,
-      "remote": 55,
-      "freshness": 75,
-      "experience": 70,
-      "response": 60,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 70,
-    "priority": "⚪ REVIEW",
-    "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
-    "company": "databricks",
-    "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461226002",
-    "posted_at": "2026-08-18T13:54:10-04:00",
-    "remote": false,
-    "location": "New York City, New York",
-    "salary": null,
-    "technical_matches": [
-      "aws",
-      "ci/cd",
-      "python"
-    ],
-    "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
-    ],
-    "missing_skills": [
-      "databricks",
-      "document ai",
-      "java",
-      "javascript",
-      "spark",
-      "typescript"
     ],
     "hard_requirements_missing": [],
     "experience_required": "6+ years required",
@@ -16367,10 +15894,433 @@
     "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
     "company": "databricks",
     "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461193002",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461222002",
     "posted_at": "2026-08-18T13:54:10-04:00",
     "remote": false,
-    "location": "Seattle, Washington",
+    "location": "Boston, Massachusetts",
+    "salary": null,
+    "technical_matches": [
+      "aws",
+      "ci/cd",
+      "python"
+    ],
+    "transferable_matches": [
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock"
+    ],
+    "missing_skills": [
+      "databricks",
+      "document ai",
+      "java",
+      "javascript",
+      "spark",
+      "typescript"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "6+ years required",
+    "location_eligible": true,
+    "location_confidence": "low",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at databricks with strong overlap in python, ci/cd, aws, azure, gcp.",
+    "recommended_action": "SKIP",
+    "response_probability": "MEDIUM",
+    "url_status": "not_checked",
+    "score_breakdown": {
+      "technical": 65,
+      "role": 100,
+      "remote": 55,
+      "freshness": 75,
+      "experience": 70,
+      "response": 60,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 70,
+    "priority": "⚪ REVIEW",
+    "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
+    "company": "databricks",
+    "source": "greenhouse",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461168002",
+    "posted_at": "2026-08-18T13:54:10-04:00",
+    "remote": false,
+    "location": "Los Angeles, California",
+    "salary": null,
+    "technical_matches": [
+      "aws",
+      "ci/cd",
+      "python"
+    ],
+    "transferable_matches": [
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock"
+    ],
+    "missing_skills": [
+      "databricks",
+      "document ai",
+      "java",
+      "javascript",
+      "spark",
+      "typescript"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "6+ years required",
+    "location_eligible": true,
+    "location_confidence": "low",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at databricks with strong overlap in python, ci/cd, aws, azure, gcp.",
+    "recommended_action": "SKIP",
+    "response_probability": "MEDIUM",
+    "url_status": "not_checked",
+    "score_breakdown": {
+      "technical": 65,
+      "role": 100,
+      "remote": 55,
+      "freshness": 75,
+      "experience": 70,
+      "response": 60,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 70,
+    "priority": "⚪ REVIEW",
+    "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
+    "company": "databricks",
+    "source": "greenhouse",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461226002",
+    "posted_at": "2026-08-18T13:54:10-04:00",
+    "remote": false,
+    "location": "New York City, New York",
+    "salary": null,
+    "technical_matches": [
+      "aws",
+      "ci/cd",
+      "python"
+    ],
+    "transferable_matches": [
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock"
+    ],
+    "missing_skills": [
+      "databricks",
+      "document ai",
+      "java",
+      "javascript",
+      "spark",
+      "typescript"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "6+ years required",
+    "location_eligible": true,
+    "location_confidence": "low",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at databricks with strong overlap in python, ci/cd, aws, azure, gcp.",
+    "recommended_action": "SKIP",
+    "response_probability": "MEDIUM",
+    "url_status": "not_checked",
+    "score_breakdown": {
+      "technical": 65,
+      "role": 100,
+      "remote": 55,
+      "freshness": 75,
+      "experience": 70,
+      "response": 60,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 70,
+    "priority": "⚪ REVIEW",
+    "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
+    "company": "databricks",
+    "source": "greenhouse",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461163002",
+    "posted_at": "2026-08-18T13:54:10-04:00",
+    "remote": false,
+    "location": "San Francisco, California",
+    "salary": null,
+    "technical_matches": [
+      "aws",
+      "ci/cd",
+      "python"
+    ],
+    "transferable_matches": [
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock"
+    ],
+    "missing_skills": [
+      "databricks",
+      "document ai",
+      "java",
+      "javascript",
+      "spark",
+      "typescript"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "6+ years required",
+    "location_eligible": true,
+    "location_confidence": "low",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at databricks with strong overlap in python, ci/cd, aws, azure, gcp.",
+    "recommended_action": "SKIP",
+    "response_probability": "MEDIUM",
+    "url_status": "not_checked",
+    "score_breakdown": {
+      "technical": 65,
+      "role": 100,
+      "remote": 55,
+      "freshness": 75,
+      "experience": 70,
+      "response": 60,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 70,
+    "priority": "⚪ REVIEW",
+    "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
+    "company": "databricks",
+    "source": "greenhouse",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461258002",
+    "posted_at": "2026-08-18T13:54:10-04:00",
+    "remote": false,
+    "location": "Raleigh, North Carolina",
+    "salary": null,
+    "technical_matches": [
+      "aws",
+      "ci/cd",
+      "python"
+    ],
+    "transferable_matches": [
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock"
+    ],
+    "missing_skills": [
+      "databricks",
+      "document ai",
+      "java",
+      "javascript",
+      "spark",
+      "typescript"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "6+ years required",
+    "location_eligible": true,
+    "location_confidence": "low",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at databricks with strong overlap in python, ci/cd, aws, azure, gcp.",
+    "recommended_action": "SKIP",
+    "response_probability": "MEDIUM",
+    "url_status": "not_checked",
+    "score_breakdown": {
+      "technical": 65,
+      "role": 100,
+      "remote": 55,
+      "freshness": 75,
+      "experience": 70,
+      "response": 60,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 70,
+    "priority": "⚪ REVIEW",
+    "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
+    "company": "databricks",
+    "source": "greenhouse",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461239002",
+    "posted_at": "2026-08-18T13:54:10-04:00",
+    "remote": false,
+    "location": "Atlanta, Georgia",
+    "salary": null,
+    "technical_matches": [
+      "aws",
+      "ci/cd",
+      "python"
+    ],
+    "transferable_matches": [
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock"
+    ],
+    "missing_skills": [
+      "databricks",
+      "document ai",
+      "java",
+      "javascript",
+      "spark",
+      "typescript"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "6+ years required",
+    "location_eligible": true,
+    "location_confidence": "low",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at databricks with strong overlap in python, ci/cd, aws, azure, gcp.",
+    "recommended_action": "SKIP",
+    "response_probability": "MEDIUM",
+    "url_status": "not_checked",
+    "score_breakdown": {
+      "technical": 65,
+      "role": 100,
+      "remote": 55,
+      "freshness": 75,
+      "experience": 70,
+      "response": 60,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 70,
+    "priority": "⚪ REVIEW",
+    "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
+    "company": "databricks",
+    "source": "greenhouse",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461251002",
+    "posted_at": "2026-08-18T13:54:10-04:00",
+    "remote": false,
+    "location": "Mountain View, California",
+    "salary": null,
+    "technical_matches": [
+      "aws",
+      "ci/cd",
+      "python"
+    ],
+    "transferable_matches": [
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock"
+    ],
+    "missing_skills": [
+      "databricks",
+      "document ai",
+      "java",
+      "javascript",
+      "spark",
+      "typescript"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "6+ years required",
+    "location_eligible": true,
+    "location_confidence": "low",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at databricks with strong overlap in python, ci/cd, aws, azure, gcp.",
+    "recommended_action": "SKIP",
+    "response_probability": "MEDIUM",
+    "url_status": "not_checked",
+    "score_breakdown": {
+      "technical": 65,
+      "role": 100,
+      "remote": 55,
+      "freshness": 75,
+      "experience": 70,
+      "response": 60,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 70,
+    "priority": "⚪ REVIEW",
+    "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
+    "company": "databricks",
+    "source": "greenhouse",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461241002",
+    "posted_at": "2026-08-18T13:54:10-04:00",
+    "remote": false,
+    "location": "Washington, D.C.",
+    "salary": null,
+    "technical_matches": [
+      "aws",
+      "ci/cd",
+      "python"
+    ],
+    "transferable_matches": [
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock"
+    ],
+    "missing_skills": [
+      "databricks",
+      "document ai",
+      "java",
+      "javascript",
+      "spark",
+      "typescript"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "6+ years required",
+    "location_eligible": true,
+    "location_confidence": "low",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at databricks with strong overlap in python, ci/cd, aws, azure, gcp.",
+    "recommended_action": "SKIP",
+    "response_probability": "MEDIUM",
+    "url_status": "not_checked",
+    "score_breakdown": {
+      "technical": 65,
+      "role": 100,
+      "remote": 55,
+      "freshness": 75,
+      "experience": 70,
+      "response": 60,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 70,
+    "priority": "⚪ REVIEW",
+    "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
+    "company": "databricks",
+    "source": "greenhouse",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8494153002",
+    "posted_at": "2026-08-18T13:54:10-04:00",
+    "remote": false,
+    "location": "Philadelphia, Pennsylvania",
+    "salary": null,
+    "technical_matches": [
+      "aws",
+      "ci/cd",
+      "python"
+    ],
+    "transferable_matches": [
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock"
+    ],
+    "missing_skills": [
+      "databricks",
+      "document ai",
+      "java",
+      "javascript",
+      "spark",
+      "typescript"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "6+ years required",
+    "location_eligible": true,
+    "location_confidence": "low",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at databricks with strong overlap in python, ci/cd, aws, azure, gcp.",
+    "recommended_action": "SKIP",
+    "response_probability": "MEDIUM",
+    "url_status": "not_checked",
+    "score_breakdown": {
+      "technical": 65,
+      "role": 100,
+      "remote": 55,
+      "freshness": 75,
+      "experience": 70,
+      "response": 60,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 70,
+    "priority": "⚪ REVIEW",
+    "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
+    "company": "databricks",
+    "source": "greenhouse",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461243002",
+    "posted_at": "2026-08-18T13:54:10-04:00",
+    "remote": false,
+    "location": "Denver, Colorado",
     "salary": null,
     "technical_matches": [
       "aws",
@@ -16461,10 +16411,10 @@
     "title": "Sr. Forward Deployed Engineer (FDE) - Financial Services",
     "company": "databricks",
     "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8592942002",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8438791002",
     "posted_at": "2026-08-18T14:00:53-04:00",
     "remote": false,
-    "location": "New York City, New York",
+    "location": "Central - United States",
     "salary": null,
     "technical_matches": [
       "aws",
@@ -16555,10 +16505,104 @@
     "title": "Sr. Forward Deployed Engineer (FDE) - Financial Services",
     "company": "databricks",
     "source": "greenhouse",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8592942002",
+    "posted_at": "2026-08-18T14:00:53-04:00",
+    "remote": false,
+    "location": "New York City, New York",
+    "salary": null,
+    "technical_matches": [
+      "aws",
+      "ci/cd",
+      "python"
+    ],
+    "transferable_matches": [
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock"
+    ],
+    "missing_skills": [
+      "databricks",
+      "document ai",
+      "java",
+      "javascript",
+      "spark",
+      "typescript"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "6+ years required",
+    "location_eligible": true,
+    "location_confidence": "low",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at databricks with strong overlap in python, ci/cd, aws, azure, gcp.",
+    "recommended_action": "SKIP",
+    "response_probability": "MEDIUM",
+    "url_status": "not_checked",
+    "score_breakdown": {
+      "technical": 65,
+      "role": 100,
+      "remote": 55,
+      "freshness": 75,
+      "experience": 70,
+      "response": 60,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 70,
+    "priority": "⚪ REVIEW",
+    "title": "Sr. Forward Deployed Engineer (FDE) - Financial Services",
+    "company": "databricks",
+    "source": "greenhouse",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8592951002",
     "posted_at": "2026-08-18T14:00:53-04:00",
     "remote": false,
     "location": "Charlotte, North Carolina",
+    "salary": null,
+    "technical_matches": [
+      "aws",
+      "ci/cd",
+      "python"
+    ],
+    "transferable_matches": [
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock"
+    ],
+    "missing_skills": [
+      "databricks",
+      "document ai",
+      "java",
+      "javascript",
+      "spark",
+      "typescript"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "6+ years required",
+    "location_eligible": true,
+    "location_confidence": "low",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at databricks with strong overlap in python, ci/cd, aws, azure, gcp.",
+    "recommended_action": "SKIP",
+    "response_probability": "MEDIUM",
+    "url_status": "not_checked",
+    "score_breakdown": {
+      "technical": 65,
+      "role": 100,
+      "remote": 55,
+      "freshness": 75,
+      "experience": 70,
+      "response": 60,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 70,
+    "priority": "⚪ REVIEW",
+    "title": "Sr. Forward Deployed Engineer (FDE) - Financial Services",
+    "company": "databricks",
+    "source": "greenhouse",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8592952002",
+    "posted_at": "2026-08-18T14:00:53-04:00",
+    "remote": false,
+    "location": "Washington, D.C.",
     "salary": null,
     "technical_matches": [
       "aws",
@@ -16649,10 +16693,10 @@
     "title": "Sr. Forward Deployed Engineer (FDE) - Financial Services",
     "company": "databricks",
     "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8592952002",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8592908002",
     "posted_at": "2026-08-18T14:00:53-04:00",
     "remote": false,
-    "location": "Washington, D.C.",
+    "location": "Atlanta, Georgia",
     "salary": null,
     "technical_matches": [
       "aws",
@@ -16787,100 +16831,6 @@
   {
     "score": 70,
     "priority": "⚪ REVIEW",
-    "title": "Sr. Forward Deployed Engineer (FDE) - Financial Services",
-    "company": "databricks",
-    "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8438791002",
-    "posted_at": "2026-08-18T14:00:53-04:00",
-    "remote": false,
-    "location": "Central - United States",
-    "salary": null,
-    "technical_matches": [
-      "aws",
-      "ci/cd",
-      "python"
-    ],
-    "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
-    ],
-    "missing_skills": [
-      "databricks",
-      "document ai",
-      "java",
-      "javascript",
-      "spark",
-      "typescript"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "6+ years required",
-    "location_eligible": true,
-    "location_confidence": "low",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at databricks with strong overlap in python, ci/cd, aws, azure, gcp.",
-    "recommended_action": "SKIP",
-    "response_probability": "MEDIUM",
-    "url_status": "not_checked",
-    "score_breakdown": {
-      "technical": 65,
-      "role": 100,
-      "remote": 55,
-      "freshness": 75,
-      "experience": 70,
-      "response": 60,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 70,
-    "priority": "⚪ REVIEW",
-    "title": "Sr. Forward Deployed Engineer (FDE) - Financial Services",
-    "company": "databricks",
-    "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8592908002",
-    "posted_at": "2026-08-18T14:00:53-04:00",
-    "remote": false,
-    "location": "Atlanta, Georgia",
-    "salary": null,
-    "technical_matches": [
-      "aws",
-      "ci/cd",
-      "python"
-    ],
-    "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
-    ],
-    "missing_skills": [
-      "databricks",
-      "document ai",
-      "java",
-      "javascript",
-      "spark",
-      "typescript"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "6+ years required",
-    "location_eligible": true,
-    "location_confidence": "low",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at databricks with strong overlap in python, ci/cd, aws, azure, gcp.",
-    "recommended_action": "SKIP",
-    "response_probability": "MEDIUM",
-    "url_status": "not_checked",
-    "score_breakdown": {
-      "technical": 65,
-      "role": 100,
-      "remote": 55,
-      "freshness": 75,
-      "experience": 70,
-      "response": 60,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 70,
-    "priority": "⚪ REVIEW",
     "title": "Sr. Forward Deployed Engineer - FDE (Fullstack)",
     "company": "databricks",
     "source": "greenhouse",
@@ -16931,10 +16881,57 @@
     "title": "Sr. Forward Deployed Engineer (FDE) - Healthcare & Life Sciences",
     "company": "databricks",
     "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8494146002",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8494145002",
     "posted_at": "2026-08-18T13:55:14-04:00",
     "remote": false,
-    "location": "Atlanta, Georgia",
+    "location": "Austin, Texas",
+    "salary": null,
+    "technical_matches": [
+      "aws",
+      "ci/cd",
+      "python"
+    ],
+    "transferable_matches": [
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock"
+    ],
+    "missing_skills": [
+      "databricks",
+      "document ai",
+      "java",
+      "javascript",
+      "spark",
+      "typescript"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "6+ years required",
+    "location_eligible": true,
+    "location_confidence": "low",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at databricks with strong overlap in python, ci/cd, aws, azure, gcp.",
+    "recommended_action": "SKIP",
+    "response_probability": "MEDIUM",
+    "url_status": "not_checked",
+    "score_breakdown": {
+      "technical": 65,
+      "role": 100,
+      "remote": 55,
+      "freshness": 75,
+      "experience": 70,
+      "response": 60,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 70,
+    "priority": "⚪ REVIEW",
+    "title": "Sr. Forward Deployed Engineer (FDE) - Healthcare & Life Sciences",
+    "company": "databricks",
+    "source": "greenhouse",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8371312002",
+    "posted_at": "2026-08-18T13:55:14-04:00",
+    "remote": false,
+    "location": "New York City, New York",
     "salary": null,
     "technical_matches": [
       "aws",
@@ -17025,10 +17022,10 @@
     "title": "Sr. Forward Deployed Engineer (FDE) - Healthcare & Life Sciences",
     "company": "databricks",
     "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8494145002",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8494146002",
     "posted_at": "2026-08-18T13:55:14-04:00",
     "remote": false,
-    "location": "Austin, Texas",
+    "location": "Atlanta, Georgia",
     "salary": null,
     "technical_matches": [
       "aws",
@@ -17210,11 +17207,11 @@
   {
     "score": 70,
     "priority": "⚪ REVIEW",
-    "title": "Sr. Forward Deployed Engineer (FDE) - Healthcare & Life Sciences",
+    "title": "Sr. Forward Deployed Engineer (FDE) - Manufacturing",
     "company": "databricks",
     "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8371312002",
-    "posted_at": "2026-08-18T13:55:14-04:00",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8341313002",
+    "posted_at": "2026-08-18T13:54:14-04:00",
     "remote": false,
     "location": "New York City, New York",
     "salary": null,
@@ -17307,10 +17304,10 @@
     "title": "Sr. Forward Deployed Engineer (FDE) - Manufacturing",
     "company": "databricks",
     "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8341313002",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8494155002",
     "posted_at": "2026-08-18T13:54:14-04:00",
     "remote": false,
-    "location": "New York City, New York",
+    "location": "Philadelphia, Pennsylvania",
     "salary": null,
     "technical_matches": [
       "aws",
@@ -17398,13 +17395,13 @@
   {
     "score": 70,
     "priority": "⚪ REVIEW",
-    "title": "Sr. Forward Deployed Engineer (FDE) - Manufacturing",
+    "title": "Sr. Forward Deployed Engineer (FDE) - Public Sector",
     "company": "databricks",
     "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8494155002",
-    "posted_at": "2026-08-18T13:54:14-04:00",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8494107002",
+    "posted_at": "2026-08-18T13:54:47-04:00",
     "remote": false,
-    "location": "Philadelphia, Pennsylvania",
+    "location": "Virginia",
     "salary": null,
     "technical_matches": [
       "aws",
@@ -17495,53 +17492,6 @@
     "title": "Sr. Forward Deployed Engineer (FDE) - Public Sector",
     "company": "databricks",
     "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8494108002",
-    "posted_at": "2026-08-18T13:54:47-04:00",
-    "remote": false,
-    "location": "Maryland",
-    "salary": null,
-    "technical_matches": [
-      "aws",
-      "ci/cd",
-      "python"
-    ],
-    "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
-    ],
-    "missing_skills": [
-      "databricks",
-      "document ai",
-      "java",
-      "javascript",
-      "spark",
-      "typescript"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "6+ years required",
-    "location_eligible": true,
-    "location_confidence": "low",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at databricks with strong overlap in python, ci/cd, aws, azure, gcp.",
-    "recommended_action": "SKIP",
-    "response_probability": "MEDIUM",
-    "url_status": "not_checked",
-    "score_breakdown": {
-      "technical": 65,
-      "role": 100,
-      "remote": 55,
-      "freshness": 75,
-      "experience": 70,
-      "response": 60,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 70,
-    "priority": "⚪ REVIEW",
-    "title": "Sr. Forward Deployed Engineer (FDE) - Public Sector",
-    "company": "databricks",
-    "source": "greenhouse",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8423296002",
     "posted_at": "2026-08-18T18:04:25-04:00",
     "remote": false,
@@ -17589,10 +17539,10 @@
     "title": "Sr. Forward Deployed Engineer (FDE) - Public Sector",
     "company": "databricks",
     "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8494107002",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8494108002",
     "posted_at": "2026-08-18T13:54:47-04:00",
     "remote": false,
-    "location": "Virginia",
+    "location": "Maryland",
     "salary": null,
     "technical_matches": [
       "aws",
@@ -17636,8 +17586,8 @@
     "title": "Sr. Forward Deployed Engineer (FDE) - Public Sector ",
     "company": "databricks",
     "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8657488002",
-    "posted_at": "2026-08-18T14:46:06-04:00",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8423310002",
+    "posted_at": "2026-08-18T13:59:13-04:00",
     "remote": true,
     "location": "Remote - Virginia; Remote - Washington D.C.",
     "salary": null,
@@ -17685,10 +17635,10 @@
     "title": "Sr. Forward Deployed Engineer (FDE) - Retail",
     "company": "databricks",
     "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8647667002",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8647670002",
     "posted_at": "2026-08-18T14:40:49-04:00",
     "remote": false,
-    "location": "Central - United States",
+    "location": "Dallas, Texas",
     "salary": null,
     "technical_matches": [
       "aws",
@@ -17732,10 +17682,10 @@
     "title": "Sr. Forward Deployed Engineer (FDE) - Retail",
     "company": "databricks",
     "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8647668002",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8647667002",
     "posted_at": "2026-08-18T14:40:49-04:00",
     "remote": false,
-    "location": "Austin, Texas",
+    "location": "Central - United States",
     "salary": null,
     "technical_matches": [
       "aws",
@@ -17826,57 +17776,10 @@
     "title": "Sr. Forward Deployed Engineer (FDE) - Retail",
     "company": "databricks",
     "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8647675002",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8647668002",
     "posted_at": "2026-08-18T14:40:49-04:00",
     "remote": false,
-    "location": "Denver, Colorado",
-    "salary": null,
-    "technical_matches": [
-      "aws",
-      "ci/cd",
-      "python"
-    ],
-    "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
-    ],
-    "missing_skills": [
-      "databricks",
-      "document ai",
-      "java",
-      "javascript",
-      "spark",
-      "typescript"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "6+ years required",
-    "location_eligible": true,
-    "location_confidence": "low",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at databricks with strong overlap in python, ci/cd, aws, azure, gcp.",
-    "recommended_action": "SKIP",
-    "response_probability": "MEDIUM",
-    "url_status": "not_checked",
-    "score_breakdown": {
-      "technical": 65,
-      "role": 100,
-      "remote": 55,
-      "freshness": 75,
-      "experience": 70,
-      "response": 60,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 70,
-    "priority": "⚪ REVIEW",
-    "title": "Sr. Forward Deployed Engineer (FDE) - Retail",
-    "company": "databricks",
-    "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8647670002",
-    "posted_at": "2026-08-18T14:40:49-04:00",
-    "remote": false,
-    "location": "Dallas, Texas",
+    "location": "Austin, Texas",
     "salary": null,
     "technical_matches": [
       "aws",
@@ -17964,13 +17867,13 @@
   {
     "score": 70,
     "priority": "⚪ REVIEW",
-    "title": "Sr. Forward Deployed Engineer - Public Sector ",
+    "title": "Sr. Forward Deployed Engineer (FDE) - Retail",
     "company": "databricks",
     "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8632188002",
-    "posted_at": "2026-08-18T14:36:04-04:00",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8647675002",
+    "posted_at": "2026-08-18T14:40:49-04:00",
     "remote": false,
-    "location": "Berkeley, California; California; Los Angeles, California; San Diego, California",
+    "location": "Denver, Colorado",
     "salary": null,
     "technical_matches": [
       "aws",
@@ -18018,6 +17921,53 @@
     "posted_at": "2026-08-18T16:29:06-04:00",
     "remote": false,
     "location": "USCA",
+    "salary": null,
+    "technical_matches": [
+      "aws",
+      "ci/cd",
+      "python"
+    ],
+    "transferable_matches": [
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock"
+    ],
+    "missing_skills": [
+      "databricks",
+      "document ai",
+      "java",
+      "javascript",
+      "spark",
+      "typescript"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "6+ years required",
+    "location_eligible": true,
+    "location_confidence": "low",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at databricks with strong overlap in python, ci/cd, aws, azure, gcp.",
+    "recommended_action": "SKIP",
+    "response_probability": "MEDIUM",
+    "url_status": "not_checked",
+    "score_breakdown": {
+      "technical": 65,
+      "role": 100,
+      "remote": 55,
+      "freshness": 75,
+      "experience": 70,
+      "response": 60,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 70,
+    "priority": "⚪ REVIEW",
+    "title": "Sr. Forward Deployed Engineer - Public Sector ",
+    "company": "databricks",
+    "source": "greenhouse",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8632188002",
+    "posted_at": "2026-08-18T14:36:04-04:00",
+    "remote": false,
+    "location": "Berkeley, California; California; Los Angeles, California; San Diego, California",
     "salary": null,
     "technical_matches": [
       "aws",
@@ -18152,45 +18102,6 @@
     "posted_at": "2026-08-14T06:07:35.436000+00:00",
     "remote": true,
     "location": "Switzerland",
-    "salary": null,
-    "technical_matches": [
-      "aws",
-      "ci/cd",
-      "python"
-    ],
-    "transferable_matches": [],
-    "missing_skills": [
-      "kubernetes"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "not specified",
-    "location_eligible": true,
-    "location_confidence": "high",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at jobgether with strong overlap in python, ci/cd, aws.",
-    "recommended_action": "SKIP",
-    "response_probability": "MEDIUM",
-    "url_status": "not_checked",
-    "score_breakdown": {
-      "technical": 45,
-      "role": 100,
-      "remote": 100,
-      "freshness": 55,
-      "experience": 100,
-      "response": 60,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 70,
-    "priority": "⚪ REVIEW",
-    "title": "(Senior) Software Engineer (M/F/D) - Tools & Automation",
-    "company": "jobgether",
-    "source": "lever",
-    "url": "https://jobs.lever.co/jobgether/8ec12be5-e624-4df3-8e9e-4ad8bbce3c71/apply",
-    "posted_at": "2026-08-14T03:09:51.304000+00:00",
-    "remote": true,
-    "location": "Germany",
     "salary": null,
     "technical_matches": [
       "aws",
@@ -18602,45 +18513,6 @@
   {
     "score": 69,
     "priority": "⚪ REVIEW",
-    "title": "Senior Software Engineer , Frontend (Trust & Safety)",
-    "company": "affirm",
-    "source": "greenhouse",
-    "url": "https://job-boards.greenhouse.io/affirm/jobs/7624374003",
-    "posted_at": "2026-08-20T17:04:15-04:00",
-    "remote": true,
-    "location": "Remote Canada",
-    "salary": null,
-    "technical_matches": [],
-    "transferable_matches": [
-      "guidance ← experience with structured output",
-      "metrics ← experience with observability",
-      "otel ← experience with observability"
-    ],
-    "missing_skills": [
-      "rust"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "4+ years required",
-    "location_eligible": true,
-    "location_confidence": "high",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at affirm with strong overlap in guidance, otel.",
-    "recommended_action": "SKIP",
-    "response_probability": "MEDIUM",
-    "url_status": "not_checked",
-    "score_breakdown": {
-      "technical": 30,
-      "role": 91,
-      "remote": 100,
-      "freshness": 100,
-      "experience": 95,
-      "response": 60,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 69,
-    "priority": "⚪ REVIEW",
     "title": "Staff Software Engineer, Backend (Lake Analytics Platform)",
     "company": "affirm",
     "source": "greenhouse",
@@ -18694,10 +18566,10 @@
     "title": "Staff Software Engineer (Continuous Integration)",
     "company": "affirm",
     "source": "greenhouse",
-    "url": "https://job-boards.greenhouse.io/affirm/jobs/7749580003",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7749582003",
     "posted_at": "2026-08-12T15:12:11-04:00",
     "remote": true,
-    "location": "Remote US",
+    "location": "Remote Canada",
     "salary": null,
     "technical_matches": [
       "aws",
@@ -18736,10 +18608,10 @@
     "title": "Staff Software Engineer (Continuous Integration)",
     "company": "affirm",
     "source": "greenhouse",
-    "url": "https://job-boards.greenhouse.io/affirm/jobs/7749582003",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7749580003",
     "posted_at": "2026-08-12T15:12:11-04:00",
     "remote": true,
-    "location": "Remote Canada",
+    "location": "Remote US",
     "salary": null,
     "technical_matches": [
       "aws",
@@ -18788,8 +18660,8 @@
       "python"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
-      "dify ← experience with langchain",
+      "agno ← experience with llamaindex",
+      "dify ← experience with llamaindex",
       "guardrails ← experience with structured output"
     ],
     "missing_skills": [
@@ -18971,7 +18843,7 @@
       "python"
     ],
     "transferable_matches": [
-      "gemini ← experience with openai"
+      "gemini ← experience with anthropic"
     ],
     "missing_skills": [
       "databricks",
@@ -19016,7 +18888,7 @@
       "python"
     ],
     "transferable_matches": [
-      "gemini ← experience with openai"
+      "gemini ← experience with anthropic"
     ],
     "missing_skills": [
       "databricks",
@@ -19491,7 +19363,7 @@
       "aws"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with llamaindex",
       "arize ← experience with llm evaluation",
       "gcp ← experience with bedrock",
       "metrics ← experience with observability"
@@ -19659,10 +19531,10 @@
     "title": "Senior Software Engineer, Backend (Batch Infrastructure)",
     "company": "affirm",
     "source": "greenhouse",
-    "url": "https://job-boards.greenhouse.io/affirm/jobs/7785812003",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7785814003",
     "posted_at": "2026-08-12T15:12:11-04:00",
     "remote": true,
-    "location": "Remote US",
+    "location": "Remote Canada",
     "salary": null,
     "technical_matches": [
       "aws",
@@ -19706,10 +19578,10 @@
     "title": "Senior Software Engineer, Backend (Batch Infrastructure)",
     "company": "affirm",
     "source": "greenhouse",
-    "url": "https://job-boards.greenhouse.io/affirm/jobs/7785814003",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7785812003",
     "posted_at": "2026-08-12T15:12:11-04:00",
     "remote": true,
-    "location": "Remote Canada",
+    "location": "Remote US",
     "salary": null,
     "technical_matches": [
       "aws",
@@ -19962,6 +19834,45 @@
       "role": 78,
       "remote": 100,
       "freshness": 35,
+      "experience": 95,
+      "response": 60,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 68,
+    "priority": "⚪ REVIEW",
+    "title": "Senior Software Engineer , Frontend (Trust & Safety)",
+    "company": "affirm",
+    "source": "greenhouse",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7624374003",
+    "posted_at": "2026-08-20T17:04:15-04:00",
+    "remote": true,
+    "location": "Remote Canada",
+    "salary": null,
+    "technical_matches": [],
+    "transferable_matches": [
+      "guidance ← experience with structured output",
+      "metrics ← experience with observability",
+      "otel ← experience with observability"
+    ],
+    "missing_skills": [
+      "rust"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "4+ years required",
+    "location_eligible": true,
+    "location_confidence": "high",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at affirm with strong overlap in guidance, otel.",
+    "recommended_action": "SKIP",
+    "response_probability": "MEDIUM",
+    "url_status": "not_checked",
+    "score_breakdown": {
+      "technical": 30,
+      "role": 91,
+      "remote": 100,
+      "freshness": 90,
       "experience": 95,
       "response": 60,
       "compensation": 50
@@ -20700,48 +20611,6 @@
     "title": "Senior AI Scientist",
     "company": "jobgether",
     "source": "lever",
-    "url": "https://jobs.lever.co/jobgether/3782ae0b-b344-4f45-b139-3b5c65428146/apply",
-    "posted_at": "2026-08-14T03:04:07.685000+00:00",
-    "remote": true,
-    "location": "Germany",
-    "salary": null,
-    "technical_matches": [
-      "llm evaluation",
-      "retrieval augmented generation"
-    ],
-    "transferable_matches": [
-      "benchmarking ← experience with llm evaluation",
-      "metrics ← experience with observability",
-      "prompt engineering ← experience with structured output"
-    ],
-    "missing_skills": [
-      "retrieval"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "not specified",
-    "location_eligible": true,
-    "location_confidence": "high",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at jobgether with strong overlap in retrieval augmented generation, llm evaluation, prompt engineering, benchmarking.",
-    "recommended_action": "SKIP",
-    "response_probability": "MEDIUM",
-    "url_status": "not_checked",
-    "score_breakdown": {
-      "technical": 60,
-      "role": 57,
-      "remote": 100,
-      "freshness": 55,
-      "experience": 100,
-      "response": 60,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 68,
-    "priority": "⚪ REVIEW",
-    "title": "Senior AI Scientist",
-    "company": "jobgether",
-    "source": "lever",
     "url": "https://jobs.lever.co/jobgether/57ac769f-bd5e-4de9-9cb5-9dd308deb750/apply",
     "posted_at": "2026-08-14T06:03:59.943000+00:00",
     "remote": true,
@@ -20991,44 +20860,6 @@
   {
     "score": 68,
     "priority": "⚪ REVIEW",
-    "title": "Senior Software Engineer II",
-    "company": "jobgether",
-    "source": "lever",
-    "url": "https://jobs.lever.co/jobgether/4f81be30-a712-496d-a466-947a82392404/apply",
-    "posted_at": "2026-08-20T02:40:52.994000+00:00",
-    "remote": true,
-    "location": "Canada",
-    "salary": null,
-    "technical_matches": [
-      "mcp",
-      "observability"
-    ],
-    "transferable_matches": [],
-    "missing_skills": [
-      "mcp server"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "not specified",
-    "location_eligible": true,
-    "location_confidence": "high",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at jobgether with strong overlap in mcp, observability.",
-    "recommended_action": "SKIP",
-    "response_probability": "MEDIUM",
-    "url_status": "not_checked",
-    "score_breakdown": {
-      "technical": 30,
-      "role": 91,
-      "remote": 100,
-      "freshness": 90,
-      "experience": 100,
-      "response": 60,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 68,
-    "priority": "⚪ REVIEW",
     "title": "Sr. Site Reliability Engineer (Azure, IaC, Distributed Systems)",
     "company": "jobgether",
     "source": "lever",
@@ -21061,45 +20892,6 @@
       "role": 84,
       "remote": 100,
       "freshness": 75,
-      "experience": 100,
-      "response": 60,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 68,
-    "priority": "⚪ REVIEW",
-    "title": "Sr. Software Developer – Application Migration & Modernization",
-    "company": "jobgether",
-    "source": "lever",
-    "url": "https://jobs.lever.co/jobgether/5c68adc8-00fd-449c-b537-293321bb2c4e/apply",
-    "posted_at": "2026-08-20T03:10:32.780000+00:00",
-    "remote": true,
-    "location": "Brazil",
-    "salary": null,
-    "technical_matches": [
-      "aws",
-      "postgresql"
-    ],
-    "transferable_matches": [],
-    "missing_skills": [
-      ".net",
-      "postgres"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "not specified",
-    "location_eligible": true,
-    "location_confidence": "high",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at jobgether with strong overlap in postgresql, aws.",
-    "recommended_action": "SKIP",
-    "response_probability": "MEDIUM",
-    "url_status": "not_checked",
-    "score_breakdown": {
-      "technical": 30,
-      "role": 91,
-      "remote": 100,
-      "freshness": 90,
       "experience": 100,
       "response": 60,
       "compensation": 50
@@ -21299,7 +21091,7 @@
       "python"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with llamaindex",
       "logging ← experience with observability"
     ],
     "missing_skills": [
@@ -21384,7 +21176,7 @@
       "agentic ai"
     ],
     "transferable_matches": [
-      "cohere ← experience with openai",
+      "cohere ← experience with anthropic",
       "guidance ← experience with structured output",
       "metrics ← experience with observability"
     ],
@@ -21429,7 +21221,7 @@
       "retrieval augmented generation"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain"
+      "agno ← experience with llamaindex"
     ],
     "missing_skills": [
       "retrieval",
@@ -22176,48 +21968,6 @@
       "freshness": 35,
       "experience": 100,
       "response": 100,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 67,
-    "priority": "⚪ REVIEW",
-    "title": "Engenheiro de IA Pl",
-    "company": "jobgether",
-    "source": "lever",
-    "url": "https://jobs.lever.co/jobgether/b57e2c81-99e9-49be-929c-142e827dcfa1/apply",
-    "posted_at": "2026-08-20T02:01:30.174000+00:00",
-    "remote": true,
-    "location": "Brazil",
-    "salary": null,
-    "technical_matches": [
-      "agent orchestration",
-      "observability",
-      "rag"
-    ],
-    "transferable_matches": [],
-    "missing_skills": [
-      "agent platform",
-      "distributed systems",
-      "embedding",
-      "embeddings"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "not specified",
-    "location_eligible": true,
-    "location_confidence": "high",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at jobgether with strong overlap in agent orchestration, rag, observability.",
-    "recommended_action": "SKIP",
-    "response_probability": "MEDIUM",
-    "url_status": "not_checked",
-    "score_breakdown": {
-      "technical": 45,
-      "role": 51,
-      "remote": 100,
-      "freshness": 90,
-      "experience": 100,
-      "response": 60,
       "compensation": 50
     }
   },
@@ -23010,7 +22760,7 @@
       "python"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain"
+      "agno ← experience with llamaindex"
     ],
     "missing_skills": [
       "distributed systems",
@@ -23125,58 +22875,6 @@
     }
   },
   {
-    "score": 67,
-    "priority": "⚪ REVIEW",
-    "title": "Senior Software Engineer (m/f/d)",
-    "company": "Flix",
-    "source": "arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/flix/senior-software-engineer-berlin-333695",
-    "posted_at": "2026-08-20T06:45:30+00:00",
-    "remote": false,
-    "location": "Berlin, Berlin, Germany",
-    "salary": null,
-    "technical_matches": [
-      "aws",
-      "docker",
-      "redis"
-    ],
-    "transferable_matches": [
-      "s3 ← experience with bedrock"
-    ],
-    "missing_skills": [
-      "distributed systems",
-      "gitlab ci",
-      "java",
-      "kafka",
-      "kubernetes",
-      "microservices",
-      "mongodb",
-      "mysql",
-      "postgres",
-      "snowflake",
-      "spring boot",
-      "terraform"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "6+ years required",
-    "location_eligible": true,
-    "location_confidence": "low",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at Flix with strong overlap in redis, docker, aws, s3.",
-    "recommended_action": "SKIP",
-    "response_probability": "UNKNOWN",
-    "url_status": "not_checked",
-    "score_breakdown": {
-      "technical": 55,
-      "role": 91,
-      "remote": 55,
-      "freshness": 90,
-      "experience": 70,
-      "response": 50,
-      "compensation": 50
-    }
-  },
-  {
     "score": 66,
     "priority": "⚪ REVIEW",
     "title": "Senior Cloud Security Engineer",
@@ -23268,10 +22966,10 @@
     "title": "Senior Business Engineer - Ads",
     "company": "reddit",
     "source": "greenhouse",
-    "url": "https://job-boards.greenhouse.io/reddit/jobs/8022260",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/7954598",
     "posted_at": "2026-08-20T20:08:57-04:00",
     "remote": true,
-    "location": "Remote - British Columbia, Canada",
+    "location": "Remote - United States",
     "salary": null,
     "technical_matches": [
       "python"
@@ -23313,10 +23011,10 @@
     "title": "Senior Business Engineer - Ads",
     "company": "reddit",
     "source": "greenhouse",
-    "url": "https://job-boards.greenhouse.io/reddit/jobs/7954598",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/8022260",
     "posted_at": "2026-08-20T20:08:57-04:00",
     "remote": true,
-    "location": "Remote - United States",
+    "location": "Remote - British Columbia, Canada",
     "salary": null,
     "technical_matches": [
       "python"
@@ -23636,7 +23334,7 @@
       "python"
     ],
     "transferable_matches": [
-      "together ai ← experience with openai"
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "api integration",
@@ -23721,7 +23419,7 @@
       "python"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with llamaindex",
       "metrics ← experience with observability"
     ],
     "missing_skills": [
@@ -23769,7 +23467,7 @@
       "postgresql"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with llamaindex",
       "guidance ← experience with structured output",
       "prompt engineering ← experience with structured output"
     ],
@@ -24170,54 +23868,6 @@
     "title": "Sr. Solutions Engineer",
     "company": "databricks",
     "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8589187002",
-    "posted_at": "2026-08-18T14:25:17-04:00",
-    "remote": false,
-    "location": "Sao Paulo, Brazil",
-    "salary": null,
-    "technical_matches": [
-      "aws",
-      "python"
-    ],
-    "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
-    ],
-    "missing_skills": [
-      "databricks",
-      "java",
-      "kafka",
-      "mlflow",
-      "rust",
-      "scikit-learn",
-      "spark",
-      "sql"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "4+ years required",
-    "location_eligible": true,
-    "location_confidence": "low",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at databricks with strong overlap in python, aws, azure, gcp.",
-    "recommended_action": "SKIP",
-    "response_probability": "MEDIUM",
-    "url_status": "not_checked",
-    "score_breakdown": {
-      "technical": 50,
-      "role": 92,
-      "remote": 55,
-      "freshness": 75,
-      "experience": 95,
-      "response": 60,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 66,
-    "priority": "⚪ REVIEW",
-    "title": "Sr. Solutions Engineer",
-    "company": "databricks",
-    "source": "greenhouse",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8606312002",
     "posted_at": "2026-08-18T14:29:17-04:00",
     "remote": false,
@@ -24304,6 +23954,54 @@
       "remote": 55,
       "freshness": 75,
       "experience": 100,
+      "response": 60,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 66,
+    "priority": "⚪ REVIEW",
+    "title": "Sr. Solutions Engineer",
+    "company": "databricks",
+    "source": "greenhouse",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8589187002",
+    "posted_at": "2026-08-18T14:25:17-04:00",
+    "remote": false,
+    "location": "Sao Paulo, Brazil",
+    "salary": null,
+    "technical_matches": [
+      "aws",
+      "python"
+    ],
+    "transferable_matches": [
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock"
+    ],
+    "missing_skills": [
+      "databricks",
+      "java",
+      "kafka",
+      "mlflow",
+      "rust",
+      "scikit-learn",
+      "spark",
+      "sql"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "4+ years required",
+    "location_eligible": true,
+    "location_confidence": "low",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at databricks with strong overlap in python, aws, azure, gcp.",
+    "recommended_action": "SKIP",
+    "response_probability": "MEDIUM",
+    "url_status": "not_checked",
+    "score_breakdown": {
+      "technical": 50,
+      "role": 92,
+      "remote": 55,
+      "freshness": 75,
+      "experience": 95,
       "response": 60,
       "compensation": 50
     }
@@ -24591,6 +24289,45 @@
       "freshness": 35,
       "experience": 100,
       "response": 100,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 66,
+    "priority": "⚪ REVIEW",
+    "title": "(Senior) Software Engineer (M/F/D) - Tools & Automation",
+    "company": "jobgether",
+    "source": "lever",
+    "url": "https://jobs.lever.co/jobgether/8ec12be5-e624-4df3-8e9e-4ad8bbce3c71/apply",
+    "posted_at": "2026-08-14T03:09:51.304000+00:00",
+    "remote": true,
+    "location": "Germany",
+    "salary": null,
+    "technical_matches": [
+      "aws",
+      "ci/cd",
+      "python"
+    ],
+    "transferable_matches": [],
+    "missing_skills": [
+      "kubernetes"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "not specified",
+    "location_eligible": true,
+    "location_confidence": "high",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at jobgether with strong overlap in python, ci/cd, aws.",
+    "recommended_action": "SKIP",
+    "response_probability": "MEDIUM",
+    "url_status": "not_checked",
+    "score_breakdown": {
+      "technical": 45,
+      "role": 100,
+      "remote": 100,
+      "freshness": 35,
+      "experience": 100,
+      "response": 60,
       "compensation": 50
     }
   },
@@ -25749,6 +25486,44 @@
   {
     "score": 66,
     "priority": "⚪ REVIEW",
+    "title": "Senior Software Engineer II",
+    "company": "jobgether",
+    "source": "lever",
+    "url": "https://jobs.lever.co/jobgether/4f81be30-a712-496d-a466-947a82392404/apply",
+    "posted_at": "2026-08-20T02:40:52.994000+00:00",
+    "remote": true,
+    "location": "Canada",
+    "salary": null,
+    "technical_matches": [
+      "mcp",
+      "observability"
+    ],
+    "transferable_matches": [],
+    "missing_skills": [
+      "mcp server"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "not specified",
+    "location_eligible": true,
+    "location_confidence": "high",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at jobgether with strong overlap in mcp, observability.",
+    "recommended_action": "SKIP",
+    "response_probability": "MEDIUM",
+    "url_status": "not_checked",
+    "score_breakdown": {
+      "technical": 30,
+      "role": 91,
+      "remote": 100,
+      "freshness": 75,
+      "experience": 100,
+      "response": 60,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 66,
+    "priority": "⚪ REVIEW",
     "title": "Software Development Test Engineer - Python",
     "company": "jobgether",
     "source": "lever",
@@ -25775,6 +25550,45 @@
     "score_breakdown": {
       "technical": 30,
       "role": 92,
+      "remote": 100,
+      "freshness": 75,
+      "experience": 100,
+      "response": 60,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 66,
+    "priority": "⚪ REVIEW",
+    "title": "Sr. Software Developer – Application Migration & Modernization",
+    "company": "jobgether",
+    "source": "lever",
+    "url": "https://jobs.lever.co/jobgether/5c68adc8-00fd-449c-b537-293321bb2c4e/apply",
+    "posted_at": "2026-08-20T03:10:32.780000+00:00",
+    "remote": true,
+    "location": "Brazil",
+    "salary": null,
+    "technical_matches": [
+      "aws",
+      "postgresql"
+    ],
+    "transferable_matches": [],
+    "missing_skills": [
+      ".net",
+      "postgres"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "not specified",
+    "location_eligible": true,
+    "location_confidence": "high",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at jobgether with strong overlap in postgresql, aws.",
+    "recommended_action": "SKIP",
+    "response_probability": "MEDIUM",
+    "url_status": "not_checked",
+    "score_breakdown": {
+      "technical": 30,
+      "role": 91,
       "remote": 100,
       "freshness": 75,
       "experience": 100,
@@ -25877,7 +25691,7 @@
     ],
     "transferable_matches": [
       "arize ← experience with llm evaluation",
-      "together ai ← experience with openai",
+      "together ai ← experience with anthropic",
       "traces ← experience with observability"
     ],
     "missing_skills": [
@@ -25923,7 +25737,7 @@
       "python"
     ],
     "transferable_matches": [
-      "together ai ← experience with openai"
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "embedding",
@@ -25967,7 +25781,7 @@
       "python"
     ],
     "transferable_matches": [
-      "together ai ← experience with openai"
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "embedding",
@@ -26012,7 +25826,7 @@
     ],
     "transferable_matches": [
       "metrics ← experience with observability",
-      "together ai ← experience with openai"
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "embedding",
@@ -26101,7 +25915,7 @@
       "python"
     ],
     "transferable_matches": [
-      "dify ← experience with langchain",
+      "dify ← experience with llamaindex",
       "guidance ← experience with structured output"
     ],
     "missing_skills": [
@@ -26312,7 +26126,7 @@
       "knowledge graph"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with llamaindex",
       "arize ← experience with llm evaluation"
     ],
     "missing_skills": [
@@ -26354,7 +26168,7 @@
       "python"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with llamaindex",
       "arize ← experience with llm evaluation",
       "guardrails ← experience with structured output",
       "metrics ← experience with observability"
@@ -26763,7 +26577,7 @@
     "transferable_matches": [
       "guidance ← experience with structured output",
       "otel ← experience with observability",
-      "together ai ← experience with openai"
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "kubernetes",
@@ -26807,7 +26621,7 @@
     "transferable_matches": [
       "guidance ← experience with structured output",
       "otel ← experience with observability",
-      "together ai ← experience with openai"
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "document ai",
@@ -26852,7 +26666,7 @@
     "transferable_matches": [
       "guidance ← experience with structured output",
       "otel ← experience with observability",
-      "together ai ← experience with openai"
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "airflow",
@@ -26899,7 +26713,7 @@
     "transferable_matches": [
       "guidance ← experience with structured output",
       "otel ← experience with observability",
-      "together ai ← experience with openai"
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "airflow",
@@ -27026,8 +26840,8 @@
       "ci/cd"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
-      "dify ← experience with langchain",
+      "agno ← experience with llamaindex",
+      "dify ← experience with llamaindex",
       "metrics ← experience with observability"
     ],
     "missing_skills": [
@@ -27458,7 +27272,7 @@
     "transferable_matches": [
       "azure ← experience with bedrock",
       "gcp ← experience with bedrock",
-      "together ai ← experience with openai"
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "databricks",
@@ -27503,7 +27317,7 @@
     "transferable_matches": [
       "azure ← experience with bedrock",
       "gcp ← experience with bedrock",
-      "together ai ← experience with openai"
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "databricks",
@@ -27591,7 +27405,7 @@
       "aws"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with llamaindex",
       "azure ← experience with bedrock",
       "gcp ← experience with bedrock"
     ],
@@ -27735,7 +27549,7 @@
       "python"
     ],
     "transferable_matches": [
-      "gemini ← experience with openai"
+      "gemini ← experience with anthropic"
     ],
     "missing_skills": [
       "agent framework",
@@ -27780,8 +27594,8 @@
       "python"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
-      "networkx ← experience with neo4j"
+      "agno ← experience with llamaindex",
+      "networkx ← experience with knowledge graph"
     ],
     "missing_skills": [
       "document ai",
@@ -27851,6 +27665,48 @@
   {
     "score": 65,
     "priority": "⚪ REVIEW",
+    "title": "Engenheiro de IA Pl",
+    "company": "jobgether",
+    "source": "lever",
+    "url": "https://jobs.lever.co/jobgether/b57e2c81-99e9-49be-929c-142e827dcfa1/apply",
+    "posted_at": "2026-08-20T02:01:30.174000+00:00",
+    "remote": true,
+    "location": "Brazil",
+    "salary": null,
+    "technical_matches": [
+      "agent orchestration",
+      "observability",
+      "rag"
+    ],
+    "transferable_matches": [],
+    "missing_skills": [
+      "agent platform",
+      "distributed systems",
+      "embedding",
+      "embeddings"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "not specified",
+    "location_eligible": true,
+    "location_confidence": "high",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at jobgether with strong overlap in agent orchestration, rag, observability.",
+    "recommended_action": "SKIP",
+    "response_probability": "MEDIUM",
+    "url_status": "not_checked",
+    "score_breakdown": {
+      "technical": 45,
+      "role": 51,
+      "remote": 100,
+      "freshness": 75,
+      "experience": 100,
+      "response": 60,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 65,
+    "priority": "⚪ REVIEW",
     "title": "Principal Software Engineer, Platform (DevEx)",
     "company": "jobgether",
     "source": "lever",
@@ -27883,6 +27739,48 @@
       "role": 61,
       "remote": 100,
       "freshness": 75,
+      "experience": 100,
+      "response": 60,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 65,
+    "priority": "⚪ REVIEW",
+    "title": "Senior AI Scientist",
+    "company": "jobgether",
+    "source": "lever",
+    "url": "https://jobs.lever.co/jobgether/3782ae0b-b344-4f45-b139-3b5c65428146/apply",
+    "posted_at": "2026-08-14T03:04:07.685000+00:00",
+    "remote": true,
+    "location": "Germany",
+    "salary": null,
+    "technical_matches": [
+      "llm evaluation",
+      "retrieval augmented generation"
+    ],
+    "transferable_matches": [
+      "benchmarking ← experience with llm evaluation",
+      "metrics ← experience with observability",
+      "prompt engineering ← experience with structured output"
+    ],
+    "missing_skills": [
+      "retrieval"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "not specified",
+    "location_eligible": true,
+    "location_confidence": "high",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at jobgether with strong overlap in retrieval augmented generation, llm evaluation, prompt engineering, benchmarking.",
+    "recommended_action": "SKIP",
+    "response_probability": "MEDIUM",
+    "url_status": "not_checked",
+    "score_breakdown": {
+      "technical": 60,
+      "role": 57,
+      "remote": 100,
+      "freshness": 35,
       "experience": 100,
       "response": 60,
       "compensation": 50
@@ -27941,9 +27839,9 @@
     "salary": null,
     "technical_matches": [],
     "transferable_matches": [
-      "sglang ← experience with openai",
-      "tensorrt-llm ← experience with openai",
-      "vllm ← experience with openai"
+      "sglang ← experience with anthropic",
+      "tensorrt-llm ← experience with anthropic",
+      "vllm ← experience with anthropic"
     ],
     "missing_skills": [],
     "hard_requirements_missing": [],
@@ -27978,9 +27876,9 @@
     "salary": null,
     "technical_matches": [],
     "transferable_matches": [
-      "sglang ← experience with openai",
-      "tensorrt-llm ← experience with openai",
-      "vllm ← experience with openai"
+      "sglang ← experience with anthropic",
+      "tensorrt-llm ← experience with anthropic",
+      "vllm ← experience with anthropic"
     ],
     "missing_skills": [],
     "hard_requirements_missing": [],
@@ -28061,7 +27959,7 @@
       "arize ← experience with llm evaluation",
       "guardrails ← experience with structured output",
       "guidance ← experience with structured output",
-      "together ai ← experience with openai"
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "go",
@@ -28283,7 +28181,7 @@
       "python"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain"
+      "agno ← experience with llamaindex"
     ],
     "missing_skills": [
       "golang",

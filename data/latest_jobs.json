@@ -19,9 +19,9 @@
       "retrieval augmented generation"
     ],
     "transferable_matches": [
-      "azure openai ← experience with openai",
-      "azure ← experience with bedrock",
-      "gemini ← experience with openai"
+      "azure openai ← experience with anthropic",
+      "azure ← experience with agentcore",
+      "gemini ← experience with anthropic"
     ],
     "missing_skills": [
       "retrieval"
@@ -65,9 +65,9 @@
       "retrieval augmented generation"
     ],
     "transferable_matches": [
-      "azure openai ← experience with openai",
-      "azure ← experience with bedrock",
-      "gemini ← experience with openai"
+      "azure openai ← experience with anthropic",
+      "azure ← experience with agentcore",
+      "gemini ← experience with anthropic"
     ],
     "missing_skills": [
       "retrieval"
@@ -111,9 +111,9 @@
       "retrieval augmented generation"
     ],
     "transferable_matches": [
-      "azure openai ← experience with openai",
-      "azure ← experience with bedrock",
-      "gemini ← experience with openai"
+      "azure openai ← experience with anthropic",
+      "azure ← experience with agentcore",
+      "gemini ← experience with anthropic"
     ],
     "missing_skills": [
       "retrieval"
@@ -201,10 +201,10 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "dify ← experience with llamaindex",
-      "gcp ← experience with bedrock",
-      "google cloud ← experience with bedrock",
+      "azure ← experience with agentcore",
+      "dify ← experience with langchain",
+      "gcp ← experience with agentcore",
+      "google cloud ← experience with agentcore",
       "otel ← experience with observability"
     ],
     "missing_skills": [
@@ -250,10 +250,10 @@
       "rag"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
+      "azure ← experience with agentcore",
       "dspy ← experience with hermes agent",
-      "gcp ← experience with bedrock",
-      "hugging face ← experience with openai"
+      "gcp ← experience with agentcore",
+      "hugging face ← experience with anthropic"
     ],
     "missing_skills": [
       "databricks",
@@ -345,10 +345,10 @@
       "rag"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
+      "azure ← experience with agentcore",
       "dspy ← experience with hermes agent",
-      "gcp ← experience with bedrock",
-      "hugging face ← experience with openai"
+      "gcp ← experience with agentcore",
+      "hugging face ← experience with anthropic"
     ],
     "missing_skills": [
       "databricks",
@@ -489,8 +489,8 @@
       "instructor ← experience with pydantic v2",
       "metrics ← experience with observability",
       "prompt engineering ← experience with pydantic v2",
-      "together ai ← experience with openai",
-      "unstructured ← experience with llamaindex"
+      "together ai ← experience with anthropic",
+      "unstructured ← experience with langchain"
     ],
     "missing_skills": [
       "classification",
@@ -586,7 +586,7 @@
     "transferable_matches": [
       "otel ← experience with observability",
       "prompt engineering ← experience with pydantic v2",
-      "unstructured ← experience with llamaindex"
+      "unstructured ← experience with langchain"
     ],
     "missing_skills": [
       "airflow",
@@ -638,7 +638,7 @@
     "transferable_matches": [
       "otel ← experience with observability",
       "prompt engineering ← experience with pydantic v2",
-      "unstructured ← experience with llamaindex"
+      "unstructured ← experience with langchain"
     ],
     "missing_skills": [
       "airflow",
@@ -745,7 +745,7 @@
       "guardrails ← experience with pydantic v2",
       "metrics ← experience with observability",
       "prompt engineering ← experience with pydantic v2",
-      "together ai ← experience with openai",
+      "together ai ← experience with anthropic",
       "tracing ← experience with observability"
     ],
     "missing_skills": [
@@ -976,7 +976,7 @@
       "guardrails ← experience with pydantic v2",
       "metrics ← experience with observability",
       "prompt engineering ← experience with pydantic v2",
-      "together ai ← experience with openai",
+      "together ai ← experience with anthropic",
       "tracing ← experience with observability"
     ],
     "missing_skills": [
@@ -1142,7 +1142,7 @@
       "rag"
     ],
     "transferable_matches": [
-      "unstructured ← experience with llamaindex"
+      "unstructured ← experience with langchain"
     ],
     "missing_skills": [
       "semantic search"
@@ -1187,7 +1187,7 @@
     "transferable_matches": [
       "arize ← experience with llm evaluation",
       "metrics ← experience with observability",
-      "transformers ← experience with openai"
+      "transformers ← experience with anthropic"
     ],
     "missing_skills": [
       "airflow",
@@ -1250,7 +1250,7 @@
     "transferable_matches": [
       "arize ← experience with llm evaluation",
       "metrics ← experience with observability",
-      "transformers ← experience with openai"
+      "transformers ← experience with anthropic"
     ],
     "missing_skills": [
       "airflow",
@@ -1295,6 +1295,56 @@
   {
     "score": 87,
     "priority": "🟢 HIGH MATCH",
+    "title": "Backend Software Engineer - New Bets",
+    "company": "Heidi",
+    "source": "arbeitnow",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/heidi/backend-software-engineer-new-bets-london-388425",
+    "posted_at": "2026-08-22T09:40:12+00:00",
+    "remote": false,
+    "location": "London",
+    "salary": null,
+    "technical_matches": [
+      "aws",
+      "ci/cd",
+      "claude",
+      "observability",
+      "python"
+    ],
+    "transferable_matches": [
+      "evals ← experience with llm evaluation",
+      "gcp ← experience with agentcore"
+    ],
+    "missing_skills": [
+      "document ai",
+      "embedding",
+      "embeddings",
+      "go",
+      "retrieval",
+      "rust",
+      "typescript"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "3+ years required",
+    "location_eligible": true,
+    "location_confidence": "low",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at Heidi with strong overlap in claude, observability, python, evals, gcp.",
+    "recommended_action": "APPLY_NOW",
+    "response_probability": "MEDIUM",
+    "url_status": "ok",
+    "score_breakdown": {
+      "technical": 95,
+      "role": 100,
+      "remote": 55,
+      "freshness": 100,
+      "experience": 100,
+      "response": 60,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 87,
+    "priority": "🟢 HIGH MATCH",
     "title": "AI Solution Architect (m/w/d)",
     "company": "virtual7 GmbH",
     "source": "arbeitnow",
@@ -1315,12 +1365,12 @@
       "rag"
     ],
     "transferable_matches": [
-      "azure openai ← experience with openai",
-      "azure ← experience with bedrock",
-      "google cloud ← experience with bedrock",
+      "azure openai ← experience with anthropic",
+      "azure ← experience with agentcore",
+      "google cloud ← experience with agentcore",
       "grafana ← experience with observability",
       "guardrails ← experience with pydantic v2",
-      "llama ← experience with openai",
+      "llama ← experience with anthropic",
       "prometheus ← experience with observability",
       "prompt engineering ← experience with pydantic v2"
     ],
@@ -1422,11 +1472,11 @@
     ],
     "transferable_matches": [
       "a/b testing ← experience with llm evaluation",
-      "azure ← experience with bedrock",
+      "azure ← experience with agentcore",
       "dspy ← experience with hermes agent",
       "guardrails ← experience with pydantic v2",
       "pgvector ← experience with qdrant",
-      "vllm ← experience with openai"
+      "vllm ← experience with anthropic"
     ],
     "missing_skills": [
       ".net",
@@ -1541,20 +1591,20 @@
       "rag"
     ],
     "transferable_matches": [
-      "aws bedrock ← experience with openai",
+      "aws bedrock ← experience with anthropic",
       "datadog ← experience with observability",
-      "eks ← experience with bedrock",
+      "eks ← experience with agentcore",
       "elasticsearch ← experience with qdrant",
       "evals ← experience with llm evaluation",
       "golden dataset ← experience with llm evaluation",
       "graph database ← experience with neo4j",
-      "graphrag ← experience with llamaindex",
+      "graphrag ← experience with langchain",
       "langfuse ← experience with observability",
       "opensearch ← experience with qdrant",
       "opentelemetry ← experience with observability",
       "otel ← experience with observability",
       "pydantic ai ← experience with hermes agent",
-      "s3 ← experience with bedrock"
+      "s3 ← experience with agentcore"
     ],
     "missing_skills": [
       "agent workflows",
@@ -1618,7 +1668,7 @@
       "rag"
     ],
     "transferable_matches": [
-      "cohere ← experience with openai",
+      "cohere ← experience with anthropic",
       "guardrails ← experience with pydantic v2",
       "logging ← experience with observability"
     ],
@@ -1721,7 +1771,7 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
+      "azure ← experience with agentcore",
       "grafana ← experience with observability",
       "networkx ← experience with neo4j"
     ],
@@ -1877,9 +1927,9 @@
     ],
     "transferable_matches": [
       "agno ← experience with hermes agent",
-      "gcp ← experience with bedrock",
-      "gke ← experience with bedrock",
-      "google cloud ← experience with bedrock",
+      "gcp ← experience with agentcore",
+      "gke ← experience with agentcore",
+      "google cloud ← experience with agentcore",
       "guidance ← experience with pydantic v2"
     ],
     "missing_skills": [
@@ -1926,10 +1976,10 @@
       "rag"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
+      "azure ← experience with agentcore",
       "dspy ← experience with hermes agent",
-      "gcp ← experience with bedrock",
-      "hugging face ← experience with openai"
+      "gcp ← experience with agentcore",
+      "hugging face ← experience with anthropic"
     ],
     "missing_skills": [
       "databricks",
@@ -1976,10 +2026,10 @@
       "rag"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
+      "azure ← experience with agentcore",
       "dspy ← experience with hermes agent",
-      "gcp ← experience with bedrock",
-      "hugging face ← experience with openai"
+      "gcp ← experience with agentcore",
+      "hugging face ← experience with anthropic"
     ],
     "missing_skills": [
       "databricks",
@@ -2026,10 +2076,10 @@
       "rag"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
+      "azure ← experience with agentcore",
       "dspy ← experience with hermes agent",
-      "gcp ← experience with bedrock",
-      "hugging face ← experience with openai"
+      "gcp ← experience with agentcore",
+      "hugging face ← experience with anthropic"
     ],
     "missing_skills": [
       "databricks",
@@ -2076,10 +2126,10 @@
       "rag"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
+      "azure ← experience with agentcore",
       "dspy ← experience with hermes agent",
-      "gcp ← experience with bedrock",
-      "hugging face ← experience with openai"
+      "gcp ← experience with agentcore",
+      "hugging face ← experience with anthropic"
     ],
     "missing_skills": [
       "databricks",
@@ -2179,7 +2229,7 @@
     ],
     "transferable_matches": [
       "agno ← experience with hermes agent",
-      "gcp ← experience with bedrock",
+      "gcp ← experience with agentcore",
       "guardrails ← experience with pydantic v2",
       "logging ← experience with observability",
       "metrics ← experience with observability"
@@ -2227,8 +2277,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock",
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore",
       "metrics ← experience with observability"
     ],
     "missing_skills": [
@@ -2251,7 +2301,7 @@
     "reason": "Recently posted role at gitlab with strong overlap in agent orchestration, observability, python, metrics, azure.",
     "recommended_action": "APPLY_NOW",
     "response_probability": "HIGH",
-    "url_status": "unknown",
+    "url_status": "ok",
     "score_breakdown": {
       "technical": 90,
       "role": 71,
@@ -2282,8 +2332,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore"
     ],
     "missing_skills": [
       "c#",
@@ -2386,7 +2436,7 @@
     "transferable_matches": [
       "elasticsearch ← experience with qdrant",
       "graph database ← experience with neo4j",
-      "hugging face ← experience with openai"
+      "hugging face ← experience with anthropic"
     ],
     "missing_skills": [
       "api integration",
@@ -2485,7 +2535,7 @@
       "supervisor"
     ],
     "transferable_matches": [
-      "gcp ← experience with bedrock",
+      "gcp ← experience with agentcore",
       "otel ← experience with observability"
     ],
     "missing_skills": [
@@ -2685,8 +2735,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore"
     ],
     "missing_skills": [
       "c#",
@@ -2739,9 +2789,9 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
+      "azure ← experience with agentcore",
       "datadog ← experience with observability",
-      "gcp ← experience with bedrock",
+      "gcp ← experience with agentcore",
       "guidance ← experience with pydantic v2",
       "logging ← experience with observability",
       "metrics ← experience with observability",
@@ -2792,8 +2842,8 @@
       "observability"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock",
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore",
       "logging ← experience with observability",
       "tracing ← experience with observability"
     ],
@@ -2842,8 +2892,8 @@
       "rag"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock",
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore",
       "guardrails ← experience with pydantic v2"
     ],
     "missing_skills": [
@@ -2892,10 +2942,10 @@
       "rag"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
+      "azure ← experience with agentcore",
       "benchmarking ← experience with llm evaluation",
-      "gcp ← experience with bedrock",
-      "llama ← experience with openai"
+      "gcp ← experience with agentcore",
+      "llama ← experience with anthropic"
     ],
     "missing_skills": [
       "classification",
@@ -2943,7 +2993,7 @@
       "logging ← experience with observability",
       "metrics ← experience with observability",
       "prometheus ← experience with observability",
-      "s3 ← experience with bedrock"
+      "s3 ← experience with agentcore"
     ],
     "missing_skills": [
       "distributed systems",
@@ -2964,7 +3014,7 @@
     "reason": "Recently posted role at cloudflare with strong overlap in observability, docker, grafana, prometheus.",
     "recommended_action": "APPLY_NOW",
     "response_probability": "HIGH",
-    "url_status": "unknown",
+    "url_status": "ok",
     "score_breakdown": {
       "technical": 90,
       "role": 91,
@@ -3001,7 +3051,7 @@
     "transferable_matches": [
       "autogen ← experience with hermes agent",
       "crewai ← experience with hermes agent",
-      "gemini ← experience with openai",
+      "gemini ← experience with anthropic",
       "pinecone ← experience with qdrant",
       "prompt engineering ← experience with pydantic v2",
       "weaviate ← experience with qdrant"
@@ -3101,10 +3151,10 @@
     ],
     "transferable_matches": [
       "agno ← experience with hermes agent",
-      "ecs ← experience with bedrock",
-      "eks ← experience with bedrock",
-      "s3 ← experience with bedrock",
-      "sagemaker ← experience with bedrock"
+      "ecs ← experience with agentcore",
+      "eks ← experience with agentcore",
+      "s3 ← experience with agentcore",
+      "sagemaker ← experience with agentcore"
     ],
     "missing_skills": [
       "airflow",
@@ -3126,53 +3176,6 @@
       "role": 77,
       "remote": 55,
       "freshness": 75,
-      "experience": 100,
-      "response": 60,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 82,
-    "priority": "🟢 HIGH MATCH",
-    "title": "Microsoft Cloud & AI Infrastructure (Senior) Consultant (m/w/d)",
-    "company": "Windhoff Group",
-    "source": "arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/windhoff-group/microsoft-cloud-ai-infrastructure-senior-consultant-gescher-115902",
-    "posted_at": "2026-08-21T11:30:35+00:00",
-    "remote": false,
-    "location": "Gescher",
-    "salary": null,
-    "technical_matches": [
-      "ci/cd",
-      "github actions",
-      "mcp",
-      "python",
-      "rag"
-    ],
-    "transferable_matches": [
-      "azure ai ← experience with bedrock",
-      "azure ← experience with bedrock"
-    ],
-    "missing_skills": [
-      "databricks",
-      "mcp server",
-      "rust",
-      "terraform"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "not specified",
-    "location_eligible": true,
-    "location_confidence": "low",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at Windhoff Group with strong overlap in mcp, rag, python, azure, azure ai.",
-    "recommended_action": "APPLY_NOW",
-    "response_probability": "MEDIUM",
-    "url_status": "ok",
-    "score_breakdown": {
-      "technical": 95,
-      "role": 79,
-      "remote": 55,
-      "freshness": 90,
       "experience": 100,
       "response": 60,
       "compensation": 50
@@ -3325,52 +3328,6 @@
   {
     "score": 81,
     "priority": "🟡 GOOD MATCH",
-    "title": "Senior Software Engineer - Data + AI Observability",
-    "company": "databricks",
-    "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7897431002",
-    "posted_at": "2026-08-22T00:40:05-04:00",
-    "remote": false,
-    "location": "Bengaluru, India",
-    "salary": null,
-    "technical_matches": [
-      "aws",
-      "docker",
-      "observability",
-      "python"
-    ],
-    "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
-    ],
-    "missing_skills": [
-      "databricks",
-      "distributed systems",
-      "java",
-      "kubernetes"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "6+ years required",
-    "location_eligible": true,
-    "location_confidence": "low",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at databricks with strong overlap in observability, python, docker, azure, gcp.",
-    "recommended_action": "REVIEW_AND_APPLY",
-    "response_probability": "HIGH",
-    "url_status": "ok",
-    "score_breakdown": {
-      "technical": 80,
-      "role": 100,
-      "remote": 55,
-      "freshness": 100,
-      "experience": 70,
-      "response": 100,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 81,
-    "priority": "🟡 GOOD MATCH",
     "title": "Staff Security Software Engineer, AI Security",
     "company": "databricks",
     "source": "greenhouse",
@@ -3388,8 +3345,8 @@
       "rag"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock",
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore",
       "guardrails ← experience with pydantic v2",
       "guidance ← experience with pydantic v2",
       "logging ← experience with observability"
@@ -3441,8 +3398,8 @@
       "observability"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock",
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore",
       "logging ← experience with observability",
       "tracing ← experience with observability"
     ],
@@ -3502,20 +3459,20 @@
       "retrieval augmented generation"
     ],
     "transferable_matches": [
-      "aws bedrock ← experience with openai",
-      "azure openai ← experience with openai",
-      "azure ← experience with bedrock",
+      "aws bedrock ← experience with anthropic",
+      "azure openai ← experience with anthropic",
+      "azure ← experience with agentcore",
       "chroma ← experience with qdrant",
       "crewai ← experience with hermes agent",
-      "gcp ← experience with bedrock",
-      "gpt ← experience with openai",
-      "hugging face ← experience with openai",
+      "gcp ← experience with agentcore",
+      "gpt ← experience with anthropic",
+      "hugging face ← experience with anthropic",
       "logging ← experience with observability",
       "pgvector ← experience with qdrant",
       "pinecone ← experience with qdrant",
       "prompt engineering ← experience with pydantic v2",
-      "vertex ai ← experience with openai",
-      "vllm ← experience with openai",
+      "vertex ai ← experience with anthropic",
+      "vllm ← experience with anthropic",
       "weaviate ← experience with qdrant",
       "weights & biases ← experience with llm evaluation"
     ],
@@ -3563,8 +3520,8 @@
       "observability"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock",
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore",
       "grafana ← experience with observability",
       "guidance ← experience with pydantic v2",
       "prometheus ← experience with observability"
@@ -3661,11 +3618,11 @@
       "python"
     ],
     "transferable_matches": [
-      "aks ← experience with bedrock",
-      "azure ← experience with bedrock",
-      "eks ← experience with bedrock",
-      "gcp ← experience with bedrock",
-      "gke ← experience with bedrock"
+      "aks ← experience with agentcore",
+      "azure ← experience with agentcore",
+      "eks ← experience with agentcore",
+      "gcp ← experience with agentcore",
+      "gke ← experience with agentcore"
     ],
     "missing_skills": [
       "go",
@@ -3711,9 +3668,9 @@
     ],
     "transferable_matches": [
       "agno ← experience with hermes agent",
-      "azure ← experience with bedrock",
+      "azure ← experience with agentcore",
       "datadog ← experience with observability",
-      "ecs ← experience with bedrock",
+      "ecs ← experience with agentcore",
       "grafana ← experience with observability",
       "logging ← experience with observability",
       "metrics ← experience with observability",
@@ -3764,8 +3721,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock",
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore",
       "metrics ← experience with observability",
       "otel ← experience with observability"
     ],
@@ -3899,9 +3856,9 @@
       "aws"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock",
-      "google cloud ← experience with bedrock",
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore",
+      "google cloud ← experience with agentcore",
       "guidance ← experience with pydantic v2"
     ],
     "missing_skills": [
@@ -3950,10 +3907,10 @@
       "tool calling"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock",
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore",
       "guardrails ← experience with pydantic v2",
-      "hugging face ← experience with openai"
+      "hugging face ← experience with anthropic"
     ],
     "missing_skills": [
       "databricks",
@@ -4000,11 +3957,11 @@
       "python"
     ],
     "transferable_matches": [
-      "aks ← experience with bedrock",
-      "azure ← experience with bedrock",
+      "aks ← experience with agentcore",
+      "azure ← experience with agentcore",
       "datadog ← experience with observability",
-      "eks ← experience with bedrock",
-      "gcp ← experience with bedrock",
+      "eks ← experience with agentcore",
+      "gcp ← experience with agentcore",
       "guidance ← experience with pydantic v2",
       "logging ← experience with observability",
       "metrics ← experience with observability",
@@ -4040,55 +3997,43 @@
   {
     "score": 80,
     "priority": "🟡 GOOD MATCH",
-    "title": "Senior Software Engineer, Web Development – AI",
-    "company": "Roku",
+    "title": "Microsoft Cloud & AI Infrastructure (Senior) Consultant (m/w/d)",
+    "company": "Windhoff Group",
     "source": "arbeitnow",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/roku/senior-software-engineer-web-development-ai-manchester-82235",
-    "posted_at": "2026-08-20T21:56:06+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/windhoff-group/microsoft-cloud-ai-infrastructure-senior-consultant-gescher-115902",
+    "posted_at": "2026-08-21T11:30:35+00:00",
     "remote": false,
-    "location": "Manchester",
+    "location": "Gescher",
     "salary": null,
     "technical_matches": [
-      "ai agents",
-      "aws",
       "ci/cd",
-      "claude",
+      "github actions",
       "mcp",
-      "observability",
-      "rag",
-      "retrieval augmented generation"
+      "python",
+      "rag"
     ],
     "transferable_matches": [
-      "gcp ← experience with bedrock",
-      "grafana ← experience with observability",
-      "prometheus ← experience with observability"
+      "azure ai ← experience with agentcore",
+      "azure ← experience with agentcore"
     ],
     "missing_skills": [
-      "agent framework",
-      "distributed systems",
-      "go",
-      "java",
-      "javascript",
-      "jenkins",
+      "databricks",
       "mcp server",
-      "node.js",
-      "retrieval",
       "rust",
-      "sql",
-      "typescript"
+      "terraform"
     ],
     "hard_requirements_missing": [],
     "experience_required": "not specified",
     "location_eligible": true,
     "location_confidence": "low",
     "freshness_confidence": "known",
-    "reason": "Recently posted role at Roku with strong overlap in ai agents, mcp, rag, grafana, prometheus.",
+    "reason": "Recently posted role at Windhoff Group with strong overlap in mcp, rag, python, azure, azure ai.",
     "recommended_action": "REVIEW_AND_APPLY",
     "response_probability": "MEDIUM",
     "url_status": "ok",
     "score_breakdown": {
-      "technical": 100,
-      "role": 70,
+      "technical": 95,
+      "role": 79,
       "remote": 55,
       "freshness": 75,
       "experience": 100,
@@ -4163,7 +4108,7 @@
     ],
     "transferable_matches": [
       "arize ← experience with llm evaluation",
-      "gcp ← experience with bedrock",
+      "gcp ← experience with agentcore",
       "metrics ← experience with observability",
       "otel ← experience with observability"
     ],
@@ -4220,7 +4165,7 @@
     ],
     "transferable_matches": [
       "arize ← experience with llm evaluation",
-      "gcp ← experience with bedrock",
+      "gcp ← experience with agentcore",
       "metrics ← experience with observability",
       "otel ← experience with observability"
     ],
@@ -4278,7 +4223,7 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
+      "azure ← experience with agentcore",
       "otel ← experience with observability"
     ],
     "missing_skills": [
@@ -4322,7 +4267,7 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
+      "azure ← experience with agentcore",
       "otel ← experience with observability"
     ],
     "missing_skills": [
@@ -4370,7 +4315,7 @@
       "benchmarking ← experience with llm evaluation",
       "guidance ← experience with pydantic v2",
       "otel ← experience with observability",
-      "together ai ← experience with openai"
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "distributed systems",
@@ -4423,7 +4368,7 @@
       "benchmarking ← experience with llm evaluation",
       "guidance ← experience with pydantic v2",
       "otel ← experience with observability",
-      "together ai ← experience with openai"
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "distributed systems",
@@ -4523,7 +4468,7 @@
       "elasticsearch ← experience with qdrant",
       "graph database ← experience with neo4j",
       "guidance ← experience with pydantic v2",
-      "together ai ← experience with openai"
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "java",
@@ -4574,8 +4519,8 @@
     ],
     "transferable_matches": [
       "agno ← experience with hermes agent",
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock",
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore",
       "logging ← experience with observability",
       "prompt engineering ← experience with pydantic v2",
       "tracing ← experience with observability"
@@ -4617,6 +4562,52 @@
   {
     "score": 79,
     "priority": "🟡 GOOD MATCH",
+    "title": "Senior Software Engineer - Data + AI Observability",
+    "company": "databricks",
+    "source": "greenhouse",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7897431002",
+    "posted_at": "2026-08-22T00:40:05-04:00",
+    "remote": false,
+    "location": "Bengaluru, India",
+    "salary": null,
+    "technical_matches": [
+      "aws",
+      "docker",
+      "observability",
+      "python"
+    ],
+    "transferable_matches": [
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore"
+    ],
+    "missing_skills": [
+      "databricks",
+      "distributed systems",
+      "java",
+      "kubernetes"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "6+ years required",
+    "location_eligible": true,
+    "location_confidence": "low",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at databricks with strong overlap in observability, python, docker, azure, gcp.",
+    "recommended_action": "REVIEW_AND_APPLY",
+    "response_probability": "HIGH",
+    "url_status": "ok",
+    "score_breakdown": {
+      "technical": 80,
+      "role": 100,
+      "remote": 55,
+      "freshness": 90,
+      "experience": 70,
+      "response": 100,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 79,
+    "priority": "🟡 GOOD MATCH",
     "title": "Senior Software Engineer - Fullstack",
     "company": "databricks",
     "source": "greenhouse",
@@ -4632,8 +4623,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock",
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore",
       "metrics ← experience with observability"
     ],
     "missing_skills": [
@@ -4685,8 +4676,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock",
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore",
       "metrics ← experience with observability"
     ],
     "missing_skills": [
@@ -4734,9 +4725,9 @@
       "rag"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock",
-      "hugging face ← experience with openai"
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore",
+      "hugging face ← experience with anthropic"
     ],
     "missing_skills": [
       "databricks",
@@ -4781,8 +4772,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore"
     ],
     "missing_skills": [
       "databricks",
@@ -4829,8 +4820,8 @@
       "rag"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore"
     ],
     "missing_skills": [
       "databricks",
@@ -4877,15 +4868,15 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gemini ← experience with openai",
-      "gpt ← experience with openai",
-      "llama ← experience with openai",
-      "qwen ← experience with openai",
-      "sagemaker ← experience with bedrock",
-      "sglang ← experience with openai",
-      "vertex ai ← experience with openai",
-      "vllm ← experience with openai"
+      "azure ← experience with agentcore",
+      "gemini ← experience with anthropic",
+      "gpt ← experience with anthropic",
+      "llama ← experience with anthropic",
+      "qwen ← experience with anthropic",
+      "sagemaker ← experience with agentcore",
+      "sglang ← experience with anthropic",
+      "vertex ai ← experience with anthropic",
+      "vllm ← experience with anthropic"
     ],
     "missing_skills": [
       "databricks",
@@ -5072,8 +5063,8 @@
       "rag"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore"
     ],
     "missing_skills": [
       "databricks",
@@ -5216,9 +5207,9 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "dify ← experience with llamaindex",
-      "gcp ← experience with bedrock",
+      "azure ← experience with agentcore",
+      "dify ← experience with langchain",
+      "gcp ← experience with agentcore",
       "logging ← experience with observability",
       "metrics ← experience with observability",
       "otel ← experience with observability"
@@ -5354,7 +5345,7 @@
       "observability"
     ],
     "transferable_matches": [
-      "cohere ← experience with openai",
+      "cohere ← experience with anthropic",
       "metrics ← experience with observability",
       "traces ← experience with observability"
     ],
@@ -5400,8 +5391,8 @@
       "rag"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore"
     ],
     "missing_skills": [
       "databricks",
@@ -5450,10 +5441,10 @@
       "tool calling"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock",
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore",
       "guardrails ← experience with pydantic v2",
-      "hugging face ← experience with openai"
+      "hugging face ← experience with anthropic"
     ],
     "missing_skills": [
       "databricks",
@@ -5497,8 +5488,8 @@
       "observability"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock",
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore",
       "logging ← experience with observability",
       "tracing ← experience with observability"
     ],
@@ -5549,10 +5540,10 @@
       "tool calling"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock",
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore",
       "guardrails ← experience with pydantic v2",
-      "hugging face ← experience with openai"
+      "hugging face ← experience with anthropic"
     ],
     "missing_skills": [
       "databricks",
@@ -5598,8 +5589,8 @@
     ],
     "transferable_matches": [
       "agno ← experience with hermes agent",
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock",
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore",
       "guardrails ← experience with pydantic v2"
     ],
     "missing_skills": [
@@ -5647,11 +5638,11 @@
       "tool calling"
     ],
     "transferable_matches": [
-      "gcp ← experience with bedrock",
+      "gcp ← experience with agentcore",
       "prompt templates ← experience with pydantic v2",
-      "sglang ← experience with openai",
-      "tensorrt-llm ← experience with openai",
-      "vllm ← experience with openai"
+      "sglang ← experience with anthropic",
+      "tensorrt-llm ← experience with anthropic",
+      "vllm ← experience with anthropic"
     ],
     "missing_skills": [
       "go",
@@ -5833,7 +5824,7 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
+      "azure ← experience with agentcore",
       "logging ← experience with observability"
     ],
     "missing_skills": [
@@ -5857,6 +5848,55 @@
       "remote": 55,
       "freshness": 90,
       "experience": 100,
+      "response": 50,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 78,
+    "priority": "🟡 GOOD MATCH",
+    "title": "Senior Data Engineer - Real time analytics",
+    "company": "Aircall",
+    "source": "arbeitnow",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/aircall/senior-data-engineer-real-time-analytics-london-office-382266",
+    "posted_at": "2026-08-22T09:25:04+00:00",
+    "remote": false,
+    "location": "London Office",
+    "salary": null,
+    "technical_matches": [
+      "aws",
+      "python"
+    ],
+    "transferable_matches": [
+      "eks ← experience with agentcore",
+      "guidance ← experience with pydantic v2",
+      "s3 ← experience with agentcore",
+      "together ai ← experience with anthropic",
+      "unstructured ← experience with langchain"
+    ],
+    "missing_skills": [
+      "airflow",
+      "go",
+      "kafka",
+      "rust",
+      "sql",
+      "typescript"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "5+ years required",
+    "location_eligible": true,
+    "location_confidence": "low",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at Aircall with strong overlap in python, aws, unstructured, together ai.",
+    "recommended_action": "REVIEW_AND_APPLY",
+    "response_probability": "UNKNOWN",
+    "url_status": "ok",
+    "score_breakdown": {
+      "technical": 80,
+      "role": 84,
+      "remote": 55,
+      "freshness": 100,
+      "experience": 95,
       "response": 50,
       "compensation": 50
     }
@@ -5928,9 +5968,9 @@
     ],
     "transferable_matches": [
       "agno ← experience with hermes agent",
-      "azure ← experience with bedrock",
+      "azure ← experience with agentcore",
       "datadog ← experience with observability",
-      "gcp ← experience with bedrock",
+      "gcp ← experience with agentcore",
       "grafana ← experience with observability",
       "metrics ← experience with observability",
       "opentelemetry ← experience with observability",
@@ -5984,8 +6024,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock",
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore",
       "metrics ← experience with observability",
       "otel ← experience with observability"
     ],
@@ -6076,10 +6116,10 @@
     "transferable_matches": [
       "agno ← experience with hermes agent",
       "arize ← experience with llm evaluation",
-      "azure ← experience with bedrock",
+      "azure ← experience with agentcore",
       "datadog ← experience with observability",
       "elasticsearch ← experience with qdrant",
-      "gcp ← experience with bedrock",
+      "gcp ← experience with agentcore",
       "grafana ← experience with observability",
       "logging ← experience with observability",
       "metrics ← experience with observability",
@@ -6129,10 +6169,10 @@
     ],
     "transferable_matches": [
       "agno ← experience with hermes agent",
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock",
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore",
       "guidance ← experience with pydantic v2",
-      "s3 ← experience with bedrock"
+      "s3 ← experience with agentcore"
     ],
     "missing_skills": [
       "databricks",
@@ -6184,10 +6224,10 @@
     ],
     "transferable_matches": [
       "agno ← experience with hermes agent",
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock",
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore",
       "guidance ← experience with pydantic v2",
-      "s3 ← experience with bedrock"
+      "s3 ← experience with agentcore"
     ],
     "missing_skills": [
       "databricks",
@@ -6239,10 +6279,10 @@
     ],
     "transferable_matches": [
       "agno ← experience with hermes agent",
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock",
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore",
       "guidance ← experience with pydantic v2",
-      "s3 ← experience with bedrock"
+      "s3 ← experience with agentcore"
     ],
     "missing_skills": [
       "databricks",
@@ -6294,10 +6334,10 @@
     ],
     "transferable_matches": [
       "agno ← experience with hermes agent",
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock",
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore",
       "guidance ← experience with pydantic v2",
-      "s3 ← experience with bedrock"
+      "s3 ← experience with agentcore"
     ],
     "missing_skills": [
       "databricks",
@@ -6350,9 +6390,9 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
+      "azure ← experience with agentcore",
       "datadog ← experience with observability",
-      "gcp ← experience with bedrock",
+      "gcp ← experience with agentcore",
       "grafana ← experience with observability",
       "logging ← experience with observability",
       "metrics ← experience with observability",
@@ -6376,7 +6416,7 @@
     "reason": "Recently posted role at scaleai with strong overlap in multi-agent systems, observability, python, tracing, grafana.",
     "recommended_action": "REVIEW_AND_APPLY",
     "response_probability": "HIGH",
-    "url_status": "unknown",
+    "url_status": "ok",
     "score_breakdown": {
       "technical": 100,
       "role": 79,
@@ -6406,8 +6446,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock",
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore",
       "prompt engineering ← experience with pydantic v2"
     ],
     "missing_skills": [
@@ -6450,8 +6490,8 @@
     ],
     "transferable_matches": [
       "agno ← experience with hermes agent",
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock",
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore",
       "logging ← experience with observability",
       "metrics ← experience with observability",
       "tracing ← experience with observability"
@@ -6502,7 +6542,7 @@
       "retrieval augmented generation"
     ],
     "transferable_matches": [
-      "sagemaker ← experience with bedrock"
+      "sagemaker ← experience with agentcore"
     ],
     "missing_skills": [
       "databricks",
@@ -6551,7 +6591,7 @@
       "retrieval augmented generation"
     ],
     "transferable_matches": [
-      "sagemaker ← experience with bedrock"
+      "sagemaker ← experience with agentcore"
     ],
     "missing_skills": [
       "databricks",
@@ -6693,7 +6733,7 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
+      "azure ← experience with agentcore",
       "otel ← experience with observability"
     ],
     "missing_skills": [
@@ -6740,7 +6780,7 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
+      "azure ← experience with agentcore",
       "otel ← experience with observability"
     ],
     "missing_skills": [
@@ -6786,8 +6826,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore"
     ],
     "missing_skills": [
       "databricks",
@@ -6837,7 +6877,7 @@
       "faiss ← experience with qdrant",
       "metrics ← experience with observability",
       "opensearch ← experience with qdrant",
-      "unstructured ← experience with llamaindex"
+      "unstructured ← experience with langchain"
     ],
     "missing_skills": [
       "agentic rag",
@@ -6908,7 +6948,7 @@
       "evals ← experience with llm evaluation",
       "metrics ← experience with observability",
       "prompt engineering ← experience with pydantic v2",
-      "together ai ← experience with openai"
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "java",
@@ -6970,7 +7010,7 @@
     "reason": "Recently posted role at scaleai with strong overlap in agentic ai, ai agents, agent orchestration, agent evaluation, traces.",
     "recommended_action": "REVIEW_AND_APPLY",
     "response_probability": "HIGH",
-    "url_status": "unknown",
+    "url_status": "ok",
     "score_breakdown": {
       "technical": 80,
       "role": 100,
@@ -6999,7 +7039,7 @@
       "rag"
     ],
     "transferable_matches": [
-      "sagemaker ← experience with bedrock"
+      "sagemaker ← experience with agentcore"
     ],
     "missing_skills": [],
     "hard_requirements_missing": [],
@@ -7039,7 +7079,7 @@
       "rag"
     ],
     "transferable_matches": [
-      "sagemaker ← experience with bedrock"
+      "sagemaker ← experience with agentcore"
     ],
     "missing_skills": [],
     "hard_requirements_missing": [],
@@ -7079,7 +7119,7 @@
       "rag"
     ],
     "transferable_matches": [
-      "sagemaker ← experience with bedrock"
+      "sagemaker ← experience with agentcore"
     ],
     "missing_skills": [],
     "hard_requirements_missing": [],
@@ -7119,7 +7159,7 @@
       "rag"
     ],
     "transferable_matches": [
-      "sagemaker ← experience with bedrock"
+      "sagemaker ← experience with agentcore"
     ],
     "missing_skills": [],
     "hard_requirements_missing": [],
@@ -7159,7 +7199,7 @@
       "rag"
     ],
     "transferable_matches": [
-      "sagemaker ← experience with bedrock"
+      "sagemaker ← experience with agentcore"
     ],
     "missing_skills": [],
     "hard_requirements_missing": [],
@@ -7199,7 +7239,7 @@
       "rag"
     ],
     "transferable_matches": [
-      "sagemaker ← experience with bedrock"
+      "sagemaker ← experience with agentcore"
     ],
     "missing_skills": [],
     "hard_requirements_missing": [],
@@ -7239,7 +7279,7 @@
       "rag"
     ],
     "transferable_matches": [
-      "sagemaker ← experience with bedrock"
+      "sagemaker ← experience with agentcore"
     ],
     "missing_skills": [],
     "hard_requirements_missing": [],
@@ -7279,7 +7319,7 @@
       "rag"
     ],
     "transferable_matches": [
-      "sagemaker ← experience with bedrock"
+      "sagemaker ← experience with agentcore"
     ],
     "missing_skills": [],
     "hard_requirements_missing": [],
@@ -7319,7 +7359,7 @@
       "rag"
     ],
     "transferable_matches": [
-      "sagemaker ← experience with bedrock"
+      "sagemaker ← experience with agentcore"
     ],
     "missing_skills": [],
     "hard_requirements_missing": [],
@@ -7359,7 +7399,7 @@
       "rag"
     ],
     "transferable_matches": [
-      "sagemaker ← experience with bedrock"
+      "sagemaker ← experience with agentcore"
     ],
     "missing_skills": [],
     "hard_requirements_missing": [],
@@ -7399,7 +7439,7 @@
       "rag"
     ],
     "transferable_matches": [
-      "sagemaker ← experience with bedrock"
+      "sagemaker ← experience with agentcore"
     ],
     "missing_skills": [],
     "hard_requirements_missing": [],
@@ -7439,7 +7479,7 @@
       "rag"
     ],
     "transferable_matches": [
-      "sagemaker ← experience with bedrock"
+      "sagemaker ← experience with agentcore"
     ],
     "missing_skills": [],
     "hard_requirements_missing": [],
@@ -7479,7 +7519,7 @@
       "rag"
     ],
     "transferable_matches": [
-      "sagemaker ← experience with bedrock"
+      "sagemaker ← experience with agentcore"
     ],
     "missing_skills": [],
     "hard_requirements_missing": [],
@@ -7519,7 +7559,7 @@
       "rag"
     ],
     "transferable_matches": [
-      "sagemaker ← experience with bedrock"
+      "sagemaker ← experience with agentcore"
     ],
     "missing_skills": [],
     "hard_requirements_missing": [],
@@ -7559,7 +7599,7 @@
       "rag"
     ],
     "transferable_matches": [
-      "sagemaker ← experience with bedrock"
+      "sagemaker ← experience with agentcore"
     ],
     "missing_skills": [],
     "hard_requirements_missing": [],
@@ -7599,7 +7639,7 @@
       "rag"
     ],
     "transferable_matches": [
-      "sagemaker ← experience with bedrock"
+      "sagemaker ← experience with agentcore"
     ],
     "missing_skills": [],
     "hard_requirements_missing": [],
@@ -7639,7 +7679,7 @@
       "rag"
     ],
     "transferable_matches": [
-      "sagemaker ← experience with bedrock"
+      "sagemaker ← experience with agentcore"
     ],
     "missing_skills": [],
     "hard_requirements_missing": [],
@@ -7650,7 +7690,7 @@
     "reason": "Recently posted role at jobgether with strong overlap in agentic ai, rag, aws, sagemaker.",
     "recommended_action": "REVIEW_AND_APPLY",
     "response_probability": "HIGH",
-    "url_status": "unknown",
+    "url_status": "ok",
     "score_breakdown": {
       "technical": 70,
       "role": 40,
@@ -7679,7 +7719,7 @@
       "rag"
     ],
     "transferable_matches": [
-      "sagemaker ← experience with bedrock"
+      "sagemaker ← experience with agentcore"
     ],
     "missing_skills": [],
     "hard_requirements_missing": [],
@@ -7719,7 +7759,7 @@
       "rag"
     ],
     "transferable_matches": [
-      "sagemaker ← experience with bedrock"
+      "sagemaker ← experience with agentcore"
     ],
     "missing_skills": [],
     "hard_requirements_missing": [],
@@ -7759,7 +7799,7 @@
       "rag"
     ],
     "transferable_matches": [
-      "sagemaker ← experience with bedrock"
+      "sagemaker ← experience with agentcore"
     ],
     "missing_skills": [],
     "hard_requirements_missing": [],
@@ -7799,7 +7839,7 @@
       "rag"
     ],
     "transferable_matches": [
-      "sagemaker ← experience with bedrock"
+      "sagemaker ← experience with agentcore"
     ],
     "missing_skills": [],
     "hard_requirements_missing": [],
@@ -7839,7 +7879,7 @@
       "rag"
     ],
     "transferable_matches": [
-      "sagemaker ← experience with bedrock"
+      "sagemaker ← experience with agentcore"
     ],
     "missing_skills": [],
     "hard_requirements_missing": [],
@@ -7879,7 +7919,7 @@
       "rag"
     ],
     "transferable_matches": [
-      "sagemaker ← experience with bedrock"
+      "sagemaker ← experience with agentcore"
     ],
     "missing_skills": [],
     "hard_requirements_missing": [],
@@ -7919,7 +7959,7 @@
       "rag"
     ],
     "transferable_matches": [
-      "sagemaker ← experience with bedrock"
+      "sagemaker ← experience with agentcore"
     ],
     "missing_skills": [],
     "hard_requirements_missing": [],
@@ -7959,7 +7999,7 @@
       "rag"
     ],
     "transferable_matches": [
-      "sagemaker ← experience with bedrock"
+      "sagemaker ← experience with agentcore"
     ],
     "missing_skills": [],
     "hard_requirements_missing": [],
@@ -7999,7 +8039,7 @@
       "rag"
     ],
     "transferable_matches": [
-      "sagemaker ← experience with bedrock"
+      "sagemaker ← experience with agentcore"
     ],
     "missing_skills": [],
     "hard_requirements_missing": [],
@@ -8039,7 +8079,7 @@
       "rag"
     ],
     "transferable_matches": [
-      "sagemaker ← experience with bedrock"
+      "sagemaker ← experience with agentcore"
     ],
     "missing_skills": [],
     "hard_requirements_missing": [],
@@ -8079,7 +8119,7 @@
       "rag"
     ],
     "transferable_matches": [
-      "sagemaker ← experience with bedrock"
+      "sagemaker ← experience with agentcore"
     ],
     "missing_skills": [],
     "hard_requirements_missing": [],
@@ -8119,7 +8159,7 @@
       "rag"
     ],
     "transferable_matches": [
-      "sagemaker ← experience with bedrock"
+      "sagemaker ← experience with agentcore"
     ],
     "missing_skills": [],
     "hard_requirements_missing": [],
@@ -8159,7 +8199,7 @@
       "rag"
     ],
     "transferable_matches": [
-      "sagemaker ← experience with bedrock"
+      "sagemaker ← experience with agentcore"
     ],
     "missing_skills": [],
     "hard_requirements_missing": [],
@@ -8199,7 +8239,7 @@
       "rag"
     ],
     "transferable_matches": [
-      "sagemaker ← experience with bedrock"
+      "sagemaker ← experience with agentcore"
     ],
     "missing_skills": [],
     "hard_requirements_missing": [],
@@ -8239,7 +8279,7 @@
       "rag"
     ],
     "transferable_matches": [
-      "sagemaker ← experience with bedrock"
+      "sagemaker ← experience with agentcore"
     ],
     "missing_skills": [],
     "hard_requirements_missing": [],
@@ -8279,7 +8319,7 @@
       "rag"
     ],
     "transferable_matches": [
-      "sagemaker ← experience with bedrock"
+      "sagemaker ← experience with agentcore"
     ],
     "missing_skills": [],
     "hard_requirements_missing": [],
@@ -8319,7 +8359,7 @@
       "rag"
     ],
     "transferable_matches": [
-      "sagemaker ← experience with bedrock"
+      "sagemaker ← experience with agentcore"
     ],
     "missing_skills": [],
     "hard_requirements_missing": [],
@@ -8359,7 +8399,7 @@
       "rag"
     ],
     "transferable_matches": [
-      "sagemaker ← experience with bedrock"
+      "sagemaker ← experience with agentcore"
     ],
     "missing_skills": [],
     "hard_requirements_missing": [],
@@ -8399,7 +8439,7 @@
       "rag"
     ],
     "transferable_matches": [
-      "sagemaker ← experience with bedrock"
+      "sagemaker ← experience with agentcore"
     ],
     "missing_skills": [],
     "hard_requirements_missing": [],
@@ -8437,8 +8477,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "google cloud ← experience with bedrock",
+      "azure ← experience with agentcore",
+      "google cloud ← experience with agentcore",
       "instructor ← experience with pydantic v2"
     ],
     "missing_skills": [
@@ -8482,8 +8522,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "google cloud ← experience with bedrock",
+      "azure ← experience with agentcore",
+      "google cloud ← experience with agentcore",
       "instructor ← experience with pydantic v2"
     ],
     "missing_skills": [
@@ -8529,8 +8569,8 @@
       "observability"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock",
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore",
       "instructor ← experience with pydantic v2"
     ],
     "missing_skills": [
@@ -8672,7 +8712,7 @@
       "python"
     ],
     "transferable_matches": [
-      "gemini ← experience with openai",
+      "gemini ← experience with anthropic",
       "guidance ← experience with pydantic v2",
       "logging ← experience with observability",
       "metrics ← experience with observability",
@@ -9042,7 +9082,7 @@
       "guidance ← experience with pydantic v2",
       "metrics ← experience with observability",
       "otel ← experience with observability",
-      "together ai ← experience with openai"
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "distributed systems",
@@ -9090,9 +9130,9 @@
       "docker"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock",
-      "google cloud ← experience with bedrock"
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore",
+      "google cloud ← experience with agentcore"
     ],
     "missing_skills": [
       "kubernetes",
@@ -9134,8 +9174,8 @@
       "aws"
     ],
     "transferable_matches": [
-      "gcp ← experience with bedrock",
-      "google cloud ← experience with bedrock"
+      "gcp ← experience with agentcore",
+      "google cloud ← experience with agentcore"
     ],
     "missing_skills": [
       "document ai",
@@ -9178,8 +9218,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore"
     ],
     "missing_skills": [
       "go",
@@ -9223,8 +9263,8 @@
       "docker"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock",
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore",
       "metrics ← experience with observability"
     ],
     "missing_skills": [
@@ -9294,7 +9334,7 @@
     "reason": "Recently posted role at cloudflare with strong overlap in observability, docker, grafana, prometheus.",
     "recommended_action": "REVIEW_AND_APPLY",
     "response_probability": "HIGH",
-    "url_status": "unknown",
+    "url_status": "ok",
     "score_breakdown": {
       "technical": 70,
       "role": 91,
@@ -9322,7 +9362,7 @@
       "python"
     ],
     "transferable_matches": [
-      "google cloud ← experience with bedrock"
+      "google cloud ← experience with agentcore"
     ],
     "missing_skills": [
       "distributed systems",
@@ -9368,8 +9408,8 @@
     ],
     "transferable_matches": [
       "agno ← experience with hermes agent",
-      "azure ← experience with bedrock",
-      "google cloud ← experience with bedrock",
+      "azure ← experience with agentcore",
+      "google cloud ← experience with agentcore",
       "otel ← experience with observability"
     ],
     "missing_skills": [
@@ -9417,12 +9457,12 @@
       "aws"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "cohere ← experience with openai",
-      "gcp ← experience with bedrock",
-      "hugging face ← experience with openai",
+      "azure ← experience with agentcore",
+      "cohere ← experience with anthropic",
+      "gcp ← experience with agentcore",
+      "hugging face ← experience with anthropic",
       "otel ← experience with observability",
-      "together ai ← experience with openai"
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "go",
@@ -9467,7 +9507,7 @@
     ],
     "transferable_matches": [
       "agent development kit ← experience with hermes agent",
-      "google cloud ← experience with bedrock",
+      "google cloud ← experience with agentcore",
       "guardrails ← experience with pydantic v2",
       "tracing ← experience with observability"
     ],
@@ -9515,7 +9555,7 @@
       "arize ← experience with llm evaluation",
       "guidance ← experience with pydantic v2",
       "metrics ← experience with observability",
-      "together ai ← experience with openai"
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "api integration",
@@ -9561,7 +9601,7 @@
       "python"
     ],
     "transferable_matches": [
-      "gcp ← experience with bedrock",
+      "gcp ← experience with agentcore",
       "metrics ← experience with observability",
       "otel ← experience with observability"
     ],
@@ -9789,7 +9829,7 @@
       "guardrails ← experience with pydantic v2",
       "guidance ← experience with pydantic v2",
       "otel ← experience with observability",
-      "together ai ← experience with openai"
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "go",
@@ -9836,7 +9876,7 @@
       "guardrails ← experience with pydantic v2",
       "guidance ← experience with pydantic v2",
       "otel ← experience with observability",
-      "together ai ← experience with openai"
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "go",
@@ -9880,10 +9920,10 @@
       "docker"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock",
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore",
       "guidance ← experience with pydantic v2",
-      "together ai ← experience with openai"
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "kubernetes",
@@ -9970,7 +10010,7 @@
       "python"
     ],
     "transferable_matches": [
-      "cloudwatch ← experience with bedrock"
+      "cloudwatch ← experience with observability"
     ],
     "missing_skills": [
       "databricks",
@@ -10017,8 +10057,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore"
     ],
     "missing_skills": [
       "databricks",
@@ -10166,8 +10206,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock",
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore",
       "metrics ← experience with observability"
     ],
     "missing_skills": [
@@ -10248,56 +10288,6 @@
     }
   },
   {
-    "score": 74,
-    "priority": "⚪ REVIEW",
-    "title": "Expert Backend Engineer",
-    "company": "wizinc",
-    "source": "arbeitnow",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/wizinc/expert-backend-engineer-london-462220",
-    "posted_at": "2026-08-20T21:55:59+00:00",
-    "remote": false,
-    "location": "London",
-    "salary": null,
-    "technical_matches": [
-      "aws",
-      "ci/cd",
-      "docker",
-      "postgresql"
-    ],
-    "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
-    ],
-    "missing_skills": [
-      "c#",
-      "golang",
-      "graphql",
-      "java",
-      "kubernetes",
-      "microservices",
-      "postgres",
-      "rust"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "6+ years required",
-    "location_eligible": true,
-    "location_confidence": "low",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at wizinc with strong overlap in postgresql, docker, ci/cd, azure, gcp.",
-    "recommended_action": "SKIP",
-    "response_probability": "UNKNOWN",
-    "url_status": "not_checked",
-    "score_breakdown": {
-      "technical": 80,
-      "role": 100,
-      "remote": 55,
-      "freshness": 75,
-      "experience": 70,
-      "response": 50,
-      "compensation": 50
-    }
-  },
-  {
     "score": 73,
     "priority": "⚪ REVIEW",
     "title": "Senior Software Engineer, Cloud Networking",
@@ -10314,7 +10304,7 @@
       "python"
     ],
     "transferable_matches": [
-      "eks ← experience with bedrock",
+      "eks ← experience with agentcore",
       "guardrails ← experience with pydantic v2",
       "metrics ← experience with observability"
     ],
@@ -10988,50 +10978,6 @@
   {
     "score": 73,
     "priority": "⚪ REVIEW",
-    "title": "Senior Software Engineer - Observability",
-    "company": "databricks",
-    "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7619811002",
-    "posted_at": "2026-08-22T00:40:30-04:00",
-    "remote": false,
-    "location": "Bengaluru, India",
-    "salary": null,
-    "technical_matches": [
-      "observability",
-      "python"
-    ],
-    "transferable_matches": [
-      "logging ← experience with observability",
-      "metrics ← experience with observability",
-      "tracing ← experience with observability"
-    ],
-    "missing_skills": [
-      "databricks",
-      "distributed systems",
-      "java"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "5+ years required",
-    "location_eligible": true,
-    "location_confidence": "low",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at databricks with strong overlap in observability, python, tracing, logging.",
-    "recommended_action": "SKIP",
-    "response_probability": "MEDIUM",
-    "url_status": "not_checked",
-    "score_breakdown": {
-      "technical": 60,
-      "role": 92,
-      "remote": 55,
-      "freshness": 100,
-      "experience": 95,
-      "response": 60,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 73,
-    "priority": "⚪ REVIEW",
     "title": "Senior Specialist Solutions Architect (AI/ML)",
     "company": "databricks",
     "source": "greenhouse",
@@ -11049,10 +10995,10 @@
       "tool calling"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock",
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore",
       "guardrails ← experience with pydantic v2",
-      "hugging face ← experience with openai"
+      "hugging face ← experience with anthropic"
     ],
     "missing_skills": [
       "databricks",
@@ -11099,7 +11045,7 @@
       "elasticsearch ← experience with qdrant",
       "guardrails ← experience with pydantic v2",
       "metrics ← experience with observability",
-      "unstructured ← experience with llamaindex"
+      "unstructured ← experience with langchain"
     ],
     "missing_skills": [
       "databricks",
@@ -11147,9 +11093,9 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "sagemaker ← experience with bedrock",
-      "vertex ai ← experience with openai"
+      "azure ← experience with agentcore",
+      "sagemaker ← experience with agentcore",
+      "vertex ai ← experience with anthropic"
     ],
     "missing_skills": [
       "agent framework",
@@ -11197,8 +11143,8 @@
     ],
     "transferable_matches": [
       "agno ← experience with hermes agent",
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock",
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore",
       "guardrails ← experience with pydantic v2"
     ],
     "missing_skills": [
@@ -11245,15 +11191,15 @@
       "openai"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gemini ← experience with openai",
-      "gpt ← experience with openai",
-      "llama ← experience with openai",
-      "qwen ← experience with openai",
-      "sagemaker ← experience with bedrock",
-      "sglang ← experience with openai",
-      "vertex ai ← experience with openai",
-      "vllm ← experience with openai"
+      "azure ← experience with agentcore",
+      "gemini ← experience with anthropic",
+      "gpt ← experience with anthropic",
+      "llama ← experience with anthropic",
+      "qwen ← experience with anthropic",
+      "sagemaker ← experience with agentcore",
+      "sglang ← experience with anthropic",
+      "vertex ai ← experience with anthropic",
+      "vllm ← experience with anthropic"
     ],
     "missing_skills": [
       "databricks",
@@ -11301,7 +11247,7 @@
       "elasticsearch ← experience with qdrant",
       "guardrails ← experience with pydantic v2",
       "metrics ← experience with observability",
-      "unstructured ← experience with llamaindex"
+      "unstructured ← experience with langchain"
     ],
     "missing_skills": [
       "databricks",
@@ -11349,7 +11295,7 @@
       "retrieval augmented generation"
     ],
     "transferable_matches": [
-      "unstructured ← experience with llamaindex"
+      "unstructured ← experience with langchain"
     ],
     "missing_skills": [
       "java",
@@ -11392,8 +11338,8 @@
       "observability"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock",
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore",
       "instructor ← experience with pydantic v2"
     ],
     "missing_skills": [
@@ -11438,8 +11384,8 @@
       "supervisor"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock",
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore",
       "otel ← experience with observability"
     ],
     "missing_skills": [
@@ -11494,8 +11440,8 @@
       "ci/cd"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock",
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore",
       "otel ← experience with observability",
       "prompt engineering ← experience with pydantic v2"
     ],
@@ -11544,8 +11490,8 @@
       "ci/cd"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock",
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore",
       "otel ← experience with observability",
       "prompt engineering ← experience with pydantic v2"
     ],
@@ -11598,7 +11544,7 @@
     ],
     "transferable_matches": [
       "metrics ← experience with observability",
-      "together ai ← experience with openai"
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "agent workflows",
@@ -11742,7 +11688,7 @@
       "arize ← experience with llm evaluation",
       "metrics ← experience with observability",
       "offline evaluation ← experience with llm evaluation",
-      "transformers ← experience with openai"
+      "transformers ← experience with anthropic"
     ],
     "missing_skills": [
       "embedding",
@@ -12102,46 +12048,43 @@
   {
     "score": 72,
     "priority": "⚪ REVIEW",
-    "title": "Senior Forward Deployed Engineer",
+    "title": "Senior Software Engineer - Observability",
     "company": "databricks",
     "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8629999002",
-    "posted_at": "2026-08-21T07:16:29-04:00",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7619811002",
+    "posted_at": "2026-08-22T00:40:30-04:00",
     "remote": false,
     "location": "Bengaluru, India",
     "salary": null,
     "technical_matches": [
-      "aws",
-      "ci/cd",
+      "observability",
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
+      "logging ← experience with observability",
+      "metrics ← experience with observability",
+      "tracing ← experience with observability"
     ],
     "missing_skills": [
       "databricks",
-      "document ai",
-      "java",
-      "javascript",
-      "spark",
-      "typescript"
+      "distributed systems",
+      "java"
     ],
     "hard_requirements_missing": [],
-    "experience_required": "6+ years required",
+    "experience_required": "5+ years required",
     "location_eligible": true,
     "location_confidence": "low",
     "freshness_confidence": "known",
-    "reason": "Recently posted role at databricks with strong overlap in python, ci/cd, aws, azure, gcp.",
+    "reason": "Recently posted role at databricks with strong overlap in observability, python, tracing, logging.",
     "recommended_action": "SKIP",
     "response_probability": "MEDIUM",
     "url_status": "not_checked",
     "score_breakdown": {
-      "technical": 65,
-      "role": 100,
+      "technical": 60,
+      "role": 92,
       "remote": 55,
       "freshness": 90,
-      "experience": 70,
+      "experience": 95,
       "response": 60,
       "compensation": 50
     }
@@ -12163,8 +12106,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore"
     ],
     "missing_skills": [
       "databricks",
@@ -12210,8 +12153,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore"
     ],
     "missing_skills": [
       "databricks",
@@ -12257,8 +12200,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore"
     ],
     "missing_skills": [
       "databricks",
@@ -12304,8 +12247,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore"
     ],
     "missing_skills": [
       "databricks",
@@ -12351,8 +12294,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore"
     ],
     "missing_skills": [
       "databricks",
@@ -12402,8 +12345,8 @@
     ],
     "transferable_matches": [
       "agno ← experience with hermes agent",
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore"
     ],
     "missing_skills": [
       "databricks",
@@ -13168,7 +13111,7 @@
     ],
     "transferable_matches": [
       "arize ← experience with llm evaluation",
-      "gcp ← experience with bedrock"
+      "gcp ← experience with agentcore"
     ],
     "missing_skills": [
       "go",
@@ -13217,7 +13160,7 @@
     ],
     "transferable_matches": [
       "arize ← experience with llm evaluation",
-      "gcp ← experience with bedrock"
+      "gcp ← experience with agentcore"
     ],
     "missing_skills": [
       "bigquery",
@@ -13578,9 +13521,9 @@
       "docker"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock",
-      "together ai ← experience with openai"
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore",
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "databricks",
@@ -13625,8 +13568,8 @@
       "rag"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore"
     ],
     "missing_skills": [
       "databricks",
@@ -13671,9 +13614,9 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "sagemaker ← experience with bedrock",
-      "vertex ai ← experience with openai"
+      "azure ← experience with agentcore",
+      "sagemaker ← experience with agentcore",
+      "vertex ai ← experience with anthropic"
     ],
     "missing_skills": [
       "agent framework",
@@ -13806,9 +13749,9 @@
       "aws"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
+      "azure ← experience with agentcore",
       "datadog ← experience with observability",
-      "gcp ← experience with bedrock",
+      "gcp ← experience with agentcore",
       "instructor ← experience with pydantic v2",
       "metrics ← experience with observability"
     ],
@@ -13856,7 +13799,7 @@
     ],
     "transferable_matches": [
       "metrics ← experience with observability",
-      "together ai ← experience with openai"
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "computer vision",
@@ -13903,7 +13846,7 @@
       "instructor ← experience with pydantic v2",
       "metrics ← experience with observability",
       "prompt engineering ← experience with pydantic v2",
-      "together ai ← experience with openai"
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "go",
@@ -13945,9 +13888,9 @@
       "openai"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock",
-      "gemini ← experience with openai",
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore",
+      "gemini ← experience with anthropic",
       "guidance ← experience with pydantic v2"
     ],
     "missing_skills": [
@@ -14133,9 +14076,9 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock",
-      "unstructured ← experience with llamaindex"
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore",
+      "unstructured ← experience with langchain"
     ],
     "missing_skills": [
       "autonomous agents",
@@ -14182,7 +14125,7 @@
       "python"
     ],
     "transferable_matches": [
-      "gcp ← experience with bedrock"
+      "gcp ← experience with agentcore"
     ],
     "missing_skills": [
       "kubernetes",
@@ -14225,7 +14168,7 @@
     ],
     "transferable_matches": [
       "evals ← experience with llm evaluation",
-      "gemini ← experience with openai",
+      "gemini ← experience with anthropic",
       "guardrails ← experience with pydantic v2",
       "prompt engineering ← experience with pydantic v2"
     ],
@@ -14546,7 +14489,7 @@
     ],
     "transferable_matches": [
       "agno ← experience with hermes agent",
-      "gemini ← experience with openai",
+      "gemini ← experience with anthropic",
       "metrics ← experience with observability"
     ],
     "missing_skills": [
@@ -14639,8 +14582,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore"
     ],
     "missing_skills": [
       "databricks",
@@ -14686,8 +14629,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore"
     ],
     "missing_skills": [
       "databricks",
@@ -14719,6 +14662,53 @@
   {
     "score": 70,
     "priority": "⚪ REVIEW",
+    "title": "Senior Forward Deployed Engineer",
+    "company": "databricks",
+    "source": "greenhouse",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8629999002",
+    "posted_at": "2026-08-21T07:16:29-04:00",
+    "remote": false,
+    "location": "Bengaluru, India",
+    "salary": null,
+    "technical_matches": [
+      "aws",
+      "ci/cd",
+      "python"
+    ],
+    "transferable_matches": [
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore"
+    ],
+    "missing_skills": [
+      "databricks",
+      "document ai",
+      "java",
+      "javascript",
+      "spark",
+      "typescript"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "6+ years required",
+    "location_eligible": true,
+    "location_confidence": "low",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at databricks with strong overlap in python, ci/cd, aws, azure, gcp.",
+    "recommended_action": "SKIP",
+    "response_probability": "MEDIUM",
+    "url_status": "not_checked",
+    "score_breakdown": {
+      "technical": 65,
+      "role": 100,
+      "remote": 55,
+      "freshness": 75,
+      "experience": 70,
+      "response": 60,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 70,
+    "priority": "⚪ REVIEW",
     "title": "Senior Forward Deployed Engineer - Full stack",
     "company": "databricks",
     "source": "greenhouse",
@@ -14733,8 +14723,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore"
     ],
     "missing_skills": [
       "databricks",
@@ -14780,8 +14770,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore"
     ],
     "missing_skills": [
       "databricks",
@@ -14827,8 +14817,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore"
     ],
     "missing_skills": [
       "databricks",
@@ -14873,9 +14863,9 @@
       "ci/cd"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "dify ← experience with llamaindex",
-      "gcp ← experience with bedrock",
+      "azure ← experience with agentcore",
+      "dify ← experience with langchain",
+      "gcp ← experience with agentcore",
       "guardrails ← experience with pydantic v2",
       "logging ← experience with observability"
     ],
@@ -14919,8 +14909,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore"
     ],
     "missing_skills": [
       "databricks",
@@ -15016,8 +15006,8 @@
       "docker"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock",
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore",
       "metrics ← experience with observability"
     ],
     "missing_skills": [
@@ -15065,8 +15055,8 @@
     ],
     "transferable_matches": [
       "agno ← experience with hermes agent",
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock",
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore",
       "guardrails ← experience with pydantic v2"
     ],
     "missing_skills": [
@@ -15163,8 +15153,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore"
     ],
     "missing_skills": [
       "document ai",
@@ -15252,7 +15242,7 @@
       "aws"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
+      "azure ← experience with agentcore",
       "elasticsearch ← experience with qdrant",
       "guidance ← experience with pydantic v2"
     ],
@@ -15499,8 +15489,8 @@
       "ci/cd"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock",
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore",
       "guidance ← experience with pydantic v2"
     ],
     "missing_skills": [
@@ -15549,7 +15539,7 @@
       "postgresql"
     ],
     "transferable_matches": [
-      "gcp ← experience with bedrock",
+      "gcp ← experience with agentcore",
       "otel ← experience with observability"
     ],
     "missing_skills": [
@@ -15592,8 +15582,8 @@
       "postgresql"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock",
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore",
       "metrics ← experience with observability",
       "tracing ← experience with observability"
     ],
@@ -16065,8 +16055,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore"
     ],
     "missing_skills": [
       "databricks",
@@ -16111,12 +16101,12 @@
       "openai"
     ],
     "transferable_matches": [
-      "gpt ← experience with openai",
+      "gpt ← experience with anthropic",
       "guidance ← experience with pydantic v2",
-      "llama ← experience with openai",
-      "qwen ← experience with openai",
-      "sglang ← experience with openai",
-      "vllm ← experience with openai"
+      "llama ← experience with anthropic",
+      "qwen ← experience with anthropic",
+      "sglang ← experience with anthropic",
+      "vllm ← experience with anthropic"
     ],
     "missing_skills": [
       "databricks",
@@ -16158,9 +16148,9 @@
       "docker"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock",
-      "together ai ← experience with openai"
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore",
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "databricks",
@@ -16204,8 +16194,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore"
     ],
     "missing_skills": [
       "kubernetes",
@@ -16296,8 +16286,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "google cloud ← experience with bedrock",
+      "azure ← experience with agentcore",
+      "google cloud ← experience with agentcore",
       "instructor ← experience with pydantic v2"
     ],
     "missing_skills": [
@@ -16341,8 +16331,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "google cloud ← experience with bedrock",
+      "azure ← experience with agentcore",
+      "google cloud ← experience with agentcore",
       "instructor ← experience with pydantic v2"
     ],
     "missing_skills": [
@@ -16386,8 +16376,8 @@
       "ci/cd"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock",
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore",
       "guardrails ← experience with pydantic v2",
       "guidance ← experience with pydantic v2",
       "instructor ← experience with pydantic v2"
@@ -16433,7 +16423,7 @@
     ],
     "transferable_matches": [
       "agno ← experience with hermes agent",
-      "together ai ← experience with openai"
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "rust",
@@ -16476,8 +16466,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore"
     ],
     "missing_skills": [
       "document ai",
@@ -16523,7 +16513,7 @@
       "openai"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
+      "azure ← experience with agentcore",
       "datadog ← experience with observability",
       "otel ← experience with observability"
     ],
@@ -17292,7 +17282,7 @@
       "ci/cd"
     ],
     "transferable_matches": [
-      "together ai ← experience with openai"
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "document ai",
@@ -17335,8 +17325,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock",
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore",
       "metrics ← experience with observability"
     ],
     "missing_skills": [
@@ -17386,8 +17376,8 @@
     ],
     "transferable_matches": [
       "agno ← experience with hermes agent",
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore"
     ],
     "missing_skills": [
       "databricks",
@@ -17432,8 +17422,8 @@
     ],
     "transferable_matches": [
       "agno ← experience with hermes agent",
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore"
     ],
     "missing_skills": [
       "databricks",
@@ -17478,8 +17468,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore"
     ],
     "missing_skills": [
       "c#",
@@ -17529,8 +17519,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore"
     ],
     "missing_skills": [
       "c#",
@@ -17579,8 +17569,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore"
     ],
     "missing_skills": [
       "databricks",
@@ -17624,8 +17614,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore"
     ],
     "missing_skills": [
       "databricks",
@@ -17669,8 +17659,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore"
     ],
     "missing_skills": [
       "databricks",
@@ -17718,8 +17708,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock",
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore",
       "metrics ← experience with observability"
     ],
     "missing_skills": [
@@ -17770,8 +17760,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock",
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore",
       "metrics ← experience with observability"
     ],
     "missing_skills": [
@@ -17821,8 +17811,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock",
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore",
       "metrics ← experience with observability"
     ],
     "missing_skills": [
@@ -17872,10 +17862,10 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock",
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore",
       "guidance ← experience with pydantic v2",
-      "together ai ← experience with openai"
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "api integration",
@@ -17917,8 +17907,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock",
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore",
       "guidance ← experience with pydantic v2"
     ],
     "missing_skills": [
@@ -18012,7 +18002,7 @@
       "observability"
     ],
     "transferable_matches": [
-      "gcp ← experience with bedrock"
+      "gcp ← experience with agentcore"
     ],
     "missing_skills": [
       "node.js",
@@ -18134,7 +18124,7 @@
     ],
     "transferable_matches": [
       "elasticsearch ← experience with qdrant",
-      "together ai ← experience with openai"
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "java",
@@ -18167,6 +18157,55 @@
   {
     "score": 68,
     "priority": "⚪ REVIEW",
+    "title": "Senior Golang Developer",
+    "company": "Lemon.io",
+    "source": "remotive",
+    "url": "https://remotive.com/remote-jobs/software-development/senior-golang-developer-2091098",
+    "posted_at": "2026-08-20T13:30:47",
+    "remote": true,
+    "location": "Europe, USA, UK, Canada, Australia, Singapore",
+    "salary": null,
+    "technical_matches": [
+      "python",
+      "supervisor"
+    ],
+    "transferable_matches": [
+      "otel ← experience with observability"
+    ],
+    "missing_skills": [
+      ".net",
+      "c#",
+      "go",
+      "golang",
+      "java",
+      "javascript",
+      "kubernetes",
+      "node.js",
+      "rust",
+      "typescript"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "5+ years required",
+    "location_eligible": true,
+    "location_confidence": "high",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at Lemon.io with strong overlap in supervisor, python, otel.",
+    "recommended_action": "SKIP",
+    "response_probability": "UNKNOWN",
+    "url_status": "not_checked",
+    "score_breakdown": {
+      "technical": 40,
+      "role": 85,
+      "remote": 100,
+      "freshness": 75,
+      "experience": 95,
+      "response": 50,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 68,
+    "priority": "⚪ REVIEW",
     "title": "Intermediate Software Engineer, Security Factory: Vulnerability Management",
     "company": "gitlab",
     "source": "arbeitnow",
@@ -18183,7 +18222,7 @@
       "elasticsearch ← experience with qdrant",
       "graph database ← experience with neo4j",
       "guidance ← experience with pydantic v2",
-      "together ai ← experience with openai"
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "java",
@@ -18227,11 +18266,11 @@
     ],
     "transferable_matches": [
       "a/b testing ← experience with llm evaluation",
-      "gemini ← experience with openai",
+      "gemini ← experience with anthropic",
       "logging ← experience with observability",
       "metrics ← experience with observability",
       "prompt engineering ← experience with pydantic v2",
-      "unstructured ← experience with llamaindex"
+      "unstructured ← experience with langchain"
     ],
     "missing_skills": [
       "lora",
@@ -18282,8 +18321,8 @@
       "benchmarking ← experience with llm evaluation",
       "guardrails ← experience with pydantic v2",
       "metrics ← experience with observability",
-      "transformers ← experience with openai",
-      "unstructured ← experience with llamaindex"
+      "transformers ← experience with anthropic",
+      "unstructured ← experience with langchain"
     ],
     "missing_skills": [
       "agentic rag",
@@ -18464,7 +18503,7 @@
     ],
     "transferable_matches": [
       "evals ← experience with llm evaluation",
-      "gcp ← experience with bedrock",
+      "gcp ← experience with agentcore",
       "logging ← experience with observability"
     ],
     "missing_skills": [
@@ -18596,10 +18635,10 @@
       "openai"
     ],
     "transferable_matches": [
-      "gemini ← experience with openai",
-      "gpt ← experience with openai",
-      "llama ← experience with openai",
-      "qwen ← experience with openai"
+      "gemini ← experience with anthropic",
+      "gpt ← experience with anthropic",
+      "llama ← experience with anthropic",
+      "qwen ← experience with anthropic"
     ],
     "missing_skills": [
       "databricks",
@@ -18641,8 +18680,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore"
     ],
     "missing_skills": [
       "databricks",
@@ -18688,8 +18727,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "google cloud ← experience with bedrock"
+      "azure ← experience with agentcore",
+      "google cloud ← experience with agentcore"
     ],
     "missing_skills": [
       "databricks",
@@ -18733,8 +18772,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore"
     ],
     "missing_skills": [
       "databricks",
@@ -18782,8 +18821,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore"
     ],
     "missing_skills": [
       "databricks",
@@ -18829,8 +18868,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore"
     ],
     "missing_skills": [
       "databricks",
@@ -18876,8 +18915,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore"
     ],
     "missing_skills": [
       "databricks",
@@ -18923,8 +18962,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore"
     ],
     "missing_skills": [
       "databricks",
@@ -18970,8 +19009,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore"
     ],
     "missing_skills": [
       "databricks",
@@ -19017,8 +19056,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore"
     ],
     "missing_skills": [
       "databricks",
@@ -19064,8 +19103,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore"
     ],
     "missing_skills": [
       "databricks",
@@ -19111,8 +19150,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore"
     ],
     "missing_skills": [
       "databricks",
@@ -19155,8 +19194,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore"
     ],
     "missing_skills": [
       "databricks",
@@ -19202,8 +19241,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore"
     ],
     "missing_skills": [
       "databricks",
@@ -19249,8 +19288,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore"
     ],
     "missing_skills": [
       "databricks",
@@ -19296,8 +19335,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore"
     ],
     "missing_skills": [
       "databricks",
@@ -19343,8 +19382,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore"
     ],
     "missing_skills": [
       "databricks",
@@ -19390,8 +19429,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore"
     ],
     "missing_skills": [
       "databricks",
@@ -19437,8 +19476,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore"
     ],
     "missing_skills": [
       "databricks",
@@ -19484,8 +19523,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore"
     ],
     "missing_skills": [
       "databricks",
@@ -19531,8 +19570,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore"
     ],
     "missing_skills": [
       "databricks",
@@ -19578,8 +19617,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore"
     ],
     "missing_skills": [
       "databricks",
@@ -19625,8 +19664,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore"
     ],
     "missing_skills": [
       "databricks",
@@ -19672,8 +19711,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore"
     ],
     "missing_skills": [
       "databricks",
@@ -19719,8 +19758,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore"
     ],
     "missing_skills": [
       "databricks",
@@ -19766,8 +19805,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore"
     ],
     "missing_skills": [
       "databricks",
@@ -19813,8 +19852,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore"
     ],
     "missing_skills": [
       "databricks",
@@ -19860,8 +19899,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore"
     ],
     "missing_skills": [
       "databricks",
@@ -19907,8 +19946,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore"
     ],
     "missing_skills": [
       "databricks",
@@ -19954,8 +19993,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore"
     ],
     "missing_skills": [
       "databricks",
@@ -20001,8 +20040,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore"
     ],
     "missing_skills": [
       "databricks",
@@ -20048,8 +20087,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore"
     ],
     "missing_skills": [
       "databricks",
@@ -20095,8 +20134,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore"
     ],
     "missing_skills": [
       "databricks",
@@ -20142,8 +20181,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore"
     ],
     "missing_skills": [
       "databricks",
@@ -20189,8 +20228,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore"
     ],
     "missing_skills": [
       "databricks",
@@ -20236,8 +20275,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore"
     ],
     "missing_skills": [
       "databricks",
@@ -20283,8 +20322,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore"
     ],
     "missing_skills": [
       "databricks",
@@ -20330,8 +20369,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore"
     ],
     "missing_skills": [
       "databricks",
@@ -20377,8 +20416,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore"
     ],
     "missing_skills": [
       "databricks",
@@ -20424,8 +20463,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore"
     ],
     "missing_skills": [
       "databricks",
@@ -20471,8 +20510,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore"
     ],
     "missing_skills": [
       "databricks",
@@ -20518,8 +20557,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore"
     ],
     "missing_skills": [
       "databricks",
@@ -20565,8 +20604,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore"
     ],
     "missing_skills": [
       "databricks",
@@ -20612,8 +20651,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore"
     ],
     "missing_skills": [
       "databricks",
@@ -20659,8 +20698,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore"
     ],
     "missing_skills": [
       "databricks",
@@ -20706,8 +20745,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore"
     ],
     "missing_skills": [
       "databricks",
@@ -20753,8 +20792,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore"
     ],
     "missing_skills": [
       "databricks",
@@ -20800,8 +20839,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore"
     ],
     "missing_skills": [
       "databricks",
@@ -20847,8 +20886,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore"
     ],
     "missing_skills": [
       "databricks",
@@ -20894,8 +20933,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore"
     ],
     "missing_skills": [
       "databricks",
@@ -20941,8 +20980,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore"
     ],
     "missing_skills": [
       "databricks",
@@ -20988,8 +21027,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore"
     ],
     "missing_skills": [
       "databricks",
@@ -21035,8 +21074,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore"
     ],
     "missing_skills": [
       "databricks",
@@ -21082,8 +21121,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore"
     ],
     "missing_skills": [
       "databricks",
@@ -21129,8 +21168,8 @@
       "mcp"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock",
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore",
       "guidance ← experience with pydantic v2"
     ],
     "missing_skills": [
@@ -21637,8 +21676,8 @@
       "aws"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore"
     ],
     "missing_skills": [
       "kubernetes"
@@ -21677,8 +21716,8 @@
       "aws"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore"
     ],
     "missing_skills": [
       "kubernetes"
@@ -21846,7 +21885,7 @@
     ],
     "transferable_matches": [
       "metrics ← experience with observability",
-      "together ai ← experience with openai"
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "classification",
@@ -21923,54 +21962,6 @@
   {
     "score": 67,
     "priority": "⚪ REVIEW",
-    "title": "DevOps/ML Engineer (m/f/d)",
-    "company": "Machine Learning Reply",
-    "source": "arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/machine-learning-reply/devops-ml-engineer-munich-201312",
-    "posted_at": "2026-08-21T11:30:17+00:00",
-    "remote": false,
-    "location": "Munich, Bayern, Germany",
-    "salary": null,
-    "technical_matches": [
-      "aws",
-      "python"
-    ],
-    "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
-    ],
-    "missing_skills": [
-      "airflow",
-      "dagster",
-      "databricks",
-      "java",
-      "kafka",
-      "kubernetes",
-      "spark",
-      "sql"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "not specified",
-    "location_eligible": true,
-    "location_confidence": "low",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at Machine Learning Reply with strong overlap in python, aws, azure, gcp.",
-    "recommended_action": "SKIP",
-    "response_probability": "UNKNOWN",
-    "url_status": "not_checked",
-    "score_breakdown": {
-      "technical": 50,
-      "role": 84,
-      "remote": 55,
-      "freshness": 90,
-      "experience": 100,
-      "response": 50,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 67,
-    "priority": "⚪ REVIEW",
     "title": "Associate Instructor",
     "company": "BeyondTrust",
     "source": "weworkremotely",
@@ -21984,7 +21975,7 @@
       "guidance ← experience with pydantic v2",
       "instructor ← experience with pydantic v2",
       "otel ← experience with observability",
-      "together ai ← experience with openai"
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "document ai",
@@ -22025,8 +22016,8 @@
       "aws"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock",
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore",
       "guardrails ← experience with pydantic v2"
     ],
     "missing_skills": [
@@ -22207,7 +22198,7 @@
     "transferable_matches": [
       "agno ← experience with hermes agent",
       "arize ← experience with llm evaluation",
-      "gcp ← experience with bedrock",
+      "gcp ← experience with agentcore",
       "metrics ← experience with observability"
     ],
     "missing_skills": [
@@ -22248,7 +22239,7 @@
       "python"
     ],
     "transferable_matches": [
-      "gemini ← experience with openai",
+      "gemini ← experience with anthropic",
       "logging ← experience with observability",
       "metrics ← experience with observability"
     ],
@@ -22565,7 +22556,7 @@
     ],
     "transferable_matches": [
       "agno ← experience with hermes agent",
-      "dify ← experience with llamaindex",
+      "dify ← experience with langchain",
       "guardrails ← experience with pydantic v2"
     ],
     "missing_skills": [
@@ -22697,7 +22688,7 @@
       "python"
     ],
     "transferable_matches": [
-      "gemini ← experience with openai"
+      "gemini ← experience with anthropic"
     ],
     "missing_skills": [
       "databricks",
@@ -22742,8 +22733,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore"
     ],
     "missing_skills": [
       "databricks",
@@ -22791,7 +22782,7 @@
       "python"
     ],
     "transferable_matches": [
-      "gemini ← experience with openai"
+      "gemini ← experience with anthropic"
     ],
     "missing_skills": [
       "databricks",
@@ -22836,8 +22827,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore"
     ],
     "missing_skills": [
       "kubernetes",
@@ -23056,44 +23047,6 @@
   {
     "score": 66,
     "priority": "⚪ REVIEW",
-    "title": "Application Developer/Systems Engineer",
-    "company": "jobgether",
-    "source": "lever",
-    "url": "https://jobs.lever.co/jobgether/89a9a945-b8c9-432d-8cf5-ae850e49f93c/apply",
-    "posted_at": "2026-08-19T11:07:26.644000+00:00",
-    "remote": true,
-    "location": "US",
-    "salary": null,
-    "technical_matches": [
-      "ci/cd",
-      "docker"
-    ],
-    "transferable_matches": [],
-    "missing_skills": [
-      "kubernetes"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "not specified",
-    "location_eligible": true,
-    "location_confidence": "high",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at jobgether with strong overlap in docker, ci/cd.",
-    "recommended_action": "SKIP",
-    "response_probability": "MEDIUM",
-    "url_status": "not_checked",
-    "score_breakdown": {
-      "technical": 30,
-      "role": 93,
-      "remote": 100,
-      "freshness": 75,
-      "experience": 100,
-      "response": 60,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 66,
-    "priority": "⚪ REVIEW",
     "title": "Senior AI Developer",
     "company": "jobgether",
     "source": "lever",
@@ -23106,7 +23059,7 @@
       "rag"
     ],
     "transferable_matches": [
-      "graphrag ← experience with llamaindex"
+      "graphrag ← experience with langchain"
     ],
     "missing_skills": [
       "semantic search"
@@ -24144,7 +24097,7 @@
     ],
     "transferable_matches": [
       "arize ← experience with llm evaluation",
-      "together ai ← experience with openai",
+      "together ai ← experience with anthropic",
       "traces ← experience with observability"
     ],
     "missing_skills": [
@@ -24191,7 +24144,7 @@
     ],
     "transferable_matches": [
       "metrics ← experience with observability",
-      "together ai ← experience with openai"
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "embedding",
@@ -24362,8 +24315,8 @@
       "python"
     ],
     "transferable_matches": [
-      "cohere ← experience with openai",
-      "together ai ← experience with openai"
+      "cohere ← experience with anthropic",
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "go",
@@ -24404,7 +24357,7 @@
       "openai"
     ],
     "transferable_matches": [
-      "google cloud ← experience with bedrock"
+      "google cloud ← experience with agentcore"
     ],
     "missing_skills": [
       "graphql",
@@ -24448,8 +24401,8 @@
       "docker"
     ],
     "transferable_matches": [
-      "ec2 ← experience with bedrock",
-      "ecs ← experience with bedrock"
+      "ec2 ← experience with agentcore",
+      "ecs ← experience with agentcore"
     ],
     "missing_skills": [
       "dynamodb",
@@ -24536,7 +24489,7 @@
       "python"
     ],
     "transferable_matches": [
-      "gcp ← experience with bedrock",
+      "gcp ← experience with agentcore",
       "guidance ← experience with pydantic v2"
     ],
     "missing_skills": [
@@ -25071,7 +25024,7 @@
     "transferable_matches": [
       "guidance ← experience with pydantic v2",
       "otel ← experience with observability",
-      "together ai ← experience with openai"
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "document ai",
@@ -25116,7 +25069,7 @@
     "transferable_matches": [
       "guidance ← experience with pydantic v2",
       "otel ← experience with observability",
-      "together ai ← experience with openai"
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "kubernetes",
@@ -25160,7 +25113,7 @@
     "transferable_matches": [
       "guidance ← experience with pydantic v2",
       "otel ← experience with observability",
-      "together ai ← experience with openai"
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "airflow",
@@ -25207,7 +25160,7 @@
     "transferable_matches": [
       "guidance ← experience with pydantic v2",
       "otel ← experience with observability",
-      "together ai ← experience with openai"
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "airflow",
@@ -25252,7 +25205,7 @@
       "aws"
     ],
     "transferable_matches": [
-      "google cloud ← experience with bedrock",
+      "google cloud ← experience with agentcore",
       "metrics ← experience with observability"
     ],
     "missing_skills": [
@@ -25294,7 +25247,7 @@
       "aws"
     ],
     "transferable_matches": [
-      "google cloud ← experience with bedrock",
+      "google cloud ← experience with agentcore",
       "metrics ← experience with observability"
     ],
     "missing_skills": [
@@ -25457,7 +25410,7 @@
     ],
     "transferable_matches": [
       "agno ← experience with hermes agent",
-      "dify ← experience with llamaindex",
+      "dify ← experience with langchain",
       "metrics ← experience with observability"
     ],
     "missing_skills": [
@@ -25500,7 +25453,7 @@
       "supervisor"
     ],
     "transferable_matches": [
-      "google cloud ← experience with bedrock"
+      "google cloud ← experience with agentcore"
     ],
     "missing_skills": [
       "document ai",
@@ -25753,8 +25706,8 @@
       "ci/cd"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock",
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore",
       "guidance ← experience with pydantic v2"
     ],
     "missing_skills": [
@@ -25801,8 +25754,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore"
     ],
     "missing_skills": [
       "databricks",
@@ -25850,8 +25803,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore"
     ],
     "missing_skills": [
       "databricks",
@@ -25898,8 +25851,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore"
     ],
     "missing_skills": [
       "databricks",
@@ -26075,7 +26028,7 @@
       "observability"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock"
+      "azure ← experience with agentcore"
     ],
     "missing_skills": [
       "distributed systems"
@@ -26115,7 +26068,7 @@
       "observability"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock"
+      "azure ← experience with agentcore"
     ],
     "missing_skills": [
       "document ai",
@@ -26149,50 +26102,6 @@
   {
     "score": 65,
     "priority": "⚪ REVIEW",
-    "title": "Senior Data Engineer (m/w/d) – Snowflake",
-    "company": "Jobrad Loop",
-    "source": "arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/jobrad-loop/senior-data-engineer-snowflake-munchen-10090",
-    "posted_at": "2026-08-22T05:29:55+00:00",
-    "remote": false,
-    "location": "München",
-    "salary": null,
-    "technical_matches": [
-      "aws",
-      "python"
-    ],
-    "transferable_matches": [
-      "azure ← experience with bedrock"
-    ],
-    "missing_skills": [
-      "airflow",
-      "dagster",
-      "snowflake",
-      "spark",
-      "sql"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "not specified",
-    "location_eligible": true,
-    "location_confidence": "low",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at Jobrad Loop with strong overlap in python, aws, azure.",
-    "recommended_action": "SKIP",
-    "response_probability": "UNKNOWN",
-    "url_status": "not_checked",
-    "score_breakdown": {
-      "technical": 40,
-      "role": 84,
-      "remote": 55,
-      "freshness": 100,
-      "experience": 100,
-      "response": 50,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 65,
-    "priority": "⚪ REVIEW",
     "title": "Senior Software Engineer - Backend",
     "company": "Encord",
     "source": "arbeitnow",
@@ -26206,7 +26115,7 @@
     ],
     "transferable_matches": [
       "agno ← experience with hermes agent",
-      "gcp ← experience with bedrock"
+      "gcp ← experience with agentcore"
     ],
     "missing_skills": [
       "distributed systems",
@@ -26239,6 +26148,54 @@
   {
     "score": 65,
     "priority": "⚪ REVIEW",
+    "title": "DevOps/ML Engineer (m/f/d)",
+    "company": "Machine Learning Reply",
+    "source": "arbeitnow",
+    "url": "https://www.arbeitnow.com/jobs/companies/machine-learning-reply/devops-ml-engineer-munich-201312",
+    "posted_at": "2026-08-21T11:30:17+00:00",
+    "remote": false,
+    "location": "Munich, Bayern, Germany",
+    "salary": null,
+    "technical_matches": [
+      "aws",
+      "python"
+    ],
+    "transferable_matches": [
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore"
+    ],
+    "missing_skills": [
+      "airflow",
+      "dagster",
+      "databricks",
+      "java",
+      "kafka",
+      "kubernetes",
+      "spark",
+      "sql"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "not specified",
+    "location_eligible": true,
+    "location_confidence": "low",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at Machine Learning Reply with strong overlap in python, aws, azure, gcp.",
+    "recommended_action": "SKIP",
+    "response_probability": "UNKNOWN",
+    "url_status": "not_checked",
+    "score_breakdown": {
+      "technical": 50,
+      "role": 84,
+      "remote": 55,
+      "freshness": 75,
+      "experience": 100,
+      "response": 50,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 65,
+    "priority": "⚪ REVIEW",
     "title": "Senior Sales Engineer, ACT",
     "company": "Commvault",
     "source": "weworkremotely",
@@ -26251,8 +26208,8 @@
       "aws"
     ],
     "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock",
+      "azure ← experience with agentcore",
+      "gcp ← experience with agentcore",
       "guidance ← experience with pydantic v2",
       "otel ← experience with observability"
     ],

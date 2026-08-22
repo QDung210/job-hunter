@@ -19,8 +19,8 @@
       "retrieval augmented generation"
     ],
     "transferable_matches": [
-      "azure openai ← experience with amazon web services",
-      "azure ← experience with amazon web services",
+      "azure openai ← experience with claude",
+      "azure ← experience with lambda",
       "gemini ← experience with claude"
     ],
     "missing_skills": [
@@ -65,8 +65,8 @@
       "retrieval augmented generation"
     ],
     "transferable_matches": [
-      "azure openai ← experience with amazon web services",
-      "azure ← experience with amazon web services",
+      "azure openai ← experience with claude",
+      "azure ← experience with lambda",
       "gemini ← experience with claude"
     ],
     "missing_skills": [
@@ -111,8 +111,8 @@
       "retrieval augmented generation"
     ],
     "transferable_matches": [
-      "azure openai ← experience with amazon web services",
-      "azure ← experience with amazon web services",
+      "azure openai ← experience with claude",
+      "azure ← experience with lambda",
       "gemini ← experience with claude"
     ],
     "missing_skills": [
@@ -201,10 +201,10 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "dify ← experience with langchain",
-      "gcp ← experience with amazon web services",
-      "google cloud ← experience with amazon web services",
+      "azure ← experience with lambda",
+      "dify ← experience with lightrag",
+      "gcp ← experience with lambda",
+      "google cloud ← experience with lambda",
       "otel ← experience with observability"
     ],
     "missing_skills": [
@@ -250,9 +250,9 @@
       "rag"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "dspy ← experience with langchain",
-      "gcp ← experience with amazon web services",
+      "azure ← experience with lambda",
+      "dspy ← experience with langgraph",
+      "gcp ← experience with lambda",
       "hugging face ← experience with claude"
     ],
     "missing_skills": [
@@ -300,9 +300,9 @@
       "rag"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "dspy ← experience with langchain",
-      "gcp ← experience with amazon web services",
+      "azure ← experience with lambda",
+      "dspy ← experience with langgraph",
+      "gcp ← experience with lambda",
       "hugging face ← experience with claude"
     ],
     "missing_skills": [
@@ -353,7 +353,7 @@
     ],
     "transferable_matches": [
       "langfuse ← experience with observability",
-      "pydantic ai ← experience with langchain"
+      "pydantic ai ← experience with langgraph"
     ],
     "missing_skills": [
       "agent workflows"
@@ -397,7 +397,7 @@
       "rag"
     ],
     "transferable_matches": [
-      "crewai ← experience with langchain"
+      "crewai ← experience with langgraph"
     ],
     "missing_skills": [],
     "hard_requirements_missing": [],
@@ -537,7 +537,7 @@
       "python"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with langgraph",
       "guidance ← experience with structured output"
     ],
     "missing_skills": [
@@ -741,7 +741,7 @@
       "rag"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with langgraph",
       "guardrails ← experience with structured output",
       "metrics ← experience with observability",
       "prompt engineering ← experience with structured output",
@@ -800,7 +800,7 @@
       "redis"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with langgraph",
       "guidance ← experience with structured output",
       "traces ← experience with observability"
     ],
@@ -857,7 +857,7 @@
       "redis"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with langgraph",
       "guidance ← experience with structured output",
       "traces ← experience with observability"
     ],
@@ -914,7 +914,7 @@
       "redis"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with langgraph",
       "guidance ← experience with structured output",
       "traces ← experience with observability"
     ],
@@ -972,7 +972,7 @@
       "rag"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with langgraph",
       "guardrails ← experience with structured output",
       "metrics ← experience with observability",
       "prompt engineering ← experience with structured output",
@@ -1030,7 +1030,7 @@
       "postgresql"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with langgraph",
       "logging ← experience with observability",
       "metrics ← experience with observability",
       "tracing ← experience with observability"
@@ -1083,7 +1083,7 @@
       "redis"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with langgraph",
       "guidance ← experience with structured output",
       "traces ← experience with observability"
     ],
@@ -1118,6 +1118,59 @@
       "role": 100,
       "remote": 100,
       "freshness": 35,
+      "experience": 100,
+      "response": 100,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 88,
+    "priority": "🟢 HIGH MATCH",
+    "title": "Full Stack Developer (AI Agents)",
+    "company": "databricks",
+    "source": "greenhouse",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8632126002",
+    "posted_at": "2026-08-22T09:21:54-04:00",
+    "remote": false,
+    "location": "Bengaluru, India",
+    "salary": null,
+    "technical_matches": [
+      "ai agents",
+      "ci/cd",
+      "langchain",
+      "langgraph",
+      "observability",
+      "python"
+    ],
+    "transferable_matches": [
+      "agent development kit ← experience with langgraph",
+      "logging ← experience with observability",
+      "prompt engineering ← experience with structured output",
+      "tracing ← experience with observability"
+    ],
+    "missing_skills": [
+      "agent framework",
+      "api integration",
+      "databricks",
+      "document ai",
+      "graphql",
+      "node.js",
+      "webhooks"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "3+ years required",
+    "location_eligible": true,
+    "location_confidence": "low",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at databricks with strong overlap in ai agents, langgraph, langchain, agent development kit, prompt engineering.",
+    "recommended_action": "APPLY_NOW",
+    "response_probability": "HIGH",
+    "url_status": "unknown",
+    "score_breakdown": {
+      "technical": 100,
+      "role": 85,
+      "remote": 55,
+      "freshness": 100,
       "experience": 100,
       "response": 100,
       "compensation": 50
@@ -1312,7 +1365,7 @@
     ],
     "transferable_matches": [
       "evals ← experience with llm evaluation",
-      "gcp ← experience with amazon web services"
+      "gcp ← experience with lambda"
     ],
     "missing_skills": [
       "document ai",
@@ -1365,9 +1418,9 @@
       "rag"
     ],
     "transferable_matches": [
-      "azure openai ← experience with amazon web services",
-      "azure ← experience with amazon web services",
-      "google cloud ← experience with amazon web services",
+      "azure openai ← experience with claude",
+      "azure ← experience with lambda",
+      "google cloud ← experience with lambda",
       "grafana ← experience with observability",
       "guardrails ← experience with structured output",
       "llama ← experience with claude",
@@ -1423,7 +1476,7 @@
       "python"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with langgraph",
       "datadog ← experience with observability",
       "grafana ← experience with observability",
       "otel ← experience with observability",
@@ -1472,8 +1525,8 @@
     ],
     "transferable_matches": [
       "a/b testing ← experience with llm evaluation",
-      "azure ← experience with amazon web services",
-      "dspy ← experience with langchain",
+      "azure ← experience with lambda",
+      "dspy ← experience with langgraph",
       "guardrails ← experience with structured output",
       "pgvector ← experience with qdrant",
       "vllm ← experience with claude"
@@ -1593,18 +1646,18 @@
     "transferable_matches": [
       "aws bedrock ← experience with claude",
       "datadog ← experience with observability",
-      "eks ← experience with amazon web services",
+      "eks ← experience with lambda",
       "elasticsearch ← experience with qdrant",
       "evals ← experience with llm evaluation",
       "golden dataset ← experience with llm evaluation",
-      "graph database ← experience with neo4j",
+      "graph database ← experience with knowledge graph",
       "graphrag ← experience with lightrag",
       "langfuse ← experience with observability",
       "opensearch ← experience with qdrant",
       "opentelemetry ← experience with observability",
       "otel ← experience with observability",
-      "pydantic ai ← experience with langchain",
-      "s3 ← experience with amazon web services"
+      "pydantic ai ← experience with langgraph",
+      "s3 ← experience with lambda"
     ],
     "missing_skills": [
       "agent workflows",
@@ -1771,9 +1824,9 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
+      "azure ← experience with lambda",
       "grafana ← experience with observability",
-      "networkx ← experience with neo4j"
+      "networkx ← experience with knowledge graph"
     ],
     "missing_skills": [
       "go",
@@ -1819,7 +1872,7 @@
       "python"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with langgraph",
       "otel ← experience with observability"
     ],
     "missing_skills": [
@@ -1871,7 +1924,7 @@
       "python"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with langgraph",
       "otel ← experience with observability"
     ],
     "missing_skills": [
@@ -1926,10 +1979,10 @@
       "python"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
-      "gcp ← experience with amazon web services",
-      "gke ← experience with amazon web services",
-      "google cloud ← experience with amazon web services",
+      "agno ← experience with langgraph",
+      "gcp ← experience with lambda",
+      "gke ← experience with lambda",
+      "google cloud ← experience with lambda",
       "guidance ← experience with structured output"
     ],
     "missing_skills": [
@@ -1976,9 +2029,9 @@
       "rag"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "dspy ← experience with langchain",
-      "gcp ← experience with amazon web services",
+      "azure ← experience with lambda",
+      "dspy ← experience with langgraph",
+      "gcp ← experience with lambda",
       "hugging face ← experience with claude"
     ],
     "missing_skills": [
@@ -2026,9 +2079,9 @@
       "rag"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "dspy ← experience with langchain",
-      "gcp ← experience with amazon web services",
+      "azure ← experience with lambda",
+      "dspy ← experience with langgraph",
+      "gcp ← experience with lambda",
       "hugging face ← experience with claude"
     ],
     "missing_skills": [
@@ -2076,9 +2129,9 @@
       "rag"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "dspy ← experience with langchain",
-      "gcp ← experience with amazon web services",
+      "azure ← experience with lambda",
+      "dspy ← experience with langgraph",
+      "gcp ← experience with lambda",
       "hugging face ← experience with claude"
     ],
     "missing_skills": [
@@ -2126,9 +2179,9 @@
       "rag"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "dspy ← experience with langchain",
-      "gcp ← experience with amazon web services",
+      "azure ← experience with lambda",
+      "dspy ← experience with langgraph",
+      "gcp ← experience with lambda",
       "hugging face ← experience with claude"
     ],
     "missing_skills": [
@@ -2180,7 +2233,7 @@
       "python"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain"
+      "agno ← experience with langgraph"
     ],
     "missing_skills": [
       "agent framework",
@@ -2228,8 +2281,8 @@
       "observability"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
-      "gcp ← experience with amazon web services",
+      "agno ← experience with langgraph",
+      "gcp ← experience with lambda",
       "guardrails ← experience with structured output",
       "logging ← experience with observability",
       "metrics ← experience with observability"
@@ -2277,8 +2330,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda",
       "metrics ← experience with observability"
     ],
     "missing_skills": [
@@ -2332,8 +2385,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda"
     ],
     "missing_skills": [
       "c#",
@@ -2385,7 +2438,7 @@
       "tool calling"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with langgraph",
       "evals ← experience with llm evaluation"
     ],
     "missing_skills": [
@@ -2435,7 +2488,7 @@
     ],
     "transferable_matches": [
       "elasticsearch ← experience with qdrant",
-      "graph database ← experience with neo4j",
+      "graph database ← experience with knowledge graph",
       "hugging face ← experience with claude"
     ],
     "missing_skills": [
@@ -2535,7 +2588,7 @@
       "supervisor"
     ],
     "transferable_matches": [
-      "gcp ← experience with amazon web services",
+      "gcp ← experience with lambda",
       "otel ← experience with observability"
     ],
     "missing_skills": [
@@ -2721,6 +2774,60 @@
     "title": "Senior Software Engineer - Fullstack",
     "company": "databricks",
     "source": "greenhouse",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8029679002",
+    "posted_at": "2026-08-18T13:17:07-04:00",
+    "remote": false,
+    "location": "Amsterdam, Netherlands",
+    "salary": null,
+    "technical_matches": [
+      "aws",
+      "claude",
+      "docker",
+      "mcp",
+      "observability",
+      "python"
+    ],
+    "transferable_matches": [
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda"
+    ],
+    "missing_skills": [
+      "c#",
+      "databricks",
+      "distributed systems",
+      "go",
+      "java",
+      "javascript",
+      "kubernetes",
+      "mcp server",
+      "sql",
+      "terraform"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "5+ years required",
+    "location_eligible": true,
+    "location_confidence": "low",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at databricks with strong overlap in mcp, claude, observability, azure, gcp.",
+    "recommended_action": "APPLY_NOW",
+    "response_probability": "HIGH",
+    "url_status": "ok",
+    "score_breakdown": {
+      "technical": 100,
+      "role": 92,
+      "remote": 55,
+      "freshness": 55,
+      "experience": 95,
+      "response": 100,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 82,
+    "priority": "🟢 HIGH MATCH",
+    "title": "Senior Software Engineer - Fullstack",
+    "company": "databricks",
+    "source": "greenhouse",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7898766002",
     "posted_at": "2026-08-18T13:17:04-04:00",
     "remote": false,
@@ -2733,8 +2840,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda",
       "logging ← experience with observability",
       "prompt optimization ← experience with structured output"
     ],
@@ -2771,60 +2878,6 @@
   {
     "score": 82,
     "priority": "🟢 HIGH MATCH",
-    "title": "Senior Software Engineer - Fullstack",
-    "company": "databricks",
-    "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8029679002",
-    "posted_at": "2026-08-18T13:17:07-04:00",
-    "remote": false,
-    "location": "Amsterdam, Netherlands",
-    "salary": null,
-    "technical_matches": [
-      "aws",
-      "claude",
-      "docker",
-      "mcp",
-      "observability",
-      "python"
-    ],
-    "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
-    ],
-    "missing_skills": [
-      "c#",
-      "databricks",
-      "distributed systems",
-      "go",
-      "java",
-      "javascript",
-      "kubernetes",
-      "mcp server",
-      "sql",
-      "terraform"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "5+ years required",
-    "location_eligible": true,
-    "location_confidence": "low",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at databricks with strong overlap in mcp, claude, observability, azure, gcp.",
-    "recommended_action": "APPLY_NOW",
-    "response_probability": "HIGH",
-    "url_status": "ok",
-    "score_breakdown": {
-      "technical": 100,
-      "role": 92,
-      "remote": 55,
-      "freshness": 55,
-      "experience": 95,
-      "response": 100,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 82,
-    "priority": "🟢 HIGH MATCH",
     "title": "Sr. IT Site Reliability Software Engineer",
     "company": "databricks",
     "source": "greenhouse",
@@ -2842,9 +2895,9 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
+      "azure ← experience with lambda",
       "datadog ← experience with observability",
-      "gcp ← experience with amazon web services",
+      "gcp ← experience with lambda",
       "guidance ← experience with structured output",
       "logging ← experience with observability",
       "metrics ← experience with observability",
@@ -2895,8 +2948,8 @@
       "observability"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda",
       "logging ← experience with observability",
       "tracing ← experience with observability"
     ],
@@ -2945,8 +2998,8 @@
       "rag"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda",
       "guardrails ← experience with structured output"
     ],
     "missing_skills": [
@@ -2995,9 +3048,9 @@
       "rag"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
+      "azure ← experience with lambda",
       "benchmarking ← experience with llm evaluation",
-      "gcp ← experience with amazon web services",
+      "gcp ← experience with lambda",
       "llama ← experience with claude"
     ],
     "missing_skills": [
@@ -3014,7 +3067,7 @@
     "reason": "Recently posted role at scaleai with strong overlap in langchain, llamaindex, rag, llama, benchmarking.",
     "recommended_action": "APPLY_NOW",
     "response_probability": "HIGH",
-    "url_status": "ok",
+    "url_status": "unknown",
     "score_breakdown": {
       "technical": 100,
       "role": 70,
@@ -3046,7 +3099,7 @@
       "logging ← experience with observability",
       "metrics ← experience with observability",
       "prometheus ← experience with observability",
-      "s3 ← experience with amazon web services"
+      "s3 ← experience with lambda"
     ],
     "missing_skills": [
       "distributed systems",
@@ -3102,8 +3155,8 @@
       "tool calling"
     ],
     "transferable_matches": [
-      "autogen ← experience with langchain",
-      "crewai ← experience with langchain",
+      "autogen ← experience with langgraph",
+      "crewai ← experience with langgraph",
       "gemini ← experience with claude",
       "pinecone ← experience with qdrant",
       "prompt engineering ← experience with structured output",
@@ -3203,11 +3256,11 @@
       "python"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
-      "ecs ← experience with amazon web services",
-      "eks ← experience with amazon web services",
-      "s3 ← experience with amazon web services",
-      "sagemaker ← experience with amazon web services"
+      "agno ← experience with langgraph",
+      "ecs ← experience with lambda",
+      "eks ← experience with lambda",
+      "s3 ← experience with lambda",
+      "sagemaker ← experience with lambda"
     ],
     "missing_skills": [
       "airflow",
@@ -3252,7 +3305,7 @@
       "structured output"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with langgraph",
       "otel ← experience with observability"
     ],
     "missing_skills": [
@@ -3297,7 +3350,7 @@
       "structured output"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with langgraph",
       "otel ← experience with observability"
     ],
     "missing_skills": [
@@ -3398,8 +3451,8 @@
       "rag"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda",
       "guardrails ← experience with structured output",
       "guidance ← experience with structured output",
       "logging ← experience with observability"
@@ -3451,8 +3504,8 @@
       "observability"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda",
       "logging ← experience with observability",
       "tracing ← experience with observability"
     ],
@@ -3513,18 +3566,18 @@
     ],
     "transferable_matches": [
       "aws bedrock ← experience with claude",
-      "azure openai ← experience with amazon web services",
-      "azure ← experience with amazon web services",
+      "azure openai ← experience with claude",
+      "azure ← experience with lambda",
       "chroma ← experience with qdrant",
-      "crewai ← experience with langchain",
-      "gcp ← experience with amazon web services",
+      "crewai ← experience with langgraph",
+      "gcp ← experience with lambda",
       "gpt ← experience with claude",
       "hugging face ← experience with claude",
       "logging ← experience with observability",
       "pgvector ← experience with qdrant",
       "pinecone ← experience with qdrant",
       "prompt engineering ← experience with structured output",
-      "vertex ai ← experience with amazon web services",
+      "vertex ai ← experience with claude",
       "vllm ← experience with claude",
       "weaviate ← experience with qdrant",
       "weights & biases ← experience with llm evaluation"
@@ -3573,8 +3626,8 @@
       "observability"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda",
       "grafana ← experience with observability",
       "guidance ← experience with structured output",
       "prometheus ← experience with observability"
@@ -3671,11 +3724,11 @@
       "python"
     ],
     "transferable_matches": [
-      "aks ← experience with amazon web services",
-      "azure ← experience with amazon web services",
-      "eks ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
-      "gke ← experience with amazon web services"
+      "aks ← experience with lambda",
+      "azure ← experience with lambda",
+      "eks ← experience with lambda",
+      "gcp ← experience with lambda",
+      "gke ← experience with lambda"
     ],
     "missing_skills": [
       "go",
@@ -3720,10 +3773,10 @@
       "observability"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
-      "azure ← experience with amazon web services",
+      "agno ← experience with langgraph",
+      "azure ← experience with lambda",
       "datadog ← experience with observability",
-      "ecs ← experience with amazon web services",
+      "ecs ← experience with lambda",
       "grafana ← experience with observability",
       "logging ← experience with observability",
       "metrics ← experience with observability",
@@ -3774,8 +3827,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda",
       "metrics ← experience with observability",
       "otel ← experience with observability"
     ],
@@ -3909,9 +3962,9 @@
       "aws"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
-      "google cloud ← experience with amazon web services",
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda",
+      "google cloud ← experience with lambda",
       "guidance ← experience with structured output"
     ],
     "missing_skills": [
@@ -3960,8 +4013,8 @@
       "tool calling"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda",
       "guardrails ← experience with structured output",
       "hugging face ← experience with claude"
     ],
@@ -4010,11 +4063,11 @@
       "python"
     ],
     "transferable_matches": [
-      "aks ← experience with amazon web services",
-      "azure ← experience with amazon web services",
+      "aks ← experience with lambda",
+      "azure ← experience with lambda",
       "datadog ← experience with observability",
-      "eks ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "eks ← experience with lambda",
+      "gcp ← experience with lambda",
       "guidance ← experience with structured output",
       "logging ← experience with observability",
       "metrics ← experience with observability",
@@ -4163,7 +4216,7 @@
     ],
     "transferable_matches": [
       "arize ← experience with llm evaluation",
-      "gcp ← experience with amazon web services",
+      "gcp ← experience with lambda",
       "metrics ← experience with observability",
       "otel ← experience with observability"
     ],
@@ -4220,7 +4273,7 @@
     ],
     "transferable_matches": [
       "arize ← experience with llm evaluation",
-      "gcp ← experience with amazon web services",
+      "gcp ← experience with lambda",
       "metrics ← experience with observability",
       "otel ← experience with observability"
     ],
@@ -4278,7 +4331,7 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
+      "azure ← experience with lambda",
       "otel ← experience with observability"
     ],
     "missing_skills": [
@@ -4322,7 +4375,7 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
+      "azure ← experience with lambda",
       "otel ← experience with observability"
     ],
     "missing_skills": [
@@ -4521,7 +4574,7 @@
     ],
     "transferable_matches": [
       "elasticsearch ← experience with qdrant",
-      "graph database ← experience with neo4j",
+      "graph database ← experience with knowledge graph",
       "guidance ← experience with structured output",
       "together ai ← experience with claude"
     ],
@@ -4573,9 +4626,9 @@
       "rag"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "agno ← experience with langgraph",
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda",
       "logging ← experience with observability",
       "prompt engineering ← experience with structured output",
       "tracing ← experience with observability"
@@ -4632,8 +4685,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda"
     ],
     "missing_skills": [
       "databricks",
@@ -4678,8 +4731,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda",
       "metrics ← experience with observability"
     ],
     "missing_skills": [
@@ -4731,8 +4784,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda",
       "metrics ← experience with observability"
     ],
     "missing_skills": [
@@ -4780,8 +4833,8 @@
       "rag"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda",
       "hugging face ← experience with claude"
     ],
     "missing_skills": [
@@ -4827,8 +4880,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda"
     ],
     "missing_skills": [
       "databricks",
@@ -4875,8 +4928,8 @@
       "rag"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda"
     ],
     "missing_skills": [
       "databricks",
@@ -4923,14 +4976,14 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
+      "azure ← experience with lambda",
       "gemini ← experience with claude",
       "gpt ← experience with claude",
       "llama ← experience with claude",
       "qwen ← experience with claude",
-      "sagemaker ← experience with amazon web services",
+      "sagemaker ← experience with lambda",
       "sglang ← experience with claude",
-      "vertex ai ← experience with amazon web services",
+      "vertex ai ← experience with claude",
       "vllm ← experience with claude"
     ],
     "missing_skills": [
@@ -5070,7 +5123,7 @@
       "python"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with langgraph",
       "guidance ← experience with structured output",
       "logging ← experience with observability",
       "metrics ← experience with observability",
@@ -5118,8 +5171,8 @@
       "rag"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda"
     ],
     "missing_skills": [
       "databricks",
@@ -5148,55 +5201,6 @@
     }
   },
   {
-    "score": 79,
-    "priority": "🟡 GOOD MATCH",
-    "title": "Engineering Manager, Experimentation",
-    "company": "LaunchDarkly",
-    "source": "weworkremotely",
-    "url": "https://weworkremotely.com/remote-jobs/launchdarkly-engineering-manager-experimentation",
-    "posted_at": "2026-08-22T07:31:08+00:00",
-    "remote": true,
-    "location": "Remote",
-    "salary": null,
-    "technical_matches": [
-      "observability",
-      "python"
-    ],
-    "transferable_matches": [
-      "logging ← experience with observability",
-      "metrics ← experience with observability",
-      "otel ← experience with observability",
-      "tracing ← experience with observability"
-    ],
-    "missing_skills": [
-      "airflow",
-      "bigquery",
-      "databricks",
-      "go",
-      "java",
-      "rust",
-      "snowflake"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "3+ years required",
-    "location_eligible": true,
-    "location_confidence": "high",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at LaunchDarkly with strong overlap in observability, python, tracing, otel.",
-    "recommended_action": "REVIEW_AND_APPLY",
-    "response_probability": "UNKNOWN",
-    "url_status": "ok",
-    "score_breakdown": {
-      "technical": 70,
-      "role": 62,
-      "remote": 100,
-      "freshness": 100,
-      "experience": 100,
-      "response": 50,
-      "compensation": 50
-    }
-  },
-  {
     "score": 78,
     "priority": "🟡 GOOD MATCH",
     "title": "Security Risk Management Lead",
@@ -5213,9 +5217,9 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "dify ← experience with langchain",
-      "gcp ← experience with amazon web services",
+      "azure ← experience with lambda",
+      "dify ← experience with lightrag",
+      "gcp ← experience with lambda",
       "logging ← experience with observability",
       "metrics ← experience with observability",
       "otel ← experience with observability"
@@ -5382,6 +5386,52 @@
   {
     "score": 78,
     "priority": "🟡 GOOD MATCH",
+    "title": "Senior Software Engineer (Money)",
+    "company": "databricks",
+    "source": "greenhouse",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7654347002",
+    "posted_at": "2026-08-22T09:28:58-04:00",
+    "remote": false,
+    "location": "Bengaluru, India",
+    "salary": null,
+    "technical_matches": [
+      "aws",
+      "ci/cd",
+      "docker"
+    ],
+    "transferable_matches": [
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda",
+      "together ai ← experience with claude"
+    ],
+    "missing_skills": [
+      "databricks",
+      "distributed systems",
+      "java",
+      "kubernetes"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "7+ years required",
+    "location_eligible": true,
+    "location_confidence": "low",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at databricks with strong overlap in docker, ci/cd, aws, together ai, azure.",
+    "recommended_action": "REVIEW_AND_APPLY",
+    "response_probability": "HIGH",
+    "url_status": "ok",
+    "score_breakdown": {
+      "technical": 75,
+      "role": 91,
+      "remote": 55,
+      "freshness": 100,
+      "experience": 70,
+      "response": 100,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 78,
+    "priority": "🟡 GOOD MATCH",
     "title": "Senior Solutions Architect (Large Retail Account)",
     "company": "databricks",
     "source": "greenhouse",
@@ -5397,8 +5447,8 @@
       "rag"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda"
     ],
     "missing_skills": [
       "databricks",
@@ -5447,8 +5497,8 @@
       "tool calling"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda",
       "guardrails ← experience with structured output",
       "hugging face ← experience with claude"
     ],
@@ -5494,8 +5544,8 @@
       "observability"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda",
       "logging ← experience with observability",
       "tracing ← experience with observability"
     ],
@@ -5546,8 +5596,8 @@
       "tool calling"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda",
       "guardrails ← experience with structured output",
       "hugging face ← experience with claude"
     ],
@@ -5594,9 +5644,9 @@
       "python"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "agno ← experience with langgraph",
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda",
       "guardrails ← experience with structured output"
     ],
     "missing_skills": [
@@ -5644,7 +5694,7 @@
       "tool calling"
     ],
     "transferable_matches": [
-      "gcp ← experience with amazon web services",
+      "gcp ← experience with lambda",
       "prompt templates ← experience with structured output",
       "sglang ← experience with claude",
       "tensorrt-llm ← experience with claude",
@@ -5664,7 +5714,7 @@
     "reason": "Recently posted role at scaleai with strong overlap in tool calling, observability, python, vllm, tensorrt-llm.",
     "recommended_action": "REVIEW_AND_APPLY",
     "response_probability": "HIGH",
-    "url_status": "ok",
+    "url_status": "unknown",
     "score_breakdown": {
       "technical": 100,
       "role": 79,
@@ -5713,7 +5763,7 @@
     "reason": "Recently posted role at scaleai with strong overlap in agentic ai, ai agents, tool calling, metrics.",
     "recommended_action": "REVIEW_AND_APPLY",
     "response_probability": "HIGH",
-    "url_status": "ok",
+    "url_status": "unknown",
     "score_breakdown": {
       "technical": 100,
       "role": 78,
@@ -5830,7 +5880,7 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
+      "azure ← experience with lambda",
       "logging ← experience with observability"
     ],
     "missing_skills": [
@@ -5874,9 +5924,9 @@
       "python"
     ],
     "transferable_matches": [
-      "eks ← experience with amazon web services",
+      "eks ← experience with lambda",
       "guidance ← experience with structured output",
-      "s3 ← experience with amazon web services",
+      "s3 ← experience with lambda",
       "together ai ← experience with claude",
       "unstructured ← experience with lightrag"
     ],
@@ -5927,7 +5977,7 @@
     "transferable_matches": [
       "guardrails ← experience with structured output",
       "prompt engineering ← experience with structured output",
-      "strands agents ← experience with langchain"
+      "strands agents ← experience with langgraph"
     ],
     "missing_skills": [
       "embedding",
@@ -5973,10 +6023,10 @@
       "python"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
-      "azure ← experience with amazon web services",
+      "agno ← experience with langgraph",
+      "azure ← experience with lambda",
       "datadog ← experience with observability",
-      "gcp ← experience with amazon web services",
+      "gcp ← experience with lambda",
       "grafana ← experience with observability",
       "metrics ← experience with observability",
       "opentelemetry ← experience with observability",
@@ -6030,8 +6080,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda",
       "metrics ← experience with observability",
       "otel ← experience with observability"
     ],
@@ -6120,12 +6170,12 @@
       "python"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with langgraph",
       "arize ← experience with llm evaluation",
-      "azure ← experience with amazon web services",
+      "azure ← experience with lambda",
       "datadog ← experience with observability",
       "elasticsearch ← experience with qdrant",
-      "gcp ← experience with amazon web services",
+      "gcp ← experience with lambda",
       "grafana ← experience with observability",
       "logging ← experience with observability",
       "metrics ← experience with observability",
@@ -6174,121 +6224,11 @@
       "observability"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "agno ← experience with langgraph",
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda",
       "guidance ← experience with structured output",
-      "s3 ← experience with amazon web services"
-    ],
-    "missing_skills": [
-      "databricks",
-      "distributed systems",
-      "java",
-      "kafka",
-      "kubernetes",
-      "microservices",
-      "mlflow",
-      "rust",
-      "spark",
-      "sql",
-      "terraform"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "10+ years required",
-    "location_eligible": true,
-    "location_confidence": "low",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at databricks with strong overlap in observability, docker, aws, agno, guidance.",
-    "recommended_action": "REVIEW_AND_APPLY",
-    "response_probability": "HIGH",
-    "url_status": "ok",
-    "score_breakdown": {
-      "technical": 95,
-      "role": 100,
-      "remote": 55,
-      "freshness": 55,
-      "experience": 50,
-      "response": 100,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 77,
-    "priority": "🟡 GOOD MATCH",
-    "title": "Staff Software Engineer - Backend",
-    "company": "databricks",
-    "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6544443002",
-    "posted_at": "2026-08-18T13:17:04-04:00",
-    "remote": false,
-    "location": "Mountain View, California",
-    "salary": null,
-    "technical_matches": [
-      "aws",
-      "docker",
-      "observability"
-    ],
-    "transferable_matches": [
-      "agno ← experience with langchain",
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
-      "guidance ← experience with structured output",
-      "s3 ← experience with amazon web services"
-    ],
-    "missing_skills": [
-      "databricks",
-      "distributed systems",
-      "java",
-      "kafka",
-      "kubernetes",
-      "microservices",
-      "mlflow",
-      "rust",
-      "spark",
-      "sql",
-      "terraform"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "10+ years required",
-    "location_eligible": true,
-    "location_confidence": "low",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at databricks with strong overlap in observability, docker, aws, agno, guidance.",
-    "recommended_action": "REVIEW_AND_APPLY",
-    "response_probability": "HIGH",
-    "url_status": "ok",
-    "score_breakdown": {
-      "technical": 95,
-      "role": 100,
-      "remote": 55,
-      "freshness": 55,
-      "experience": 50,
-      "response": 100,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 77,
-    "priority": "🟡 GOOD MATCH",
-    "title": "Staff Software Engineer - Backend",
-    "company": "databricks",
-    "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6779232002",
-    "posted_at": "2026-08-18T13:17:06-04:00",
-    "remote": false,
-    "location": "Seattle, Washington",
-    "salary": null,
-    "technical_matches": [
-      "aws",
-      "docker",
-      "observability"
-    ],
-    "transferable_matches": [
-      "agno ← experience with langchain",
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
-      "guidance ← experience with structured output",
-      "s3 ← experience with amazon web services"
+      "s3 ← experience with lambda"
     ],
     "missing_skills": [
       "databricks",
@@ -6339,11 +6279,121 @@
       "observability"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "agno ← experience with langgraph",
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda",
       "guidance ← experience with structured output",
-      "s3 ← experience with amazon web services"
+      "s3 ← experience with lambda"
+    ],
+    "missing_skills": [
+      "databricks",
+      "distributed systems",
+      "java",
+      "kafka",
+      "kubernetes",
+      "microservices",
+      "mlflow",
+      "rust",
+      "spark",
+      "sql",
+      "terraform"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "10+ years required",
+    "location_eligible": true,
+    "location_confidence": "low",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at databricks with strong overlap in observability, docker, aws, agno, guidance.",
+    "recommended_action": "REVIEW_AND_APPLY",
+    "response_probability": "HIGH",
+    "url_status": "ok",
+    "score_breakdown": {
+      "technical": 95,
+      "role": 100,
+      "remote": 55,
+      "freshness": 55,
+      "experience": 50,
+      "response": 100,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 77,
+    "priority": "🟡 GOOD MATCH",
+    "title": "Staff Software Engineer - Backend",
+    "company": "databricks",
+    "source": "greenhouse",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6779232002",
+    "posted_at": "2026-08-18T13:17:06-04:00",
+    "remote": false,
+    "location": "Seattle, Washington",
+    "salary": null,
+    "technical_matches": [
+      "aws",
+      "docker",
+      "observability"
+    ],
+    "transferable_matches": [
+      "agno ← experience with langgraph",
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda",
+      "guidance ← experience with structured output",
+      "s3 ← experience with lambda"
+    ],
+    "missing_skills": [
+      "databricks",
+      "distributed systems",
+      "java",
+      "kafka",
+      "kubernetes",
+      "microservices",
+      "mlflow",
+      "rust",
+      "spark",
+      "sql",
+      "terraform"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "10+ years required",
+    "location_eligible": true,
+    "location_confidence": "low",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at databricks with strong overlap in observability, docker, aws, agno, guidance.",
+    "recommended_action": "REVIEW_AND_APPLY",
+    "response_probability": "HIGH",
+    "url_status": "ok",
+    "score_breakdown": {
+      "technical": 95,
+      "role": 100,
+      "remote": 55,
+      "freshness": 55,
+      "experience": 50,
+      "response": 100,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 77,
+    "priority": "🟡 GOOD MATCH",
+    "title": "Staff Software Engineer - Backend",
+    "company": "databricks",
+    "source": "greenhouse",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6544443002",
+    "posted_at": "2026-08-18T13:17:04-04:00",
+    "remote": false,
+    "location": "Mountain View, California",
+    "salary": null,
+    "technical_matches": [
+      "aws",
+      "docker",
+      "observability"
+    ],
+    "transferable_matches": [
+      "agno ← experience with langgraph",
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda",
+      "guidance ← experience with structured output",
+      "s3 ← experience with lambda"
     ],
     "missing_skills": [
       "databricks",
@@ -6396,9 +6446,9 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
+      "azure ← experience with lambda",
       "datadog ← experience with observability",
-      "gcp ← experience with amazon web services",
+      "gcp ← experience with lambda",
       "grafana ← experience with observability",
       "logging ← experience with observability",
       "metrics ← experience with observability",
@@ -6422,7 +6472,7 @@
     "reason": "Recently posted role at scaleai with strong overlap in multi-agent systems, observability, python, tracing, grafana.",
     "recommended_action": "REVIEW_AND_APPLY",
     "response_probability": "HIGH",
-    "url_status": "ok",
+    "url_status": "unknown",
     "score_breakdown": {
       "technical": 100,
       "role": 79,
@@ -6430,6 +6480,55 @@
       "freshness": 35,
       "experience": 95,
       "response": 100,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 77,
+    "priority": "🟡 GOOD MATCH",
+    "title": "Engineering Manager, Experimentation",
+    "company": "LaunchDarkly",
+    "source": "weworkremotely",
+    "url": "https://weworkremotely.com/remote-jobs/launchdarkly-engineering-manager-experimentation",
+    "posted_at": "2026-08-22T07:31:08+00:00",
+    "remote": true,
+    "location": "Remote",
+    "salary": null,
+    "technical_matches": [
+      "observability",
+      "python"
+    ],
+    "transferable_matches": [
+      "logging ← experience with observability",
+      "metrics ← experience with observability",
+      "otel ← experience with observability",
+      "tracing ← experience with observability"
+    ],
+    "missing_skills": [
+      "airflow",
+      "bigquery",
+      "databricks",
+      "go",
+      "java",
+      "rust",
+      "snowflake"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "3+ years required",
+    "location_eligible": true,
+    "location_confidence": "high",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at LaunchDarkly with strong overlap in observability, python, tracing, otel.",
+    "recommended_action": "REVIEW_AND_APPLY",
+    "response_probability": "UNKNOWN",
+    "url_status": "ok",
+    "score_breakdown": {
+      "technical": 70,
+      "role": 62,
+      "remote": 100,
+      "freshness": 90,
+      "experience": 100,
+      "response": 50,
       "compensation": 50
     }
   },
@@ -6452,8 +6551,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda",
       "prompt engineering ← experience with structured output"
     ],
     "missing_skills": [
@@ -6495,9 +6594,9 @@
       "observability"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "agno ← experience with langgraph",
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda",
       "logging ← experience with observability",
       "metrics ← experience with observability",
       "tracing ← experience with observability"
@@ -6548,7 +6647,7 @@
       "retrieval augmented generation"
     ],
     "transferable_matches": [
-      "sagemaker ← experience with amazon web services"
+      "sagemaker ← experience with lambda"
     ],
     "missing_skills": [
       "databricks",
@@ -6597,7 +6696,7 @@
       "retrieval augmented generation"
     ],
     "transferable_matches": [
-      "sagemaker ← experience with amazon web services"
+      "sagemaker ← experience with lambda"
     ],
     "missing_skills": [
       "databricks",
@@ -6642,7 +6741,7 @@
       "postgresql"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with langgraph",
       "guardrails ← experience with structured output",
       "metrics ← experience with observability",
       "tracing ← experience with observability"
@@ -6739,7 +6838,7 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
+      "azure ← experience with lambda",
       "otel ← experience with observability"
     ],
     "missing_skills": [
@@ -6786,7 +6885,7 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
+      "azure ← experience with lambda",
       "otel ← experience with observability"
     ],
     "missing_skills": [
@@ -6832,8 +6931,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda"
     ],
     "missing_skills": [
       "databricks",
@@ -6949,8 +7048,8 @@
       "rag"
     ],
     "transferable_matches": [
-      "autogen ← experience with langchain",
-      "crewai ← experience with langchain",
+      "autogen ← experience with langgraph",
+      "crewai ← experience with langgraph",
       "evals ← experience with llm evaluation",
       "metrics ← experience with observability",
       "prompt engineering ← experience with structured output",
@@ -6968,7 +7067,7 @@
     "reason": "Recently posted role at scaleai with strong overlap in langgraph, langchain, rag, crewai, autogen.",
     "recommended_action": "REVIEW_AND_APPLY",
     "response_probability": "HIGH",
-    "url_status": "ok",
+    "url_status": "unknown",
     "score_breakdown": {
       "technical": 100,
       "role": 65,
@@ -7016,7 +7115,7 @@
     "reason": "Recently posted role at scaleai with strong overlap in agentic ai, ai agents, agent orchestration, agent evaluation, traces.",
     "recommended_action": "REVIEW_AND_APPLY",
     "response_probability": "HIGH",
-    "url_status": "ok",
+    "url_status": "unknown",
     "score_breakdown": {
       "technical": 80,
       "role": 100,
@@ -7045,7 +7144,7 @@
       "rag"
     ],
     "transferable_matches": [
-      "sagemaker ← experience with amazon web services"
+      "sagemaker ← experience with lambda"
     ],
     "missing_skills": [],
     "hard_requirements_missing": [],
@@ -7085,7 +7184,7 @@
       "rag"
     ],
     "transferable_matches": [
-      "sagemaker ← experience with amazon web services"
+      "sagemaker ← experience with lambda"
     ],
     "missing_skills": [],
     "hard_requirements_missing": [],
@@ -7125,7 +7224,7 @@
       "rag"
     ],
     "transferable_matches": [
-      "sagemaker ← experience with amazon web services"
+      "sagemaker ← experience with lambda"
     ],
     "missing_skills": [],
     "hard_requirements_missing": [],
@@ -7165,7 +7264,7 @@
       "rag"
     ],
     "transferable_matches": [
-      "sagemaker ← experience with amazon web services"
+      "sagemaker ← experience with lambda"
     ],
     "missing_skills": [],
     "hard_requirements_missing": [],
@@ -7205,7 +7304,7 @@
       "rag"
     ],
     "transferable_matches": [
-      "sagemaker ← experience with amazon web services"
+      "sagemaker ← experience with lambda"
     ],
     "missing_skills": [],
     "hard_requirements_missing": [],
@@ -7245,7 +7344,7 @@
       "rag"
     ],
     "transferable_matches": [
-      "sagemaker ← experience with amazon web services"
+      "sagemaker ← experience with lambda"
     ],
     "missing_skills": [],
     "hard_requirements_missing": [],
@@ -7285,7 +7384,7 @@
       "rag"
     ],
     "transferable_matches": [
-      "sagemaker ← experience with amazon web services"
+      "sagemaker ← experience with lambda"
     ],
     "missing_skills": [],
     "hard_requirements_missing": [],
@@ -7325,7 +7424,7 @@
       "rag"
     ],
     "transferable_matches": [
-      "sagemaker ← experience with amazon web services"
+      "sagemaker ← experience with lambda"
     ],
     "missing_skills": [],
     "hard_requirements_missing": [],
@@ -7365,7 +7464,7 @@
       "rag"
     ],
     "transferable_matches": [
-      "sagemaker ← experience with amazon web services"
+      "sagemaker ← experience with lambda"
     ],
     "missing_skills": [],
     "hard_requirements_missing": [],
@@ -7405,7 +7504,7 @@
       "rag"
     ],
     "transferable_matches": [
-      "sagemaker ← experience with amazon web services"
+      "sagemaker ← experience with lambda"
     ],
     "missing_skills": [],
     "hard_requirements_missing": [],
@@ -7445,7 +7544,7 @@
       "rag"
     ],
     "transferable_matches": [
-      "sagemaker ← experience with amazon web services"
+      "sagemaker ← experience with lambda"
     ],
     "missing_skills": [],
     "hard_requirements_missing": [],
@@ -7485,7 +7584,7 @@
       "rag"
     ],
     "transferable_matches": [
-      "sagemaker ← experience with amazon web services"
+      "sagemaker ← experience with lambda"
     ],
     "missing_skills": [],
     "hard_requirements_missing": [],
@@ -7525,7 +7624,7 @@
       "rag"
     ],
     "transferable_matches": [
-      "sagemaker ← experience with amazon web services"
+      "sagemaker ← experience with lambda"
     ],
     "missing_skills": [],
     "hard_requirements_missing": [],
@@ -7565,7 +7664,7 @@
       "rag"
     ],
     "transferable_matches": [
-      "sagemaker ← experience with amazon web services"
+      "sagemaker ← experience with lambda"
     ],
     "missing_skills": [],
     "hard_requirements_missing": [],
@@ -7605,7 +7704,7 @@
       "rag"
     ],
     "transferable_matches": [
-      "sagemaker ← experience with amazon web services"
+      "sagemaker ← experience with lambda"
     ],
     "missing_skills": [],
     "hard_requirements_missing": [],
@@ -7645,7 +7744,7 @@
       "rag"
     ],
     "transferable_matches": [
-      "sagemaker ← experience with amazon web services"
+      "sagemaker ← experience with lambda"
     ],
     "missing_skills": [],
     "hard_requirements_missing": [],
@@ -7685,7 +7784,7 @@
       "rag"
     ],
     "transferable_matches": [
-      "sagemaker ← experience with amazon web services"
+      "sagemaker ← experience with lambda"
     ],
     "missing_skills": [],
     "hard_requirements_missing": [],
@@ -7725,7 +7824,7 @@
       "rag"
     ],
     "transferable_matches": [
-      "sagemaker ← experience with amazon web services"
+      "sagemaker ← experience with lambda"
     ],
     "missing_skills": [],
     "hard_requirements_missing": [],
@@ -7765,7 +7864,7 @@
       "rag"
     ],
     "transferable_matches": [
-      "sagemaker ← experience with amazon web services"
+      "sagemaker ← experience with lambda"
     ],
     "missing_skills": [],
     "hard_requirements_missing": [],
@@ -7805,7 +7904,7 @@
       "rag"
     ],
     "transferable_matches": [
-      "sagemaker ← experience with amazon web services"
+      "sagemaker ← experience with lambda"
     ],
     "missing_skills": [],
     "hard_requirements_missing": [],
@@ -7845,7 +7944,7 @@
       "rag"
     ],
     "transferable_matches": [
-      "sagemaker ← experience with amazon web services"
+      "sagemaker ← experience with lambda"
     ],
     "missing_skills": [],
     "hard_requirements_missing": [],
@@ -7885,7 +7984,7 @@
       "rag"
     ],
     "transferable_matches": [
-      "sagemaker ← experience with amazon web services"
+      "sagemaker ← experience with lambda"
     ],
     "missing_skills": [],
     "hard_requirements_missing": [],
@@ -7925,7 +8024,7 @@
       "rag"
     ],
     "transferable_matches": [
-      "sagemaker ← experience with amazon web services"
+      "sagemaker ← experience with lambda"
     ],
     "missing_skills": [],
     "hard_requirements_missing": [],
@@ -7965,7 +8064,7 @@
       "rag"
     ],
     "transferable_matches": [
-      "sagemaker ← experience with amazon web services"
+      "sagemaker ← experience with lambda"
     ],
     "missing_skills": [],
     "hard_requirements_missing": [],
@@ -8005,7 +8104,7 @@
       "rag"
     ],
     "transferable_matches": [
-      "sagemaker ← experience with amazon web services"
+      "sagemaker ← experience with lambda"
     ],
     "missing_skills": [],
     "hard_requirements_missing": [],
@@ -8045,7 +8144,7 @@
       "rag"
     ],
     "transferable_matches": [
-      "sagemaker ← experience with amazon web services"
+      "sagemaker ← experience with lambda"
     ],
     "missing_skills": [],
     "hard_requirements_missing": [],
@@ -8085,7 +8184,7 @@
       "rag"
     ],
     "transferable_matches": [
-      "sagemaker ← experience with amazon web services"
+      "sagemaker ← experience with lambda"
     ],
     "missing_skills": [],
     "hard_requirements_missing": [],
@@ -8125,7 +8224,7 @@
       "rag"
     ],
     "transferable_matches": [
-      "sagemaker ← experience with amazon web services"
+      "sagemaker ← experience with lambda"
     ],
     "missing_skills": [],
     "hard_requirements_missing": [],
@@ -8165,7 +8264,7 @@
       "rag"
     ],
     "transferable_matches": [
-      "sagemaker ← experience with amazon web services"
+      "sagemaker ← experience with lambda"
     ],
     "missing_skills": [],
     "hard_requirements_missing": [],
@@ -8205,7 +8304,7 @@
       "rag"
     ],
     "transferable_matches": [
-      "sagemaker ← experience with amazon web services"
+      "sagemaker ← experience with lambda"
     ],
     "missing_skills": [],
     "hard_requirements_missing": [],
@@ -8245,7 +8344,7 @@
       "rag"
     ],
     "transferable_matches": [
-      "sagemaker ← experience with amazon web services"
+      "sagemaker ← experience with lambda"
     ],
     "missing_skills": [],
     "hard_requirements_missing": [],
@@ -8285,7 +8384,7 @@
       "rag"
     ],
     "transferable_matches": [
-      "sagemaker ← experience with amazon web services"
+      "sagemaker ← experience with lambda"
     ],
     "missing_skills": [],
     "hard_requirements_missing": [],
@@ -8325,7 +8424,7 @@
       "rag"
     ],
     "transferable_matches": [
-      "sagemaker ← experience with amazon web services"
+      "sagemaker ← experience with lambda"
     ],
     "missing_skills": [],
     "hard_requirements_missing": [],
@@ -8365,7 +8464,7 @@
       "rag"
     ],
     "transferable_matches": [
-      "sagemaker ← experience with amazon web services"
+      "sagemaker ← experience with lambda"
     ],
     "missing_skills": [],
     "hard_requirements_missing": [],
@@ -8405,7 +8504,7 @@
       "rag"
     ],
     "transferable_matches": [
-      "sagemaker ← experience with amazon web services"
+      "sagemaker ← experience with lambda"
     ],
     "missing_skills": [],
     "hard_requirements_missing": [],
@@ -8445,7 +8544,7 @@
       "rag"
     ],
     "transferable_matches": [
-      "sagemaker ← experience with amazon web services"
+      "sagemaker ← experience with lambda"
     ],
     "missing_skills": [],
     "hard_requirements_missing": [],
@@ -8483,8 +8582,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "google cloud ← experience with amazon web services",
+      "azure ← experience with lambda",
+      "google cloud ← experience with lambda",
       "instructor ← experience with structured output"
     ],
     "missing_skills": [
@@ -8528,8 +8627,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "google cloud ← experience with amazon web services",
+      "azure ← experience with lambda",
+      "google cloud ← experience with lambda",
       "instructor ← experience with structured output"
     ],
     "missing_skills": [
@@ -8575,8 +8674,8 @@
       "observability"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda",
       "instructor ← experience with structured output"
     ],
     "missing_skills": [
@@ -8623,7 +8722,7 @@
       "python"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with langgraph",
       "guidance ← experience with structured output"
     ],
     "missing_skills": [
@@ -8670,7 +8769,7 @@
       "python"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with langgraph",
       "guidance ← experience with structured output"
     ],
     "missing_skills": [
@@ -8843,49 +8942,6 @@
     }
   },
   {
-    "score": 76,
-    "priority": "🟡 GOOD MATCH",
-    "title": "Senior Application Security Engineer",
-    "company": "Temporal Technologies",
-    "source": "weworkremotely",
-    "url": "https://weworkremotely.com/remote-jobs/temporal-technologies-senior-application-security-engineer",
-    "posted_at": "2026-08-22T07:31:03+00:00",
-    "remote": true,
-    "location": "Remote",
-    "salary": null,
-    "technical_matches": [
-      "mcp",
-      "python"
-    ],
-    "transferable_matches": [
-      "guidance ← experience with structured output",
-      "otel ← experience with observability"
-    ],
-    "missing_skills": [
-      "go",
-      "kubernetes",
-      "rust"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "5+ years required",
-    "location_eligible": true,
-    "location_confidence": "high",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at Temporal Technologies with strong overlap in mcp, python, guidance, otel.",
-    "recommended_action": "REVIEW_AND_APPLY",
-    "response_probability": "UNKNOWN",
-    "url_status": "ok",
-    "score_breakdown": {
-      "technical": 50,
-      "role": 93,
-      "remote": 100,
-      "freshness": 100,
-      "experience": 95,
-      "response": 50,
-      "compensation": 50
-    }
-  },
-  {
     "score": 75,
     "priority": "🟡 GOOD MATCH",
     "title": "Software Engineer",
@@ -8902,7 +8958,7 @@
       "python"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with langgraph",
       "datadog ← experience with observability",
       "prometheus ← experience with observability"
     ],
@@ -9278,9 +9334,9 @@
       "docker"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
-      "google cloud ← experience with amazon web services"
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda",
+      "google cloud ← experience with lambda"
     ],
     "missing_skills": [
       "kubernetes",
@@ -9322,8 +9378,8 @@
       "aws"
     ],
     "transferable_matches": [
-      "gcp ← experience with amazon web services",
-      "google cloud ← experience with amazon web services"
+      "gcp ← experience with lambda",
+      "google cloud ← experience with lambda"
     ],
     "missing_skills": [
       "document ai",
@@ -9366,8 +9422,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda"
     ],
     "missing_skills": [
       "go",
@@ -9411,8 +9467,8 @@
       "docker"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda",
       "metrics ← experience with observability"
     ],
     "missing_skills": [
@@ -9482,7 +9538,7 @@
     "reason": "Recently posted role at cloudflare with strong overlap in observability, docker, grafana, prometheus.",
     "recommended_action": "REVIEW_AND_APPLY",
     "response_probability": "HIGH",
-    "url_status": "ok",
+    "url_status": "unknown",
     "score_breakdown": {
       "technical": 70,
       "role": 91,
@@ -9510,9 +9566,9 @@
       "python"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
-      "azure ← experience with amazon web services",
-      "google cloud ← experience with amazon web services",
+      "agno ← experience with langgraph",
+      "azure ← experience with lambda",
+      "google cloud ← experience with lambda",
       "otel ← experience with observability"
     ],
     "missing_skills": [
@@ -9560,9 +9616,9 @@
       "aws"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
+      "azure ← experience with lambda",
       "cohere ← experience with claude",
-      "gcp ← experience with amazon web services",
+      "gcp ← experience with lambda",
       "hugging face ← experience with claude",
       "otel ← experience with observability",
       "together ai ← experience with claude"
@@ -9609,8 +9665,8 @@
       "openai"
     ],
     "transferable_matches": [
-      "agent development kit ← experience with langchain",
-      "google cloud ← experience with amazon web services",
+      "agent development kit ← experience with langgraph",
+      "google cloud ← experience with lambda",
       "guardrails ← experience with structured output",
       "tracing ← experience with observability"
     ],
@@ -9704,7 +9760,7 @@
       "python"
     ],
     "transferable_matches": [
-      "gcp ← experience with amazon web services",
+      "gcp ← experience with lambda",
       "metrics ← experience with observability",
       "otel ← experience with observability"
     ],
@@ -10023,8 +10079,8 @@
       "docker"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda",
       "guidance ← experience with structured output",
       "together ai ← experience with claude"
     ],
@@ -10160,8 +10216,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda"
     ],
     "missing_skills": [
       "databricks",
@@ -10309,8 +10365,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda",
       "metrics ← experience with observability"
     ],
     "missing_skills": [
@@ -10391,6 +10447,49 @@
     }
   },
   {
+    "score": 74,
+    "priority": "⚪ REVIEW",
+    "title": "Senior Application Security Engineer",
+    "company": "Temporal Technologies",
+    "source": "weworkremotely",
+    "url": "https://weworkremotely.com/remote-jobs/temporal-technologies-senior-application-security-engineer",
+    "posted_at": "2026-08-22T07:31:03+00:00",
+    "remote": true,
+    "location": "Remote",
+    "salary": null,
+    "technical_matches": [
+      "mcp",
+      "python"
+    ],
+    "transferable_matches": [
+      "guidance ← experience with structured output",
+      "otel ← experience with observability"
+    ],
+    "missing_skills": [
+      "go",
+      "kubernetes",
+      "rust"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "5+ years required",
+    "location_eligible": true,
+    "location_confidence": "high",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at Temporal Technologies with strong overlap in mcp, python, guidance, otel.",
+    "recommended_action": "SKIP",
+    "response_probability": "UNKNOWN",
+    "url_status": "not_checked",
+    "score_breakdown": {
+      "technical": 50,
+      "role": 93,
+      "remote": 100,
+      "freshness": 90,
+      "experience": 95,
+      "response": 50,
+      "compensation": 50
+    }
+  },
+  {
     "score": 73,
     "priority": "⚪ REVIEW",
     "title": "Senior Software Engineer, Cloud Networking",
@@ -10407,7 +10506,7 @@
       "python"
     ],
     "transferable_matches": [
-      "eks ← experience with amazon web services",
+      "eks ← experience with lambda",
       "guardrails ← experience with structured output",
       "metrics ← experience with observability"
     ],
@@ -10503,7 +10602,7 @@
     ],
     "transferable_matches": [
       "arize ← experience with llm evaluation",
-      "gcp ← experience with amazon web services"
+      "gcp ← experience with lambda"
     ],
     "missing_skills": [
       "bigquery",
@@ -10599,7 +10698,7 @@
       "observability"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with langgraph",
       "datadog ← experience with observability",
       "grafana ← experience with observability",
       "prometheus ← experience with observability",
@@ -10728,7 +10827,7 @@
       "python"
     ],
     "transferable_matches": [
-      "agent development kit ← experience with langchain",
+      "agent development kit ← experience with langgraph",
       "otel ← experience with observability"
     ],
     "missing_skills": [
@@ -10776,7 +10875,7 @@
       "python"
     ],
     "transferable_matches": [
-      "agent development kit ← experience with langchain",
+      "agent development kit ← experience with langgraph",
       "otel ← experience with observability"
     ],
     "missing_skills": [
@@ -10914,7 +11013,7 @@
       "python"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with langgraph",
       "otel ← experience with observability"
     ],
     "missing_skills": [
@@ -11100,8 +11199,8 @@
       "tool calling"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda",
       "guardrails ← experience with structured output",
       "hugging face ← experience with claude"
     ],
@@ -11198,9 +11297,9 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "sagemaker ← experience with amazon web services",
-      "vertex ai ← experience with amazon web services"
+      "azure ← experience with lambda",
+      "sagemaker ← experience with lambda",
+      "vertex ai ← experience with claude"
     ],
     "missing_skills": [
       "agent framework",
@@ -11247,9 +11346,9 @@
       "python"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "agno ← experience with langgraph",
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda",
       "guardrails ← experience with structured output"
     ],
     "missing_skills": [
@@ -11296,14 +11395,14 @@
       "openai"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
+      "azure ← experience with lambda",
       "gemini ← experience with claude",
       "gpt ← experience with claude",
       "llama ← experience with claude",
       "qwen ← experience with claude",
-      "sagemaker ← experience with amazon web services",
+      "sagemaker ← experience with lambda",
       "sglang ← experience with claude",
-      "vertex ai ← experience with amazon web services",
+      "vertex ai ← experience with claude",
       "vllm ← experience with claude"
     ],
     "missing_skills": [
@@ -11443,8 +11542,8 @@
       "observability"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda",
       "instructor ← experience with structured output"
     ],
     "missing_skills": [
@@ -11583,7 +11682,7 @@
     ],
     "transferable_matches": [
       "a/b testing ← experience with llm evaluation",
-      "agno ← experience with langchain",
+      "agno ← experience with langgraph",
       "arize ← experience with llm evaluation",
       "online evaluation ← experience with llm evaluation"
     ],
@@ -11996,53 +12095,6 @@
     "title": "Sr. Forward Deployed Engineer",
     "company": "databricks",
     "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8739462002",
-    "posted_at": "2026-08-21T20:23:29-04:00",
-    "remote": false,
-    "location": "New York City, New York",
-    "salary": null,
-    "technical_matches": [
-      "aws",
-      "ci/cd",
-      "python"
-    ],
-    "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
-    ],
-    "missing_skills": [
-      "databricks",
-      "document ai",
-      "java",
-      "javascript",
-      "spark",
-      "typescript"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "6+ years required",
-    "location_eligible": true,
-    "location_confidence": "low",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at databricks with strong overlap in python, ci/cd, aws, azure, gcp.",
-    "recommended_action": "SKIP",
-    "response_probability": "MEDIUM",
-    "url_status": "not_checked",
-    "score_breakdown": {
-      "technical": 65,
-      "role": 100,
-      "remote": 55,
-      "freshness": 90,
-      "experience": 70,
-      "response": 60,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 72,
-    "priority": "⚪ REVIEW",
-    "title": "Sr. Forward Deployed Engineer",
-    "company": "databricks",
-    "source": "greenhouse",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8739474002",
     "posted_at": "2026-08-21T20:23:36-04:00",
     "remote": false,
@@ -12054,55 +12106,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
-    ],
-    "missing_skills": [
-      "databricks",
-      "document ai",
-      "java",
-      "javascript",
-      "spark",
-      "typescript"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "6+ years required",
-    "location_eligible": true,
-    "location_confidence": "low",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at databricks with strong overlap in python, ci/cd, aws, azure, gcp.",
-    "recommended_action": "SKIP",
-    "response_probability": "MEDIUM",
-    "url_status": "not_checked",
-    "score_breakdown": {
-      "technical": 65,
-      "role": 100,
-      "remote": 55,
-      "freshness": 90,
-      "experience": 70,
-      "response": 60,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 72,
-    "priority": "⚪ REVIEW",
-    "title": "Sr. Forward Deployed Engineer",
-    "company": "databricks",
-    "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8657065002",
-    "posted_at": "2026-08-21T20:23:25-04:00",
-    "remote": false,
-    "location": "Austin, Texas; USCA",
-    "salary": null,
-    "technical_matches": [
-      "aws",
-      "ci/cd",
-      "python"
-    ],
-    "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda"
     ],
     "missing_skills": [
       "databricks",
@@ -12148,8 +12153,102 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda"
+    ],
+    "missing_skills": [
+      "databricks",
+      "document ai",
+      "java",
+      "javascript",
+      "spark",
+      "typescript"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "6+ years required",
+    "location_eligible": true,
+    "location_confidence": "low",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at databricks with strong overlap in python, ci/cd, aws, azure, gcp.",
+    "recommended_action": "SKIP",
+    "response_probability": "MEDIUM",
+    "url_status": "not_checked",
+    "score_breakdown": {
+      "technical": 65,
+      "role": 100,
+      "remote": 55,
+      "freshness": 90,
+      "experience": 70,
+      "response": 60,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 72,
+    "priority": "⚪ REVIEW",
+    "title": "Sr. Forward Deployed Engineer",
+    "company": "databricks",
+    "source": "greenhouse",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8657065002",
+    "posted_at": "2026-08-21T20:23:25-04:00",
+    "remote": false,
+    "location": "Austin, Texas; USCA",
+    "salary": null,
+    "technical_matches": [
+      "aws",
+      "ci/cd",
+      "python"
+    ],
+    "transferable_matches": [
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda"
+    ],
+    "missing_skills": [
+      "databricks",
+      "document ai",
+      "java",
+      "javascript",
+      "spark",
+      "typescript"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "6+ years required",
+    "location_eligible": true,
+    "location_confidence": "low",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at databricks with strong overlap in python, ci/cd, aws, azure, gcp.",
+    "recommended_action": "SKIP",
+    "response_probability": "MEDIUM",
+    "url_status": "not_checked",
+    "score_breakdown": {
+      "technical": 65,
+      "role": 100,
+      "remote": 55,
+      "freshness": 90,
+      "experience": 70,
+      "response": 60,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 72,
+    "priority": "⚪ REVIEW",
+    "title": "Sr. Forward Deployed Engineer",
+    "company": "databricks",
+    "source": "greenhouse",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8739462002",
+    "posted_at": "2026-08-21T20:23:29-04:00",
+    "remote": false,
+    "location": "New York City, New York",
+    "salary": null,
+    "technical_matches": [
+      "aws",
+      "ci/cd",
+      "python"
+    ],
+    "transferable_matches": [
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda"
     ],
     "missing_skills": [
       "databricks",
@@ -12195,8 +12294,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda"
     ],
     "missing_skills": [
       "databricks",
@@ -12245,9 +12344,9 @@
       "rag"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "agno ← experience with langgraph",
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda"
     ],
     "missing_skills": [
       "databricks",
@@ -12786,7 +12885,7 @@
       "python"
     ],
     "transferable_matches": [
-      "google cloud ← experience with amazon web services"
+      "google cloud ← experience with lambda"
     ],
     "missing_skills": [
       "distributed systems",
@@ -13012,7 +13111,7 @@
     ],
     "transferable_matches": [
       "arize ← experience with llm evaluation",
-      "gcp ← experience with amazon web services"
+      "gcp ← experience with lambda"
     ],
     "missing_skills": [
       "go",
@@ -13311,52 +13410,6 @@
   {
     "score": 71,
     "priority": "⚪ REVIEW",
-    "title": "Senior Software Engineer (Money)",
-    "company": "databricks",
-    "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7654347002",
-    "posted_at": "2026-08-18T13:17:07-04:00",
-    "remote": false,
-    "location": "Bengaluru, India",
-    "salary": null,
-    "technical_matches": [
-      "aws",
-      "ci/cd",
-      "docker"
-    ],
-    "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
-      "together ai ← experience with claude"
-    ],
-    "missing_skills": [
-      "databricks",
-      "distributed systems",
-      "java",
-      "kubernetes"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "7+ years required",
-    "location_eligible": true,
-    "location_confidence": "low",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at databricks with strong overlap in docker, ci/cd, aws, together ai, azure.",
-    "recommended_action": "SKIP",
-    "response_probability": "HIGH",
-    "url_status": "not_checked",
-    "score_breakdown": {
-      "technical": 75,
-      "role": 91,
-      "remote": 55,
-      "freshness": 55,
-      "experience": 70,
-      "response": 100,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 71,
-    "priority": "⚪ REVIEW",
     "title": "Sr. Specialist Solutions Architect",
     "company": "databricks",
     "source": "greenhouse",
@@ -13372,8 +13425,8 @@
       "rag"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda"
     ],
     "missing_skills": [
       "databricks",
@@ -13418,9 +13471,9 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "sagemaker ← experience with amazon web services",
-      "vertex ai ← experience with amazon web services"
+      "azure ← experience with lambda",
+      "sagemaker ← experience with lambda",
+      "vertex ai ← experience with claude"
     ],
     "missing_skills": [
       "agent framework",
@@ -13553,9 +13606,9 @@
       "aws"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
+      "azure ← experience with lambda",
       "datadog ← experience with observability",
-      "gcp ← experience with amazon web services",
+      "gcp ← experience with lambda",
       "instructor ← experience with structured output",
       "metrics ← experience with observability"
     ],
@@ -13646,8 +13699,8 @@
       "ci/cd"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda",
       "otel ← experience with observability",
       "prompt engineering ← experience with structured output"
     ],
@@ -13696,8 +13749,8 @@
       "ci/cd"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda",
       "otel ← experience with observability",
       "prompt engineering ← experience with structured output"
     ],
@@ -13792,8 +13845,8 @@
       "openai"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda",
       "gemini ← experience with claude",
       "guidance ← experience with structured output"
     ],
@@ -13887,7 +13940,7 @@
       "python"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with langgraph",
       "guidance ← experience with structured output"
     ],
     "missing_skills": [
@@ -13933,7 +13986,7 @@
       "python"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with langgraph",
       "guidance ← experience with structured output"
     ],
     "missing_skills": [
@@ -13980,8 +14033,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda",
       "unstructured ← experience with lightrag"
     ],
     "missing_skills": [
@@ -14072,7 +14125,7 @@
       "python"
     ],
     "transferable_matches": [
-      "gcp ← experience with amazon web services"
+      "gcp ← experience with lambda"
     ],
     "missing_skills": [
       "kubernetes",
@@ -14207,7 +14260,7 @@
       "python"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with langgraph",
       "otel ← experience with observability"
     ],
     "missing_skills": [
@@ -14337,7 +14390,7 @@
       "postgresql"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with langgraph",
       "guidance ← experience with structured output",
       "prompt engineering ← experience with structured output"
     ],
@@ -14386,7 +14439,7 @@
       "postgresql"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with langgraph",
       "guidance ← experience with structured output",
       "prompt engineering ← experience with structured output"
     ],
@@ -14435,7 +14488,7 @@
       "openai"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with langgraph",
       "gemini ← experience with claude",
       "metrics ← experience with observability"
     ],
@@ -14529,8 +14582,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda"
     ],
     "missing_skills": [
       "databricks",
@@ -14576,8 +14629,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda"
     ],
     "missing_skills": [
       "databricks",
@@ -14623,8 +14676,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda"
     ],
     "missing_skills": [
       "databricks",
@@ -14670,8 +14723,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda"
     ],
     "missing_skills": [
       "databricks",
@@ -14717,8 +14770,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda"
     ],
     "missing_skills": [
       "databricks",
@@ -14764,8 +14817,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda"
     ],
     "missing_skills": [
       "databricks",
@@ -14810,9 +14863,9 @@
       "ci/cd"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "dify ← experience with langchain",
-      "gcp ← experience with amazon web services",
+      "azure ← experience with lambda",
+      "dify ← experience with lightrag",
+      "gcp ← experience with lambda",
       "guardrails ← experience with structured output",
       "logging ← experience with observability"
     ],
@@ -14856,8 +14909,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda"
     ],
     "missing_skills": [
       "databricks",
@@ -14953,8 +15006,8 @@
       "docker"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda",
       "metrics ← experience with observability"
     ],
     "missing_skills": [
@@ -15001,9 +15054,9 @@
       "python"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "agno ← experience with langgraph",
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda",
       "guardrails ← experience with structured output"
     ],
     "missing_skills": [
@@ -15100,8 +15153,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda"
     ],
     "missing_skills": [
       "document ai",
@@ -15189,7 +15242,7 @@
       "aws"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
+      "azure ← experience with lambda",
       "elasticsearch ← experience with qdrant",
       "guidance ← experience with structured output"
     ],
@@ -15436,8 +15489,8 @@
       "ci/cd"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda",
       "guidance ← experience with structured output"
     ],
     "missing_skills": [
@@ -15486,8 +15539,8 @@
       "supervisor"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda",
       "otel ← experience with observability"
     ],
     "missing_skills": [
@@ -15543,7 +15596,7 @@
       "postgresql"
     ],
     "transferable_matches": [
-      "gcp ← experience with amazon web services",
+      "gcp ← experience with lambda",
       "otel ← experience with observability"
     ],
     "missing_skills": [
@@ -15586,8 +15639,8 @@
       "postgresql"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda",
       "metrics ← experience with observability",
       "tracing ← experience with observability"
     ],
@@ -16016,8 +16069,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda"
     ],
     "missing_skills": [
       "databricks",
@@ -16109,8 +16162,8 @@
       "docker"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda",
       "together ai ← experience with claude"
     ],
     "missing_skills": [
@@ -16155,8 +16208,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda"
     ],
     "missing_skills": [
       "kubernetes",
@@ -16247,8 +16300,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "google cloud ← experience with amazon web services",
+      "azure ← experience with lambda",
+      "google cloud ← experience with lambda",
       "instructor ← experience with structured output"
     ],
     "missing_skills": [
@@ -16292,8 +16345,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "google cloud ← experience with amazon web services",
+      "azure ← experience with lambda",
+      "google cloud ← experience with lambda",
       "instructor ← experience with structured output"
     ],
     "missing_skills": [
@@ -16337,8 +16390,8 @@
       "ci/cd"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda",
       "guardrails ← experience with structured output",
       "guidance ← experience with structured output",
       "instructor ← experience with structured output"
@@ -16383,7 +16436,7 @@
       "python"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with langgraph",
       "together ai ← experience with claude"
     ],
     "missing_skills": [
@@ -16427,8 +16480,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda"
     ],
     "missing_skills": [
       "document ai",
@@ -16474,7 +16527,7 @@
       "openai"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
+      "azure ← experience with lambda",
       "datadog ← experience with observability",
       "otel ← experience with observability"
     ],
@@ -16648,9 +16701,9 @@
       "aws"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with langgraph",
       "arize ← experience with llm evaluation",
-      "gcp ← experience with amazon web services",
+      "gcp ← experience with lambda",
       "metrics ← experience with observability"
     ],
     "missing_skills": [
@@ -17418,8 +17471,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda",
       "metrics ← experience with observability"
     ],
     "missing_skills": [
@@ -17458,19 +17511,19 @@
     "title": "Senior Software Engineer - Backend",
     "company": "databricks",
     "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=4799387002",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6544435002",
     "posted_at": "2026-08-18T13:17:04-04:00",
     "remote": false,
-    "location": "San Francisco, California",
+    "location": "Mountain View, California",
     "salary": null,
     "technical_matches": [
       "aws",
       "docker"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "agno ← experience with langgraph",
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda"
     ],
     "missing_skills": [
       "databricks",
@@ -17504,19 +17557,19 @@
     "title": "Senior Software Engineer - Backend",
     "company": "databricks",
     "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6544435002",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=4799387002",
     "posted_at": "2026-08-18T13:17:04-04:00",
     "remote": false,
-    "location": "Mountain View, California",
+    "location": "San Francisco, California",
     "salary": null,
     "technical_matches": [
       "aws",
       "docker"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "agno ← experience with langgraph",
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda"
     ],
     "missing_skills": [
       "databricks",
@@ -17561,8 +17614,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda"
     ],
     "missing_skills": [
       "c#",
@@ -17611,8 +17664,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda"
     ],
     "missing_skills": [
       "databricks",
@@ -17656,8 +17709,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda"
     ],
     "missing_skills": [
       "databricks",
@@ -17701,8 +17754,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda"
     ],
     "missing_skills": [
       "databricks",
@@ -17750,8 +17803,59 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda",
+      "metrics ← experience with observability"
+    ],
+    "missing_skills": [
+      "bigquery",
+      "databricks",
+      "document ai",
+      "java",
+      "knowledge base",
+      "rust",
+      "snowflake",
+      "spark",
+      "sql"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "12+ years required",
+    "location_eligible": true,
+    "location_confidence": "low",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at databricks with strong overlap in python, ci/cd, aws, metrics, azure.",
+    "recommended_action": "SKIP",
+    "response_probability": "HIGH",
+    "url_status": "not_checked",
+    "score_breakdown": {
+      "technical": 75,
+      "role": 84,
+      "remote": 55,
+      "freshness": 55,
+      "experience": 50,
+      "response": 100,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 68,
+    "priority": "⚪ REVIEW",
+    "title": "Staff Designated Support Engineer",
+    "company": "databricks",
+    "source": "greenhouse",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8554463002",
+    "posted_at": "2026-08-18T13:17:14-04:00",
+    "remote": false,
+    "location": "Bengaluru, India",
+    "salary": null,
+    "technical_matches": [
+      "aws",
+      "ci/cd",
+      "python"
+    ],
+    "transferable_matches": [
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda",
       "metrics ← experience with observability"
     ],
     "missing_skills": [
@@ -17801,8 +17905,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda",
       "metrics ← experience with observability"
     ],
     "missing_skills": [
@@ -17812,57 +17916,6 @@
       "java",
       "knowledge base",
       "mlflow",
-      "rust",
-      "snowflake",
-      "spark",
-      "sql"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "12+ years required",
-    "location_eligible": true,
-    "location_confidence": "low",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at databricks with strong overlap in python, ci/cd, aws, metrics, azure.",
-    "recommended_action": "SKIP",
-    "response_probability": "HIGH",
-    "url_status": "not_checked",
-    "score_breakdown": {
-      "technical": 75,
-      "role": 84,
-      "remote": 55,
-      "freshness": 55,
-      "experience": 50,
-      "response": 100,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 68,
-    "priority": "⚪ REVIEW",
-    "title": "Staff Designated Support Engineer",
-    "company": "databricks",
-    "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8554463002",
-    "posted_at": "2026-08-18T13:17:14-04:00",
-    "remote": false,
-    "location": "Bengaluru, India",
-    "salary": null,
-    "technical_matches": [
-      "aws",
-      "ci/cd",
-      "python"
-    ],
-    "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
-      "metrics ← experience with observability"
-    ],
-    "missing_skills": [
-      "bigquery",
-      "databricks",
-      "document ai",
-      "java",
-      "knowledge base",
       "rust",
       "snowflake",
       "spark",
@@ -17904,8 +17957,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda",
       "guidance ← experience with structured output",
       "together ai ← experience with claude"
     ],
@@ -17949,8 +18002,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda",
       "guidance ← experience with structured output"
     ],
     "missing_skills": [
@@ -18044,7 +18097,7 @@
       "observability"
     ],
     "transferable_matches": [
-      "gcp ← experience with amazon web services"
+      "gcp ← experience with lambda"
     ],
     "missing_skills": [
       "node.js",
@@ -18262,7 +18315,7 @@
     ],
     "transferable_matches": [
       "elasticsearch ← experience with qdrant",
-      "graph database ← experience with neo4j",
+      "graph database ← experience with knowledge graph",
       "guidance ← experience with structured output",
       "together ai ← experience with claude"
     ],
@@ -18413,7 +18466,7 @@
       "retrieval augmented generation"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain"
+      "agno ← experience with langgraph"
     ],
     "missing_skills": [
       "retrieval",
@@ -18545,7 +18598,7 @@
     ],
     "transferable_matches": [
       "evals ← experience with llm evaluation",
-      "gcp ← experience with amazon web services",
+      "gcp ← experience with lambda",
       "logging ← experience with observability"
     ],
     "missing_skills": [
@@ -18770,8 +18823,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda"
     ],
     "missing_skills": [
       "databricks",
@@ -18817,8 +18870,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "google cloud ← experience with amazon web services"
+      "azure ← experience with lambda",
+      "google cloud ← experience with lambda"
     ],
     "missing_skills": [
       "databricks",
@@ -18862,8 +18915,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda"
     ],
     "missing_skills": [
       "databricks",
@@ -18900,10 +18953,10 @@
     "title": "Sr. Forward Deployed Engineer",
     "company": "databricks",
     "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8568173002",
-    "posted_at": "2026-08-18T14:04:31-04:00",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8645054002",
+    "posted_at": "2026-08-18T14:41:41-04:00",
     "remote": false,
-    "location": "Tokyo, Japan",
+    "location": "Stockholm, Sweden",
     "salary": null,
     "technical_matches": [
       "aws",
@@ -18911,8 +18964,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda"
     ],
     "missing_skills": [
       "databricks",
@@ -18947,10 +19000,10 @@
     "title": "Sr. Forward Deployed Engineer",
     "company": "databricks",
     "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8645054002",
-    "posted_at": "2026-08-18T14:41:41-04:00",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8568173002",
+    "posted_at": "2026-08-18T14:04:31-04:00",
     "remote": false,
-    "location": "Stockholm, Sweden",
+    "location": "Tokyo, Japan",
     "salary": null,
     "technical_matches": [
       "aws",
@@ -18958,428 +19011,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
-    ],
-    "missing_skills": [
-      "databricks",
-      "document ai",
-      "java",
-      "javascript",
-      "spark",
-      "typescript"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "6+ years required",
-    "location_eligible": true,
-    "location_confidence": "low",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at databricks with strong overlap in python, ci/cd, aws, azure, gcp.",
-    "recommended_action": "SKIP",
-    "response_probability": "MEDIUM",
-    "url_status": "not_checked",
-    "score_breakdown": {
-      "technical": 65,
-      "role": 100,
-      "remote": 55,
-      "freshness": 55,
-      "experience": 70,
-      "response": 60,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 67,
-    "priority": "⚪ REVIEW",
-    "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
-    "company": "databricks",
-    "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461219002",
-    "posted_at": "2026-08-18T13:54:10-04:00",
-    "remote": false,
-    "location": "Austin, Texas",
-    "salary": null,
-    "technical_matches": [
-      "aws",
-      "ci/cd",
-      "python"
-    ],
-    "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
-    ],
-    "missing_skills": [
-      "databricks",
-      "document ai",
-      "spark"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "6+ years required",
-    "location_eligible": true,
-    "location_confidence": "low",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at databricks with strong overlap in python, ci/cd, aws, azure, gcp.",
-    "recommended_action": "SKIP",
-    "response_probability": "MEDIUM",
-    "url_status": "not_checked",
-    "score_breakdown": {
-      "technical": 65,
-      "role": 100,
-      "remote": 55,
-      "freshness": 55,
-      "experience": 70,
-      "response": 60,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 67,
-    "priority": "⚪ REVIEW",
-    "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
-    "company": "databricks",
-    "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461163002",
-    "posted_at": "2026-08-18T13:54:10-04:00",
-    "remote": false,
-    "location": "San Francisco, California",
-    "salary": null,
-    "technical_matches": [
-      "aws",
-      "ci/cd",
-      "python"
-    ],
-    "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
-    ],
-    "missing_skills": [
-      "databricks",
-      "document ai",
-      "java",
-      "javascript",
-      "spark",
-      "typescript"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "6+ years required",
-    "location_eligible": true,
-    "location_confidence": "low",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at databricks with strong overlap in python, ci/cd, aws, azure, gcp.",
-    "recommended_action": "SKIP",
-    "response_probability": "MEDIUM",
-    "url_status": "not_checked",
-    "score_breakdown": {
-      "technical": 65,
-      "role": 100,
-      "remote": 55,
-      "freshness": 55,
-      "experience": 70,
-      "response": 60,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 67,
-    "priority": "⚪ REVIEW",
-    "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
-    "company": "databricks",
-    "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461168002",
-    "posted_at": "2026-08-18T13:54:10-04:00",
-    "remote": false,
-    "location": "Los Angeles, California",
-    "salary": null,
-    "technical_matches": [
-      "aws",
-      "ci/cd",
-      "python"
-    ],
-    "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
-    ],
-    "missing_skills": [
-      "databricks",
-      "document ai",
-      "java",
-      "javascript",
-      "spark",
-      "typescript"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "6+ years required",
-    "location_eligible": true,
-    "location_confidence": "low",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at databricks with strong overlap in python, ci/cd, aws, azure, gcp.",
-    "recommended_action": "SKIP",
-    "response_probability": "MEDIUM",
-    "url_status": "not_checked",
-    "score_breakdown": {
-      "technical": 65,
-      "role": 100,
-      "remote": 55,
-      "freshness": 55,
-      "experience": 70,
-      "response": 60,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 67,
-    "priority": "⚪ REVIEW",
-    "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
-    "company": "databricks",
-    "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461193002",
-    "posted_at": "2026-08-18T13:54:10-04:00",
-    "remote": false,
-    "location": "Seattle, Washington",
-    "salary": null,
-    "technical_matches": [
-      "aws",
-      "ci/cd",
-      "python"
-    ],
-    "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
-    ],
-    "missing_skills": [
-      "databricks",
-      "document ai",
-      "java",
-      "javascript",
-      "spark",
-      "typescript"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "6+ years required",
-    "location_eligible": true,
-    "location_confidence": "low",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at databricks with strong overlap in python, ci/cd, aws, azure, gcp.",
-    "recommended_action": "SKIP",
-    "response_probability": "MEDIUM",
-    "url_status": "not_checked",
-    "score_breakdown": {
-      "technical": 65,
-      "role": 100,
-      "remote": 55,
-      "freshness": 55,
-      "experience": 70,
-      "response": 60,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 67,
-    "priority": "⚪ REVIEW",
-    "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
-    "company": "databricks",
-    "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461218002",
-    "posted_at": "2026-08-18T13:54:10-04:00",
-    "remote": false,
-    "location": "Dallas, Texas",
-    "salary": null,
-    "technical_matches": [
-      "aws",
-      "ci/cd",
-      "python"
-    ],
-    "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
-    ],
-    "missing_skills": [
-      "databricks",
-      "document ai",
-      "java",
-      "javascript",
-      "spark",
-      "typescript"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "6+ years required",
-    "location_eligible": true,
-    "location_confidence": "low",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at databricks with strong overlap in python, ci/cd, aws, azure, gcp.",
-    "recommended_action": "SKIP",
-    "response_probability": "MEDIUM",
-    "url_status": "not_checked",
-    "score_breakdown": {
-      "technical": 65,
-      "role": 100,
-      "remote": 55,
-      "freshness": 55,
-      "experience": 70,
-      "response": 60,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 67,
-    "priority": "⚪ REVIEW",
-    "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
-    "company": "databricks",
-    "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461220002",
-    "posted_at": "2026-08-18T13:54:10-04:00",
-    "remote": false,
-    "location": "Chicago, Illinois",
-    "salary": null,
-    "technical_matches": [
-      "aws",
-      "ci/cd",
-      "python"
-    ],
-    "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
-    ],
-    "missing_skills": [
-      "databricks",
-      "document ai",
-      "java",
-      "javascript",
-      "spark",
-      "typescript"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "6+ years required",
-    "location_eligible": true,
-    "location_confidence": "low",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at databricks with strong overlap in python, ci/cd, aws, azure, gcp.",
-    "recommended_action": "SKIP",
-    "response_probability": "MEDIUM",
-    "url_status": "not_checked",
-    "score_breakdown": {
-      "technical": 65,
-      "role": 100,
-      "remote": 55,
-      "freshness": 55,
-      "experience": 70,
-      "response": 60,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 67,
-    "priority": "⚪ REVIEW",
-    "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
-    "company": "databricks",
-    "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461222002",
-    "posted_at": "2026-08-18T13:54:10-04:00",
-    "remote": false,
-    "location": "Boston, Massachusetts",
-    "salary": null,
-    "technical_matches": [
-      "aws",
-      "ci/cd",
-      "python"
-    ],
-    "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
-    ],
-    "missing_skills": [
-      "databricks",
-      "document ai",
-      "java",
-      "javascript",
-      "spark",
-      "typescript"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "6+ years required",
-    "location_eligible": true,
-    "location_confidence": "low",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at databricks with strong overlap in python, ci/cd, aws, azure, gcp.",
-    "recommended_action": "SKIP",
-    "response_probability": "MEDIUM",
-    "url_status": "not_checked",
-    "score_breakdown": {
-      "technical": 65,
-      "role": 100,
-      "remote": 55,
-      "freshness": 55,
-      "experience": 70,
-      "response": 60,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 67,
-    "priority": "⚪ REVIEW",
-    "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
-    "company": "databricks",
-    "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461226002",
-    "posted_at": "2026-08-18T13:54:10-04:00",
-    "remote": false,
-    "location": "New York City, New York",
-    "salary": null,
-    "technical_matches": [
-      "aws",
-      "ci/cd",
-      "python"
-    ],
-    "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
-    ],
-    "missing_skills": [
-      "databricks",
-      "document ai",
-      "java",
-      "javascript",
-      "spark",
-      "typescript"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "6+ years required",
-    "location_eligible": true,
-    "location_confidence": "low",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at databricks with strong overlap in python, ci/cd, aws, azure, gcp.",
-    "recommended_action": "SKIP",
-    "response_probability": "MEDIUM",
-    "url_status": "not_checked",
-    "score_breakdown": {
-      "technical": 65,
-      "role": 100,
-      "remote": 55,
-      "freshness": 55,
-      "experience": 70,
-      "response": 60,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 67,
-    "priority": "⚪ REVIEW",
-    "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
-    "company": "databricks",
-    "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461239002",
-    "posted_at": "2026-08-18T13:54:10-04:00",
-    "remote": false,
-    "location": "Atlanta, Georgia",
-    "salary": null,
-    "technical_matches": [
-      "aws",
-      "ci/cd",
-      "python"
-    ],
-    "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda"
     ],
     "missing_skills": [
       "databricks",
@@ -19425,8 +19058,428 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda"
+    ],
+    "missing_skills": [
+      "databricks",
+      "document ai",
+      "java",
+      "javascript",
+      "spark",
+      "typescript"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "6+ years required",
+    "location_eligible": true,
+    "location_confidence": "low",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at databricks with strong overlap in python, ci/cd, aws, azure, gcp.",
+    "recommended_action": "SKIP",
+    "response_probability": "MEDIUM",
+    "url_status": "not_checked",
+    "score_breakdown": {
+      "technical": 65,
+      "role": 100,
+      "remote": 55,
+      "freshness": 55,
+      "experience": 70,
+      "response": 60,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 67,
+    "priority": "⚪ REVIEW",
+    "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
+    "company": "databricks",
+    "source": "greenhouse",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461163002",
+    "posted_at": "2026-08-18T13:54:10-04:00",
+    "remote": false,
+    "location": "San Francisco, California",
+    "salary": null,
+    "technical_matches": [
+      "aws",
+      "ci/cd",
+      "python"
+    ],
+    "transferable_matches": [
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda"
+    ],
+    "missing_skills": [
+      "databricks",
+      "document ai",
+      "java",
+      "javascript",
+      "spark",
+      "typescript"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "6+ years required",
+    "location_eligible": true,
+    "location_confidence": "low",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at databricks with strong overlap in python, ci/cd, aws, azure, gcp.",
+    "recommended_action": "SKIP",
+    "response_probability": "MEDIUM",
+    "url_status": "not_checked",
+    "score_breakdown": {
+      "technical": 65,
+      "role": 100,
+      "remote": 55,
+      "freshness": 55,
+      "experience": 70,
+      "response": 60,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 67,
+    "priority": "⚪ REVIEW",
+    "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
+    "company": "databricks",
+    "source": "greenhouse",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461168002",
+    "posted_at": "2026-08-18T13:54:10-04:00",
+    "remote": false,
+    "location": "Los Angeles, California",
+    "salary": null,
+    "technical_matches": [
+      "aws",
+      "ci/cd",
+      "python"
+    ],
+    "transferable_matches": [
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda"
+    ],
+    "missing_skills": [
+      "databricks",
+      "document ai",
+      "java",
+      "javascript",
+      "spark",
+      "typescript"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "6+ years required",
+    "location_eligible": true,
+    "location_confidence": "low",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at databricks with strong overlap in python, ci/cd, aws, azure, gcp.",
+    "recommended_action": "SKIP",
+    "response_probability": "MEDIUM",
+    "url_status": "not_checked",
+    "score_breakdown": {
+      "technical": 65,
+      "role": 100,
+      "remote": 55,
+      "freshness": 55,
+      "experience": 70,
+      "response": 60,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 67,
+    "priority": "⚪ REVIEW",
+    "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
+    "company": "databricks",
+    "source": "greenhouse",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461193002",
+    "posted_at": "2026-08-18T13:54:10-04:00",
+    "remote": false,
+    "location": "Seattle, Washington",
+    "salary": null,
+    "technical_matches": [
+      "aws",
+      "ci/cd",
+      "python"
+    ],
+    "transferable_matches": [
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda"
+    ],
+    "missing_skills": [
+      "databricks",
+      "document ai",
+      "java",
+      "javascript",
+      "spark",
+      "typescript"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "6+ years required",
+    "location_eligible": true,
+    "location_confidence": "low",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at databricks with strong overlap in python, ci/cd, aws, azure, gcp.",
+    "recommended_action": "SKIP",
+    "response_probability": "MEDIUM",
+    "url_status": "not_checked",
+    "score_breakdown": {
+      "technical": 65,
+      "role": 100,
+      "remote": 55,
+      "freshness": 55,
+      "experience": 70,
+      "response": 60,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 67,
+    "priority": "⚪ REVIEW",
+    "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
+    "company": "databricks",
+    "source": "greenhouse",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461218002",
+    "posted_at": "2026-08-18T13:54:10-04:00",
+    "remote": false,
+    "location": "Dallas, Texas",
+    "salary": null,
+    "technical_matches": [
+      "aws",
+      "ci/cd",
+      "python"
+    ],
+    "transferable_matches": [
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda"
+    ],
+    "missing_skills": [
+      "databricks",
+      "document ai",
+      "java",
+      "javascript",
+      "spark",
+      "typescript"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "6+ years required",
+    "location_eligible": true,
+    "location_confidence": "low",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at databricks with strong overlap in python, ci/cd, aws, azure, gcp.",
+    "recommended_action": "SKIP",
+    "response_probability": "MEDIUM",
+    "url_status": "not_checked",
+    "score_breakdown": {
+      "technical": 65,
+      "role": 100,
+      "remote": 55,
+      "freshness": 55,
+      "experience": 70,
+      "response": 60,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 67,
+    "priority": "⚪ REVIEW",
+    "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
+    "company": "databricks",
+    "source": "greenhouse",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461219002",
+    "posted_at": "2026-08-18T13:54:10-04:00",
+    "remote": false,
+    "location": "Austin, Texas",
+    "salary": null,
+    "technical_matches": [
+      "aws",
+      "ci/cd",
+      "python"
+    ],
+    "transferable_matches": [
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda"
+    ],
+    "missing_skills": [
+      "databricks",
+      "document ai",
+      "spark"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "6+ years required",
+    "location_eligible": true,
+    "location_confidence": "low",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at databricks with strong overlap in python, ci/cd, aws, azure, gcp.",
+    "recommended_action": "SKIP",
+    "response_probability": "MEDIUM",
+    "url_status": "not_checked",
+    "score_breakdown": {
+      "technical": 65,
+      "role": 100,
+      "remote": 55,
+      "freshness": 55,
+      "experience": 70,
+      "response": 60,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 67,
+    "priority": "⚪ REVIEW",
+    "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
+    "company": "databricks",
+    "source": "greenhouse",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461220002",
+    "posted_at": "2026-08-18T13:54:10-04:00",
+    "remote": false,
+    "location": "Chicago, Illinois",
+    "salary": null,
+    "technical_matches": [
+      "aws",
+      "ci/cd",
+      "python"
+    ],
+    "transferable_matches": [
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda"
+    ],
+    "missing_skills": [
+      "databricks",
+      "document ai",
+      "java",
+      "javascript",
+      "spark",
+      "typescript"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "6+ years required",
+    "location_eligible": true,
+    "location_confidence": "low",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at databricks with strong overlap in python, ci/cd, aws, azure, gcp.",
+    "recommended_action": "SKIP",
+    "response_probability": "MEDIUM",
+    "url_status": "not_checked",
+    "score_breakdown": {
+      "technical": 65,
+      "role": 100,
+      "remote": 55,
+      "freshness": 55,
+      "experience": 70,
+      "response": 60,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 67,
+    "priority": "⚪ REVIEW",
+    "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
+    "company": "databricks",
+    "source": "greenhouse",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461222002",
+    "posted_at": "2026-08-18T13:54:10-04:00",
+    "remote": false,
+    "location": "Boston, Massachusetts",
+    "salary": null,
+    "technical_matches": [
+      "aws",
+      "ci/cd",
+      "python"
+    ],
+    "transferable_matches": [
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda"
+    ],
+    "missing_skills": [
+      "databricks",
+      "document ai",
+      "java",
+      "javascript",
+      "spark",
+      "typescript"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "6+ years required",
+    "location_eligible": true,
+    "location_confidence": "low",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at databricks with strong overlap in python, ci/cd, aws, azure, gcp.",
+    "recommended_action": "SKIP",
+    "response_probability": "MEDIUM",
+    "url_status": "not_checked",
+    "score_breakdown": {
+      "technical": 65,
+      "role": 100,
+      "remote": 55,
+      "freshness": 55,
+      "experience": 70,
+      "response": 60,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 67,
+    "priority": "⚪ REVIEW",
+    "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
+    "company": "databricks",
+    "source": "greenhouse",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461226002",
+    "posted_at": "2026-08-18T13:54:10-04:00",
+    "remote": false,
+    "location": "New York City, New York",
+    "salary": null,
+    "technical_matches": [
+      "aws",
+      "ci/cd",
+      "python"
+    ],
+    "transferable_matches": [
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda"
+    ],
+    "missing_skills": [
+      "databricks",
+      "document ai",
+      "java",
+      "javascript",
+      "spark",
+      "typescript"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "6+ years required",
+    "location_eligible": true,
+    "location_confidence": "low",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at databricks with strong overlap in python, ci/cd, aws, azure, gcp.",
+    "recommended_action": "SKIP",
+    "response_probability": "MEDIUM",
+    "url_status": "not_checked",
+    "score_breakdown": {
+      "technical": 65,
+      "role": 100,
+      "remote": 55,
+      "freshness": 55,
+      "experience": 70,
+      "response": 60,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 67,
+    "priority": "⚪ REVIEW",
+    "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
+    "company": "databricks",
+    "source": "greenhouse",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461239002",
+    "posted_at": "2026-08-18T13:54:10-04:00",
+    "remote": false,
+    "location": "Atlanta, Georgia",
+    "salary": null,
+    "technical_matches": [
+      "aws",
+      "ci/cd",
+      "python"
+    ],
+    "transferable_matches": [
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda"
     ],
     "missing_skills": [
       "databricks",
@@ -19472,8 +19525,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda"
     ],
     "missing_skills": [
       "databricks",
@@ -19519,8 +19572,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda"
     ],
     "missing_skills": [
       "databricks",
@@ -19566,8 +19619,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda"
     ],
     "missing_skills": [
       "databricks",
@@ -19613,8 +19666,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda"
     ],
     "missing_skills": [
       "databricks",
@@ -19660,8 +19713,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda"
     ],
     "missing_skills": [
       "databricks",
@@ -19707,290 +19760,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
-    ],
-    "missing_skills": [
-      "databricks",
-      "document ai",
-      "java",
-      "javascript",
-      "spark",
-      "typescript"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "6+ years required",
-    "location_eligible": true,
-    "location_confidence": "low",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at databricks with strong overlap in python, ci/cd, aws, azure, gcp.",
-    "recommended_action": "SKIP",
-    "response_probability": "MEDIUM",
-    "url_status": "not_checked",
-    "score_breakdown": {
-      "technical": 65,
-      "role": 100,
-      "remote": 55,
-      "freshness": 55,
-      "experience": 70,
-      "response": 60,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 67,
-    "priority": "⚪ REVIEW",
-    "title": "Sr. Forward Deployed Engineer (FDE) - Financial Services",
-    "company": "databricks",
-    "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8438791002",
-    "posted_at": "2026-08-18T14:00:53-04:00",
-    "remote": false,
-    "location": "Central - United States",
-    "salary": null,
-    "technical_matches": [
-      "aws",
-      "ci/cd",
-      "python"
-    ],
-    "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
-    ],
-    "missing_skills": [
-      "databricks",
-      "document ai",
-      "java",
-      "javascript",
-      "spark",
-      "typescript"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "6+ years required",
-    "location_eligible": true,
-    "location_confidence": "low",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at databricks with strong overlap in python, ci/cd, aws, azure, gcp.",
-    "recommended_action": "SKIP",
-    "response_probability": "MEDIUM",
-    "url_status": "not_checked",
-    "score_breakdown": {
-      "technical": 65,
-      "role": 100,
-      "remote": 55,
-      "freshness": 55,
-      "experience": 70,
-      "response": 60,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 67,
-    "priority": "⚪ REVIEW",
-    "title": "Sr. Forward Deployed Engineer (FDE) - Financial Services",
-    "company": "databricks",
-    "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8592937002",
-    "posted_at": "2026-08-18T14:00:53-04:00",
-    "remote": false,
-    "location": "Boston, Massachusetts",
-    "salary": null,
-    "technical_matches": [
-      "aws",
-      "ci/cd",
-      "python"
-    ],
-    "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
-    ],
-    "missing_skills": [
-      "databricks",
-      "document ai",
-      "java",
-      "javascript",
-      "spark",
-      "typescript"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "6+ years required",
-    "location_eligible": true,
-    "location_confidence": "low",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at databricks with strong overlap in python, ci/cd, aws, azure, gcp.",
-    "recommended_action": "SKIP",
-    "response_probability": "MEDIUM",
-    "url_status": "not_checked",
-    "score_breakdown": {
-      "technical": 65,
-      "role": 100,
-      "remote": 55,
-      "freshness": 55,
-      "experience": 70,
-      "response": 60,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 67,
-    "priority": "⚪ REVIEW",
-    "title": "Sr. Forward Deployed Engineer (FDE) - Financial Services",
-    "company": "databricks",
-    "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8592908002",
-    "posted_at": "2026-08-18T14:00:53-04:00",
-    "remote": false,
-    "location": "Atlanta, Georgia",
-    "salary": null,
-    "technical_matches": [
-      "aws",
-      "ci/cd",
-      "python"
-    ],
-    "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
-    ],
-    "missing_skills": [
-      "databricks",
-      "document ai",
-      "java",
-      "javascript",
-      "spark",
-      "typescript"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "6+ years required",
-    "location_eligible": true,
-    "location_confidence": "low",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at databricks with strong overlap in python, ci/cd, aws, azure, gcp.",
-    "recommended_action": "SKIP",
-    "response_probability": "MEDIUM",
-    "url_status": "not_checked",
-    "score_breakdown": {
-      "technical": 65,
-      "role": 100,
-      "remote": 55,
-      "freshness": 55,
-      "experience": 70,
-      "response": 60,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 67,
-    "priority": "⚪ REVIEW",
-    "title": "Sr. Forward Deployed Engineer (FDE) - Financial Services",
-    "company": "databricks",
-    "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8592928002",
-    "posted_at": "2026-08-18T14:00:53-04:00",
-    "remote": false,
-    "location": "Dallas, Texas",
-    "salary": null,
-    "technical_matches": [
-      "aws",
-      "ci/cd",
-      "python"
-    ],
-    "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
-    ],
-    "missing_skills": [
-      "databricks",
-      "document ai",
-      "java",
-      "javascript",
-      "spark",
-      "typescript"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "6+ years required",
-    "location_eligible": true,
-    "location_confidence": "low",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at databricks with strong overlap in python, ci/cd, aws, azure, gcp.",
-    "recommended_action": "SKIP",
-    "response_probability": "MEDIUM",
-    "url_status": "not_checked",
-    "score_breakdown": {
-      "technical": 65,
-      "role": 100,
-      "remote": 55,
-      "freshness": 55,
-      "experience": 70,
-      "response": 60,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 67,
-    "priority": "⚪ REVIEW",
-    "title": "Sr. Forward Deployed Engineer (FDE) - Financial Services",
-    "company": "databricks",
-    "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8592938002",
-    "posted_at": "2026-08-18T14:00:53-04:00",
-    "remote": false,
-    "location": "Chicago, Illinois",
-    "salary": null,
-    "technical_matches": [
-      "aws",
-      "ci/cd",
-      "python"
-    ],
-    "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
-    ],
-    "missing_skills": [
-      "databricks",
-      "document ai",
-      "java",
-      "javascript",
-      "spark",
-      "typescript"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "6+ years required",
-    "location_eligible": true,
-    "location_confidence": "low",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at databricks with strong overlap in python, ci/cd, aws, azure, gcp.",
-    "recommended_action": "SKIP",
-    "response_probability": "MEDIUM",
-    "url_status": "not_checked",
-    "score_breakdown": {
-      "technical": 65,
-      "role": 100,
-      "remote": 55,
-      "freshness": 55,
-      "experience": 70,
-      "response": 60,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 67,
-    "priority": "⚪ REVIEW",
-    "title": "Sr. Forward Deployed Engineer (FDE) - Financial Services",
-    "company": "databricks",
-    "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8592939002",
-    "posted_at": "2026-08-18T14:00:53-04:00",
-    "remote": false,
-    "location": "Philadelphia, Pennsylvania",
-    "salary": null,
-    "technical_matches": [
-      "aws",
-      "ci/cd",
-      "python"
-    ],
-    "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda"
     ],
     "missing_skills": [
       "databricks",
@@ -20036,8 +19807,102 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda"
+    ],
+    "missing_skills": [
+      "databricks",
+      "document ai",
+      "java",
+      "javascript",
+      "spark",
+      "typescript"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "6+ years required",
+    "location_eligible": true,
+    "location_confidence": "low",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at databricks with strong overlap in python, ci/cd, aws, azure, gcp.",
+    "recommended_action": "SKIP",
+    "response_probability": "MEDIUM",
+    "url_status": "not_checked",
+    "score_breakdown": {
+      "technical": 65,
+      "role": 100,
+      "remote": 55,
+      "freshness": 55,
+      "experience": 70,
+      "response": 60,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 67,
+    "priority": "⚪ REVIEW",
+    "title": "Sr. Forward Deployed Engineer (FDE) - Financial Services",
+    "company": "databricks",
+    "source": "greenhouse",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8592928002",
+    "posted_at": "2026-08-18T14:00:53-04:00",
+    "remote": false,
+    "location": "Dallas, Texas",
+    "salary": null,
+    "technical_matches": [
+      "aws",
+      "ci/cd",
+      "python"
+    ],
+    "transferable_matches": [
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda"
+    ],
+    "missing_skills": [
+      "databricks",
+      "document ai",
+      "java",
+      "javascript",
+      "spark",
+      "typescript"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "6+ years required",
+    "location_eligible": true,
+    "location_confidence": "low",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at databricks with strong overlap in python, ci/cd, aws, azure, gcp.",
+    "recommended_action": "SKIP",
+    "response_probability": "MEDIUM",
+    "url_status": "not_checked",
+    "score_breakdown": {
+      "technical": 65,
+      "role": 100,
+      "remote": 55,
+      "freshness": 55,
+      "experience": 70,
+      "response": 60,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 67,
+    "priority": "⚪ REVIEW",
+    "title": "Sr. Forward Deployed Engineer (FDE) - Financial Services",
+    "company": "databricks",
+    "source": "greenhouse",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8438791002",
+    "posted_at": "2026-08-18T14:00:53-04:00",
+    "remote": false,
+    "location": "Central - United States",
+    "salary": null,
+    "technical_matches": [
+      "aws",
+      "ci/cd",
+      "python"
+    ],
+    "transferable_matches": [
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda"
     ],
     "missing_skills": [
       "databricks",
@@ -20083,8 +19948,196 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda"
+    ],
+    "missing_skills": [
+      "databricks",
+      "document ai",
+      "java",
+      "javascript",
+      "spark",
+      "typescript"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "6+ years required",
+    "location_eligible": true,
+    "location_confidence": "low",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at databricks with strong overlap in python, ci/cd, aws, azure, gcp.",
+    "recommended_action": "SKIP",
+    "response_probability": "MEDIUM",
+    "url_status": "not_checked",
+    "score_breakdown": {
+      "technical": 65,
+      "role": 100,
+      "remote": 55,
+      "freshness": 55,
+      "experience": 70,
+      "response": 60,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 67,
+    "priority": "⚪ REVIEW",
+    "title": "Sr. Forward Deployed Engineer (FDE) - Financial Services",
+    "company": "databricks",
+    "source": "greenhouse",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8592939002",
+    "posted_at": "2026-08-18T14:00:53-04:00",
+    "remote": false,
+    "location": "Philadelphia, Pennsylvania",
+    "salary": null,
+    "technical_matches": [
+      "aws",
+      "ci/cd",
+      "python"
+    ],
+    "transferable_matches": [
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda"
+    ],
+    "missing_skills": [
+      "databricks",
+      "document ai",
+      "java",
+      "javascript",
+      "spark",
+      "typescript"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "6+ years required",
+    "location_eligible": true,
+    "location_confidence": "low",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at databricks with strong overlap in python, ci/cd, aws, azure, gcp.",
+    "recommended_action": "SKIP",
+    "response_probability": "MEDIUM",
+    "url_status": "not_checked",
+    "score_breakdown": {
+      "technical": 65,
+      "role": 100,
+      "remote": 55,
+      "freshness": 55,
+      "experience": 70,
+      "response": 60,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 67,
+    "priority": "⚪ REVIEW",
+    "title": "Sr. Forward Deployed Engineer (FDE) - Financial Services",
+    "company": "databricks",
+    "source": "greenhouse",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8592938002",
+    "posted_at": "2026-08-18T14:00:53-04:00",
+    "remote": false,
+    "location": "Chicago, Illinois",
+    "salary": null,
+    "technical_matches": [
+      "aws",
+      "ci/cd",
+      "python"
+    ],
+    "transferable_matches": [
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda"
+    ],
+    "missing_skills": [
+      "databricks",
+      "document ai",
+      "java",
+      "javascript",
+      "spark",
+      "typescript"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "6+ years required",
+    "location_eligible": true,
+    "location_confidence": "low",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at databricks with strong overlap in python, ci/cd, aws, azure, gcp.",
+    "recommended_action": "SKIP",
+    "response_probability": "MEDIUM",
+    "url_status": "not_checked",
+    "score_breakdown": {
+      "technical": 65,
+      "role": 100,
+      "remote": 55,
+      "freshness": 55,
+      "experience": 70,
+      "response": 60,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 67,
+    "priority": "⚪ REVIEW",
+    "title": "Sr. Forward Deployed Engineer (FDE) - Financial Services",
+    "company": "databricks",
+    "source": "greenhouse",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8592908002",
+    "posted_at": "2026-08-18T14:00:53-04:00",
+    "remote": false,
+    "location": "Atlanta, Georgia",
+    "salary": null,
+    "technical_matches": [
+      "aws",
+      "ci/cd",
+      "python"
+    ],
+    "transferable_matches": [
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda"
+    ],
+    "missing_skills": [
+      "databricks",
+      "document ai",
+      "java",
+      "javascript",
+      "spark",
+      "typescript"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "6+ years required",
+    "location_eligible": true,
+    "location_confidence": "low",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at databricks with strong overlap in python, ci/cd, aws, azure, gcp.",
+    "recommended_action": "SKIP",
+    "response_probability": "MEDIUM",
+    "url_status": "not_checked",
+    "score_breakdown": {
+      "technical": 65,
+      "role": 100,
+      "remote": 55,
+      "freshness": 55,
+      "experience": 70,
+      "response": 60,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 67,
+    "priority": "⚪ REVIEW",
+    "title": "Sr. Forward Deployed Engineer (FDE) - Financial Services",
+    "company": "databricks",
+    "source": "greenhouse",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8592937002",
+    "posted_at": "2026-08-18T14:00:53-04:00",
+    "remote": false,
+    "location": "Boston, Massachusetts",
+    "salary": null,
+    "technical_matches": [
+      "aws",
+      "ci/cd",
+      "python"
+    ],
+    "transferable_matches": [
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda"
     ],
     "missing_skills": [
       "databricks",
@@ -20130,55 +20183,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
-    ],
-    "missing_skills": [
-      "databricks",
-      "document ai",
-      "java",
-      "javascript",
-      "spark",
-      "typescript"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "6+ years required",
-    "location_eligible": true,
-    "location_confidence": "low",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at databricks with strong overlap in python, ci/cd, aws, azure, gcp.",
-    "recommended_action": "SKIP",
-    "response_probability": "MEDIUM",
-    "url_status": "not_checked",
-    "score_breakdown": {
-      "technical": 65,
-      "role": 100,
-      "remote": 55,
-      "freshness": 55,
-      "experience": 70,
-      "response": 60,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 67,
-    "priority": "⚪ REVIEW",
-    "title": "Sr. Forward Deployed Engineer (FDE) - Healthcare & Life Sciences",
-    "company": "databricks",
-    "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8494142002",
-    "posted_at": "2026-08-18T13:55:14-04:00",
-    "remote": false,
-    "location": "Boston, Massachusetts",
-    "salary": null,
-    "technical_matches": [
-      "aws",
-      "ci/cd",
-      "python"
-    ],
-    "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda"
     ],
     "missing_skills": [
       "databricks",
@@ -20224,8 +20230,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda"
     ],
     "missing_skills": [
       "databricks",
@@ -20260,10 +20266,10 @@
     "title": "Sr. Forward Deployed Engineer (FDE) - Healthcare & Life Sciences",
     "company": "databricks",
     "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8494146002",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8494142002",
     "posted_at": "2026-08-18T13:55:14-04:00",
     "remote": false,
-    "location": "Atlanta, Georgia",
+    "location": "Boston, Massachusetts",
     "salary": null,
     "technical_matches": [
       "aws",
@@ -20271,102 +20277,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
-    ],
-    "missing_skills": [
-      "databricks",
-      "document ai",
-      "java",
-      "javascript",
-      "spark",
-      "typescript"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "6+ years required",
-    "location_eligible": true,
-    "location_confidence": "low",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at databricks with strong overlap in python, ci/cd, aws, azure, gcp.",
-    "recommended_action": "SKIP",
-    "response_probability": "MEDIUM",
-    "url_status": "not_checked",
-    "score_breakdown": {
-      "technical": 65,
-      "role": 100,
-      "remote": 55,
-      "freshness": 55,
-      "experience": 70,
-      "response": 60,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 67,
-    "priority": "⚪ REVIEW",
-    "title": "Sr. Forward Deployed Engineer (FDE) - Healthcare & Life Sciences",
-    "company": "databricks",
-    "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8494145002",
-    "posted_at": "2026-08-18T13:55:14-04:00",
-    "remote": false,
-    "location": "Austin, Texas",
-    "salary": null,
-    "technical_matches": [
-      "aws",
-      "ci/cd",
-      "python"
-    ],
-    "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
-    ],
-    "missing_skills": [
-      "databricks",
-      "document ai",
-      "java",
-      "javascript",
-      "spark",
-      "typescript"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "6+ years required",
-    "location_eligible": true,
-    "location_confidence": "low",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at databricks with strong overlap in python, ci/cd, aws, azure, gcp.",
-    "recommended_action": "SKIP",
-    "response_probability": "MEDIUM",
-    "url_status": "not_checked",
-    "score_breakdown": {
-      "technical": 65,
-      "role": 100,
-      "remote": 55,
-      "freshness": 55,
-      "experience": 70,
-      "response": 60,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 67,
-    "priority": "⚪ REVIEW",
-    "title": "Sr. Forward Deployed Engineer (FDE) - Healthcare & Life Sciences",
-    "company": "databricks",
-    "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8494144002",
-    "posted_at": "2026-08-18T13:55:14-04:00",
-    "remote": false,
-    "location": "Dallas, Texas",
-    "salary": null,
-    "technical_matches": [
-      "aws",
-      "ci/cd",
-      "python"
-    ],
-    "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda"
     ],
     "missing_skills": [
       "databricks",
@@ -20412,8 +20324,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda"
     ],
     "missing_skills": [
       "databricks",
@@ -20459,8 +20371,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda"
     ],
     "missing_skills": [
       "databricks",
@@ -20492,13 +20404,13 @@
   {
     "score": 67,
     "priority": "⚪ REVIEW",
-    "title": "Sr. Forward Deployed Engineer (FDE) - Manufacturing",
+    "title": "Sr. Forward Deployed Engineer (FDE) - Healthcare & Life Sciences",
     "company": "databricks",
     "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8341313002",
-    "posted_at": "2026-08-18T13:54:14-04:00",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8494144002",
+    "posted_at": "2026-08-18T13:55:14-04:00",
     "remote": false,
-    "location": "New York City, New York",
+    "location": "Dallas, Texas",
     "salary": null,
     "technical_matches": [
       "aws",
@@ -20506,8 +20418,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda"
     ],
     "missing_skills": [
       "databricks",
@@ -20539,13 +20451,13 @@
   {
     "score": 67,
     "priority": "⚪ REVIEW",
-    "title": "Sr. Forward Deployed Engineer (FDE) - Manufacturing",
+    "title": "Sr. Forward Deployed Engineer (FDE) - Healthcare & Life Sciences",
     "company": "databricks",
     "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8494156002",
-    "posted_at": "2026-08-18T13:54:14-04:00",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8494145002",
+    "posted_at": "2026-08-18T13:55:14-04:00",
     "remote": false,
-    "location": "Seattle, Washington",
+    "location": "Austin, Texas",
     "salary": null,
     "technical_matches": [
       "aws",
@@ -20553,8 +20465,55 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda"
+    ],
+    "missing_skills": [
+      "databricks",
+      "document ai",
+      "java",
+      "javascript",
+      "spark",
+      "typescript"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "6+ years required",
+    "location_eligible": true,
+    "location_confidence": "low",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at databricks with strong overlap in python, ci/cd, aws, azure, gcp.",
+    "recommended_action": "SKIP",
+    "response_probability": "MEDIUM",
+    "url_status": "not_checked",
+    "score_breakdown": {
+      "technical": 65,
+      "role": 100,
+      "remote": 55,
+      "freshness": 55,
+      "experience": 70,
+      "response": 60,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 67,
+    "priority": "⚪ REVIEW",
+    "title": "Sr. Forward Deployed Engineer (FDE) - Healthcare & Life Sciences",
+    "company": "databricks",
+    "source": "greenhouse",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8494146002",
+    "posted_at": "2026-08-18T13:55:14-04:00",
+    "remote": false,
+    "location": "Atlanta, Georgia",
+    "salary": null,
+    "technical_matches": [
+      "aws",
+      "ci/cd",
+      "python"
+    ],
+    "transferable_matches": [
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda"
     ],
     "missing_skills": [
       "databricks",
@@ -20600,8 +20559,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda"
     ],
     "missing_skills": [
       "databricks",
@@ -20647,8 +20606,102 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda"
+    ],
+    "missing_skills": [
+      "databricks",
+      "document ai",
+      "java",
+      "javascript",
+      "spark",
+      "typescript"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "6+ years required",
+    "location_eligible": true,
+    "location_confidence": "low",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at databricks with strong overlap in python, ci/cd, aws, azure, gcp.",
+    "recommended_action": "SKIP",
+    "response_probability": "MEDIUM",
+    "url_status": "not_checked",
+    "score_breakdown": {
+      "technical": 65,
+      "role": 100,
+      "remote": 55,
+      "freshness": 55,
+      "experience": 70,
+      "response": 60,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 67,
+    "priority": "⚪ REVIEW",
+    "title": "Sr. Forward Deployed Engineer (FDE) - Manufacturing",
+    "company": "databricks",
+    "source": "greenhouse",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8341313002",
+    "posted_at": "2026-08-18T13:54:14-04:00",
+    "remote": false,
+    "location": "New York City, New York",
+    "salary": null,
+    "technical_matches": [
+      "aws",
+      "ci/cd",
+      "python"
+    ],
+    "transferable_matches": [
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda"
+    ],
+    "missing_skills": [
+      "databricks",
+      "document ai",
+      "java",
+      "javascript",
+      "spark",
+      "typescript"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "6+ years required",
+    "location_eligible": true,
+    "location_confidence": "low",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at databricks with strong overlap in python, ci/cd, aws, azure, gcp.",
+    "recommended_action": "SKIP",
+    "response_probability": "MEDIUM",
+    "url_status": "not_checked",
+    "score_breakdown": {
+      "technical": 65,
+      "role": 100,
+      "remote": 55,
+      "freshness": 55,
+      "experience": 70,
+      "response": 60,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 67,
+    "priority": "⚪ REVIEW",
+    "title": "Sr. Forward Deployed Engineer (FDE) - Manufacturing",
+    "company": "databricks",
+    "source": "greenhouse",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8494156002",
+    "posted_at": "2026-08-18T13:54:14-04:00",
+    "remote": false,
+    "location": "Seattle, Washington",
+    "salary": null,
+    "technical_matches": [
+      "aws",
+      "ci/cd",
+      "python"
+    ],
+    "transferable_matches": [
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda"
     ],
     "missing_skills": [
       "databricks",
@@ -20694,55 +20747,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
-    ],
-    "missing_skills": [
-      "databricks",
-      "document ai",
-      "java",
-      "javascript",
-      "spark",
-      "typescript"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "6+ years required",
-    "location_eligible": true,
-    "location_confidence": "low",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at databricks with strong overlap in python, ci/cd, aws, azure, gcp.",
-    "recommended_action": "SKIP",
-    "response_probability": "MEDIUM",
-    "url_status": "not_checked",
-    "score_breakdown": {
-      "technical": 65,
-      "role": 100,
-      "remote": 55,
-      "freshness": 55,
-      "experience": 70,
-      "response": 60,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 67,
-    "priority": "⚪ REVIEW",
-    "title": "Sr. Forward Deployed Engineer (FDE) - Public Sector",
-    "company": "databricks",
-    "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8494107002",
-    "posted_at": "2026-08-18T13:54:47-04:00",
-    "remote": false,
-    "location": "Virginia",
-    "salary": null,
-    "technical_matches": [
-      "aws",
-      "ci/cd",
-      "python"
-    ],
-    "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda"
     ],
     "missing_skills": [
       "databricks",
@@ -20788,8 +20794,55 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda"
+    ],
+    "missing_skills": [
+      "databricks",
+      "document ai",
+      "java",
+      "javascript",
+      "spark",
+      "typescript"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "6+ years required",
+    "location_eligible": true,
+    "location_confidence": "low",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at databricks with strong overlap in python, ci/cd, aws, azure, gcp.",
+    "recommended_action": "SKIP",
+    "response_probability": "MEDIUM",
+    "url_status": "not_checked",
+    "score_breakdown": {
+      "technical": 65,
+      "role": 100,
+      "remote": 55,
+      "freshness": 55,
+      "experience": 70,
+      "response": 60,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 67,
+    "priority": "⚪ REVIEW",
+    "title": "Sr. Forward Deployed Engineer (FDE) - Public Sector",
+    "company": "databricks",
+    "source": "greenhouse",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8494107002",
+    "posted_at": "2026-08-18T13:54:47-04:00",
+    "remote": false,
+    "location": "Virginia",
+    "salary": null,
+    "technical_matches": [
+      "aws",
+      "ci/cd",
+      "python"
+    ],
+    "transferable_matches": [
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda"
     ],
     "missing_skills": [
       "databricks",
@@ -20835,196 +20888,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
-    ],
-    "missing_skills": [
-      "databricks",
-      "document ai",
-      "java",
-      "javascript",
-      "spark",
-      "typescript"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "6+ years required",
-    "location_eligible": true,
-    "location_confidence": "low",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at databricks with strong overlap in python, ci/cd, aws, azure, gcp.",
-    "recommended_action": "SKIP",
-    "response_probability": "MEDIUM",
-    "url_status": "not_checked",
-    "score_breakdown": {
-      "technical": 65,
-      "role": 100,
-      "remote": 55,
-      "freshness": 55,
-      "experience": 70,
-      "response": 60,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 67,
-    "priority": "⚪ REVIEW",
-    "title": "Sr. Forward Deployed Engineer (FDE) - Retail",
-    "company": "databricks",
-    "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8643895002",
-    "posted_at": "2026-08-18T14:40:49-04:00",
-    "remote": false,
-    "location": "Northeast - United States; Southeast - United States",
-    "salary": null,
-    "technical_matches": [
-      "aws",
-      "ci/cd",
-      "python"
-    ],
-    "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
-    ],
-    "missing_skills": [
-      "databricks",
-      "document ai",
-      "java",
-      "javascript",
-      "spark",
-      "typescript"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "6+ years required",
-    "location_eligible": true,
-    "location_confidence": "low",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at databricks with strong overlap in python, ci/cd, aws, azure, gcp.",
-    "recommended_action": "SKIP",
-    "response_probability": "MEDIUM",
-    "url_status": "not_checked",
-    "score_breakdown": {
-      "technical": 65,
-      "role": 100,
-      "remote": 55,
-      "freshness": 55,
-      "experience": 70,
-      "response": 60,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 67,
-    "priority": "⚪ REVIEW",
-    "title": "Sr. Forward Deployed Engineer (FDE) - Retail",
-    "company": "databricks",
-    "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8647667002",
-    "posted_at": "2026-08-18T14:40:49-04:00",
-    "remote": false,
-    "location": "Central - United States",
-    "salary": null,
-    "technical_matches": [
-      "aws",
-      "ci/cd",
-      "python"
-    ],
-    "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
-    ],
-    "missing_skills": [
-      "databricks",
-      "document ai",
-      "java",
-      "javascript",
-      "spark",
-      "typescript"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "6+ years required",
-    "location_eligible": true,
-    "location_confidence": "low",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at databricks with strong overlap in python, ci/cd, aws, azure, gcp.",
-    "recommended_action": "SKIP",
-    "response_probability": "MEDIUM",
-    "url_status": "not_checked",
-    "score_breakdown": {
-      "technical": 65,
-      "role": 100,
-      "remote": 55,
-      "freshness": 55,
-      "experience": 70,
-      "response": 60,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 67,
-    "priority": "⚪ REVIEW",
-    "title": "Sr. Forward Deployed Engineer (FDE) - Retail",
-    "company": "databricks",
-    "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8647668002",
-    "posted_at": "2026-08-18T14:40:49-04:00",
-    "remote": false,
-    "location": "Austin, Texas",
-    "salary": null,
-    "technical_matches": [
-      "aws",
-      "ci/cd",
-      "python"
-    ],
-    "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
-    ],
-    "missing_skills": [
-      "databricks",
-      "document ai",
-      "java",
-      "javascript",
-      "spark",
-      "typescript"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "6+ years required",
-    "location_eligible": true,
-    "location_confidence": "low",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at databricks with strong overlap in python, ci/cd, aws, azure, gcp.",
-    "recommended_action": "SKIP",
-    "response_probability": "MEDIUM",
-    "url_status": "not_checked",
-    "score_breakdown": {
-      "technical": 65,
-      "role": 100,
-      "remote": 55,
-      "freshness": 55,
-      "experience": 70,
-      "response": 60,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 67,
-    "priority": "⚪ REVIEW",
-    "title": "Sr. Forward Deployed Engineer (FDE) - Retail",
-    "company": "databricks",
-    "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8647669002",
-    "posted_at": "2026-08-18T14:40:49-04:00",
-    "remote": false,
-    "location": "Chicago, Illinois",
-    "salary": null,
-    "technical_matches": [
-      "aws",
-      "ci/cd",
-      "python"
-    ],
-    "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda"
     ],
     "missing_skills": [
       "databricks",
@@ -21070,8 +20935,149 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda"
+    ],
+    "missing_skills": [
+      "databricks",
+      "document ai",
+      "java",
+      "javascript",
+      "spark",
+      "typescript"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "6+ years required",
+    "location_eligible": true,
+    "location_confidence": "low",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at databricks with strong overlap in python, ci/cd, aws, azure, gcp.",
+    "recommended_action": "SKIP",
+    "response_probability": "MEDIUM",
+    "url_status": "not_checked",
+    "score_breakdown": {
+      "technical": 65,
+      "role": 100,
+      "remote": 55,
+      "freshness": 55,
+      "experience": 70,
+      "response": 60,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 67,
+    "priority": "⚪ REVIEW",
+    "title": "Sr. Forward Deployed Engineer (FDE) - Retail",
+    "company": "databricks",
+    "source": "greenhouse",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8647667002",
+    "posted_at": "2026-08-18T14:40:49-04:00",
+    "remote": false,
+    "location": "Central - United States",
+    "salary": null,
+    "technical_matches": [
+      "aws",
+      "ci/cd",
+      "python"
+    ],
+    "transferable_matches": [
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda"
+    ],
+    "missing_skills": [
+      "databricks",
+      "document ai",
+      "java",
+      "javascript",
+      "spark",
+      "typescript"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "6+ years required",
+    "location_eligible": true,
+    "location_confidence": "low",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at databricks with strong overlap in python, ci/cd, aws, azure, gcp.",
+    "recommended_action": "SKIP",
+    "response_probability": "MEDIUM",
+    "url_status": "not_checked",
+    "score_breakdown": {
+      "technical": 65,
+      "role": 100,
+      "remote": 55,
+      "freshness": 55,
+      "experience": 70,
+      "response": 60,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 67,
+    "priority": "⚪ REVIEW",
+    "title": "Sr. Forward Deployed Engineer (FDE) - Retail",
+    "company": "databricks",
+    "source": "greenhouse",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8643895002",
+    "posted_at": "2026-08-18T14:40:49-04:00",
+    "remote": false,
+    "location": "Northeast - United States; Southeast - United States",
+    "salary": null,
+    "technical_matches": [
+      "aws",
+      "ci/cd",
+      "python"
+    ],
+    "transferable_matches": [
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda"
+    ],
+    "missing_skills": [
+      "databricks",
+      "document ai",
+      "java",
+      "javascript",
+      "spark",
+      "typescript"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "6+ years required",
+    "location_eligible": true,
+    "location_confidence": "low",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at databricks with strong overlap in python, ci/cd, aws, azure, gcp.",
+    "recommended_action": "SKIP",
+    "response_probability": "MEDIUM",
+    "url_status": "not_checked",
+    "score_breakdown": {
+      "technical": 65,
+      "role": 100,
+      "remote": 55,
+      "freshness": 55,
+      "experience": 70,
+      "response": 60,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 67,
+    "priority": "⚪ REVIEW",
+    "title": "Sr. Forward Deployed Engineer (FDE) - Retail",
+    "company": "databricks",
+    "source": "greenhouse",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8647669002",
+    "posted_at": "2026-08-18T14:40:49-04:00",
+    "remote": false,
+    "location": "Chicago, Illinois",
+    "salary": null,
+    "technical_matches": [
+      "aws",
+      "ci/cd",
+      "python"
+    ],
+    "transferable_matches": [
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda"
     ],
     "missing_skills": [
       "databricks",
@@ -21117,8 +21123,55 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda"
+    ],
+    "missing_skills": [
+      "databricks",
+      "document ai",
+      "java",
+      "javascript",
+      "spark",
+      "typescript"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "6+ years required",
+    "location_eligible": true,
+    "location_confidence": "low",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at databricks with strong overlap in python, ci/cd, aws, azure, gcp.",
+    "recommended_action": "SKIP",
+    "response_probability": "MEDIUM",
+    "url_status": "not_checked",
+    "score_breakdown": {
+      "technical": 65,
+      "role": 100,
+      "remote": 55,
+      "freshness": 55,
+      "experience": 70,
+      "response": 60,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 67,
+    "priority": "⚪ REVIEW",
+    "title": "Sr. Forward Deployed Engineer (FDE) - Retail",
+    "company": "databricks",
+    "source": "greenhouse",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8647668002",
+    "posted_at": "2026-08-18T14:40:49-04:00",
+    "remote": false,
+    "location": "Austin, Texas",
+    "salary": null,
+    "technical_matches": [
+      "aws",
+      "ci/cd",
+      "python"
+    ],
+    "transferable_matches": [
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda"
     ],
     "missing_skills": [
       "databricks",
@@ -21164,8 +21217,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda"
     ],
     "missing_skills": [
       "databricks",
@@ -21211,8 +21264,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda"
     ],
     "missing_skills": [
       "databricks",
@@ -21258,8 +21311,8 @@
       "mcp"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda",
       "guidance ← experience with structured output"
     ],
     "missing_skills": [
@@ -21766,8 +21819,8 @@
       "aws"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda"
     ],
     "missing_skills": [
       "kubernetes"
@@ -21806,8 +21859,8 @@
       "aws"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda"
     ],
     "missing_skills": [
       "kubernetes"
@@ -21889,7 +21942,7 @@
       "python"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain"
+      "agno ← experience with langgraph"
     ],
     "missing_skills": [
       "distributed systems",
@@ -22050,47 +22103,6 @@
     }
   },
   {
-    "score": 67,
-    "priority": "⚪ REVIEW",
-    "title": "Associate Instructor",
-    "company": "BeyondTrust",
-    "source": "weworkremotely",
-    "url": "https://weworkremotely.com/remote-jobs/beyondtrust-associate-instructor",
-    "posted_at": "2026-08-22T07:31:03+00:00",
-    "remote": true,
-    "location": "Remote",
-    "salary": null,
-    "technical_matches": [],
-    "transferable_matches": [
-      "guidance ← experience with structured output",
-      "instructor ← experience with structured output",
-      "otel ← experience with observability",
-      "together ai ← experience with claude"
-    ],
-    "missing_skills": [
-      "document ai",
-      "rust"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "2+ years required (meets bar)",
-    "location_eligible": true,
-    "location_confidence": "high",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at BeyondTrust with strong overlap in together ai, instructor.",
-    "recommended_action": "SKIP",
-    "response_probability": "UNKNOWN",
-    "url_status": "not_checked",
-    "score_breakdown": {
-      "technical": 40,
-      "role": 56,
-      "remote": 100,
-      "freshness": 100,
-      "experience": 100,
-      "response": 50,
-      "compensation": 50
-    }
-  },
-  {
     "score": 66,
     "priority": "⚪ REVIEW",
     "title": "Cloud Security Engineer",
@@ -22106,8 +22118,8 @@
       "aws"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda",
       "guardrails ← experience with structured output"
     ],
     "missing_skills": [
@@ -22596,7 +22608,7 @@
       "python"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with langgraph",
       "metrics ← experience with observability"
     ],
     "missing_skills": [
@@ -22644,7 +22656,7 @@
       "postgresql"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with langgraph",
       "guidance ← experience with structured output",
       "prompt engineering ← experience with structured output"
     ],
@@ -22692,8 +22704,8 @@
       "python"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
-      "dify ← experience with langchain",
+      "agno ← experience with langgraph",
+      "dify ← experience with lightrag",
       "guardrails ← experience with structured output"
     ],
     "missing_skills": [
@@ -22782,7 +22794,7 @@
       "ci/cd"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain"
+      "agno ← experience with langgraph"
     ],
     "missing_skills": [
       "document ai",
@@ -22859,8 +22871,8 @@
     "title": "Sr. Forward Deployed Engineer (FDE) - Public Sector ",
     "company": "databricks",
     "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8657488002",
-    "posted_at": "2026-08-18T14:46:06-04:00",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8423310002",
+    "posted_at": "2026-08-18T13:59:13-04:00",
     "remote": true,
     "location": "Remote - Virginia; Remote - Washington D.C.",
     "salary": null,
@@ -22870,8 +22882,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda"
     ],
     "missing_skills": [
       "databricks",
@@ -22964,8 +22976,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda"
     ],
     "missing_skills": [
       "kubernetes",
@@ -24439,6 +24451,49 @@
   {
     "score": 66,
     "priority": "⚪ REVIEW",
+    "title": "Strategic Finance, B2B Product",
+    "company": "openai",
+    "source": "ashby",
+    "url": "https://jobs.ashbyhq.com/openai/3c07323e-04da-4fff-b925-a60294941040/application",
+    "posted_at": "2026-08-22T12:59:21.112000+00:00",
+    "remote": true,
+    "location": "San Francisco",
+    "salary": null,
+    "technical_matches": [
+      "openai"
+    ],
+    "transferable_matches": [
+      "cohere ← experience with claude",
+      "guardrails ← experience with structured output",
+      "metrics ← experience with observability"
+    ],
+    "missing_skills": [
+      "recommendation",
+      "rust",
+      "sql"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "7+ years required",
+    "location_eligible": true,
+    "location_confidence": "high",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at openai with strong overlap in openai, cohere, guardrails.",
+    "recommended_action": "SKIP",
+    "response_probability": "MEDIUM",
+    "url_status": "not_checked",
+    "score_breakdown": {
+      "technical": 45,
+      "role": 53,
+      "remote": 100,
+      "freshness": 100,
+      "experience": 70,
+      "response": 60,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 66,
+    "priority": "⚪ REVIEW",
     "title": "Product Engineer — Working Student",
     "company": "sumup",
     "source": "arbeitnow",
@@ -24522,41 +24577,38 @@
   {
     "score": 66,
     "priority": "⚪ REVIEW",
-    "title": "Senior Backend Engineer",
-    "company": "bits&birds GmbH",
-    "source": "arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/bitsbirds-gmbh/senior-backend-engineer-berlin-187689",
-    "posted_at": "2026-08-21T13:30:30+00:00",
-    "remote": false,
-    "location": "Berlin",
+    "title": "Associate Instructor",
+    "company": "BeyondTrust",
+    "source": "weworkremotely",
+    "url": "https://weworkremotely.com/remote-jobs/beyondtrust-associate-instructor",
+    "posted_at": "2026-08-22T07:31:03+00:00",
+    "remote": true,
+    "location": "Remote",
     "salary": null,
-    "technical_matches": [
-      "docker",
-      "openai"
-    ],
+    "technical_matches": [],
     "transferable_matches": [
-      "google cloud ← experience with amazon web services"
+      "guidance ← experience with structured output",
+      "instructor ← experience with structured output",
+      "otel ← experience with observability",
+      "together ai ← experience with claude"
     ],
     "missing_skills": [
-      "graphql",
-      "mysql",
-      "nestjs",
-      "node.js",
-      "typescript"
+      "document ai",
+      "rust"
     ],
     "hard_requirements_missing": [],
-    "experience_required": "not specified",
+    "experience_required": "2+ years required (meets bar)",
     "location_eligible": true,
-    "location_confidence": "low",
+    "location_confidence": "high",
     "freshness_confidence": "known",
-    "reason": "Recently posted role at bits&birds GmbH with strong overlap in openai, docker, google cloud.",
+    "reason": "Recently posted role at BeyondTrust with strong overlap in together ai, instructor.",
     "recommended_action": "SKIP",
     "response_probability": "UNKNOWN",
     "url_status": "not_checked",
     "score_breakdown": {
       "technical": 40,
-      "role": 100,
-      "remote": 55,
+      "role": 56,
+      "remote": 100,
       "freshness": 90,
       "experience": 100,
       "response": 50,
@@ -24579,8 +24631,8 @@
       "docker"
     ],
     "transferable_matches": [
-      "ec2 ← experience with amazon web services",
-      "ecs ← experience with amazon web services"
+      "ec2 ← experience with lambda",
+      "ecs ← experience with lambda"
     ],
     "missing_skills": [
       "dynamodb",
@@ -24667,7 +24719,7 @@
       "python"
     ],
     "transferable_matches": [
-      "gcp ← experience with amazon web services",
+      "gcp ← experience with lambda",
       "guidance ← experience with structured output"
     ],
     "missing_skills": [
@@ -24711,7 +24763,7 @@
       "knowledge graph"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with langgraph",
       "arize ← experience with llm evaluation"
     ],
     "missing_skills": [
@@ -24753,7 +24805,7 @@
       "python"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
+      "agno ← experience with langgraph",
       "arize ← experience with llm evaluation",
       "guardrails ← experience with structured output",
       "metrics ← experience with observability"
@@ -25288,7 +25340,7 @@
       "aws"
     ],
     "transferable_matches": [
-      "google cloud ← experience with amazon web services",
+      "google cloud ← experience with lambda",
       "metrics ← experience with observability"
     ],
     "missing_skills": [
@@ -25330,7 +25382,7 @@
       "aws"
     ],
     "transferable_matches": [
-      "google cloud ← experience with amazon web services",
+      "google cloud ← experience with lambda",
       "metrics ← experience with observability"
     ],
     "missing_skills": [
@@ -25492,8 +25544,8 @@
       "ci/cd"
     ],
     "transferable_matches": [
-      "agno ← experience with langchain",
-      "dify ← experience with langchain",
+      "agno ← experience with langgraph",
+      "dify ← experience with lightrag",
       "metrics ← experience with observability"
     ],
     "missing_skills": [
@@ -25536,7 +25588,7 @@
       "supervisor"
     ],
     "transferable_matches": [
-      "google cloud ← experience with amazon web services"
+      "google cloud ← experience with lambda"
     ],
     "missing_skills": [
       "document ai",
@@ -25789,8 +25841,8 @@
       "ci/cd"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda",
       "guidance ← experience with structured output"
     ],
     "missing_skills": [
@@ -25837,8 +25889,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda"
     ],
     "missing_skills": [
       "databricks",
@@ -25886,8 +25938,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda"
     ],
     "missing_skills": [
       "databricks",
@@ -25934,8 +25986,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services"
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda"
     ],
     "missing_skills": [
       "databricks",
@@ -26111,7 +26163,7 @@
       "observability"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services"
+      "azure ← experience with lambda"
     ],
     "missing_skills": [
       "distributed systems"
@@ -26151,7 +26203,7 @@
       "observability"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services"
+      "azure ← experience with lambda"
     ],
     "missing_skills": [
       "document ai",
@@ -26197,8 +26249,8 @@
       "aws"
     ],
     "transferable_matches": [
-      "azure ← experience with amazon web services",
-      "gcp ← experience with amazon web services",
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda",
       "guidance ← experience with structured output",
       "otel ← experience with observability"
     ],

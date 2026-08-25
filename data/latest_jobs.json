@@ -20,7 +20,7 @@
       "redis"
     ],
     "transferable_matches": [
-      "agno ← experience with llamaindex",
+      "agno ← experience with langgraph",
       "guidance ← experience with structured output",
       "traces ← experience with observability"
     ],
@@ -76,9 +76,9 @@
     ],
     "transferable_matches": [
       "azure ← experience with lambda",
-      "dspy ← experience with llamaindex",
+      "dspy ← experience with langgraph",
       "gcp ← experience with lambda",
-      "hugging face ← experience with openai"
+      "hugging face ← experience with claude"
     ],
     "missing_skills": [
       "databricks",
@@ -178,7 +178,7 @@
     ],
     "transferable_matches": [
       "eks ← experience with lambda",
-      "google ai ← experience with openai",
+      "google ai ← experience with claude",
       "grafana ← experience with observability",
       "opensearch ← experience with qdrant",
       "otel ← experience with observability"
@@ -231,10 +231,10 @@
       "python"
     ],
     "transferable_matches": [
-      "aws bedrock ← experience with openai",
+      "aws bedrock ← experience with claude",
       "azure ← experience with lambda",
       "gcp ← experience with lambda",
-      "gpt ← experience with openai",
+      "gpt ← experience with claude",
       "grafana ← experience with observability",
       "prometheus ← experience with observability"
     ],
@@ -287,7 +287,7 @@
       "instructor ← experience with structured output",
       "metrics ← experience with observability",
       "prompt engineering ← experience with structured output",
-      "together ai ← experience with openai",
+      "together ai ← experience with claude",
       "unstructured ← experience with lightrag"
     ],
     "missing_skills": [
@@ -318,52 +318,6 @@
   {
     "score": 91,
     "priority": "🔥 EXCEPTIONAL",
-    "title": "Senior Backend Engineer - Monitoring and Anomaly Detection (Monetization)",
-    "company": "gitlab",
-    "source": "greenhouse",
-    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8615319002",
-    "posted_at": "2026-08-25T04:02:20-04:00",
-    "remote": false,
-    "location": "Bangalore, India",
-    "salary": null,
-    "technical_matches": [
-      "agent orchestration",
-      "observability",
-      "python"
-    ],
-    "transferable_matches": [
-      "grafana ← experience with observability",
-      "metrics ← experience with observability",
-      "opentelemetry ← experience with observability",
-      "prometheus ← experience with observability",
-      "traces ← experience with observability",
-      "tracing ← experience with observability"
-    ],
-    "missing_skills": [
-      "rust"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "not specified",
-    "location_eligible": true,
-    "location_confidence": "low",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at gitlab with strong overlap in agent orchestration, observability, python, tracing, opentelemetry.",
-    "recommended_action": "APPLY_NOW",
-    "response_probability": "HIGH",
-    "url_status": "ok",
-    "score_breakdown": {
-      "technical": 100,
-      "role": 100,
-      "remote": 55,
-      "freshness": 100,
-      "experience": 100,
-      "response": 100,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 91,
-    "priority": "🔥 EXCEPTIONAL",
     "title": "AI Engineer - FDE (Forward Deployed Engineer)",
     "company": "databricks",
     "source": "greenhouse",
@@ -380,9 +334,9 @@
     ],
     "transferable_matches": [
       "azure ← experience with lambda",
-      "dspy ← experience with llamaindex",
+      "dspy ← experience with langgraph",
       "gcp ← experience with lambda",
-      "hugging face ← experience with openai"
+      "hugging face ← experience with claude"
     ],
     "missing_skills": [
       "databricks",
@@ -431,9 +385,9 @@
       "retrieval augmented generation"
     ],
     "transferable_matches": [
-      "azure openai ← experience with openai",
+      "azure openai ← experience with lambda",
       "azure ← experience with lambda",
-      "gemini ← experience with openai"
+      "gemini ← experience with claude"
     ],
     "missing_skills": [
       "retrieval"
@@ -477,9 +431,9 @@
       "retrieval augmented generation"
     ],
     "transferable_matches": [
-      "azure openai ← experience with openai",
+      "azure openai ← experience with lambda",
       "azure ← experience with lambda",
-      "gemini ← experience with openai"
+      "gemini ← experience with claude"
     ],
     "missing_skills": [
       "retrieval"
@@ -523,9 +477,9 @@
       "retrieval augmented generation"
     ],
     "transferable_matches": [
-      "azure openai ← experience with openai",
+      "azure openai ← experience with lambda",
       "azure ← experience with lambda",
-      "gemini ← experience with openai"
+      "gemini ← experience with claude"
     ],
     "missing_skills": [
       "retrieval"
@@ -570,7 +524,7 @@
     ],
     "transferable_matches": [
       "langfuse ← experience with observability",
-      "pydantic ai ← experience with llamaindex"
+      "pydantic ai ← experience with langgraph"
     ],
     "missing_skills": [
       "agent workflows"
@@ -597,6 +551,52 @@
   {
     "score": 89,
     "priority": "🟢 HIGH MATCH",
+    "title": "Senior Backend Engineer - Monitoring and Anomaly Detection (Monetization)",
+    "company": "gitlab",
+    "source": "greenhouse",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8615319002",
+    "posted_at": "2026-08-25T04:02:20-04:00",
+    "remote": false,
+    "location": "Bangalore, India",
+    "salary": null,
+    "technical_matches": [
+      "agent orchestration",
+      "observability",
+      "python"
+    ],
+    "transferable_matches": [
+      "grafana ← experience with observability",
+      "metrics ← experience with observability",
+      "opentelemetry ← experience with observability",
+      "prometheus ← experience with observability",
+      "traces ← experience with observability",
+      "tracing ← experience with observability"
+    ],
+    "missing_skills": [
+      "rust"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "not specified",
+    "location_eligible": true,
+    "location_confidence": "low",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at gitlab with strong overlap in agent orchestration, observability, python, tracing, opentelemetry.",
+    "recommended_action": "APPLY_NOW",
+    "response_probability": "HIGH",
+    "url_status": "ok",
+    "score_breakdown": {
+      "technical": 100,
+      "role": 100,
+      "remote": 55,
+      "freshness": 90,
+      "experience": 100,
+      "response": 100,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 89,
+    "priority": "🟢 HIGH MATCH",
     "title": "Senior Machine Learning Engineer",
     "company": "cloudflare",
     "source": "greenhouse",
@@ -612,11 +612,11 @@
     ],
     "transferable_matches": [
       "benchmarking ← experience with llm evaluation",
-      "llama ← experience with openai",
-      "llama.cpp ← experience with openai",
-      "sglang ← experience with openai",
-      "tensorrt-llm ← experience with openai",
-      "vllm ← experience with openai"
+      "llama ← experience with claude",
+      "llama.cpp ← experience with claude",
+      "sglang ← experience with claude",
+      "tensorrt-llm ← experience with claude",
+      "vllm ← experience with claude"
     ],
     "missing_skills": [
       "distributed systems",
@@ -670,13 +670,13 @@
     ],
     "transferable_matches": [
       "azure ← experience with lambda",
-      "deepseek ← experience with openai",
+      "deepseek ← experience with claude",
       "gcp ← experience with lambda",
-      "gemini ← experience with openai",
+      "gemini ← experience with claude",
       "google cloud ← experience with lambda",
-      "gpt ← experience with openai",
-      "llama ← experience with openai",
-      "pydantic ai ← experience with llamaindex"
+      "gpt ← experience with claude",
+      "llama ← experience with claude",
+      "pydantic ai ← experience with langgraph"
     ],
     "missing_skills": [
       "airflow",
@@ -724,8 +724,8 @@
       "python"
     ],
     "transferable_matches": [
-      "aws bedrock ← experience with openai",
-      "strands agents ← experience with llamaindex"
+      "aws bedrock ← experience with claude",
+      "strands agents ← experience with langgraph"
     ],
     "missing_skills": [
       "fine-tuning",
@@ -939,7 +939,7 @@
     ],
     "transferable_matches": [
       "azure ← experience with lambda",
-      "dify ← experience with llamaindex",
+      "dify ← experience with lightrag",
       "gcp ← experience with lambda",
       "google cloud ← experience with lambda",
       "otel ← experience with observability"
@@ -989,7 +989,7 @@
       "rag"
     ],
     "transferable_matches": [
-      "crewai ← experience with llamaindex"
+      "crewai ← experience with langgraph"
     ],
     "missing_skills": [],
     "hard_requirements_missing": [],
@@ -1032,7 +1032,7 @@
     "transferable_matches": [
       "arize ← experience with llm evaluation",
       "metrics ← experience with observability",
-      "transformers ← experience with openai"
+      "transformers ← experience with claude"
     ],
     "missing_skills": [
       "airflow",
@@ -1095,7 +1095,7 @@
     "transferable_matches": [
       "arize ← experience with llm evaluation",
       "metrics ← experience with observability",
-      "transformers ← experience with openai"
+      "transformers ← experience with claude"
     ],
     "missing_skills": [
       "airflow",
@@ -1205,9 +1205,9 @@
     ],
     "transferable_matches": [
       "azure ← experience with lambda",
-      "dspy ← experience with llamaindex",
+      "dspy ← experience with langgraph",
       "gcp ← experience with lambda",
-      "hugging face ← experience with openai"
+      "hugging face ← experience with claude"
     ],
     "missing_skills": [
       "databricks",
@@ -1313,11 +1313,11 @@
       "rag"
     ],
     "transferable_matches": [
-      "gemini ← experience with openai",
-      "google ai ← experience with openai",
+      "gemini ← experience with claude",
+      "google ai ← experience with claude",
       "metrics ← experience with observability",
       "prompt engineering ← experience with structured output",
-      "vertex ai ← experience with openai"
+      "vertex ai ← experience with lambda"
     ],
     "missing_skills": [
       "a2a"
@@ -1368,7 +1368,7 @@
     "transferable_matches": [
       "azure ← experience with lambda",
       "gcp ← experience with lambda",
-      "hugging face ← experience with openai",
+      "hugging face ← experience with claude",
       "prompt engineering ← experience with structured output"
     ],
     "missing_skills": [
@@ -1409,6 +1409,56 @@
   {
     "score": 87,
     "priority": "🟢 HIGH MATCH",
+    "title": "Platform Engineer",
+    "company": "9Fin",
+    "source": "arbeitnow",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/9fin/platform-engineer-london-97734",
+    "posted_at": "2026-08-24T21:40:18+00:00",
+    "remote": false,
+    "location": "London",
+    "salary": null,
+    "technical_matches": [
+      "aws",
+      "ci/cd",
+      "docker",
+      "lambda",
+      "observability",
+      "python"
+    ],
+    "transferable_matches": [
+      "cloudwatch ← experience with lambda",
+      "ec2 ← experience with lambda",
+      "ecs ← experience with lambda",
+      "logging ← experience with observability",
+      "opentelemetry ← experience with observability",
+      "s3 ← experience with lambda"
+    ],
+    "missing_skills": [
+      "go",
+      "terraform"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "5+ years required",
+    "location_eligible": true,
+    "location_confidence": "low",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at 9Fin with strong overlap in observability, python, docker, opentelemetry, cloudwatch.",
+    "recommended_action": "APPLY_NOW",
+    "response_probability": "MEDIUM",
+    "url_status": "ok",
+    "score_breakdown": {
+      "technical": 100,
+      "role": 100,
+      "remote": 55,
+      "freshness": 90,
+      "experience": 95,
+      "response": 60,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 87,
+    "priority": "🟢 HIGH MATCH",
     "title": "AI Engineer – Agentic Systems (Voice) (m/f/d)",
     "company": "Acto",
     "source": "arbeitnow",
@@ -1426,8 +1476,8 @@
       "python"
     ],
     "transferable_matches": [
-      "hugging face ← experience with openai",
-      "mistral ← experience with openai",
+      "hugging face ← experience with claude",
+      "mistral ← experience with claude",
       "prompt engineering ← experience with structured output"
     ],
     "missing_skills": [
@@ -1470,56 +1520,6 @@
   {
     "score": 87,
     "priority": "🟢 HIGH MATCH",
-    "title": "Platform Engineer",
-    "company": "9Fin",
-    "source": "arbeitnow",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/9fin/platform-engineer-london-97734",
-    "posted_at": "2026-08-24T21:40:18+00:00",
-    "remote": false,
-    "location": "London",
-    "salary": null,
-    "technical_matches": [
-      "aws",
-      "ci/cd",
-      "docker",
-      "lambda",
-      "observability",
-      "python"
-    ],
-    "transferable_matches": [
-      "cloudwatch ← experience with observability",
-      "ec2 ← experience with lambda",
-      "ecs ← experience with lambda",
-      "logging ← experience with observability",
-      "opentelemetry ← experience with observability",
-      "s3 ← experience with lambda"
-    ],
-    "missing_skills": [
-      "go",
-      "terraform"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "5+ years required",
-    "location_eligible": true,
-    "location_confidence": "low",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at 9Fin with strong overlap in observability, python, docker, opentelemetry, cloudwatch.",
-    "recommended_action": "APPLY_NOW",
-    "response_probability": "MEDIUM",
-    "url_status": "ok",
-    "score_breakdown": {
-      "technical": 100,
-      "role": 100,
-      "remote": 55,
-      "freshness": 90,
-      "experience": 95,
-      "response": 60,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 87,
-    "priority": "🟢 HIGH MATCH",
     "title": "Senior Agent Platform Engineer",
     "company": "Proxima Fusion GmbH",
     "source": "arbeitnow",
@@ -1540,7 +1540,7 @@
       "gcp ← experience with lambda",
       "google cloud ← experience with lambda",
       "logging ← experience with observability",
-      "together ai ← experience with openai",
+      "together ai ← experience with claude",
       "tracing ← experience with observability"
     ],
     "missing_skills": [
@@ -1594,7 +1594,7 @@
       "metrics ← experience with observability",
       "otel ← experience with observability",
       "prompt engineering ← experience with structured output",
-      "together ai ← experience with openai",
+      "together ai ← experience with claude",
       "unstructured ← experience with lightrag"
     ],
     "missing_skills": [
@@ -1642,7 +1642,7 @@
       "python"
     ],
     "transferable_matches": [
-      "agno ← experience with llamaindex",
+      "agno ← experience with langgraph",
       "guidance ← experience with structured output"
     ],
     "missing_skills": [
@@ -1779,7 +1779,7 @@
       "redis"
     ],
     "transferable_matches": [
-      "agno ← experience with llamaindex",
+      "agno ← experience with langgraph",
       "guidance ← experience with structured output",
       "instructor ← experience with structured output",
       "s3 ← experience with lambda"
@@ -1831,13 +1831,13 @@
       "redis"
     ],
     "transferable_matches": [
-      "agno ← experience with llamaindex",
+      "agno ← experience with langgraph",
       "azure ← experience with lambda",
       "google cloud ← experience with lambda",
       "grafana ← experience with observability",
       "logging ← experience with observability",
       "prometheus ← experience with observability",
-      "together ai ← experience with openai"
+      "together ai ← experience with claude"
     ],
     "missing_skills": [
       "java",
@@ -1988,7 +1988,7 @@
       "tool calling"
     ],
     "transferable_matches": [
-      "agno ← experience with llamaindex",
+      "agno ← experience with langgraph",
       "evals ← experience with llm evaluation"
     ],
     "missing_skills": [
@@ -2007,7 +2007,7 @@
     "reason": "Recently posted role at cloudflare with strong overlap in ai agents, tool calling, mcp, agno, evals.",
     "recommended_action": "APPLY_NOW",
     "response_probability": "HIGH",
-    "url_status": "ok",
+    "url_status": "unknown",
     "score_breakdown": {
       "technical": 95,
       "role": 84,
@@ -2035,7 +2035,7 @@
       "redis"
     ],
     "transferable_matches": [
-      "agno ← experience with llamaindex",
+      "agno ← experience with langgraph",
       "guidance ← experience with structured output",
       "instructor ← experience with structured output",
       "s3 ← experience with lambda"
@@ -2135,7 +2135,7 @@
       "python"
     ],
     "transferable_matches": [
-      "cloudwatch ← experience with observability",
+      "cloudwatch ← experience with lambda",
       "ec2 ← experience with lambda",
       "ecs ← experience with lambda",
       "logging ← experience with observability",
@@ -2186,8 +2186,8 @@
       "python"
     ],
     "transferable_matches": [
-      "aws bedrock ← experience with openai",
-      "gpt ← experience with openai",
+      "aws bedrock ← experience with claude",
+      "gpt ← experience with claude",
       "grafana ← experience with observability",
       "logging ← experience with observability",
       "prometheus ← experience with observability"
@@ -2239,8 +2239,8 @@
       "observability"
     ],
     "transferable_matches": [
-      "aws bedrock ← experience with openai",
-      "gpt ← experience with openai",
+      "aws bedrock ← experience with claude",
+      "gpt ← experience with claude",
       "grafana ← experience with observability",
       "opentelemetry ← experience with observability"
     ],
@@ -2317,7 +2317,7 @@
     "reason": "Recently posted role at reddit with strong overlap in python, redis, docker, arize, otel.",
     "recommended_action": "APPLY_NOW",
     "response_probability": "HIGH",
-    "url_status": "ok",
+    "url_status": "unknown",
     "score_breakdown": {
       "technical": 75,
       "role": 77,
@@ -2348,7 +2348,7 @@
       "python"
     ],
     "transferable_matches": [
-      "agno ← experience with llamaindex",
+      "agno ← experience with langgraph",
       "otel ← experience with observability"
     ],
     "missing_skills": [
@@ -2400,7 +2400,7 @@
       "python"
     ],
     "transferable_matches": [
-      "agno ← experience with llamaindex",
+      "agno ← experience with langgraph",
       "otel ← experience with observability"
     ],
     "missing_skills": [
@@ -2421,7 +2421,7 @@
     "reason": "Recently posted role at affirm with strong overlap in agentic ai, observability, python, agno, otel.",
     "recommended_action": "APPLY_NOW",
     "response_probability": "HIGH",
-    "url_status": "ok",
+    "url_status": "unknown",
     "score_breakdown": {
       "technical": 100,
       "role": 78,
@@ -2498,9 +2498,9 @@
     ],
     "transferable_matches": [
       "azure ← experience with lambda",
-      "dspy ← experience with llamaindex",
+      "dspy ← experience with langgraph",
       "gcp ← experience with lambda",
-      "hugging face ← experience with openai"
+      "hugging face ← experience with claude"
     ],
     "missing_skills": [
       "databricks",
@@ -2548,9 +2548,9 @@
     ],
     "transferable_matches": [
       "azure ← experience with lambda",
-      "dspy ← experience with llamaindex",
+      "dspy ← experience with langgraph",
       "gcp ← experience with lambda",
-      "hugging face ← experience with openai"
+      "hugging face ← experience with claude"
     ],
     "missing_skills": [
       "databricks",
@@ -2598,9 +2598,9 @@
     ],
     "transferable_matches": [
       "azure ← experience with lambda",
-      "dspy ← experience with llamaindex",
+      "dspy ← experience with langgraph",
       "gcp ← experience with lambda",
-      "hugging face ← experience with openai"
+      "hugging face ← experience with claude"
     ],
     "missing_skills": [
       "databricks",
@@ -2851,7 +2851,7 @@
       "observability"
     ],
     "transferable_matches": [
-      "agno ← experience with llamaindex",
+      "agno ← experience with langgraph",
       "gcp ← experience with lambda",
       "guardrails ← experience with structured output",
       "logging ← experience with observability",
@@ -3007,7 +3007,7 @@
     "transferable_matches": [
       "elasticsearch ← experience with qdrant",
       "graph database ← experience with neo4j",
-      "hugging face ← experience with openai"
+      "hugging face ← experience with claude"
     ],
     "missing_skills": [
       "api integration",
@@ -3060,10 +3060,10 @@
       "rag"
     ],
     "transferable_matches": [
-      "hugging face ← experience with openai",
-      "llama ← experience with openai",
+      "hugging face ← experience with claude",
+      "llama ← experience with claude",
       "metrics ← experience with observability",
-      "transformers ← experience with openai"
+      "transformers ← experience with claude"
     ],
     "missing_skills": [
       "autonomous agents",
@@ -3166,7 +3166,7 @@
       "rag"
     ],
     "transferable_matches": [
-      "aws bedrock ← experience with openai",
+      "aws bedrock ← experience with claude",
       "datadog ← experience with observability",
       "eks ← experience with lambda",
       "elasticsearch ← experience with qdrant",
@@ -3178,7 +3178,7 @@
       "opensearch ← experience with qdrant",
       "opentelemetry ← experience with observability",
       "otel ← experience with observability",
-      "pydantic ai ← experience with llamaindex",
+      "pydantic ai ← experience with langgraph",
       "s3 ← experience with lambda"
     ],
     "missing_skills": [
@@ -3291,7 +3291,7 @@
       "rag"
     ],
     "transferable_matches": [
-      "cohere ← experience with openai",
+      "cohere ← experience with claude",
       "guardrails ← experience with structured output",
       "logging ← experience with observability"
     ],
@@ -3606,8 +3606,8 @@
     ],
     "transferable_matches": [
       "benchmarking ← experience with llm evaluation",
-      "sglang ← experience with openai",
-      "vllm ← experience with openai"
+      "sglang ← experience with claude",
+      "vllm ← experience with claude"
     ],
     "missing_skills": [
       "distributed systems",
@@ -3702,7 +3702,7 @@
       "python"
     ],
     "transferable_matches": [
-      "agno ← experience with llamaindex",
+      "agno ← experience with langgraph",
       "gcp ← experience with lambda",
       "gke ← experience with lambda",
       "google cloud ← experience with lambda",
@@ -4060,7 +4060,7 @@
       "rag"
     ],
     "transferable_matches": [
-      "aws bedrock ← experience with openai"
+      "aws bedrock ← experience with claude"
     ],
     "missing_skills": [
       "a2a"
@@ -4153,14 +4153,14 @@
       "rag"
     ],
     "transferable_matches": [
-      "aws bedrock ← experience with openai",
+      "aws bedrock ← experience with claude",
       "azure functions ← experience with lambda",
-      "azure openai ← experience with openai",
+      "azure openai ← experience with lambda",
       "azure ← experience with lambda",
       "eks ← experience with lambda",
       "google cloud ← experience with lambda",
-      "gpt ← experience with openai",
-      "llama ← experience with openai"
+      "gpt ← experience with claude",
+      "llama ← experience with claude"
     ],
     "missing_skills": [
       "django",
@@ -4212,8 +4212,8 @@
       "rag"
     ],
     "transferable_matches": [
-      "aws bedrock ← experience with openai",
-      "gpt ← experience with openai"
+      "aws bedrock ← experience with claude",
+      "gpt ← experience with claude"
     ],
     "missing_skills": [
       "java",
@@ -4262,7 +4262,7 @@
       "observability"
     ],
     "transferable_matches": [
-      "agno ← experience with llamaindex",
+      "agno ← experience with langgraph",
       "azure ← experience with lambda",
       "datadog ← experience with observability",
       "ecs ← experience with lambda",
@@ -4424,7 +4424,7 @@
       "azure ← experience with lambda",
       "gcp ← experience with lambda",
       "guardrails ← experience with structured output",
-      "hugging face ← experience with openai"
+      "hugging face ← experience with claude"
     ],
     "missing_skills": [
       "databricks",
@@ -4997,12 +4997,12 @@
     "score": 80,
     "priority": "🟡 GOOD MATCH",
     "title": "Senior Data Platform Engineer",
-    "company": "smartlyio",
+    "company": "Smartly",
     "source": "arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/smartlyio/senior-data-platform-engineer-berlin-berlin-156175",
-    "posted_at": "2026-08-25T08:55:25+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/smartly/senior-data-platform-engineer-berlin-172988",
+    "posted_at": "2026-08-25T13:45:28+00:00",
     "remote": false,
-    "location": "Berlin, Berlin",
+    "location": "Berlin, Germany",
     "salary": null,
     "technical_matches": [
       "github actions",
@@ -5029,7 +5029,7 @@
     "location_eligible": true,
     "location_confidence": "low",
     "freshness_confidence": "known",
-    "reason": "Recently posted role at smartlyio with strong overlap in observability, python, postgresql, json schema, s3.",
+    "reason": "Recently posted role at Smartly with strong overlap in observability, python, postgresql, json schema, s3.",
     "recommended_action": "REVIEW_AND_APPLY",
     "response_probability": "UNKNOWN",
     "url_status": "ok",
@@ -5305,7 +5305,7 @@
       "benchmarking ← experience with llm evaluation",
       "guidance ← experience with structured output",
       "otel ← experience with observability",
-      "together ai ← experience with openai"
+      "together ai ← experience with claude"
     ],
     "missing_skills": [
       "distributed systems",
@@ -5358,7 +5358,7 @@
       "benchmarking ← experience with llm evaluation",
       "guidance ← experience with structured output",
       "otel ← experience with observability",
-      "together ai ← experience with openai"
+      "together ai ← experience with claude"
     ],
     "missing_skills": [
       "distributed systems",
@@ -5378,7 +5378,7 @@
     "reason": "Recently posted role at affirm with strong overlap in agentic ai, python, redis, together ai, guidance.",
     "recommended_action": "REVIEW_AND_APPLY",
     "response_probability": "HIGH",
-    "url_status": "unknown",
+    "url_status": "ok",
     "score_breakdown": {
       "technical": 100,
       "role": 78,
@@ -5412,7 +5412,7 @@
       "rag"
     ],
     "transferable_matches": [
-      "agno ← experience with llamaindex",
+      "agno ← experience with langgraph",
       "azure ← experience with lambda",
       "gcp ← experience with lambda",
       "logging ← experience with observability",
@@ -5575,7 +5575,7 @@
     "transferable_matches": [
       "azure ← experience with lambda",
       "gcp ← experience with lambda",
-      "hugging face ← experience with openai"
+      "hugging face ← experience with claude"
     ],
     "missing_skills": [
       "databricks",
@@ -5623,14 +5623,14 @@
     ],
     "transferable_matches": [
       "azure ← experience with lambda",
-      "gemini ← experience with openai",
-      "gpt ← experience with openai",
-      "llama ← experience with openai",
-      "qwen ← experience with openai",
+      "gemini ← experience with claude",
+      "gpt ← experience with claude",
+      "llama ← experience with claude",
+      "qwen ← experience with claude",
       "sagemaker ← experience with lambda",
-      "sglang ← experience with openai",
-      "vertex ai ← experience with openai",
-      "vllm ← experience with openai"
+      "sglang ← experience with claude",
+      "vertex ai ← experience with lambda",
+      "vllm ← experience with claude"
     ],
     "missing_skills": [
       "databricks",
@@ -5728,7 +5728,7 @@
       "azure ← experience with lambda",
       "benchmarking ← experience with llm evaluation",
       "gcp ← experience with lambda",
-      "llama ← experience with openai"
+      "llama ← experience with claude"
     ],
     "missing_skills": [
       "classification",
@@ -5819,7 +5819,7 @@
       "python"
     ],
     "transferable_matches": [
-      "agno ← experience with llamaindex",
+      "agno ← experience with langgraph",
       "guidance ← experience with structured output",
       "logging ← experience with observability",
       "metrics ← experience with observability",
@@ -5866,7 +5866,7 @@
       "python"
     ],
     "transferable_matches": [
-      "agno ← experience with llamaindex",
+      "agno ← experience with langgraph",
       "azure ← experience with lambda",
       "gcp ← experience with lambda",
       "guidance ← experience with structured output"
@@ -5950,53 +5950,6 @@
   {
     "score": 78,
     "priority": "🟡 GOOD MATCH",
-    "title": "Staff Software Engineer, Identity & Access Management",
-    "company": "robinhood",
-    "source": "greenhouse",
-    "url": "https://boards.greenhouse.io/robinhood/jobs/7819461?t=gh_src=&gh_jid=7819461",
-    "posted_at": "2026-08-24T10:19:28-04:00",
-    "remote": false,
-    "location": "Bellevue, WA",
-    "salary": null,
-    "technical_matches": [
-      "agentic ai",
-      "ai agents",
-      "aws",
-      "mcp",
-      "model context protocol",
-      "observability",
-      "python"
-    ],
-    "transferable_matches": [
-      "guardrails ← experience with structured output"
-    ],
-    "missing_skills": [
-      "go",
-      "kubernetes",
-      "rust"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "8+ years required",
-    "location_eligible": true,
-    "location_confidence": "low",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at robinhood with strong overlap in agentic ai, ai agents, mcp, guardrails.",
-    "recommended_action": "REVIEW_AND_APPLY",
-    "response_probability": "HIGH",
-    "url_status": "unknown",
-    "score_breakdown": {
-      "technical": 100,
-      "role": 60,
-      "remote": 55,
-      "freshness": 90,
-      "experience": 50,
-      "response": 100,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 78,
-    "priority": "🟡 GOOD MATCH",
     "title": "Security Risk Management Lead",
     "company": "affirm",
     "source": "greenhouse",
@@ -6012,7 +5965,7 @@
     ],
     "transferable_matches": [
       "azure ← experience with lambda",
-      "dify ← experience with llamaindex",
+      "dify ← experience with lightrag",
       "gcp ← experience with lambda",
       "logging ← experience with observability",
       "metrics ← experience with observability",
@@ -6031,101 +5984,12 @@
     "reason": "Recently posted role at affirm with strong overlap in claude, python, aws, dify, otel.",
     "recommended_action": "REVIEW_AND_APPLY",
     "response_probability": "HIGH",
-    "url_status": "unknown",
+    "url_status": "ok",
     "score_breakdown": {
       "technical": 100,
       "role": 40,
       "remote": 100,
       "freshness": 35,
-      "experience": 95,
-      "response": 100,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 78,
-    "priority": "🟡 GOOD MATCH",
-    "title": "Senior Software Engineer, Backend (Recoveries)",
-    "company": "affirm",
-    "source": "greenhouse",
-    "url": "https://job-boards.greenhouse.io/affirm/jobs/7854606003",
-    "posted_at": "2026-08-18T10:17:41-04:00",
-    "remote": true,
-    "location": "Remote Spain",
-    "salary": null,
-    "technical_matches": [
-      "aws",
-      "observability",
-      "python"
-    ],
-    "transferable_matches": [
-      "guidance ← experience with structured output",
-      "metrics ← experience with observability",
-      "otel ← experience with observability"
-    ],
-    "missing_skills": [
-      "kubernetes",
-      "mysql"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "4+ years required",
-    "location_eligible": true,
-    "location_confidence": "high",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at affirm with strong overlap in observability, python, aws, guidance, otel.",
-    "recommended_action": "REVIEW_AND_APPLY",
-    "response_probability": "HIGH",
-    "url_status": "ok",
-    "score_breakdown": {
-      "technical": 75,
-      "role": 78,
-      "remote": 100,
-      "freshness": 55,
-      "experience": 95,
-      "response": 100,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 78,
-    "priority": "🟡 GOOD MATCH",
-    "title": "Senior Software Engineer, Backend (Recoveries)",
-    "company": "affirm",
-    "source": "greenhouse",
-    "url": "https://job-boards.greenhouse.io/affirm/jobs/7854608003",
-    "posted_at": "2026-08-18T10:17:42-04:00",
-    "remote": true,
-    "location": "Remote Poland",
-    "salary": null,
-    "technical_matches": [
-      "aws",
-      "observability",
-      "python"
-    ],
-    "transferable_matches": [
-      "guidance ← experience with structured output",
-      "metrics ← experience with observability",
-      "otel ← experience with observability"
-    ],
-    "missing_skills": [
-      "document ai",
-      "kubernetes",
-      "mysql"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "4+ years required",
-    "location_eligible": true,
-    "location_confidence": "high",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at affirm with strong overlap in observability, python, aws, guidance, otel.",
-    "recommended_action": "REVIEW_AND_APPLY",
-    "response_probability": "HIGH",
-    "url_status": "ok",
-    "score_breakdown": {
-      "technical": 75,
-      "role": 78,
-      "remote": 100,
-      "freshness": 55,
       "experience": 95,
       "response": 100,
       "compensation": 50
@@ -6202,7 +6066,7 @@
       "azure ← experience with lambda",
       "gcp ← experience with lambda",
       "guardrails ← experience with structured output",
-      "hugging face ← experience with openai"
+      "hugging face ← experience with claude"
     ],
     "missing_skills": [
       "databricks",
@@ -6301,7 +6165,7 @@
       "azure ← experience with lambda",
       "gcp ← experience with lambda",
       "guardrails ← experience with structured output",
-      "hugging face ← experience with openai"
+      "hugging face ← experience with claude"
     ],
     "missing_skills": [
       "databricks",
@@ -6346,7 +6210,7 @@
       "python"
     ],
     "transferable_matches": [
-      "agno ← experience with llamaindex",
+      "agno ← experience with langgraph",
       "azure ← experience with lambda",
       "gcp ← experience with lambda",
       "guardrails ← experience with structured output"
@@ -6398,9 +6262,9 @@
     "transferable_matches": [
       "gcp ← experience with lambda",
       "prompt templates ← experience with structured output",
-      "sglang ← experience with openai",
-      "tensorrt-llm ← experience with openai",
-      "vllm ← experience with openai"
+      "sglang ← experience with claude",
+      "tensorrt-llm ← experience with claude",
+      "vllm ← experience with claude"
     ],
     "missing_skills": [
       "go",
@@ -6772,6 +6636,56 @@
   {
     "score": 78,
     "priority": "🟡 GOOD MATCH",
+    "title": "Senior Data Platform Engineer",
+    "company": "smartlyio",
+    "source": "arbeitnow",
+    "url": "https://www.arbeitnow.com/jobs/companies/smartlyio/senior-data-platform-engineer-berlin-berlin-156175",
+    "posted_at": "2026-08-25T08:55:25+00:00",
+    "remote": false,
+    "location": "Berlin, Berlin",
+    "salary": null,
+    "technical_matches": [
+      "github actions",
+      "observability",
+      "postgresql",
+      "python"
+    ],
+    "transferable_matches": [
+      "json schema ← experience with structured output",
+      "s3 ← experience with lambda"
+    ],
+    "missing_skills": [
+      "bigquery",
+      "distributed systems",
+      "go",
+      "kafka",
+      "kubernetes",
+      "postgres",
+      "rust",
+      "typescript"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "not specified",
+    "location_eligible": true,
+    "location_confidence": "low",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at smartlyio with strong overlap in observability, python, postgresql, json schema, s3.",
+    "recommended_action": "REVIEW_AND_APPLY",
+    "response_probability": "UNKNOWN",
+    "url_status": "ok",
+    "score_breakdown": {
+      "technical": 80,
+      "role": 91,
+      "remote": 55,
+      "freshness": 90,
+      "experience": 100,
+      "response": 50,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 78,
+    "priority": "🟡 GOOD MATCH",
     "title": "Forward Deployed Engineer, Infrastructure Specialist (UK Public Sector)",
     "company": "Cohere",
     "source": "arbeitnow",
@@ -6788,7 +6702,7 @@
     ],
     "transferable_matches": [
       "azure ← experience with lambda",
-      "cohere ← experience with openai",
+      "cohere ← experience with claude",
       "gcp ← experience with lambda"
     ],
     "missing_skills": [
@@ -6880,7 +6794,7 @@
       "python"
     ],
     "transferable_matches": [
-      "aws bedrock ← experience with openai"
+      "aws bedrock ← experience with claude"
     ],
     "missing_skills": [],
     "hard_requirements_missing": [],
@@ -6923,7 +6837,7 @@
       "metrics ← experience with observability",
       "otel ← experience with observability",
       "prometheus ← experience with observability",
-      "together ai ← experience with openai"
+      "together ai ← experience with claude"
     ],
     "missing_skills": [
       "document ai",
@@ -6968,7 +6882,7 @@
       "python"
     ],
     "transferable_matches": [
-      "agno ← experience with llamaindex",
+      "agno ← experience with langgraph",
       "azure ← experience with lambda",
       "datadog ← experience with observability",
       "gcp ← experience with lambda",
@@ -7204,7 +7118,7 @@
       "python"
     ],
     "transferable_matches": [
-      "agno ← experience with llamaindex",
+      "agno ← experience with langgraph",
       "arize ← experience with llm evaluation",
       "azure ← experience with lambda",
       "datadog ← experience with observability",
@@ -7258,7 +7172,7 @@
       "observability"
     ],
     "transferable_matches": [
-      "agno ← experience with llamaindex",
+      "agno ← experience with langgraph",
       "azure ← experience with lambda",
       "gcp ← experience with lambda",
       "guidance ← experience with structured output",
@@ -7313,7 +7227,7 @@
       "observability"
     ],
     "transferable_matches": [
-      "agno ← experience with llamaindex",
+      "agno ← experience with langgraph",
       "azure ← experience with lambda",
       "gcp ← experience with lambda",
       "guidance ← experience with structured output",
@@ -7368,7 +7282,7 @@
       "observability"
     ],
     "transferable_matches": [
-      "agno ← experience with llamaindex",
+      "agno ← experience with langgraph",
       "azure ← experience with lambda",
       "gcp ← experience with lambda",
       "guidance ← experience with structured output",
@@ -7423,7 +7337,7 @@
       "observability"
     ],
     "transferable_matches": [
-      "agno ← experience with llamaindex",
+      "agno ← experience with langgraph",
       "azure ← experience with lambda",
       "gcp ← experience with lambda",
       "guidance ← experience with structured output",
@@ -7571,55 +7485,6 @@
   {
     "score": 77,
     "priority": "🟡 GOOD MATCH",
-    "title": "Interim project - Senior DevOps Consultant (f/m/d)",
-    "company": "Climate",
-    "source": "arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/climate/interim-project-senior-devops-consultant-berlin-hq-173895",
-    "posted_at": "2026-08-25T05:09:32+00:00",
-    "remote": false,
-    "location": "Berlin HQ",
-    "salary": null,
-    "technical_matches": [
-      "ci/cd",
-      "docker",
-      "postgresql",
-      "python"
-    ],
-    "transferable_matches": [
-      "agno ← experience with llamaindex",
-      "grafana ← experience with observability",
-      "guidance ← experience with structured output",
-      "prometheus ← experience with observability",
-      "s3 ← experience with lambda"
-    ],
-    "missing_skills": [
-      "distributed systems",
-      "gitlab ci",
-      "kubernetes",
-      "postgres"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "5+ years required",
-    "location_eligible": true,
-    "location_confidence": "low",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at Climate with strong overlap in python, postgresql, docker, agno, guidance.",
-    "recommended_action": "REVIEW_AND_APPLY",
-    "response_probability": "MEDIUM",
-    "url_status": "ok",
-    "score_breakdown": {
-      "technical": 100,
-      "role": 36,
-      "remote": 55,
-      "freshness": 90,
-      "experience": 95,
-      "response": 60,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 77,
-    "priority": "🟡 GOOD MATCH",
     "title": "Full-stack Engineer - Operations Engineering Team",
     "company": "iwoca",
     "source": "arbeitnow",
@@ -7658,6 +7523,55 @@
       "remote": 55,
       "freshness": 75,
       "experience": 100,
+      "response": 60,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 77,
+    "priority": "🟡 GOOD MATCH",
+    "title": "Interim project - Senior DevOps Consultant (f/m/d)",
+    "company": "Climate",
+    "source": "arbeitnow",
+    "url": "https://www.arbeitnow.com/jobs/companies/climate/interim-project-senior-devops-consultant-berlin-hq-173895",
+    "posted_at": "2026-08-25T05:09:32+00:00",
+    "remote": false,
+    "location": "Berlin HQ",
+    "salary": null,
+    "technical_matches": [
+      "ci/cd",
+      "docker",
+      "postgresql",
+      "python"
+    ],
+    "transferable_matches": [
+      "agno ← experience with langgraph",
+      "grafana ← experience with observability",
+      "guidance ← experience with structured output",
+      "prometheus ← experience with observability",
+      "s3 ← experience with lambda"
+    ],
+    "missing_skills": [
+      "distributed systems",
+      "gitlab ci",
+      "kubernetes",
+      "postgres"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "5+ years required",
+    "location_eligible": true,
+    "location_confidence": "low",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at Climate with strong overlap in python, postgresql, docker, agno, guidance.",
+    "recommended_action": "REVIEW_AND_APPLY",
+    "response_probability": "MEDIUM",
+    "url_status": "ok",
+    "score_breakdown": {
+      "technical": 100,
+      "role": 36,
+      "remote": 55,
+      "freshness": 90,
+      "experience": 95,
       "response": 60,
       "compensation": 50
     }
@@ -7724,7 +7638,7 @@
       "observability"
     ],
     "transferable_matches": [
-      "agno ← experience with llamaindex",
+      "agno ← experience with langgraph",
       "azure ← experience with lambda",
       "gcp ← experience with lambda",
       "logging ← experience with observability",
@@ -7849,6 +7763,53 @@
       "role": 81,
       "remote": 55,
       "freshness": 55,
+      "experience": 50,
+      "response": 100,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 76,
+    "priority": "🟡 GOOD MATCH",
+    "title": "Staff Software Engineer, Identity & Access Management",
+    "company": "robinhood",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/7819461?t=gh_src=&gh_jid=7819461",
+    "posted_at": "2026-08-24T10:19:28-04:00",
+    "remote": false,
+    "location": "Bellevue, WA",
+    "salary": null,
+    "technical_matches": [
+      "agentic ai",
+      "ai agents",
+      "aws",
+      "mcp",
+      "model context protocol",
+      "observability",
+      "python"
+    ],
+    "transferable_matches": [
+      "guardrails ← experience with structured output"
+    ],
+    "missing_skills": [
+      "go",
+      "kubernetes",
+      "rust"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "8+ years required",
+    "location_eligible": true,
+    "location_confidence": "low",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at robinhood with strong overlap in agentic ai, ai agents, mcp, guardrails.",
+    "recommended_action": "REVIEW_AND_APPLY",
+    "response_probability": "HIGH",
+    "url_status": "unknown",
+    "score_breakdown": {
+      "technical": 100,
+      "role": 60,
+      "remote": 55,
+      "freshness": 75,
       "experience": 50,
       "response": 100,
       "compensation": 50
@@ -8003,7 +7964,7 @@
     "reason": "Recently posted role at databricks with strong overlap in agentic ai, rag, unstructured, faiss.",
     "recommended_action": "REVIEW_AND_APPLY",
     "response_probability": "HIGH",
-    "url_status": "unknown",
+    "url_status": "ok",
     "score_breakdown": {
       "technical": 90,
       "role": 100,
@@ -8082,12 +8043,12 @@
       "rag"
     ],
     "transferable_matches": [
-      "autogen ← experience with llamaindex",
-      "crewai ← experience with llamaindex",
+      "autogen ← experience with langgraph",
+      "crewai ← experience with langgraph",
       "evals ← experience with llm evaluation",
       "metrics ← experience with observability",
       "prompt engineering ← experience with structured output",
-      "together ai ← experience with openai"
+      "together ai ← experience with claude"
     ],
     "missing_skills": [
       "java",
@@ -8456,8 +8417,8 @@
       "openai"
     ],
     "transferable_matches": [
-      "agno ← experience with llamaindex",
-      "cohere ← experience with openai",
+      "agno ← experience with langgraph",
+      "cohere ← experience with claude",
       "tracing ← experience with observability"
     ],
     "missing_skills": [
@@ -8499,7 +8460,7 @@
       "python"
     ],
     "transferable_matches": [
-      "agno ← experience with llamaindex",
+      "agno ← experience with langgraph",
       "guidance ← experience with structured output"
     ],
     "missing_skills": [
@@ -8546,7 +8507,7 @@
       "python"
     ],
     "transferable_matches": [
-      "agno ← experience with llamaindex",
+      "agno ← experience with langgraph",
       "guidance ← experience with structured output"
     ],
     "missing_skills": [
@@ -8594,7 +8555,7 @@
     ],
     "transferable_matches": [
       "azure ← experience with lambda",
-      "together ai ← experience with openai"
+      "together ai ← experience with claude"
     ],
     "missing_skills": [
       "jenkins",
@@ -8639,7 +8600,7 @@
     "transferable_matches": [
       "guidance ← experience with structured output",
       "otel ← experience with observability",
-      "together ai ← experience with openai",
+      "together ai ← experience with claude",
       "unstructured ← experience with lightrag"
     ],
     "missing_skills": [
@@ -8664,102 +8625,6 @@
       "freshness": 90,
       "experience": 100,
       "response": 60,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 76,
-    "priority": "🟡 GOOD MATCH",
-    "title": "Backend Developer (Java & Python, Microservices)",
-    "company": "OKAPI:Orbits GmbH",
-    "source": "arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/okapiorbits-gmbh/backend-developer-java-python-microservices-brunswick-germany-269092",
-    "posted_at": "2026-08-25T08:09:06+00:00",
-    "remote": false,
-    "location": "Brunswick (Germany)",
-    "salary": null,
-    "technical_matches": [
-      "ci/cd",
-      "docker",
-      "observability",
-      "python"
-    ],
-    "transferable_matches": [
-      "together ai ← experience with openai"
-    ],
-    "missing_skills": [
-      "distributed systems",
-      "document ai",
-      "java",
-      "kubernetes",
-      "microservices",
-      "rabbitmq",
-      "spring boot"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "2+ years required (meets bar)",
-    "location_eligible": true,
-    "location_confidence": "low",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at OKAPI:Orbits GmbH with strong overlap in observability, python, docker, together ai.",
-    "recommended_action": "REVIEW_AND_APPLY",
-    "response_probability": "UNKNOWN",
-    "url_status": "ok",
-    "score_breakdown": {
-      "technical": 70,
-      "role": 85,
-      "remote": 55,
-      "freshness": 100,
-      "experience": 100,
-      "response": 50,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 76,
-    "priority": "🟡 GOOD MATCH",
-    "title": "Backend Developer (Java & Python, Microservices)",
-    "company": "OKAPI:Orbits GmbH",
-    "source": "arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/okapiorbits-gmbh/backend-developer-java-python-microservices-munich-germany-72865",
-    "posted_at": "2026-08-25T08:09:06+00:00",
-    "remote": false,
-    "location": "Munich (Germany)",
-    "salary": null,
-    "technical_matches": [
-      "ci/cd",
-      "docker",
-      "observability",
-      "python"
-    ],
-    "transferable_matches": [
-      "together ai ← experience with openai"
-    ],
-    "missing_skills": [
-      "distributed systems",
-      "document ai",
-      "java",
-      "kubernetes",
-      "microservices",
-      "rabbitmq",
-      "spring boot"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "2+ years required (meets bar)",
-    "location_eligible": true,
-    "location_confidence": "low",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at OKAPI:Orbits GmbH with strong overlap in observability, python, docker, together ai.",
-    "recommended_action": "REVIEW_AND_APPLY",
-    "response_probability": "UNKNOWN",
-    "url_status": "ok",
-    "score_breakdown": {
-      "technical": 70,
-      "role": 85,
-      "remote": 55,
-      "freshness": 100,
-      "experience": 100,
-      "response": 50,
       "compensation": 50
     }
   },
@@ -8999,7 +8864,7 @@
     "reason": "Recently posted role at reddit with strong overlap in agentic ai, observability, arize, otel.",
     "recommended_action": "REVIEW_AND_APPLY",
     "response_probability": "MEDIUM",
-    "url_status": "ok",
+    "url_status": "unknown",
     "score_breakdown": {
       "technical": 50,
       "role": 78,
@@ -9029,7 +8894,7 @@
       "arize ← experience with llm evaluation",
       "guidance ← experience with structured output",
       "metrics ← experience with observability",
-      "together ai ← experience with openai"
+      "together ai ← experience with claude"
     ],
     "missing_skills": [
       "api integration",
@@ -9111,7 +8976,7 @@
     "company": "coinbase",
     "source": "greenhouse",
     "url": "https://www.coinbase.com/careers/positions/7736521?gh_jid=7736521",
-    "posted_at": "2026-08-25T09:18:36-04:00",
+    "posted_at": "2026-08-25T10:33:12-04:00",
     "remote": true,
     "location": "Remote - USA",
     "salary": null,
@@ -9120,7 +8985,7 @@
       "python"
     ],
     "transferable_matches": [
-      "gpt ← experience with openai",
+      "gpt ← experience with claude",
       "prompt engineering ← experience with structured output"
     ],
     "missing_skills": [
@@ -9147,6 +9012,95 @@
       "freshness": 100,
       "experience": 95,
       "response": 60,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 75,
+    "priority": "🟡 GOOD MATCH",
+    "title": "Senior Software Engineer, Backend (Recoveries)",
+    "company": "affirm",
+    "source": "greenhouse",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7854606003",
+    "posted_at": "2026-08-18T10:17:41-04:00",
+    "remote": true,
+    "location": "Remote Spain",
+    "salary": null,
+    "technical_matches": [
+      "aws",
+      "observability",
+      "python"
+    ],
+    "transferable_matches": [
+      "guidance ← experience with structured output",
+      "metrics ← experience with observability",
+      "otel ← experience with observability"
+    ],
+    "missing_skills": [
+      "kubernetes",
+      "mysql"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "4+ years required",
+    "location_eligible": true,
+    "location_confidence": "high",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at affirm with strong overlap in observability, python, aws, guidance, otel.",
+    "recommended_action": "REVIEW_AND_APPLY",
+    "response_probability": "HIGH",
+    "url_status": "ok",
+    "score_breakdown": {
+      "technical": 75,
+      "role": 78,
+      "remote": 100,
+      "freshness": 35,
+      "experience": 95,
+      "response": 100,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 75,
+    "priority": "🟡 GOOD MATCH",
+    "title": "Senior Software Engineer, Backend (Recoveries)",
+    "company": "affirm",
+    "source": "greenhouse",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7854608003",
+    "posted_at": "2026-08-18T10:17:42-04:00",
+    "remote": true,
+    "location": "Remote Poland",
+    "salary": null,
+    "technical_matches": [
+      "aws",
+      "observability",
+      "python"
+    ],
+    "transferable_matches": [
+      "guidance ← experience with structured output",
+      "metrics ← experience with observability",
+      "otel ← experience with observability"
+    ],
+    "missing_skills": [
+      "document ai",
+      "kubernetes",
+      "mysql"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "4+ years required",
+    "location_eligible": true,
+    "location_confidence": "high",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at affirm with strong overlap in observability, python, aws, guidance, otel.",
+    "recommended_action": "REVIEW_AND_APPLY",
+    "response_probability": "HIGH",
+    "url_status": "ok",
+    "score_breakdown": {
+      "technical": 75,
+      "role": 78,
+      "remote": 100,
+      "freshness": 35,
+      "experience": 95,
+      "response": 100,
       "compensation": 50
     }
   },
@@ -9356,8 +9310,8 @@
       "python"
     ],
     "transferable_matches": [
-      "dspy ← experience with llamaindex",
-      "llama ← experience with openai"
+      "dspy ← experience with langgraph",
+      "llama ← experience with claude"
     ],
     "missing_skills": [
       "agent framework",
@@ -9376,7 +9330,7 @@
     "reason": "Recently posted role at databricks with strong overlap in ai agents, langchain, llamaindex, dspy, llama.",
     "recommended_action": "REVIEW_AND_APPLY",
     "response_probability": "HIGH",
-    "url_status": "unknown",
+    "url_status": "ok",
     "score_breakdown": {
       "technical": 80,
       "role": 70,
@@ -9927,8 +9881,8 @@
       "claude"
     ],
     "transferable_matches": [
-      "gemini ← experience with openai",
-      "gpt ← experience with openai"
+      "gemini ← experience with claude",
+      "gpt ← experience with claude"
     ],
     "missing_skills": [
       "rust"
@@ -10373,7 +10327,7 @@
       "guardrails ← experience with structured output",
       "guidance ← experience with structured output",
       "otel ← experience with observability",
-      "together ai ← experience with openai"
+      "together ai ← experience with claude"
     ],
     "missing_skills": [
       "go",
@@ -10420,7 +10374,7 @@
       "guardrails ← experience with structured output",
       "guidance ← experience with structured output",
       "otel ← experience with observability",
-      "together ai ← experience with openai"
+      "together ai ← experience with claude"
     ],
     "missing_skills": [
       "go",
@@ -10510,7 +10464,7 @@
       "elasticsearch ← experience with qdrant",
       "graph database ← experience with neo4j",
       "guidance ← experience with structured output",
-      "together ai ← experience with openai"
+      "together ai ← experience with claude"
     ],
     "missing_skills": [
       "java",
@@ -10601,7 +10555,7 @@
       "python"
     ],
     "transferable_matches": [
-      "cloudwatch ← experience with observability"
+      "cloudwatch ← experience with lambda"
     ],
     "missing_skills": [
       "databricks",
@@ -11170,46 +11124,95 @@
   {
     "score": 74,
     "priority": "⚪ REVIEW",
-    "title": "Principal Software Developer (f/m/d) - Market Data",
-    "company": "Solactive",
+    "title": "Backend Developer (Java & Python, Microservices)",
+    "company": "OKAPI:Orbits GmbH",
     "source": "arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/solactive/principal-software-developer-market-data-frankfurt-am-main-131586",
-    "posted_at": "2026-08-25T08:29:52+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/okapiorbits-gmbh/backend-developer-java-python-microservices-brunswick-germany-269092",
+    "posted_at": "2026-08-25T08:09:06+00:00",
     "remote": false,
-    "location": "Frankfurt am Main",
+    "location": "Brunswick (Germany)",
     "salary": null,
     "technical_matches": [
       "ci/cd",
       "docker",
-      "postgresql",
+      "observability",
       "python"
     ],
     "transferable_matches": [
-      "gcp ← experience with lambda",
-      "google cloud ← experience with lambda"
+      "together ai ← experience with claude"
     ],
     "missing_skills": [
+      "distributed systems",
+      "document ai",
+      "java",
+      "kubernetes",
       "microservices",
-      "mongodb",
-      "mysql",
-      "postgres",
-      "sql"
+      "rabbitmq",
+      "spring boot"
     ],
     "hard_requirements_missing": [],
-    "experience_required": "8+ years required",
+    "experience_required": "2+ years required (meets bar)",
     "location_eligible": true,
     "location_confidence": "low",
     "freshness_confidence": "known",
-    "reason": "Recently posted role at Solactive with strong overlap in python, postgresql, docker, gcp, google cloud.",
+    "reason": "Recently posted role at OKAPI:Orbits GmbH with strong overlap in observability, python, docker, together ai.",
     "recommended_action": "SKIP",
     "response_probability": "UNKNOWN",
     "url_status": "not_checked",
     "score_breakdown": {
-      "technical": 80,
+      "technical": 70,
       "role": 85,
       "remote": 55,
-      "freshness": 100,
-      "experience": 50,
+      "freshness": 90,
+      "experience": 100,
+      "response": 50,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 74,
+    "priority": "⚪ REVIEW",
+    "title": "Backend Developer (Java & Python, Microservices)",
+    "company": "OKAPI:Orbits GmbH",
+    "source": "arbeitnow",
+    "url": "https://www.arbeitnow.com/jobs/companies/okapiorbits-gmbh/backend-developer-java-python-microservices-munich-germany-72865",
+    "posted_at": "2026-08-25T08:09:06+00:00",
+    "remote": false,
+    "location": "Munich (Germany)",
+    "salary": null,
+    "technical_matches": [
+      "ci/cd",
+      "docker",
+      "observability",
+      "python"
+    ],
+    "transferable_matches": [
+      "together ai ← experience with claude"
+    ],
+    "missing_skills": [
+      "distributed systems",
+      "document ai",
+      "java",
+      "kubernetes",
+      "microservices",
+      "rabbitmq",
+      "spring boot"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "2+ years required (meets bar)",
+    "location_eligible": true,
+    "location_confidence": "low",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at OKAPI:Orbits GmbH with strong overlap in observability, python, docker, together ai.",
+    "recommended_action": "SKIP",
+    "response_probability": "UNKNOWN",
+    "url_status": "not_checked",
+    "score_breakdown": {
+      "technical": 70,
+      "role": 85,
+      "remote": 55,
+      "freshness": 90,
+      "experience": 100,
       "response": 50,
       "compensation": 50
     }
@@ -11279,10 +11282,10 @@
     ],
     "transferable_matches": [
       "gcp ← experience with lambda",
-      "gemini ← experience with openai",
+      "gemini ← experience with claude",
       "metrics ← experience with observability",
       "otel ← experience with observability",
-      "vertex ai ← experience with openai"
+      "vertex ai ← experience with lambda"
     ],
     "missing_skills": [
       "bigquery",
@@ -11368,7 +11371,7 @@
       "postgresql"
     ],
     "transferable_matches": [
-      "agno ← experience with llamaindex",
+      "agno ← experience with langgraph",
       "guardrails ← experience with structured output",
       "metrics ← experience with observability",
       "tracing ← experience with observability"
@@ -11515,7 +11518,7 @@
       "arize ← experience with llm evaluation",
       "metrics ← experience with observability",
       "offline evaluation ← experience with llm evaluation",
-      "transformers ← experience with openai"
+      "transformers ← experience with claude"
     ],
     "missing_skills": [
       "embedding",
@@ -11606,7 +11609,7 @@
       "python"
     ],
     "transferable_matches": [
-      "agent development kit ← experience with llamaindex",
+      "agent development kit ← experience with langgraph",
       "otel ← experience with observability"
     ],
     "missing_skills": [
@@ -11654,7 +11657,7 @@
       "python"
     ],
     "transferable_matches": [
-      "agent development kit ← experience with llamaindex",
+      "agent development kit ← experience with langgraph",
       "otel ← experience with observability"
     ],
     "missing_skills": [
@@ -11792,7 +11795,7 @@
       "python"
     ],
     "transferable_matches": [
-      "agno ← experience with llamaindex",
+      "agno ← experience with langgraph",
       "otel ← experience with observability"
     ],
     "missing_skills": [
@@ -11843,7 +11846,7 @@
       "azure ← experience with lambda",
       "gcp ← experience with lambda",
       "guardrails ← experience with structured output",
-      "hugging face ← experience with openai"
+      "hugging face ← experience with claude"
     ],
     "missing_skills": [
       "databricks",
@@ -11940,7 +11943,7 @@
     "transferable_matches": [
       "azure ← experience with lambda",
       "sagemaker ← experience with lambda",
-      "vertex ai ← experience with openai"
+      "vertex ai ← experience with lambda"
     ],
     "missing_skills": [
       "agent framework",
@@ -11987,7 +11990,7 @@
       "python"
     ],
     "transferable_matches": [
-      "agno ← experience with llamaindex",
+      "agno ← experience with langgraph",
       "azure ← experience with lambda",
       "gcp ← experience with lambda",
       "guardrails ← experience with structured output"
@@ -12037,14 +12040,14 @@
     ],
     "transferable_matches": [
       "azure ← experience with lambda",
-      "gemini ← experience with openai",
-      "gpt ← experience with openai",
-      "llama ← experience with openai",
-      "qwen ← experience with openai",
+      "gemini ← experience with claude",
+      "gpt ← experience with claude",
+      "llama ← experience with claude",
+      "qwen ← experience with claude",
       "sagemaker ← experience with lambda",
-      "sglang ← experience with openai",
-      "vertex ai ← experience with openai",
-      "vllm ← experience with openai"
+      "sglang ← experience with claude",
+      "vertex ai ← experience with lambda",
+      "vllm ← experience with claude"
     ],
     "missing_skills": [
       "databricks",
@@ -12390,53 +12393,6 @@
     }
   },
   {
-    "score": 73,
-    "priority": "⚪ REVIEW",
-    "title": "Forward Deployed Engineer",
-    "company": "databricks",
-    "source": "arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/databricks/forward-deployed-engineer-berlin-munich-440770",
-    "posted_at": "2026-08-25T08:55:31+00:00",
-    "remote": false,
-    "location": "Berlin; Munich",
-    "salary": null,
-    "technical_matches": [
-      "aws",
-      "ci/cd",
-      "python"
-    ],
-    "transferable_matches": [
-      "azure ← experience with lambda",
-      "gcp ← experience with lambda"
-    ],
-    "missing_skills": [
-      "databricks",
-      "document ai",
-      "java",
-      "javascript",
-      "spark",
-      "typescript"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "6+ years required",
-    "location_eligible": true,
-    "location_confidence": "low",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at databricks with strong overlap in python, ci/cd, aws, azure, gcp.",
-    "recommended_action": "SKIP",
-    "response_probability": "UNKNOWN",
-    "url_status": "not_checked",
-    "score_breakdown": {
-      "technical": 65,
-      "role": 100,
-      "remote": 55,
-      "freshness": 100,
-      "experience": 70,
-      "response": 50,
-      "compensation": 50
-    }
-  },
-  {
     "score": 72,
     "priority": "⚪ REVIEW",
     "title": "Staff Software Engineer, Observability ",
@@ -12695,7 +12651,7 @@
       "guidance ← experience with structured output",
       "metrics ← experience with observability",
       "otel ← experience with observability",
-      "together ai ← experience with openai"
+      "together ai ← experience with claude"
     ],
     "missing_skills": [
       "distributed systems",
@@ -12884,7 +12840,7 @@
       "rag"
     ],
     "transferable_matches": [
-      "agno ← experience with llamaindex",
+      "agno ← experience with langgraph",
       "azure ← experience with lambda",
       "gcp ← experience with lambda"
     ],
@@ -12987,7 +12943,7 @@
       "tool calling"
     ],
     "transferable_matches": [
-      "agent development kit ← experience with llamaindex"
+      "agent development kit ← experience with langgraph"
     ],
     "missing_skills": [
       "browser automation",
@@ -13251,7 +13207,7 @@
       "python"
     ],
     "transferable_matches": [
-      "agno ← experience with llamaindex"
+      "agno ← experience with langgraph"
     ],
     "missing_skills": [
       "rust"
@@ -13272,6 +13228,100 @@
       "freshness": 90,
       "experience": 100,
       "response": 60,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 72,
+    "priority": "⚪ REVIEW",
+    "title": "Forward Deployed Engineer",
+    "company": "databricks",
+    "source": "arbeitnow",
+    "url": "https://www.arbeitnow.com/jobs/companies/databricks/forward-deployed-engineer-berlin-munich-440770",
+    "posted_at": "2026-08-25T08:55:31+00:00",
+    "remote": false,
+    "location": "Berlin; Munich",
+    "salary": null,
+    "technical_matches": [
+      "aws",
+      "ci/cd",
+      "python"
+    ],
+    "transferable_matches": [
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda"
+    ],
+    "missing_skills": [
+      "databricks",
+      "document ai",
+      "java",
+      "javascript",
+      "spark",
+      "typescript"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "6+ years required",
+    "location_eligible": true,
+    "location_confidence": "low",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at databricks with strong overlap in python, ci/cd, aws, azure, gcp.",
+    "recommended_action": "SKIP",
+    "response_probability": "UNKNOWN",
+    "url_status": "not_checked",
+    "score_breakdown": {
+      "technical": 65,
+      "role": 100,
+      "remote": 55,
+      "freshness": 90,
+      "experience": 70,
+      "response": 50,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 72,
+    "priority": "⚪ REVIEW",
+    "title": "Principal Software Developer (f/m/d) - Market Data",
+    "company": "Solactive",
+    "source": "arbeitnow",
+    "url": "https://www.arbeitnow.com/jobs/companies/solactive/principal-software-developer-market-data-frankfurt-am-main-131586",
+    "posted_at": "2026-08-25T08:29:52+00:00",
+    "remote": false,
+    "location": "Frankfurt am Main",
+    "salary": null,
+    "technical_matches": [
+      "ci/cd",
+      "docker",
+      "postgresql",
+      "python"
+    ],
+    "transferable_matches": [
+      "gcp ← experience with lambda",
+      "google cloud ← experience with lambda"
+    ],
+    "missing_skills": [
+      "microservices",
+      "mongodb",
+      "mysql",
+      "postgres",
+      "sql"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "8+ years required",
+    "location_eligible": true,
+    "location_confidence": "low",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at Solactive with strong overlap in python, postgresql, docker, gcp, google cloud.",
+    "recommended_action": "SKIP",
+    "response_probability": "UNKNOWN",
+    "url_status": "not_checked",
+    "score_breakdown": {
+      "technical": 80,
+      "role": 85,
+      "remote": 55,
+      "freshness": 90,
+      "experience": 50,
+      "response": 50,
       "compensation": 50
     }
   },
@@ -13341,7 +13391,7 @@
       "bedrock"
     ],
     "transferable_matches": [
-      "aws bedrock ← experience with openai"
+      "aws bedrock ← experience with claude"
     ],
     "missing_skills": [],
     "hard_requirements_missing": [],
@@ -13473,7 +13523,7 @@
       "openai"
     ],
     "transferable_matches": [
-      "agent development kit ← experience with llamaindex",
+      "agent development kit ← experience with langgraph",
       "google cloud ← experience with lambda",
       "guardrails ← experience with structured output",
       "tracing ← experience with observability"
@@ -13930,7 +13980,7 @@
     "transferable_matches": [
       "azure ← experience with lambda",
       "gcp ← experience with lambda",
-      "together ai ← experience with openai"
+      "together ai ← experience with claude"
     ],
     "missing_skills": [
       "databricks",
@@ -13976,7 +14026,7 @@
     "transferable_matches": [
       "azure ← experience with lambda",
       "sagemaker ← experience with lambda",
-      "vertex ai ← experience with openai"
+      "vertex ai ← experience with lambda"
     ],
     "missing_skills": [
       "agent framework",
@@ -15712,48 +15762,6 @@
   {
     "score": 71,
     "priority": "⚪ REVIEW",
-    "title": "Software Engineer, Developer Platform",
-    "company": "notion",
-    "source": "ashby",
-    "url": "https://jobs.ashbyhq.com/notion/1fc309c8-da20-4ff2-84c7-8b863ece2b0a/application",
-    "posted_at": "2026-08-24T14:44:49.699000+00:00",
-    "remote": true,
-    "location": "San Francisco, California",
-    "salary": null,
-    "technical_matches": [
-      "ai agents",
-      "mcp"
-    ],
-    "transferable_matches": [
-      "evals ← experience with llm evaluation",
-      "together ai ← experience with openai"
-    ],
-    "missing_skills": [
-      "mcp tools",
-      "typescript"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "7+ years required",
-    "location_eligible": true,
-    "location_confidence": "high",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at notion with strong overlap in ai agents, mcp, together ai, evals.",
-    "recommended_action": "SKIP",
-    "response_probability": "MEDIUM",
-    "url_status": "not_checked",
-    "score_breakdown": {
-      "technical": 50,
-      "role": 85,
-      "remote": 100,
-      "freshness": 90,
-      "experience": 70,
-      "response": 60,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 71,
-    "priority": "⚪ REVIEW",
     "title": "Infrastructure Platform Engineer",
     "company": "Bluecrestcapitalmanagement",
     "source": "arbeitnow",
@@ -15797,46 +15805,6 @@
   {
     "score": 71,
     "priority": "⚪ REVIEW",
-    "title": "Senior Product Manager (f/m/x)",
-    "company": "Mindfuel",
-    "source": "arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/mindfuel/remote-senior-product-manager-mindfuel-munich-380433",
-    "posted_at": "2026-08-25T05:10:08+00:00",
-    "remote": true,
-    "location": "Mindfuel Munich",
-    "salary": null,
-    "technical_matches": [
-      "claude"
-    ],
-    "transferable_matches": [
-      "otel ← experience with observability",
-      "prompt engineering ← experience with structured output",
-      "together ai ← experience with openai",
-      "unstructured ← experience with lightrag"
-    ],
-    "missing_skills": [],
-    "hard_requirements_missing": [],
-    "experience_required": "not specified",
-    "location_eligible": true,
-    "location_confidence": "high",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at Mindfuel with strong overlap in claude, unstructured, together ai.",
-    "recommended_action": "SKIP",
-    "response_probability": "UNKNOWN",
-    "url_status": "not_checked",
-    "score_breakdown": {
-      "technical": 55,
-      "role": 57,
-      "remote": 100,
-      "freshness": 90,
-      "experience": 100,
-      "response": 50,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 71,
-    "priority": "⚪ REVIEW",
     "title": "Forward Deployed Engineer, Agentic Platform (UK Public Sector)",
     "company": "Cohere",
     "source": "arbeitnow",
@@ -15852,7 +15820,7 @@
       "rag"
     ],
     "transferable_matches": [
-      "cohere ← experience with openai"
+      "cohere ← experience with claude"
     ],
     "missing_skills": [
       "agent workflows",
@@ -15880,51 +15848,39 @@
   {
     "score": 71,
     "priority": "⚪ REVIEW",
-    "title": "Staff Engineer / Technical Lead Azure/.NET",
-    "company": "Berlinbrands",
+    "title": "Senior Product Manager (f/m/x)",
+    "company": "Mindfuel",
     "source": "arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/berlinbrands/staff-engineer-technical-lead-azure-net-berlin-193182",
-    "posted_at": "2026-08-24T17:55:26+00:00",
-    "remote": false,
-    "location": "Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/mindfuel/remote-senior-product-manager-mindfuel-munich-380433",
+    "posted_at": "2026-08-25T05:10:08+00:00",
+    "remote": true,
+    "location": "Mindfuel Munich",
     "salary": null,
     "technical_matches": [
-      "ci/cd",
-      "claude",
-      "observability"
+      "claude"
     ],
     "transferable_matches": [
-      "azure functions ← experience with lambda",
-      "azure ← experience with lambda",
-      "together ai ← experience with openai"
+      "otel ← experience with observability",
+      "prompt engineering ← experience with structured output",
+      "together ai ← experience with claude",
+      "unstructured ← experience with lightrag"
     ],
-    "missing_skills": [
-      ".net",
-      "c#",
-      "distributed systems",
-      "document ai",
-      "microservices",
-      "mongodb",
-      "rest api",
-      "rest apis",
-      "sql",
-      "terraform"
-    ],
+    "missing_skills": [],
     "hard_requirements_missing": [],
-    "experience_required": "8+ years required",
+    "experience_required": "not specified",
     "location_eligible": true,
-    "location_confidence": "low",
+    "location_confidence": "high",
     "freshness_confidence": "known",
-    "reason": "Recently posted role at Berlinbrands with strong overlap in claude, observability, ci/cd, together ai, azure.",
+    "reason": "Recently posted role at Mindfuel with strong overlap in claude, unstructured, together ai.",
     "recommended_action": "SKIP",
     "response_probability": "UNKNOWN",
     "url_status": "not_checked",
     "score_breakdown": {
-      "technical": 75,
-      "role": 84,
-      "remote": 55,
+      "technical": 55,
+      "role": 57,
+      "remote": 100,
       "freshness": 90,
-      "experience": 50,
+      "experience": 100,
       "response": 50,
       "compensation": 50
     }
@@ -15948,7 +15904,7 @@
     "transferable_matches": [
       "azure ← experience with lambda",
       "gcp ← experience with lambda",
-      "gemini ← experience with openai",
+      "gemini ← experience with claude",
       "guidance ← experience with structured output"
     ],
     "missing_skills": [
@@ -16041,7 +15997,7 @@
       "python"
     ],
     "transferable_matches": [
-      "agno ← experience with llamaindex",
+      "agno ← experience with langgraph",
       "guidance ← experience with structured output"
     ],
     "missing_skills": [
@@ -16087,7 +16043,7 @@
       "python"
     ],
     "transferable_matches": [
-      "agno ← experience with llamaindex",
+      "agno ← experience with langgraph",
       "guidance ← experience with structured output"
     ],
     "missing_skills": [
@@ -16272,7 +16228,7 @@
       "observability"
     ],
     "transferable_matches": [
-      "agno ← experience with llamaindex",
+      "agno ← experience with langgraph",
       "datadog ← experience with observability",
       "grafana ← experience with observability",
       "prometheus ← experience with observability",
@@ -16445,7 +16401,7 @@
       "python"
     ],
     "transferable_matches": [
-      "agno ← experience with llamaindex",
+      "agno ← experience with langgraph",
       "otel ← experience with observability"
     ],
     "missing_skills": [
@@ -16575,7 +16531,7 @@
       "postgresql"
     ],
     "transferable_matches": [
-      "agno ← experience with llamaindex",
+      "agno ← experience with langgraph",
       "guidance ← experience with structured output",
       "prompt engineering ← experience with structured output"
     ],
@@ -16624,7 +16580,7 @@
       "postgresql"
     ],
     "transferable_matches": [
-      "agno ← experience with llamaindex",
+      "agno ← experience with langgraph",
       "guidance ← experience with structured output",
       "prompt engineering ← experience with structured output"
     ],
@@ -17000,7 +16956,7 @@
     ],
     "transferable_matches": [
       "azure ← experience with lambda",
-      "dify ← experience with llamaindex",
+      "dify ← experience with lightrag",
       "gcp ← experience with lambda",
       "guardrails ← experience with structured output",
       "logging ← experience with observability"
@@ -17026,6 +16982,54 @@
       "freshness": 55,
       "experience": 95,
       "response": 100,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 70,
+    "priority": "⚪ REVIEW",
+    "title": "Sr. Solutions Engineer",
+    "company": "databricks",
+    "source": "greenhouse",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8415130002",
+    "posted_at": "2026-08-25T10:18:45-04:00",
+    "remote": false,
+    "location": "United States",
+    "salary": null,
+    "technical_matches": [
+      "aws",
+      "python"
+    ],
+    "transferable_matches": [
+      "azure ← experience with lambda",
+      "gcp ← experience with lambda"
+    ],
+    "missing_skills": [
+      "databricks",
+      "java",
+      "kafka",
+      "mlflow",
+      "rust",
+      "scikit-learn",
+      "spark",
+      "sql"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "3+ years required",
+    "location_eligible": true,
+    "location_confidence": "low",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at databricks with strong overlap in python, aws, azure, gcp.",
+    "recommended_action": "SKIP",
+    "response_probability": "MEDIUM",
+    "url_status": "not_checked",
+    "score_breakdown": {
+      "technical": 50,
+      "role": 92,
+      "remote": 55,
+      "freshness": 100,
+      "experience": 100,
+      "response": 60,
       "compensation": 50
     }
   },
@@ -17190,7 +17194,7 @@
       "python"
     ],
     "transferable_matches": [
-      "agno ← experience with llamaindex",
+      "agno ← experience with langgraph",
       "azure ← experience with lambda",
       "gcp ← experience with lambda",
       "guardrails ← experience with structured output"
@@ -18139,7 +18143,7 @@
     ],
     "transferable_matches": [
       "a/b testing ← experience with llm evaluation",
-      "agno ← experience with llamaindex",
+      "agno ← experience with langgraph",
       "arize ← experience with llm evaluation",
       "online evaluation ← experience with llm evaluation"
     ],
@@ -18502,12 +18506,12 @@
       "openai"
     ],
     "transferable_matches": [
-      "gpt ← experience with openai",
+      "gpt ← experience with claude",
       "guidance ← experience with structured output",
-      "llama ← experience with openai",
-      "qwen ← experience with openai",
-      "sglang ← experience with openai",
-      "vllm ← experience with openai"
+      "llama ← experience with claude",
+      "qwen ← experience with claude",
+      "sglang ← experience with claude",
+      "vllm ← experience with claude"
     ],
     "missing_skills": [
       "databricks",
@@ -18551,7 +18555,7 @@
     "transferable_matches": [
       "azure ← experience with lambda",
       "gcp ← experience with lambda",
-      "together ai ← experience with openai"
+      "together ai ← experience with claude"
     ],
     "missing_skills": [
       "databricks",
@@ -18625,35 +18629,41 @@
   {
     "score": 69,
     "priority": "⚪ REVIEW",
-    "title": "Senior Site Reliability Engineer",
-    "company": "jobgether",
-    "source": "lever",
-    "url": "https://jobs.lever.co/jobgether/9c54b709-582c-46f5-9d42-9e15fd841dc9/apply",
-    "posted_at": "2026-08-25T08:33:12.967000+00:00",
+    "title": "Software Engineer, Developer Platform",
+    "company": "notion",
+    "source": "ashby",
+    "url": "https://jobs.ashbyhq.com/notion/1fc309c8-da20-4ff2-84c7-8b863ece2b0a/application",
+    "posted_at": "2026-08-24T14:44:49.699000+00:00",
     "remote": true,
-    "location": "US",
+    "location": "San Francisco, California",
     "salary": null,
     "technical_matches": [
-      "observability",
-      "python"
+      "ai agents",
+      "mcp"
     ],
-    "transferable_matches": [],
-    "missing_skills": [],
+    "transferable_matches": [
+      "evals ← experience with llm evaluation",
+      "together ai ← experience with claude"
+    ],
+    "missing_skills": [
+      "mcp tools",
+      "typescript"
+    ],
     "hard_requirements_missing": [],
-    "experience_required": "not specified",
+    "experience_required": "7+ years required",
     "location_eligible": true,
     "location_confidence": "high",
     "freshness_confidence": "known",
-    "reason": "Recently posted role at jobgether with strong overlap in observability, python.",
+    "reason": "Recently posted role at notion with strong overlap in ai agents, mcp, together ai, evals.",
     "recommended_action": "SKIP",
     "response_probability": "MEDIUM",
     "url_status": "not_checked",
     "score_breakdown": {
-      "technical": 30,
-      "role": 84,
+      "technical": 50,
+      "role": 85,
       "remote": 100,
-      "freshness": 100,
-      "experience": 100,
+      "freshness": 75,
+      "experience": 70,
       "response": 60,
       "compensation": 50
     }
@@ -18675,7 +18685,7 @@
     ],
     "transferable_matches": [
       "metrics ← experience with observability",
-      "together ai ← experience with openai"
+      "together ai ← experience with claude"
     ],
     "missing_skills": [
       "document ai",
@@ -18762,7 +18772,7 @@
       "postgresql"
     ],
     "transferable_matches": [
-      "together ai ← experience with openai"
+      "together ai ← experience with claude"
     ],
     "missing_skills": [
       "nestjs",
@@ -18892,7 +18902,7 @@
       "aws"
     ],
     "transferable_matches": [
-      "agno ← experience with llamaindex",
+      "agno ← experience with langgraph",
       "arize ← experience with llm evaluation",
       "gcp ← experience with lambda",
       "metrics ← experience with observability"
@@ -19651,7 +19661,7 @@
       "docker"
     ],
     "transferable_matches": [
-      "agno ← experience with llamaindex",
+      "agno ← experience with langgraph",
       "azure ← experience with lambda",
       "gcp ← experience with lambda"
     ],
@@ -19697,7 +19707,7 @@
       "docker"
     ],
     "transferable_matches": [
-      "agno ← experience with llamaindex",
+      "agno ← experience with langgraph",
       "azure ← experience with lambda",
       "gcp ← experience with lambda"
     ],
@@ -20048,7 +20058,7 @@
       "azure ← experience with lambda",
       "gcp ← experience with lambda",
       "guidance ← experience with structured output",
-      "together ai ← experience with openai"
+      "together ai ← experience with claude"
     ],
     "missing_skills": [
       "api integration",
@@ -20267,7 +20277,7 @@
       "ci/cd"
     ],
     "transferable_matches": [
-      "agno ← experience with llamaindex"
+      "agno ← experience with langgraph"
     ],
     "missing_skills": [
       "java",
@@ -20296,43 +20306,6 @@
   {
     "score": 68,
     "priority": "⚪ REVIEW",
-    "title": "Technical Delivery Lead",
-    "company": "jobgether",
-    "source": "lever",
-    "url": "https://jobs.lever.co/jobgether/deffa54b-fe05-4bd0-a8bd-710baf3fbcb0/apply",
-    "posted_at": "2026-08-25T08:39:53.990000+00:00",
-    "remote": true,
-    "location": "US",
-    "salary": null,
-    "technical_matches": [
-      "agentic ai",
-      "multi-agent systems",
-      "observability"
-    ],
-    "transferable_matches": [],
-    "missing_skills": [],
-    "hard_requirements_missing": [],
-    "experience_required": "not specified",
-    "location_eligible": true,
-    "location_confidence": "high",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at jobgether with strong overlap in agentic ai, multi-agent systems, observability.",
-    "recommended_action": "SKIP",
-    "response_probability": "MEDIUM",
-    "url_status": "not_checked",
-    "score_breakdown": {
-      "technical": 45,
-      "role": 45,
-      "remote": 100,
-      "freshness": 100,
-      "experience": 100,
-      "response": 60,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 68,
-    "priority": "⚪ REVIEW",
     "title": "Software Engineer, New Grad (Dec 2026)",
     "company": "notion",
     "source": "ashby",
@@ -20348,7 +20321,7 @@
     ],
     "transferable_matches": [
       "elasticsearch ← experience with qdrant",
-      "together ai ← experience with openai"
+      "together ai ← experience with claude"
     ],
     "missing_skills": [
       "java",
@@ -20395,7 +20368,7 @@
     ],
     "transferable_matches": [
       "metrics ← experience with observability",
-      "together ai ← experience with openai"
+      "together ai ← experience with claude"
     ],
     "missing_skills": [
       "computer vision",
@@ -20437,10 +20410,10 @@
       "claude"
     ],
     "transferable_matches": [
-      "cohere ← experience with openai",
+      "cohere ← experience with claude",
       "datadog ← experience with observability",
       "metrics ← experience with observability",
-      "together ai ← experience with openai"
+      "together ai ← experience with claude"
     ],
     "missing_skills": [
       "document ai",
@@ -20483,7 +20456,7 @@
     ],
     "transferable_matches": [
       "a/b testing ← experience with llm evaluation",
-      "gemini ← experience with openai",
+      "gemini ← experience with claude",
       "logging ← experience with observability",
       "metrics ← experience with observability",
       "prompt engineering ← experience with structured output",
@@ -20538,7 +20511,7 @@
       "benchmarking ← experience with llm evaluation",
       "guardrails ← experience with structured output",
       "metrics ← experience with observability",
-      "transformers ← experience with openai",
+      "transformers ← experience with claude",
       "unstructured ← experience with lightrag"
     ],
     "missing_skills": [
@@ -20634,7 +20607,7 @@
     ],
     "transferable_matches": [
       "evals ← experience with llm evaluation",
-      "gemini ← experience with openai",
+      "gemini ← experience with claude",
       "guardrails ← experience with structured output",
       "prompt engineering ← experience with structured output"
     ],
@@ -20744,51 +20717,6 @@
       "role": 53,
       "remote": 100,
       "freshness": 90,
-      "experience": 95,
-      "response": 60,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 67,
-    "priority": "⚪ REVIEW",
-    "title": "Senior Software Engineer, Backend (Card Acquisition)",
-    "company": "affirm",
-    "source": "greenhouse",
-    "url": "https://job-boards.greenhouse.io/affirm/jobs/7822385003",
-    "posted_at": "2026-08-18T10:16:40-04:00",
-    "remote": true,
-    "location": "Remote Poland",
-    "salary": null,
-    "technical_matches": [
-      "aws",
-      "python"
-    ],
-    "transferable_matches": [
-      "guidance ← experience with structured output",
-      "otel ← experience with observability"
-    ],
-    "missing_skills": [
-      "distributed systems",
-      "document ai",
-      "kubernetes",
-      "mysql",
-      "rust"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "4+ years required",
-    "location_eligible": true,
-    "location_confidence": "high",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at affirm with strong overlap in python, aws, guidance, otel.",
-    "recommended_action": "SKIP",
-    "response_probability": "MEDIUM",
-    "url_status": "not_checked",
-    "score_breakdown": {
-      "technical": 50,
-      "role": 78,
-      "remote": 100,
-      "freshness": 55,
       "experience": 95,
       "response": 60,
       "compensation": 50
@@ -20978,10 +20906,10 @@
       "openai"
     ],
     "transferable_matches": [
-      "gemini ← experience with openai",
-      "gpt ← experience with openai",
-      "llama ← experience with openai",
-      "qwen ← experience with openai"
+      "gemini ← experience with claude",
+      "gpt ← experience with claude",
+      "llama ← experience with claude",
+      "qwen ← experience with claude"
     ],
     "missing_skills": [
       "databricks",
@@ -23931,7 +23859,7 @@
       "python"
     ],
     "transferable_matches": [
-      "agno ← experience with llamaindex",
+      "agno ← experience with langgraph",
       "networkx ← experience with neo4j"
     ],
     "missing_skills": [
@@ -24309,6 +24237,42 @@
   {
     "score": 67,
     "priority": "⚪ REVIEW",
+    "title": "Senior Site Reliability Engineer",
+    "company": "jobgether",
+    "source": "lever",
+    "url": "https://jobs.lever.co/jobgether/9c54b709-582c-46f5-9d42-9e15fd841dc9/apply",
+    "posted_at": "2026-08-25T08:33:12.967000+00:00",
+    "remote": true,
+    "location": "US",
+    "salary": null,
+    "technical_matches": [
+      "observability",
+      "python"
+    ],
+    "transferable_matches": [],
+    "missing_skills": [],
+    "hard_requirements_missing": [],
+    "experience_required": "not specified",
+    "location_eligible": true,
+    "location_confidence": "high",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at jobgether with strong overlap in observability, python.",
+    "recommended_action": "SKIP",
+    "response_probability": "MEDIUM",
+    "url_status": "not_checked",
+    "score_breakdown": {
+      "technical": 30,
+      "role": 84,
+      "remote": 100,
+      "freshness": 90,
+      "experience": 100,
+      "response": 60,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 67,
+    "priority": "⚪ REVIEW",
     "title": "Senior/Master Fullstack Developer (Python/React)",
     "company": "jobgether",
     "source": "lever",
@@ -24517,51 +24481,6 @@
       "remote": 100,
       "freshness": 55,
       "experience": 50,
-      "response": 60,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 66,
-    "priority": "⚪ REVIEW",
-    "title": "Software Engineer, Proactive Capabilities",
-    "company": "robinhood",
-    "source": "greenhouse",
-    "url": "https://boards.greenhouse.io/robinhood/jobs/8067604?t=gh_src=&gh_jid=8067604",
-    "posted_at": "2026-08-24T10:10:16-04:00",
-    "remote": false,
-    "location": "Bellevue, WA; Menlo Park, CA",
-    "salary": null,
-    "technical_matches": [
-      "ai agents",
-      "aws",
-      "python"
-    ],
-    "transferable_matches": [
-      "gcp ← experience with lambda"
-    ],
-    "missing_skills": [
-      "agentic rag",
-      "go",
-      "kubernetes",
-      "microservices",
-      "spark"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "not specified",
-    "location_eligible": true,
-    "location_confidence": "low",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at robinhood with strong overlap in ai agents, python, aws, gcp.",
-    "recommended_action": "SKIP",
-    "response_probability": "MEDIUM",
-    "url_status": "not_checked",
-    "score_breakdown": {
-      "technical": 55,
-      "role": 62,
-      "remote": 55,
-      "freshness": 90,
-      "experience": 100,
       "response": 60,
       "compensation": 50
     }
@@ -24981,8 +24900,8 @@
       "python"
     ],
     "transferable_matches": [
-      "agno ← experience with llamaindex",
-      "dify ← experience with llamaindex",
+      "agno ← experience with langgraph",
+      "dify ← experience with lightrag",
       "guardrails ← experience with structured output"
     ],
     "missing_skills": [
@@ -25073,7 +24992,7 @@
       "python"
     ],
     "transferable_matches": [
-      "gemini ← experience with openai"
+      "gemini ← experience with claude"
     ],
     "missing_skills": [
       "databricks",
@@ -25167,7 +25086,7 @@
       "python"
     ],
     "transferable_matches": [
-      "gemini ← experience with openai"
+      "gemini ← experience with claude"
     ],
     "missing_skills": [
       "databricks",
@@ -25737,6 +25656,43 @@
   {
     "score": 66,
     "priority": "⚪ REVIEW",
+    "title": "Technical Delivery Lead",
+    "company": "jobgether",
+    "source": "lever",
+    "url": "https://jobs.lever.co/jobgether/deffa54b-fe05-4bd0-a8bd-710baf3fbcb0/apply",
+    "posted_at": "2026-08-25T08:39:53.990000+00:00",
+    "remote": true,
+    "location": "US",
+    "salary": null,
+    "technical_matches": [
+      "agentic ai",
+      "multi-agent systems",
+      "observability"
+    ],
+    "transferable_matches": [],
+    "missing_skills": [],
+    "hard_requirements_missing": [],
+    "experience_required": "not specified",
+    "location_eligible": true,
+    "location_confidence": "high",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at jobgether with strong overlap in agentic ai, multi-agent systems, observability.",
+    "recommended_action": "SKIP",
+    "response_probability": "MEDIUM",
+    "url_status": "not_checked",
+    "score_breakdown": {
+      "technical": 45,
+      "role": 45,
+      "remote": 100,
+      "freshness": 90,
+      "experience": 100,
+      "response": 60,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 66,
+    "priority": "⚪ REVIEW",
     "title": "Solutions Engineer (Upmarket, Pre-Sales) - EMEA",
     "company": "vanta",
     "source": "ashby",
@@ -25924,8 +25880,8 @@
       "supervisor"
     ],
     "transferable_matches": [
-      "gemini ← experience with openai",
-      "gpt ← experience with openai",
+      "gemini ← experience with claude",
+      "gpt ← experience with claude",
       "otel ← experience with observability"
     ],
     "missing_skills": [],
@@ -25963,7 +25919,7 @@
       "python"
     ],
     "transferable_matches": [
-      "agent development kit ← experience with llamaindex",
+      "agent development kit ← experience with langgraph",
       "otel ← experience with observability"
     ],
     "missing_skills": [
@@ -26144,7 +26100,7 @@
       "knowledge graph"
     ],
     "transferable_matches": [
-      "agno ← experience with llamaindex",
+      "agno ← experience with langgraph",
       "arize ← experience with llm evaluation"
     ],
     "missing_skills": [
@@ -26232,7 +26188,7 @@
       "python"
     ],
     "transferable_matches": [
-      "agno ← experience with llamaindex",
+      "agno ← experience with langgraph",
       "arize ← experience with llm evaluation",
       "guardrails ← experience with structured output",
       "metrics ← experience with observability"
@@ -26884,7 +26840,7 @@
     "transferable_matches": [
       "guidance ← experience with structured output",
       "otel ← experience with observability",
-      "together ai ← experience with openai"
+      "together ai ← experience with claude"
     ],
     "missing_skills": [
       "document ai",
@@ -26929,7 +26885,7 @@
     "transferable_matches": [
       "guidance ← experience with structured output",
       "otel ← experience with observability",
-      "together ai ← experience with openai"
+      "together ai ← experience with claude"
     ],
     "missing_skills": [
       "kubernetes",
@@ -26973,7 +26929,7 @@
     "transferable_matches": [
       "guidance ← experience with structured output",
       "otel ← experience with observability",
-      "together ai ← experience with openai"
+      "together ai ← experience with claude"
     ],
     "missing_skills": [
       "airflow",
@@ -27020,7 +26976,7 @@
     "transferable_matches": [
       "guidance ← experience with structured output",
       "otel ← experience with observability",
-      "together ai ← experience with openai"
+      "together ai ← experience with claude"
     ],
     "missing_skills": [
       "airflow",
@@ -27147,7 +27103,7 @@
       "ci/cd"
     ],
     "transferable_matches": [
-      "together ai ← experience with openai"
+      "together ai ← experience with claude"
     ],
     "missing_skills": [
       "document ai",
@@ -27478,7 +27434,7 @@
       "observability"
     ],
     "transferable_matches": [
-      "dify ← experience with llamaindex",
+      "dify ← experience with lightrag",
       "grafana ← experience with observability",
       "json schema ← experience with structured output",
       "prometheus ← experience with observability"
@@ -28501,44 +28457,6 @@
   {
     "score": 65,
     "priority": "⚪ REVIEW",
-    "title": "Program Engineer, Federal Platform & IT Services",
-    "company": "jobgether",
-    "source": "lever",
-    "url": "https://jobs.lever.co/jobgether/9ee036f8-2daa-49c8-b377-f0318303d14c/apply",
-    "posted_at": "2026-08-25T08:29:27.060000+00:00",
-    "remote": true,
-    "location": "US",
-    "salary": null,
-    "technical_matches": [
-      "aws",
-      "observability"
-    ],
-    "transferable_matches": [],
-    "missing_skills": [
-      "rust"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "not specified",
-    "location_eligible": true,
-    "location_confidence": "high",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at jobgether with strong overlap in observability, aws.",
-    "recommended_action": "SKIP",
-    "response_probability": "MEDIUM",
-    "url_status": "not_checked",
-    "score_breakdown": {
-      "technical": 30,
-      "role": 57,
-      "remote": 100,
-      "freshness": 100,
-      "experience": 100,
-      "response": 60,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 65,
-    "priority": "⚪ REVIEW",
     "title": "Senior Site Reliability Engineer",
     "company": "jobgether",
     "source": "lever",
@@ -29039,50 +28957,6 @@
   {
     "score": 65,
     "priority": "⚪ REVIEW",
-    "title": "Staff Engineer (m/f/d)",
-    "company": "Solactive",
-    "source": "arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/solactive/staff-engineer-berlin-147859",
-    "posted_at": "2026-08-25T08:29:52+00:00",
-    "remote": false,
-    "location": "Berlin",
-    "salary": null,
-    "technical_matches": [
-      "ci/cd",
-      "observability",
-      "python"
-    ],
-    "transferable_matches": [
-      "dify ← experience with llamaindex"
-    ],
-    "missing_skills": [
-      "java",
-      "kubernetes",
-      "rust",
-      "typescript"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "10+ years required",
-    "location_eligible": true,
-    "location_confidence": "low",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at Solactive with strong overlap in observability, python, ci/cd, dify.",
-    "recommended_action": "SKIP",
-    "response_probability": "UNKNOWN",
-    "url_status": "not_checked",
-    "score_breakdown": {
-      "technical": 55,
-      "role": 84,
-      "remote": 55,
-      "freshness": 100,
-      "experience": 50,
-      "response": 50,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 65,
-    "priority": "⚪ REVIEW",
     "title": "Senior Testmanager/Testautomatisierer (w/d/m)",
     "company": "HyPlus Technology GmbH",
     "source": "arbeitnow",
@@ -29097,8 +28971,8 @@
       "claude"
     ],
     "transferable_matches": [
-      "aws bedrock ← experience with openai",
-      "gpt ← experience with openai"
+      "aws bedrock ← experience with claude",
+      "gpt ← experience with claude"
     ],
     "missing_skills": [
       "playwright",

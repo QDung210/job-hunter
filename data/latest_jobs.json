@@ -21,7 +21,7 @@
     ],
     "transferable_matches": [
       "agno ← experience with llamaindex",
-      "guidance ← experience with structured output",
+      "guidance ← experience with pydantic v2",
       "traces ← experience with observability"
     ],
     "missing_skills": [
@@ -80,7 +80,7 @@
       "google cloud ← experience with bedrock",
       "logging ← experience with observability",
       "otel ← experience with observability",
-      "prompt engineering ← experience with structured output",
+      "prompt engineering ← experience with pydantic v2",
       "tracing ← experience with observability"
     ],
     "missing_skills": [
@@ -128,7 +128,7 @@
       "azure ← experience with bedrock",
       "dspy ← experience with llamaindex",
       "gcp ← experience with bedrock",
-      "hugging face ← experience with claude"
+      "hugging face ← experience with anthropic"
     ],
     "missing_skills": [
       "databricks",
@@ -146,7 +146,7 @@
     "reason": "Recently posted role at databricks with strong overlap in multi-agent systems, langchain, rag, dspy, hugging face.",
     "recommended_action": "APPLY_NOW",
     "response_probability": "HIGH",
-    "url_status": "ok",
+    "url_status": "unknown",
     "score_breakdown": {
       "technical": 100,
       "role": 100,
@@ -178,10 +178,10 @@
       "python"
     ],
     "transferable_matches": [
-      "aws bedrock ← experience with claude",
+      "aws bedrock ← experience with anthropic",
       "azure ← experience with bedrock",
       "gcp ← experience with bedrock",
-      "gpt ← experience with claude",
+      "gpt ← experience with anthropic",
       "grafana ← experience with observability",
       "prometheus ← experience with observability"
     ],
@@ -230,12 +230,12 @@
       "mcp"
     ],
     "transferable_matches": [
-      "guidance ← experience with structured output",
-      "instructor ← experience with structured output",
+      "guidance ← experience with pydantic v2",
+      "instructor ← experience with pydantic v2",
       "metrics ← experience with observability",
-      "prompt engineering ← experience with structured output",
-      "together ai ← experience with claude",
-      "unstructured ← experience with llamaindex"
+      "prompt engineering ← experience with pydantic v2",
+      "together ai ← experience with anthropic",
+      "unstructured ← experience with lightrag"
     ],
     "missing_skills": [
       "classification",
@@ -329,7 +329,7 @@
       "azure ← experience with bedrock",
       "dspy ← experience with llamaindex",
       "gcp ← experience with bedrock",
-      "hugging face ← experience with claude"
+      "hugging face ← experience with anthropic"
     ],
     "missing_skills": [
       "databricks",
@@ -378,9 +378,9 @@
       "retrieval augmented generation"
     ],
     "transferable_matches": [
-      "azure openai ← experience with claude",
+      "azure openai ← experience with bedrock",
       "azure ← experience with bedrock",
-      "gemini ← experience with claude"
+      "gemini ← experience with anthropic"
     ],
     "missing_skills": [
       "retrieval"
@@ -424,9 +424,9 @@
       "retrieval augmented generation"
     ],
     "transferable_matches": [
-      "azure openai ← experience with claude",
+      "azure openai ← experience with bedrock",
       "azure ← experience with bedrock",
-      "gemini ← experience with claude"
+      "gemini ← experience with anthropic"
     ],
     "missing_skills": [
       "retrieval"
@@ -470,9 +470,9 @@
       "retrieval augmented generation"
     ],
     "transferable_matches": [
-      "azure openai ← experience with claude",
+      "azure openai ← experience with bedrock",
       "azure ← experience with bedrock",
-      "gemini ← experience with claude"
+      "gemini ← experience with anthropic"
     ],
     "missing_skills": [
       "retrieval"
@@ -559,11 +559,11 @@
     ],
     "transferable_matches": [
       "benchmarking ← experience with llm evaluation",
-      "llama ← experience with claude",
-      "llama.cpp ← experience with claude",
-      "sglang ← experience with claude",
-      "tensorrt-llm ← experience with claude",
-      "vllm ← experience with claude"
+      "llama ← experience with anthropic",
+      "llama.cpp ← experience with anthropic",
+      "sglang ← experience with anthropic",
+      "tensorrt-llm ← experience with anthropic",
+      "vllm ← experience with anthropic"
     ],
     "missing_skills": [
       "distributed systems",
@@ -621,8 +621,8 @@
     "transferable_matches": [
       "azure ← experience with bedrock",
       "gcp ← experience with bedrock",
-      "hugging face ← experience with claude",
-      "prompt engineering ← experience with structured output"
+      "hugging face ← experience with anthropic",
+      "prompt engineering ← experience with pydantic v2"
     ],
     "missing_skills": [
       "agentic rag",
@@ -660,67 +660,6 @@
     }
   },
   {
-    "score": 89,
-    "priority": "🟢 HIGH MATCH",
-    "title": "AI Engineer – Agentic Systems (Voice) (m/f/d)",
-    "company": "Acto",
-    "source": "arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/acto/remote-ai-engineer-agentic-systems-voice-190415",
-    "posted_at": "2026-08-25T05:10:23+00:00",
-    "remote": false,
-    "location": "Berlin (Remote)",
-    "salary": null,
-    "technical_matches": [
-      "agentic ai",
-      "claude",
-      "langchain",
-      "langgraph",
-      "openai",
-      "python"
-    ],
-    "transferable_matches": [
-      "hugging face ← experience with claude",
-      "mistral ← experience with claude",
-      "prompt engineering ← experience with structured output"
-    ],
-    "missing_skills": [
-      "agentic rag",
-      "asr",
-      "long-term memory",
-      "pytorch",
-      "ray",
-      "react agent",
-      "recommendation",
-      "retrieval",
-      "rust",
-      "speech synthesis",
-      "sql",
-      "tool integration",
-      "tts",
-      "voice ai"
-    ],
-    "hard_requirements_missing": [
-      "voice ai"
-    ],
-    "experience_required": "not specified",
-    "location_eligible": true,
-    "location_confidence": "low",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at Acto with strong overlap in agentic ai, langgraph, langchain, mistral, hugging face.",
-    "recommended_action": "APPLY_NOW",
-    "response_probability": "MEDIUM",
-    "url_status": "ok",
-    "score_breakdown": {
-      "technical": 100,
-      "role": 100,
-      "remote": 55,
-      "freshness": 100,
-      "experience": 100,
-      "response": 60,
-      "compensation": 50
-    }
-  },
-  {
     "score": 88,
     "priority": "🟢 HIGH MATCH",
     "title": "Machine Learning Engineer II (Servicing ML)",
@@ -741,8 +680,8 @@
     ],
     "transferable_matches": [
       "otel ← experience with observability",
-      "prompt engineering ← experience with structured output",
-      "unstructured ← experience with llamaindex"
+      "prompt engineering ← experience with pydantic v2",
+      "unstructured ← experience with lightrag"
     ],
     "missing_skills": [
       "airflow",
@@ -793,8 +732,8 @@
     ],
     "transferable_matches": [
       "otel ← experience with observability",
-      "prompt engineering ← experience with structured output",
-      "unstructured ← experience with llamaindex"
+      "prompt engineering ← experience with pydantic v2",
+      "unstructured ← experience with lightrag"
     ],
     "missing_skills": [
       "airflow",
@@ -846,10 +785,10 @@
     ],
     "transferable_matches": [
       "agno ← experience with llamaindex",
-      "guardrails ← experience with structured output",
+      "guardrails ← experience with pydantic v2",
       "metrics ← experience with observability",
-      "prompt engineering ← experience with structured output",
-      "together ai ← experience with claude",
+      "prompt engineering ← experience with pydantic v2",
+      "together ai ← experience with anthropic",
       "tracing ← experience with observability"
     ],
     "missing_skills": [
@@ -996,7 +935,7 @@
     "transferable_matches": [
       "arize ← experience with llm evaluation",
       "metrics ← experience with observability",
-      "transformers ← experience with claude"
+      "transformers ← experience with anthropic"
     ],
     "missing_skills": [
       "airflow",
@@ -1059,7 +998,7 @@
     "transferable_matches": [
       "arize ← experience with llm evaluation",
       "metrics ← experience with observability",
-      "transformers ← experience with claude"
+      "transformers ← experience with anthropic"
     ],
     "missing_skills": [
       "airflow",
@@ -1171,7 +1110,7 @@
       "azure ← experience with bedrock",
       "dspy ← experience with llamaindex",
       "gcp ← experience with bedrock",
-      "hugging face ← experience with claude"
+      "hugging face ← experience with anthropic"
     ],
     "missing_skills": [
       "databricks",
@@ -1222,7 +1161,7 @@
     "transferable_matches": [
       "arize ← experience with llm evaluation",
       "evals ← experience with llm evaluation",
-      "guardrails ← experience with structured output",
+      "guardrails ← experience with pydantic v2",
       "logging ← experience with observability",
       "metrics ← experience with observability",
       "traces ← experience with observability",
@@ -1277,11 +1216,11 @@
       "rag"
     ],
     "transferable_matches": [
-      "gemini ← experience with claude",
-      "google ai ← experience with claude",
+      "gemini ← experience with anthropic",
+      "google ai ← experience with anthropic",
       "metrics ← experience with observability",
-      "prompt engineering ← experience with structured output",
-      "vertex ai ← experience with claude"
+      "prompt engineering ← experience with pydantic v2",
+      "vertex ai ← experience with bedrock"
     ],
     "missing_skills": [
       "a2a"
@@ -1358,6 +1297,67 @@
   {
     "score": 87,
     "priority": "🟢 HIGH MATCH",
+    "title": "AI Engineer – Agentic Systems (Voice) (m/f/d)",
+    "company": "Acto",
+    "source": "arbeitnow",
+    "url": "https://www.arbeitnow.com/jobs/companies/acto/remote-ai-engineer-agentic-systems-voice-190415",
+    "posted_at": "2026-08-25T05:10:23+00:00",
+    "remote": false,
+    "location": "Berlin (Remote)",
+    "salary": null,
+    "technical_matches": [
+      "agentic ai",
+      "claude",
+      "langchain",
+      "langgraph",
+      "openai",
+      "python"
+    ],
+    "transferable_matches": [
+      "hugging face ← experience with anthropic",
+      "mistral ← experience with anthropic",
+      "prompt engineering ← experience with pydantic v2"
+    ],
+    "missing_skills": [
+      "agentic rag",
+      "asr",
+      "long-term memory",
+      "pytorch",
+      "ray",
+      "react agent",
+      "recommendation",
+      "retrieval",
+      "rust",
+      "speech synthesis",
+      "sql",
+      "tool integration",
+      "tts",
+      "voice ai"
+    ],
+    "hard_requirements_missing": [
+      "voice ai"
+    ],
+    "experience_required": "not specified",
+    "location_eligible": true,
+    "location_confidence": "low",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at Acto with strong overlap in agentic ai, langgraph, langchain, mistral, hugging face.",
+    "recommended_action": "APPLY_NOW",
+    "response_probability": "MEDIUM",
+    "url_status": "ok",
+    "score_breakdown": {
+      "technical": 100,
+      "role": 100,
+      "remote": 55,
+      "freshness": 90,
+      "experience": 100,
+      "response": 60,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 87,
+    "priority": "🟢 HIGH MATCH",
     "title": "Senior Agent Platform Engineer",
     "company": "Proxima Fusion GmbH",
     "source": "arbeitnow",
@@ -1378,7 +1378,7 @@
       "gcp ← experience with bedrock",
       "google cloud ← experience with bedrock",
       "logging ← experience with observability",
-      "together ai ← experience with claude",
+      "together ai ← experience with anthropic",
       "tracing ← experience with observability"
     ],
     "missing_skills": [
@@ -1427,13 +1427,13 @@
       "mcp"
     ],
     "transferable_matches": [
-      "guidance ← experience with structured output",
-      "instructor ← experience with structured output",
+      "guidance ← experience with pydantic v2",
+      "instructor ← experience with pydantic v2",
       "metrics ← experience with observability",
       "otel ← experience with observability",
-      "prompt engineering ← experience with structured output",
-      "together ai ← experience with claude",
-      "unstructured ← experience with llamaindex"
+      "prompt engineering ← experience with pydantic v2",
+      "together ai ← experience with anthropic",
+      "unstructured ← experience with lightrag"
     ],
     "missing_skills": [
       "classification",
@@ -1481,7 +1481,7 @@
     ],
     "transferable_matches": [
       "agno ← experience with llamaindex",
-      "guidance ← experience with structured output"
+      "guidance ← experience with pydantic v2"
     ],
     "missing_skills": [
       "document ai",
@@ -1623,7 +1623,7 @@
       "rag"
     ],
     "transferable_matches": [
-      "unstructured ← experience with llamaindex"
+      "unstructured ← experience with lightrag"
     ],
     "missing_skills": [
       "semantic search"
@@ -1665,8 +1665,8 @@
     ],
     "transferable_matches": [
       "agno ← experience with llamaindex",
-      "guidance ← experience with structured output",
-      "instructor ← experience with structured output",
+      "guidance ← experience with pydantic v2",
+      "instructor ← experience with pydantic v2",
       "s3 ← experience with bedrock"
     ],
     "missing_skills": [
@@ -1787,7 +1787,7 @@
     "reason": "Recently posted role at cloudflare with strong overlap in ai agents, tool calling, mcp, agno, evals.",
     "recommended_action": "APPLY_NOW",
     "response_probability": "HIGH",
-    "url_status": "ok",
+    "url_status": "unknown",
     "score_breakdown": {
       "technical": 95,
       "role": 84,
@@ -1816,8 +1816,8 @@
     ],
     "transferable_matches": [
       "agno ← experience with llamaindex",
-      "guidance ← experience with structured output",
-      "instructor ← experience with structured output",
+      "guidance ← experience with pydantic v2",
+      "instructor ← experience with pydantic v2",
       "s3 ← experience with bedrock"
     ],
     "missing_skills": [
@@ -1966,8 +1966,8 @@
       "python"
     ],
     "transferable_matches": [
-      "aws bedrock ← experience with claude",
-      "gpt ← experience with claude",
+      "aws bedrock ← experience with anthropic",
+      "gpt ← experience with anthropic",
       "grafana ← experience with observability",
       "logging ← experience with observability",
       "prometheus ← experience with observability"
@@ -2019,8 +2019,8 @@
       "observability"
     ],
     "transferable_matches": [
-      "aws bedrock ← experience with claude",
-      "gpt ← experience with claude",
+      "aws bedrock ← experience with anthropic",
+      "gpt ← experience with anthropic",
       "grafana ← experience with observability",
       "opentelemetry ← experience with observability"
     ],
@@ -2263,10 +2263,10 @@
     "title": "AI Engineer - FDE (Forward Deployed Engineer)",
     "company": "databricks",
     "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8569392002",
-    "posted_at": "2026-08-18T14:15:26-04:00",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8546367002",
+    "posted_at": "2026-08-18T14:10:59-04:00",
     "remote": false,
-    "location": "Tokyo, Japan",
+    "location": "United States",
     "salary": null,
     "technical_matches": [
       "aws",
@@ -2278,7 +2278,7 @@
       "azure ← experience with bedrock",
       "dspy ← experience with llamaindex",
       "gcp ← experience with bedrock",
-      "hugging face ← experience with claude"
+      "hugging face ← experience with anthropic"
     ],
     "missing_skills": [
       "databricks",
@@ -2313,10 +2313,10 @@
     "title": "AI Engineer - FDE (Forward Deployed Engineer)",
     "company": "databricks",
     "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8546367002",
-    "posted_at": "2026-08-18T14:10:59-04:00",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8569392002",
+    "posted_at": "2026-08-18T14:15:26-04:00",
     "remote": false,
-    "location": "United States",
+    "location": "Tokyo, Japan",
     "salary": null,
     "technical_matches": [
       "aws",
@@ -2328,7 +2328,7 @@
       "azure ← experience with bedrock",
       "dspy ← experience with llamaindex",
       "gcp ← experience with bedrock",
-      "hugging face ← experience with claude"
+      "hugging face ← experience with anthropic"
     ],
     "missing_skills": [
       "databricks",
@@ -2378,7 +2378,7 @@
       "azure ← experience with bedrock",
       "dspy ← experience with llamaindex",
       "gcp ← experience with bedrock",
-      "hugging face ← experience with claude"
+      "hugging face ← experience with anthropic"
     ],
     "missing_skills": [
       "databricks",
@@ -2449,7 +2449,7 @@
     "reason": "Recently posted role at cloudflare with strong overlap in observability, docker, grafana, prometheus.",
     "recommended_action": "APPLY_NOW",
     "response_probability": "HIGH",
-    "url_status": "ok",
+    "url_status": "unknown",
     "score_breakdown": {
       "technical": 90,
       "role": 91,
@@ -2482,7 +2482,7 @@
       "azure ← experience with bedrock",
       "gcp ← experience with bedrock",
       "metrics ← experience with observability",
-      "prompt engineering ← experience with structured output"
+      "prompt engineering ← experience with pydantic v2"
     ],
     "missing_skills": [
       "document ai",
@@ -2631,7 +2631,7 @@
     "transferable_matches": [
       "agno ← experience with llamaindex",
       "gcp ← experience with bedrock",
-      "guardrails ← experience with structured output",
+      "guardrails ← experience with pydantic v2",
       "logging ← experience with observability",
       "metrics ← experience with observability"
     ],
@@ -2839,7 +2839,7 @@
     "transferable_matches": [
       "elasticsearch ← experience with qdrant",
       "graph database ← experience with neo4j",
-      "hugging face ← experience with claude"
+      "hugging face ← experience with anthropic"
     ],
     "missing_skills": [
       "api integration",
@@ -2948,14 +2948,14 @@
       "rag"
     ],
     "transferable_matches": [
-      "aws bedrock ← experience with claude",
+      "aws bedrock ← experience with anthropic",
       "datadog ← experience with observability",
       "eks ← experience with bedrock",
       "elasticsearch ← experience with qdrant",
       "evals ← experience with llm evaluation",
       "golden dataset ← experience with llm evaluation",
       "graph database ← experience with neo4j",
-      "graphrag ← experience with llamaindex",
+      "graphrag ← experience with lightrag",
       "langfuse ← experience with observability",
       "opensearch ← experience with qdrant",
       "opentelemetry ← experience with observability",
@@ -3073,8 +3073,8 @@
       "rag"
     ],
     "transferable_matches": [
-      "cohere ← experience with claude",
-      "guardrails ← experience with structured output",
+      "cohere ← experience with anthropic",
+      "guardrails ← experience with pydantic v2",
       "logging ← experience with observability"
     ],
     "missing_skills": [
@@ -3240,7 +3240,7 @@
       "azure ← experience with bedrock",
       "datadog ← experience with observability",
       "gcp ← experience with bedrock",
-      "guidance ← experience with structured output",
+      "guidance ← experience with pydantic v2",
       "logging ← experience with observability",
       "metrics ← experience with observability",
       "prometheus ← experience with observability",
@@ -3342,7 +3342,7 @@
     "transferable_matches": [
       "azure ← experience with bedrock",
       "gcp ← experience with bedrock",
-      "guardrails ← experience with structured output"
+      "guardrails ← experience with pydantic v2"
     ],
     "missing_skills": [
       "databricks",
@@ -3388,8 +3388,8 @@
     ],
     "transferable_matches": [
       "benchmarking ← experience with llm evaluation",
-      "sglang ← experience with claude",
-      "vllm ← experience with claude"
+      "sglang ← experience with anthropic",
+      "vllm ← experience with anthropic"
     ],
     "missing_skills": [
       "distributed systems",
@@ -3531,7 +3531,7 @@
       "gcp ← experience with bedrock",
       "gke ← experience with bedrock",
       "google cloud ← experience with bedrock",
-      "guidance ← experience with structured output"
+      "guidance ← experience with pydantic v2"
     ],
     "missing_skills": [
       "api integration",
@@ -3635,8 +3635,8 @@
     "transferable_matches": [
       "azure ← experience with bedrock",
       "gcp ← experience with bedrock",
-      "guardrails ← experience with structured output",
-      "guidance ← experience with structured output",
+      "guardrails ← experience with pydantic v2",
+      "guidance ← experience with pydantic v2",
       "logging ← experience with observability"
     ],
     "missing_skills": [
@@ -3737,7 +3737,7 @@
     ],
     "transferable_matches": [
       "metrics ← experience with observability",
-      "prompt engineering ← experience with structured output"
+      "prompt engineering ← experience with pydantic v2"
     ],
     "missing_skills": [
       "document ai",
@@ -3787,7 +3787,7 @@
       "azure ← experience with bedrock",
       "gcp ← experience with bedrock",
       "metrics ← experience with observability",
-      "prompt engineering ← experience with structured output"
+      "prompt engineering ← experience with pydantic v2"
     ],
     "missing_skills": [
       "document ai",
@@ -3837,7 +3837,7 @@
       "azure ← experience with bedrock",
       "gcp ← experience with bedrock",
       "metrics ← experience with observability",
-      "prompt engineering ← experience with structured output"
+      "prompt engineering ← experience with pydantic v2"
     ],
     "missing_skills": [
       "document ai",
@@ -3885,7 +3885,7 @@
       "rag"
     ],
     "transferable_matches": [
-      "aws bedrock ← experience with claude"
+      "aws bedrock ← experience with anthropic"
     ],
     "missing_skills": [
       "a2a"
@@ -3955,59 +3955,6 @@
   {
     "score": 81,
     "priority": "🟡 GOOD MATCH",
-    "title": "Data Engineer (f/m/d)",
-    "company": "Climate",
-    "source": "arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/climate/data-engineer-berlin-hq-316909",
-    "posted_at": "2026-08-25T05:09:32+00:00",
-    "remote": false,
-    "location": "Berlin HQ",
-    "salary": null,
-    "technical_matches": [
-      "agentic ai",
-      "ci/cd",
-      "docker",
-      "observability",
-      "postgresql",
-      "python"
-    ],
-    "transferable_matches": [
-      "elasticsearch ← experience with qdrant",
-      "grafana ← experience with observability",
-      "prometheus ← experience with observability",
-      "s3 ← experience with bedrock",
-      "unstructured ← experience with llamaindex"
-    ],
-    "missing_skills": [
-      "postgres",
-      "retrieval",
-      "sql",
-      "terraform"
-    ],
-    "hard_requirements_missing": [
-      "sql"
-    ],
-    "experience_required": "9+ years required",
-    "location_eligible": true,
-    "location_confidence": "low",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at Climate with strong overlap in agentic ai, observability, python, unstructured, elasticsearch.",
-    "recommended_action": "REVIEW_AND_APPLY",
-    "response_probability": "MEDIUM",
-    "url_status": "ok",
-    "score_breakdown": {
-      "technical": 100,
-      "role": 84,
-      "remote": 55,
-      "freshness": 100,
-      "experience": 50,
-      "response": 60,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 81,
-    "priority": "🟡 GOOD MATCH",
     "title": "(Senior) Python Entwickler (m/w/d)",
     "company": "HyPlus Technology GmbH",
     "source": "arbeitnow",
@@ -4031,14 +3978,14 @@
       "rag"
     ],
     "transferable_matches": [
-      "aws bedrock ← experience with claude",
+      "aws bedrock ← experience with anthropic",
       "azure functions ← experience with bedrock",
-      "azure openai ← experience with claude",
+      "azure openai ← experience with bedrock",
       "azure ← experience with bedrock",
       "eks ← experience with bedrock",
       "google cloud ← experience with bedrock",
-      "gpt ← experience with claude",
-      "llama ← experience with claude"
+      "gpt ← experience with anthropic",
+      "llama ← experience with anthropic"
     ],
     "missing_skills": [
       "django",
@@ -4090,8 +4037,8 @@
       "rag"
     ],
     "transferable_matches": [
-      "aws bedrock ← experience with claude",
-      "gpt ← experience with claude"
+      "aws bedrock ← experience with anthropic",
+      "gpt ← experience with anthropic"
     ],
     "missing_skills": [
       "java",
@@ -4194,7 +4141,7 @@
       "python"
     ],
     "transferable_matches": [
-      "guidance ← experience with structured output",
+      "guidance ← experience with pydantic v2",
       "metrics ← experience with observability",
       "otel ← experience with observability"
     ],
@@ -4301,8 +4248,8 @@
     "transferable_matches": [
       "azure ← experience with bedrock",
       "gcp ← experience with bedrock",
-      "guardrails ← experience with structured output",
-      "hugging face ← experience with claude"
+      "guardrails ← experience with pydantic v2",
+      "hugging face ← experience with anthropic"
     ],
     "missing_skills": [
       "databricks",
@@ -4357,7 +4304,7 @@
       "datadog ← experience with observability",
       "eks ← experience with bedrock",
       "gcp ← experience with bedrock",
-      "guidance ← experience with structured output",
+      "guidance ← experience with pydantic v2",
       "logging ← experience with observability",
       "metrics ← experience with observability",
       "prometheus ← experience with observability",
@@ -4408,7 +4355,7 @@
     ],
     "transferable_matches": [
       "metrics ← experience with observability",
-      "prompt engineering ← experience with structured output"
+      "prompt engineering ← experience with pydantic v2"
     ],
     "missing_skills": [
       "document ai",
@@ -4456,7 +4403,7 @@
     ],
     "transferable_matches": [
       "metrics ← experience with observability",
-      "prompt engineering ← experience with structured output"
+      "prompt engineering ← experience with pydantic v2"
     ],
     "missing_skills": [
       "document ai",
@@ -4504,7 +4451,7 @@
     ],
     "transferable_matches": [
       "evals ← experience with llm evaluation",
-      "instructor ← experience with structured output",
+      "instructor ← experience with pydantic v2",
       "metrics ← experience with observability"
     ],
     "missing_skills": [
@@ -4554,7 +4501,7 @@
     ],
     "transferable_matches": [
       "metrics ← experience with observability",
-      "prompt engineering ← experience with structured output"
+      "prompt engineering ← experience with pydantic v2"
     ],
     "missing_skills": [
       "document ai",
@@ -4602,7 +4549,7 @@
     ],
     "transferable_matches": [
       "metrics ← experience with observability",
-      "prompt engineering ← experience with structured output"
+      "prompt engineering ← experience with pydantic v2"
     ],
     "missing_skills": [
       "document ai",
@@ -4650,7 +4597,7 @@
     ],
     "transferable_matches": [
       "metrics ← experience with observability",
-      "prompt engineering ← experience with structured output"
+      "prompt engineering ← experience with pydantic v2"
     ],
     "missing_skills": [
       "document ai",
@@ -4668,7 +4615,7 @@
     "reason": "Recently posted role at cloudflare with strong overlap in ai agents, rag, retrieval augmented generation, prompt engineering, metrics.",
     "recommended_action": "REVIEW_AND_APPLY",
     "response_probability": "HIGH",
-    "url_status": "ok",
+    "url_status": "unknown",
     "score_breakdown": {
       "technical": 80,
       "role": 84,
@@ -4698,7 +4645,7 @@
     ],
     "transferable_matches": [
       "metrics ← experience with observability",
-      "prompt engineering ← experience with structured output"
+      "prompt engineering ← experience with pydantic v2"
     ],
     "missing_skills": [
       "document ai",
@@ -4746,7 +4693,7 @@
     ],
     "transferable_matches": [
       "metrics ← experience with observability",
-      "prompt engineering ← experience with structured output"
+      "prompt engineering ← experience with pydantic v2"
     ],
     "missing_skills": [
       "document ai",
@@ -4794,7 +4741,7 @@
     ],
     "transferable_matches": [
       "metrics ← experience with observability",
-      "prompt engineering ← experience with structured output"
+      "prompt engineering ← experience with pydantic v2"
     ],
     "missing_skills": [
       "document ai",
@@ -4842,7 +4789,7 @@
     "transferable_matches": [
       "azure ← experience with bedrock",
       "gcp ← experience with bedrock",
-      "prompt engineering ← experience with structured output"
+      "prompt engineering ← experience with pydantic v2"
     ],
     "missing_skills": [
       "document ai",
@@ -4887,8 +4834,8 @@
     ],
     "transferable_matches": [
       "arize ← experience with llm evaluation",
-      "guardrails ← experience with structured output",
-      "guidance ← experience with structured output",
+      "guardrails ← experience with pydantic v2",
+      "guidance ← experience with pydantic v2",
       "logging ← experience with observability"
     ],
     "missing_skills": [
@@ -4937,7 +4884,7 @@
       "python"
     ],
     "transferable_matches": [
-      "json schema ← experience with structured output",
+      "json schema ← experience with pydantic v2",
       "s3 ← experience with bedrock"
     ],
     "missing_skills": [
@@ -4972,6 +4919,59 @@
   {
     "score": 80,
     "priority": "🟡 GOOD MATCH",
+    "title": "Data Engineer (f/m/d)",
+    "company": "Climate",
+    "source": "arbeitnow",
+    "url": "https://www.arbeitnow.com/jobs/companies/climate/data-engineer-berlin-hq-316909",
+    "posted_at": "2026-08-25T05:09:32+00:00",
+    "remote": false,
+    "location": "Berlin HQ",
+    "salary": null,
+    "technical_matches": [
+      "agentic ai",
+      "ci/cd",
+      "docker",
+      "observability",
+      "postgresql",
+      "python"
+    ],
+    "transferable_matches": [
+      "elasticsearch ← experience with qdrant",
+      "grafana ← experience with observability",
+      "prometheus ← experience with observability",
+      "s3 ← experience with bedrock",
+      "unstructured ← experience with lightrag"
+    ],
+    "missing_skills": [
+      "postgres",
+      "retrieval",
+      "sql",
+      "terraform"
+    ],
+    "hard_requirements_missing": [
+      "sql"
+    ],
+    "experience_required": "9+ years required",
+    "location_eligible": true,
+    "location_confidence": "low",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at Climate with strong overlap in agentic ai, observability, python, unstructured, elasticsearch.",
+    "recommended_action": "REVIEW_AND_APPLY",
+    "response_probability": "MEDIUM",
+    "url_status": "ok",
+    "score_breakdown": {
+      "technical": 100,
+      "role": 84,
+      "remote": 55,
+      "freshness": 90,
+      "experience": 50,
+      "response": 60,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 80,
+    "priority": "🟡 GOOD MATCH",
     "title": "Forward Deployed Engineer, Infrastructure Specialist (UK Public Sector)",
     "company": "Cohere",
     "source": "arbeitnow",
@@ -4988,7 +4988,7 @@
     ],
     "transferable_matches": [
       "azure ← experience with bedrock",
-      "cohere ← experience with claude",
+      "cohere ← experience with anthropic",
       "gcp ← experience with bedrock"
     ],
     "missing_skills": [
@@ -5080,8 +5080,8 @@
     ],
     "transferable_matches": [
       "a/b testing ← experience with llm evaluation",
-      "guardrails ← experience with structured output",
-      "prompt engineering ← experience with structured output"
+      "guardrails ← experience with pydantic v2",
+      "prompt engineering ← experience with pydantic v2"
     ],
     "missing_skills": [
       "airflow",
@@ -5218,9 +5218,9 @@
     ],
     "transferable_matches": [
       "benchmarking ← experience with llm evaluation",
-      "guidance ← experience with structured output",
+      "guidance ← experience with pydantic v2",
       "otel ← experience with observability",
-      "together ai ← experience with claude"
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "distributed systems",
@@ -5271,9 +5271,9 @@
     ],
     "transferable_matches": [
       "benchmarking ← experience with llm evaluation",
-      "guidance ← experience with structured output",
+      "guidance ← experience with pydantic v2",
       "otel ← experience with observability",
-      "together ai ← experience with claude"
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "distributed systems",
@@ -5331,7 +5331,7 @@
       "azure ← experience with bedrock",
       "gcp ← experience with bedrock",
       "logging ← experience with observability",
-      "prompt engineering ← experience with structured output",
+      "prompt engineering ← experience with pydantic v2",
       "tracing ← experience with observability"
     ],
     "missing_skills": [
@@ -5490,7 +5490,7 @@
     "transferable_matches": [
       "azure ← experience with bedrock",
       "gcp ← experience with bedrock",
-      "hugging face ← experience with claude"
+      "hugging face ← experience with anthropic"
     ],
     "missing_skills": [
       "databricks",
@@ -5538,14 +5538,14 @@
     ],
     "transferable_matches": [
       "azure ← experience with bedrock",
-      "gemini ← experience with claude",
-      "gpt ← experience with claude",
-      "llama ← experience with claude",
-      "qwen ← experience with claude",
+      "gemini ← experience with anthropic",
+      "gpt ← experience with anthropic",
+      "llama ← experience with anthropic",
+      "qwen ← experience with anthropic",
       "sagemaker ← experience with bedrock",
-      "sglang ← experience with claude",
-      "vertex ai ← experience with claude",
-      "vllm ← experience with claude"
+      "sglang ← experience with anthropic",
+      "vertex ai ← experience with bedrock",
+      "vllm ← experience with anthropic"
     ],
     "missing_skills": [
       "databricks",
@@ -5643,7 +5643,7 @@
       "azure ← experience with bedrock",
       "benchmarking ← experience with llm evaluation",
       "gcp ← experience with bedrock",
-      "llama ← experience with claude"
+      "llama ← experience with anthropic"
     ],
     "missing_skills": [
       "classification",
@@ -5689,7 +5689,7 @@
       "openai"
     ],
     "transferable_matches": [
-      "instructor ← experience with structured output",
+      "instructor ← experience with pydantic v2",
       "metrics ← experience with observability"
     ],
     "missing_skills": [
@@ -5735,7 +5735,7 @@
     ],
     "transferable_matches": [
       "agno ← experience with llamaindex",
-      "guidance ← experience with structured output",
+      "guidance ← experience with pydantic v2",
       "logging ← experience with observability",
       "metrics ← experience with observability",
       "tracing ← experience with observability"
@@ -5767,55 +5767,6 @@
   {
     "score": 79,
     "priority": "🟡 GOOD MATCH",
-    "title": "Interim project - Senior DevOps Consultant (f/m/d)",
-    "company": "Climate",
-    "source": "arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/climate/interim-project-senior-devops-consultant-berlin-hq-173895",
-    "posted_at": "2026-08-25T05:09:32+00:00",
-    "remote": false,
-    "location": "Berlin HQ",
-    "salary": null,
-    "technical_matches": [
-      "ci/cd",
-      "docker",
-      "postgresql",
-      "python"
-    ],
-    "transferable_matches": [
-      "agno ← experience with llamaindex",
-      "grafana ← experience with observability",
-      "guidance ← experience with structured output",
-      "prometheus ← experience with observability",
-      "s3 ← experience with bedrock"
-    ],
-    "missing_skills": [
-      "distributed systems",
-      "gitlab ci",
-      "kubernetes",
-      "postgres"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "5+ years required",
-    "location_eligible": true,
-    "location_confidence": "low",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at Climate with strong overlap in python, postgresql, docker, agno, guidance.",
-    "recommended_action": "REVIEW_AND_APPLY",
-    "response_probability": "MEDIUM",
-    "url_status": "ok",
-    "score_breakdown": {
-      "technical": 100,
-      "role": 36,
-      "remote": 55,
-      "freshness": 100,
-      "experience": 95,
-      "response": 60,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 79,
-    "priority": "🟡 GOOD MATCH",
     "title": "Manager, Forward Deployed Engineering",
     "company": "parloa",
     "source": "arbeitnow",
@@ -5833,8 +5784,8 @@
     ],
     "transferable_matches": [
       "azure ← experience with bedrock",
-      "guardrails ← experience with structured output",
-      "guidance ← experience with structured output"
+      "guardrails ← experience with pydantic v2",
+      "guidance ← experience with pydantic v2"
     ],
     "missing_skills": [
       "agent workflows",
@@ -5886,7 +5837,7 @@
       "python"
     ],
     "transferable_matches": [
-      "guardrails ← experience with structured output"
+      "guardrails ← experience with pydantic v2"
     ],
     "missing_skills": [
       "go",
@@ -6026,7 +5977,7 @@
       "python"
     ],
     "transferable_matches": [
-      "guidance ← experience with structured output",
+      "guidance ← experience with pydantic v2",
       "metrics ← experience with observability",
       "otel ← experience with observability"
     ],
@@ -6071,7 +6022,7 @@
       "python"
     ],
     "transferable_matches": [
-      "guidance ← experience with structured output",
+      "guidance ← experience with pydantic v2",
       "metrics ← experience with observability",
       "otel ← experience with observability"
     ],
@@ -6168,8 +6119,8 @@
     "transferable_matches": [
       "azure ← experience with bedrock",
       "gcp ← experience with bedrock",
-      "guardrails ← experience with structured output",
-      "hugging face ← experience with claude"
+      "guardrails ← experience with pydantic v2",
+      "hugging face ← experience with anthropic"
     ],
     "missing_skills": [
       "databricks",
@@ -6267,8 +6218,8 @@
     "transferable_matches": [
       "azure ← experience with bedrock",
       "gcp ← experience with bedrock",
-      "guardrails ← experience with structured output",
-      "hugging face ← experience with claude"
+      "guardrails ← experience with pydantic v2",
+      "hugging face ← experience with anthropic"
     ],
     "missing_skills": [
       "databricks",
@@ -6316,7 +6267,7 @@
       "agno ← experience with llamaindex",
       "azure ← experience with bedrock",
       "gcp ← experience with bedrock",
-      "guardrails ← experience with structured output"
+      "guardrails ← experience with pydantic v2"
     ],
     "missing_skills": [
       "agentic rag",
@@ -6364,10 +6315,10 @@
     ],
     "transferable_matches": [
       "gcp ← experience with bedrock",
-      "prompt templates ← experience with structured output",
-      "sglang ← experience with claude",
-      "tensorrt-llm ← experience with claude",
-      "vllm ← experience with claude"
+      "prompt templates ← experience with pydantic v2",
+      "sglang ← experience with anthropic",
+      "tensorrt-llm ← experience with anthropic",
+      "vllm ← experience with anthropic"
     ],
     "missing_skills": [
       "go",
@@ -6465,7 +6416,7 @@
       "azure ← experience with bedrock",
       "gcp ← experience with bedrock",
       "metrics ← experience with observability",
-      "prompt engineering ← experience with structured output"
+      "prompt engineering ← experience with pydantic v2"
     ],
     "missing_skills": [
       "document ai",
@@ -6517,7 +6468,7 @@
       "azure ← experience with bedrock",
       "gcp ← experience with bedrock",
       "metrics ← experience with observability",
-      "prompt engineering ← experience with structured output"
+      "prompt engineering ← experience with pydantic v2"
     ],
     "missing_skills": [
       "document ai",
@@ -6651,46 +6602,6 @@
   {
     "score": 78,
     "priority": "🟡 GOOD MATCH",
-    "title": "Executive Director, Agentic Lab and Architecture Lead",
-    "company": "jobgether",
-    "source": "lever",
-    "url": "https://jobs.lever.co/jobgether/45d08fee-9dd9-4465-b1a3-a69c7bcc73c2/apply",
-    "posted_at": "2026-08-24T11:12:25.351000+00:00",
-    "remote": true,
-    "location": "US",
-    "salary": null,
-    "technical_matches": [
-      "agent orchestration",
-      "agentic ai",
-      "observability",
-      "rag"
-    ],
-    "transferable_matches": [
-      "rag evaluation ← experience with llm evaluation"
-    ],
-    "missing_skills": [],
-    "hard_requirements_missing": [],
-    "experience_required": "not specified",
-    "location_eligible": true,
-    "location_confidence": "high",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at jobgether with strong overlap in agentic ai, agent orchestration, rag, rag evaluation.",
-    "recommended_action": "REVIEW_AND_APPLY",
-    "response_probability": "HIGH",
-    "url_status": "ok",
-    "score_breakdown": {
-      "technical": 70,
-      "role": 53,
-      "remote": 100,
-      "freshness": 90,
-      "experience": 100,
-      "response": 100,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 78,
-    "priority": "🟡 GOOD MATCH",
     "title": "Staff Product Manager, AI Foundations",
     "company": "vanta",
     "source": "ashby",
@@ -6708,7 +6619,7 @@
     "transferable_matches": [
       "evals ← experience with llm evaluation",
       "golden dataset ← experience with llm evaluation",
-      "instructor ← experience with structured output",
+      "instructor ← experience with pydantic v2",
       "traces ← experience with observability"
     ],
     "missing_skills": [
@@ -6751,7 +6662,7 @@
       "openai"
     ],
     "transferable_matches": [
-      "instructor ← experience with structured output"
+      "instructor ← experience with pydantic v2"
     ],
     "missing_skills": [
       "document ai",
@@ -6966,7 +6877,7 @@
     "reason": "Recently posted role at Mayflower GmbH with strong overlap in agentic ai, ai agents, langgraph, semantic kernel, pydanticai.",
     "recommended_action": "REVIEW_AND_APPLY",
     "response_probability": "MEDIUM",
-    "url_status": "unknown",
+    "url_status": "ok",
     "score_breakdown": {
       "technical": 100,
       "role": 41,
@@ -7024,7 +6935,7 @@
     "reason": "Recently posted role at Mayflower GmbH with strong overlap in agentic ai, ai agents, langgraph, semantic kernel, pydanticai.",
     "recommended_action": "REVIEW_AND_APPLY",
     "response_probability": "MEDIUM",
-    "url_status": "unknown",
+    "url_status": "ok",
     "score_breakdown": {
       "technical": 100,
       "role": 41,
@@ -7052,7 +6963,7 @@
       "python"
     ],
     "transferable_matches": [
-      "aws bedrock ← experience with claude"
+      "aws bedrock ← experience with anthropic"
     ],
     "missing_skills": [],
     "hard_requirements_missing": [],
@@ -7091,11 +7002,11 @@
     ],
     "transferable_matches": [
       "grafana ← experience with observability",
-      "guidance ← experience with structured output",
+      "guidance ← experience with pydantic v2",
       "metrics ← experience with observability",
       "otel ← experience with observability",
       "prometheus ← experience with observability",
-      "together ai ← experience with claude"
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "document ai",
@@ -7287,7 +7198,7 @@
       "python"
     ],
     "transferable_matches": [
-      "guidance ← experience with structured output",
+      "guidance ← experience with pydantic v2",
       "metrics ← experience with observability",
       "otel ← experience with observability"
     ],
@@ -7432,7 +7343,7 @@
     ],
     "transferable_matches": [
       "dspy ← experience with llamaindex",
-      "llama ← experience with claude"
+      "llama ← experience with anthropic"
     ],
     "missing_skills": [
       "agent framework",
@@ -7468,61 +7379,6 @@
     "title": "Staff Software Engineer - Backend",
     "company": "databricks",
     "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=5408888002",
-    "posted_at": "2026-08-18T13:17:04-04:00",
-    "remote": false,
-    "location": "San Francisco, California",
-    "salary": null,
-    "technical_matches": [
-      "aws",
-      "docker",
-      "observability"
-    ],
-    "transferable_matches": [
-      "agno ← experience with llamaindex",
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock",
-      "guidance ← experience with structured output",
-      "s3 ← experience with bedrock"
-    ],
-    "missing_skills": [
-      "databricks",
-      "distributed systems",
-      "java",
-      "kafka",
-      "kubernetes",
-      "microservices",
-      "mlflow",
-      "rust",
-      "spark",
-      "sql",
-      "terraform"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "10+ years required",
-    "location_eligible": true,
-    "location_confidence": "low",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at databricks with strong overlap in observability, docker, aws, agno, guidance.",
-    "recommended_action": "REVIEW_AND_APPLY",
-    "response_probability": "HIGH",
-    "url_status": "ok",
-    "score_breakdown": {
-      "technical": 95,
-      "role": 100,
-      "remote": 55,
-      "freshness": 55,
-      "experience": 50,
-      "response": 100,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 77,
-    "priority": "🟡 GOOD MATCH",
-    "title": "Staff Software Engineer - Backend",
-    "company": "databricks",
-    "source": "greenhouse",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6779233002",
     "posted_at": "2026-08-18T13:17:06-04:00",
     "remote": false,
@@ -7537,7 +7393,7 @@
       "agno ← experience with llamaindex",
       "azure ← experience with bedrock",
       "gcp ← experience with bedrock",
-      "guidance ← experience with structured output",
+      "guidance ← experience with pydantic v2",
       "s3 ← experience with bedrock"
     ],
     "missing_skills": [
@@ -7578,10 +7434,10 @@
     "title": "Staff Software Engineer - Backend",
     "company": "databricks",
     "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6779232002",
-    "posted_at": "2026-08-18T13:17:06-04:00",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=5408888002",
+    "posted_at": "2026-08-18T13:17:04-04:00",
     "remote": false,
-    "location": "Seattle, Washington",
+    "location": "San Francisco, California",
     "salary": null,
     "technical_matches": [
       "aws",
@@ -7592,7 +7448,7 @@
       "agno ← experience with llamaindex",
       "azure ← experience with bedrock",
       "gcp ← experience with bedrock",
-      "guidance ← experience with structured output",
+      "guidance ← experience with pydantic v2",
       "s3 ← experience with bedrock"
     ],
     "missing_skills": [
@@ -7647,7 +7503,62 @@
       "agno ← experience with llamaindex",
       "azure ← experience with bedrock",
       "gcp ← experience with bedrock",
-      "guidance ← experience with structured output",
+      "guidance ← experience with pydantic v2",
+      "s3 ← experience with bedrock"
+    ],
+    "missing_skills": [
+      "databricks",
+      "distributed systems",
+      "java",
+      "kafka",
+      "kubernetes",
+      "microservices",
+      "mlflow",
+      "rust",
+      "spark",
+      "sql",
+      "terraform"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "10+ years required",
+    "location_eligible": true,
+    "location_confidence": "low",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at databricks with strong overlap in observability, docker, aws, agno, guidance.",
+    "recommended_action": "REVIEW_AND_APPLY",
+    "response_probability": "HIGH",
+    "url_status": "ok",
+    "score_breakdown": {
+      "technical": 95,
+      "role": 100,
+      "remote": 55,
+      "freshness": 55,
+      "experience": 50,
+      "response": 100,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 77,
+    "priority": "🟡 GOOD MATCH",
+    "title": "Staff Software Engineer - Backend",
+    "company": "databricks",
+    "source": "greenhouse",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6779232002",
+    "posted_at": "2026-08-18T13:17:06-04:00",
+    "remote": false,
+    "location": "Seattle, Washington",
+    "salary": null,
+    "technical_matches": [
+      "aws",
+      "docker",
+      "observability"
+    ],
+    "transferable_matches": [
+      "agno ← experience with llamaindex",
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock",
+      "guidance ← experience with pydantic v2",
       "s3 ← experience with bedrock"
     ],
     "missing_skills": [
@@ -7727,7 +7638,7 @@
     "reason": "Recently posted role at scaleai with strong overlap in multi-agent systems, observability, python, tracing, grafana.",
     "recommended_action": "REVIEW_AND_APPLY",
     "response_probability": "HIGH",
-    "url_status": "ok",
+    "url_status": "unknown",
     "score_breakdown": {
       "technical": 100,
       "role": 79,
@@ -7790,6 +7701,55 @@
     }
   },
   {
+    "score": 77,
+    "priority": "🟡 GOOD MATCH",
+    "title": "Interim project - Senior DevOps Consultant (f/m/d)",
+    "company": "Climate",
+    "source": "arbeitnow",
+    "url": "https://www.arbeitnow.com/jobs/companies/climate/interim-project-senior-devops-consultant-berlin-hq-173895",
+    "posted_at": "2026-08-25T05:09:32+00:00",
+    "remote": false,
+    "location": "Berlin HQ",
+    "salary": null,
+    "technical_matches": [
+      "ci/cd",
+      "docker",
+      "postgresql",
+      "python"
+    ],
+    "transferable_matches": [
+      "agno ← experience with llamaindex",
+      "grafana ← experience with observability",
+      "guidance ← experience with pydantic v2",
+      "prometheus ← experience with observability",
+      "s3 ← experience with bedrock"
+    ],
+    "missing_skills": [
+      "distributed systems",
+      "gitlab ci",
+      "kubernetes",
+      "postgres"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "5+ years required",
+    "location_eligible": true,
+    "location_confidence": "low",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at Climate with strong overlap in python, postgresql, docker, agno, guidance.",
+    "recommended_action": "REVIEW_AND_APPLY",
+    "response_probability": "MEDIUM",
+    "url_status": "ok",
+    "score_breakdown": {
+      "technical": 100,
+      "role": 36,
+      "remote": 55,
+      "freshness": 90,
+      "experience": 95,
+      "response": 60,
+      "compensation": 50
+    }
+  },
+  {
     "score": 76,
     "priority": "🟡 GOOD MATCH",
     "title": "AI Specialist, Treasury Finance Operations",
@@ -7810,7 +7770,7 @@
     "transferable_matches": [
       "azure ← experience with bedrock",
       "gcp ← experience with bedrock",
-      "prompt engineering ← experience with structured output"
+      "prompt engineering ← experience with pydantic v2"
     ],
     "missing_skills": [
       "databricks",
@@ -8096,7 +8056,7 @@
       "faiss ← experience with qdrant",
       "metrics ← experience with observability",
       "opensearch ← experience with qdrant",
-      "unstructured ← experience with llamaindex"
+      "unstructured ← experience with lightrag"
     ],
     "missing_skills": [
       "agentic rag",
@@ -8166,8 +8126,8 @@
       "crewai ← experience with llamaindex",
       "evals ← experience with llm evaluation",
       "metrics ← experience with observability",
-      "prompt engineering ← experience with structured output",
-      "together ai ← experience with claude"
+      "prompt engineering ← experience with pydantic v2",
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "java",
@@ -8306,7 +8266,7 @@
     ],
     "transferable_matches": [
       "metrics ← experience with observability",
-      "prompt engineering ← experience with structured output"
+      "prompt engineering ← experience with pydantic v2"
     ],
     "missing_skills": [
       "document ai",
@@ -8354,7 +8314,7 @@
     ],
     "transferable_matches": [
       "metrics ← experience with observability",
-      "prompt engineering ← experience with structured output"
+      "prompt engineering ← experience with pydantic v2"
     ],
     "missing_skills": [
       "document ai",
@@ -8386,6 +8346,46 @@
   {
     "score": 76,
     "priority": "🟡 GOOD MATCH",
+    "title": "Executive Director, Agentic Lab and Architecture Lead",
+    "company": "jobgether",
+    "source": "lever",
+    "url": "https://jobs.lever.co/jobgether/45d08fee-9dd9-4465-b1a3-a69c7bcc73c2/apply",
+    "posted_at": "2026-08-24T11:12:25.351000+00:00",
+    "remote": true,
+    "location": "US",
+    "salary": null,
+    "technical_matches": [
+      "agent orchestration",
+      "agentic ai",
+      "observability",
+      "rag"
+    ],
+    "transferable_matches": [
+      "rag evaluation ← experience with llm evaluation"
+    ],
+    "missing_skills": [],
+    "hard_requirements_missing": [],
+    "experience_required": "not specified",
+    "location_eligible": true,
+    "location_confidence": "high",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at jobgether with strong overlap in agentic ai, agent orchestration, rag, rag evaluation.",
+    "recommended_action": "REVIEW_AND_APPLY",
+    "response_probability": "HIGH",
+    "url_status": "ok",
+    "score_breakdown": {
+      "technical": 70,
+      "role": 53,
+      "remote": 100,
+      "freshness": 75,
+      "experience": 100,
+      "response": 100,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 76,
+    "priority": "🟡 GOOD MATCH",
     "title": "Senior Backend Software Engineer, Integrations Platform",
     "company": "vanta",
     "source": "ashby",
@@ -8403,7 +8403,7 @@
     "transferable_matches": [
       "azure ← experience with bedrock",
       "gcp ← experience with bedrock",
-      "instructor ← experience with structured output"
+      "instructor ← experience with pydantic v2"
     ],
     "missing_skills": [
       "document ai",
@@ -8449,7 +8449,7 @@
     ],
     "transferable_matches": [
       "agno ← experience with llamaindex",
-      "cohere ← experience with claude",
+      "cohere ← experience with anthropic",
       "tracing ← experience with observability"
     ],
     "missing_skills": [
@@ -8492,7 +8492,7 @@
     ],
     "transferable_matches": [
       "agno ← experience with llamaindex",
-      "guidance ← experience with structured output"
+      "guidance ← experience with pydantic v2"
     ],
     "missing_skills": [
       "go",
@@ -8539,7 +8539,7 @@
     ],
     "transferable_matches": [
       "agno ← experience with llamaindex",
-      "guidance ← experience with structured output"
+      "guidance ← experience with pydantic v2"
     ],
     "missing_skills": [
       "go",
@@ -8586,7 +8586,7 @@
       "python"
     ],
     "transferable_matches": [
-      "together ai ← experience with claude"
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "distributed systems",
@@ -8634,7 +8634,7 @@
       "python"
     ],
     "transferable_matches": [
-      "together ai ← experience with claude"
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "distributed systems",
@@ -8681,10 +8681,10 @@
       "python"
     ],
     "transferable_matches": [
-      "guidance ← experience with structured output",
+      "guidance ← experience with pydantic v2",
       "otel ← experience with observability",
-      "together ai ← experience with claude",
-      "unstructured ← experience with llamaindex"
+      "together ai ← experience with anthropic",
+      "unstructured ← experience with lightrag"
     ],
     "missing_skills": [
       "go",
@@ -8714,6 +8714,57 @@
   {
     "score": 76,
     "priority": "🟡 GOOD MATCH",
+    "title": "Senior Staff Security Engineer, AI Security",
+    "company": "Ripple",
+    "source": "arbeitnow",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/ripple/senior-staff-security-engineer-ai-security-london-353793",
+    "posted_at": "2026-08-24T18:55:30+00:00",
+    "remote": false,
+    "location": "London",
+    "salary": null,
+    "technical_matches": [
+      "agentic ai",
+      "aws",
+      "ci/cd",
+      "mcp",
+      "multi-agent systems",
+      "rag"
+    ],
+    "transferable_matches": [
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock",
+      "guardrails ← experience with pydantic v2"
+    ],
+    "missing_skills": [
+      "api integration",
+      "autonomous agents",
+      "go",
+      "human-in-the-loop",
+      "kubernetes",
+      "mcp server"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "10+ years required",
+    "location_eligible": true,
+    "location_confidence": "low",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at Ripple with strong overlap in agentic ai, multi-agent systems, mcp, guardrails, azure.",
+    "recommended_action": "REVIEW_AND_APPLY",
+    "response_probability": "MEDIUM",
+    "url_status": "ok",
+    "score_breakdown": {
+      "technical": 100,
+      "role": 61,
+      "remote": 55,
+      "freshness": 90,
+      "experience": 50,
+      "response": 60,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 76,
+    "priority": "🟡 GOOD MATCH",
     "title": "Head of Engineering",
     "company": "deeploi - This is IT",
     "source": "arbeitnow",
@@ -8733,8 +8784,8 @@
       "tool calling"
     ],
     "transferable_matches": [
-      "guardrails ← experience with structured output",
-      "guidance ← experience with structured output"
+      "guardrails ← experience with pydantic v2",
+      "guidance ← experience with pydantic v2"
     ],
     "missing_skills": [
       "distributed systems",
@@ -8782,7 +8833,7 @@
       "logging ← experience with observability",
       "metrics ← experience with observability",
       "traces ← experience with observability",
-      "unstructured ← experience with llamaindex"
+      "unstructured ← experience with lightrag"
     ],
     "missing_skills": [
       "airflow",
@@ -8806,7 +8857,7 @@
     "reason": "Recently posted role at airbnb with strong overlap in observability, python, unstructured, a/b testing.",
     "recommended_action": "REVIEW_AND_APPLY",
     "response_probability": "HIGH",
-    "url_status": "stale",
+    "url_status": "ok",
     "score_breakdown": {
       "technical": 80,
       "role": 59,
@@ -9070,7 +9121,7 @@
     ],
     "transferable_matches": [
       "metrics ← experience with observability",
-      "prompt engineering ← experience with structured output"
+      "prompt engineering ← experience with pydantic v2"
     ],
     "missing_skills": [
       "document ai",
@@ -9118,7 +9169,7 @@
     ],
     "transferable_matches": [
       "metrics ← experience with observability",
-      "prompt engineering ← experience with structured output"
+      "prompt engineering ← experience with pydantic v2"
     ],
     "missing_skills": [
       "document ai",
@@ -9166,7 +9217,7 @@
     ],
     "transferable_matches": [
       "metrics ← experience with observability",
-      "prompt engineering ← experience with structured output"
+      "prompt engineering ← experience with pydantic v2"
     ],
     "missing_skills": [
       "document ai",
@@ -9214,7 +9265,7 @@
     ],
     "transferable_matches": [
       "metrics ← experience with observability",
-      "prompt engineering ← experience with structured output"
+      "prompt engineering ← experience with pydantic v2"
     ],
     "missing_skills": [
       "document ai",
@@ -9263,7 +9314,7 @@
     ],
     "transferable_matches": [
       "metrics ← experience with observability",
-      "prompt engineering ← experience with structured output"
+      "prompt engineering ← experience with pydantic v2"
     ],
     "missing_skills": [
       "document ai",
@@ -9311,7 +9362,7 @@
     ],
     "transferable_matches": [
       "metrics ← experience with observability",
-      "prompt engineering ← experience with structured output"
+      "prompt engineering ← experience with pydantic v2"
     ],
     "missing_skills": [
       "document ai",
@@ -9359,7 +9410,7 @@
     ],
     "transferable_matches": [
       "metrics ← experience with observability",
-      "prompt engineering ← experience with structured output"
+      "prompt engineering ← experience with pydantic v2"
     ],
     "missing_skills": [
       "document ai",
@@ -9407,7 +9458,7 @@
     ],
     "transferable_matches": [
       "metrics ← experience with observability",
-      "prompt engineering ← experience with structured output"
+      "prompt engineering ← experience with pydantic v2"
     ],
     "missing_skills": [
       "document ai",
@@ -9455,7 +9506,7 @@
     ],
     "transferable_matches": [
       "metrics ← experience with observability",
-      "prompt engineering ← experience with structured output"
+      "prompt engineering ← experience with pydantic v2"
     ],
     "missing_skills": [
       "document ai",
@@ -9473,7 +9524,7 @@
     "reason": "Recently posted role at cloudflare with strong overlap in ai agents, rag, retrieval augmented generation, prompt engineering, metrics.",
     "recommended_action": "REVIEW_AND_APPLY",
     "response_probability": "HIGH",
-    "url_status": "ok",
+    "url_status": "unknown",
     "score_breakdown": {
       "technical": 80,
       "role": 50,
@@ -9503,7 +9554,7 @@
       "python"
     ],
     "transferable_matches": [
-      "unstructured ← experience with llamaindex"
+      "unstructured ← experience with lightrag"
     ],
     "missing_skills": [
       "bigquery",
@@ -9591,8 +9642,8 @@
       "claude"
     ],
     "transferable_matches": [
-      "gemini ← experience with claude",
-      "gpt ← experience with claude"
+      "gemini ← experience with anthropic",
+      "gpt ← experience with anthropic"
     ],
     "missing_skills": [
       "rust"
@@ -9632,7 +9683,7 @@
       "openai"
     ],
     "transferable_matches": [
-      "guidance ← experience with structured output",
+      "guidance ← experience with pydantic v2",
       "metrics ← experience with observability",
       "otel ← experience with observability",
       "s3 ← experience with bedrock"
@@ -9779,9 +9830,9 @@
     ],
     "transferable_matches": [
       "arize ← experience with llm evaluation",
-      "guidance ← experience with structured output",
+      "guidance ← experience with pydantic v2",
       "metrics ← experience with observability",
-      "together ai ← experience with claude"
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "api integration",
@@ -10031,10 +10082,10 @@
       "observability"
     ],
     "transferable_matches": [
-      "guardrails ← experience with structured output",
-      "guidance ← experience with structured output",
+      "guardrails ← experience with pydantic v2",
+      "guidance ← experience with pydantic v2",
       "otel ← experience with observability",
-      "together ai ← experience with claude"
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "go",
@@ -10078,10 +10129,10 @@
       "observability"
     ],
     "transferable_matches": [
-      "guardrails ← experience with structured output",
-      "guidance ← experience with structured output",
+      "guardrails ← experience with pydantic v2",
+      "guidance ← experience with pydantic v2",
       "otel ← experience with observability",
-      "together ai ← experience with claude"
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "go",
@@ -10170,8 +10221,8 @@
     "transferable_matches": [
       "elasticsearch ← experience with qdrant",
       "graph database ← experience with neo4j",
-      "guidance ← experience with structured output",
-      "together ai ← experience with claude"
+      "guidance ← experience with pydantic v2",
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "java",
@@ -10263,7 +10314,7 @@
     "transferable_matches": [
       "azure ← experience with bedrock",
       "gcp ← experience with bedrock",
-      "together ai ← experience with claude"
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "databricks",
@@ -10451,7 +10502,7 @@
       "tool calling"
     ],
     "transferable_matches": [
-      "prompt engineering ← experience with structured output"
+      "prompt engineering ← experience with pydantic v2"
     ],
     "missing_skills": [
       "api integration",
@@ -10502,7 +10553,7 @@
     ],
     "transferable_matches": [
       "golden dataset ← experience with llm evaluation",
-      "guardrails ← experience with structured output"
+      "guardrails ← experience with pydantic v2"
     ],
     "missing_skills": [
       "a2a",
@@ -10605,7 +10656,7 @@
     ],
     "transferable_matches": [
       "metrics ← experience with observability",
-      "prompt engineering ← experience with structured output"
+      "prompt engineering ← experience with pydantic v2"
     ],
     "missing_skills": [
       "document ai",
@@ -10653,7 +10704,7 @@
     ],
     "transferable_matches": [
       "metrics ← experience with observability",
-      "prompt engineering ← experience with structured output"
+      "prompt engineering ← experience with pydantic v2"
     ],
     "missing_skills": [
       "document ai",
@@ -10701,7 +10752,7 @@
     ],
     "transferable_matches": [
       "metrics ← experience with observability",
-      "prompt engineering ← experience with structured output"
+      "prompt engineering ← experience with pydantic v2"
     ],
     "missing_skills": [
       "document ai",
@@ -10749,7 +10800,7 @@
     ],
     "transferable_matches": [
       "metrics ← experience with observability",
-      "prompt engineering ← experience with structured output"
+      "prompt engineering ← experience with pydantic v2"
     ],
     "missing_skills": [
       "document ai",
@@ -10797,7 +10848,7 @@
     ],
     "transferable_matches": [
       "metrics ← experience with observability",
-      "prompt engineering ← experience with structured output"
+      "prompt engineering ← experience with pydantic v2"
     ],
     "missing_skills": [
       "document ai",
@@ -10845,7 +10896,7 @@
     ],
     "transferable_matches": [
       "metrics ← experience with observability",
-      "prompt engineering ← experience with structured output"
+      "prompt engineering ← experience with pydantic v2"
     ],
     "missing_skills": [
       "document ai",
@@ -10893,7 +10944,7 @@
     ],
     "transferable_matches": [
       "metrics ← experience with observability",
-      "prompt engineering ← experience with structured output"
+      "prompt engineering ← experience with pydantic v2"
     ],
     "missing_skills": [
       "document ai",
@@ -10987,7 +11038,7 @@
     ],
     "transferable_matches": [
       "azure ← experience with bedrock",
-      "unstructured ← experience with llamaindex"
+      "unstructured ← experience with lightrag"
     ],
     "missing_skills": [
       "agent platform",
@@ -11079,10 +11130,10 @@
     ],
     "transferable_matches": [
       "gcp ← experience with bedrock",
-      "gemini ← experience with claude",
+      "gemini ← experience with anthropic",
       "metrics ← experience with observability",
       "otel ← experience with observability",
-      "vertex ai ← experience with claude"
+      "vertex ai ← experience with bedrock"
     ],
     "missing_skills": [
       "bigquery",
@@ -11125,7 +11176,7 @@
     ],
     "transferable_matches": [
       "agno ← experience with llamaindex",
-      "guardrails ← experience with structured output",
+      "guardrails ← experience with pydantic v2",
       "metrics ← experience with observability",
       "tracing ← experience with observability"
     ],
@@ -11455,8 +11506,8 @@
       "python"
     ],
     "transferable_matches": [
-      "guardrails ← experience with structured output",
-      "guidance ← experience with structured output",
+      "guardrails ← experience with pydantic v2",
+      "guidance ← experience with pydantic v2",
       "metrics ← experience with observability",
       "otel ← experience with observability"
     ],
@@ -11500,8 +11551,8 @@
       "python"
     ],
     "transferable_matches": [
-      "guardrails ← experience with structured output",
-      "guidance ← experience with structured output",
+      "guardrails ← experience with pydantic v2",
+      "guidance ← experience with pydantic v2",
       "metrics ← experience with observability",
       "otel ← experience with observability"
     ],
@@ -11596,8 +11647,8 @@
     "transferable_matches": [
       "azure ← experience with bedrock",
       "gcp ← experience with bedrock",
-      "guardrails ← experience with structured output",
-      "hugging face ← experience with claude"
+      "guardrails ← experience with pydantic v2",
+      "hugging face ← experience with anthropic"
     ],
     "missing_skills": [
       "databricks",
@@ -11642,9 +11693,9 @@
     ],
     "transferable_matches": [
       "elasticsearch ← experience with qdrant",
-      "guardrails ← experience with structured output",
+      "guardrails ← experience with pydantic v2",
       "metrics ← experience with observability",
-      "unstructured ← experience with llamaindex"
+      "unstructured ← experience with lightrag"
     ],
     "missing_skills": [
       "databricks",
@@ -11694,7 +11745,7 @@
     "transferable_matches": [
       "azure ← experience with bedrock",
       "sagemaker ← experience with bedrock",
-      "vertex ai ← experience with claude"
+      "vertex ai ← experience with bedrock"
     ],
     "missing_skills": [
       "agent framework",
@@ -11744,7 +11795,7 @@
       "agno ← experience with llamaindex",
       "azure ← experience with bedrock",
       "gcp ← experience with bedrock",
-      "guardrails ← experience with structured output"
+      "guardrails ← experience with pydantic v2"
     ],
     "missing_skills": [
       "databricks",
@@ -11791,14 +11842,14 @@
     ],
     "transferable_matches": [
       "azure ← experience with bedrock",
-      "gemini ← experience with claude",
-      "gpt ← experience with claude",
-      "llama ← experience with claude",
-      "qwen ← experience with claude",
+      "gemini ← experience with anthropic",
+      "gpt ← experience with anthropic",
+      "llama ← experience with anthropic",
+      "qwen ← experience with anthropic",
       "sagemaker ← experience with bedrock",
-      "sglang ← experience with claude",
-      "vertex ai ← experience with claude",
-      "vllm ← experience with claude"
+      "sglang ← experience with anthropic",
+      "vertex ai ← experience with bedrock",
+      "vllm ← experience with anthropic"
     ],
     "missing_skills": [
       "databricks",
@@ -11844,9 +11895,9 @@
     ],
     "transferable_matches": [
       "elasticsearch ← experience with qdrant",
-      "guardrails ← experience with structured output",
+      "guardrails ← experience with pydantic v2",
       "metrics ← experience with observability",
-      "unstructured ← experience with llamaindex"
+      "unstructured ← experience with lightrag"
     ],
     "missing_skills": [
       "databricks",
@@ -11894,8 +11945,8 @@
     ],
     "transferable_matches": [
       "gcp ← experience with bedrock",
-      "guidance ← experience with structured output",
-      "prompt engineering ← experience with structured output"
+      "guidance ← experience with pydantic v2",
+      "prompt engineering ← experience with pydantic v2"
     ],
     "missing_skills": [
       "document ai"
@@ -11938,7 +11989,7 @@
     ],
     "transferable_matches": [
       "metrics ← experience with observability",
-      "prompt engineering ← experience with structured output"
+      "prompt engineering ← experience with pydantic v2"
     ],
     "missing_skills": [
       "document ai",
@@ -11983,7 +12034,7 @@
       "rag"
     ],
     "transferable_matches": [
-      "guardrails ← experience with structured output"
+      "guardrails ← experience with pydantic v2"
     ],
     "missing_skills": [],
     "hard_requirements_missing": [],
@@ -11992,86 +12043,6 @@
     "location_confidence": "high",
     "freshness_confidence": "known",
     "reason": "Recently posted role at jobgether with strong overlap in ai agents, rag, guardrails.",
-    "recommended_action": "SKIP",
-    "response_probability": "MEDIUM",
-    "url_status": "not_checked",
-    "score_breakdown": {
-      "technical": 40,
-      "role": 100,
-      "remote": 100,
-      "freshness": 90,
-      "experience": 100,
-      "response": 60,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 73,
-    "priority": "⚪ REVIEW",
-    "title": "Founding AI Forward Deployed Engineer",
-    "company": "jobgether",
-    "source": "lever",
-    "url": "https://jobs.lever.co/jobgether/a060203f-7720-4923-96de-93b8e56e859f/apply",
-    "posted_at": "2026-08-24T10:44:35.985000+00:00",
-    "remote": true,
-    "location": "US",
-    "salary": null,
-    "technical_matches": [
-      "agentic ai",
-      "observability"
-    ],
-    "transferable_matches": [
-      "guardrails ← experience with structured output"
-    ],
-    "missing_skills": [
-      "retrieval"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "not specified",
-    "location_eligible": true,
-    "location_confidence": "high",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at jobgether with strong overlap in agentic ai, observability, guardrails.",
-    "recommended_action": "SKIP",
-    "response_probability": "MEDIUM",
-    "url_status": "not_checked",
-    "score_breakdown": {
-      "technical": 40,
-      "role": 100,
-      "remote": 100,
-      "freshness": 90,
-      "experience": 100,
-      "response": 60,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 73,
-    "priority": "⚪ REVIEW",
-    "title": "Intermediate Cloud / AI Developer",
-    "company": "jobgether",
-    "source": "lever",
-    "url": "https://jobs.lever.co/jobgether/1bbcbdc5-6639-4610-bb73-576df8b8bd76/apply",
-    "posted_at": "2026-08-24T11:29:28.743000+00:00",
-    "remote": true,
-    "location": "US",
-    "salary": null,
-    "technical_matches": [
-      "ci/cd",
-      "observability"
-    ],
-    "transferable_matches": [
-      "google cloud ← experience with bedrock"
-    ],
-    "missing_skills": [
-      "java"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "not specified",
-    "location_eligible": true,
-    "location_confidence": "high",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at jobgether with strong overlap in observability, ci/cd, google cloud.",
     "recommended_action": "SKIP",
     "response_probability": "MEDIUM",
     "url_status": "not_checked",
@@ -12103,7 +12074,7 @@
     "transferable_matches": [
       "azure ← experience with bedrock",
       "google cloud ← experience with bedrock",
-      "instructor ← experience with structured output"
+      "instructor ← experience with pydantic v2"
     ],
     "missing_skills": [
       "java",
@@ -12148,7 +12119,7 @@
     "transferable_matches": [
       "azure ← experience with bedrock",
       "google cloud ← experience with bedrock",
-      "instructor ← experience with structured output"
+      "instructor ← experience with pydantic v2"
     ],
     "missing_skills": [
       "java",
@@ -12225,46 +12196,6 @@
   {
     "score": 73,
     "priority": "⚪ REVIEW",
-    "title": "Senior Product Manager (f/m/x)",
-    "company": "Mindfuel",
-    "source": "arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/mindfuel/remote-senior-product-manager-mindfuel-munich-380433",
-    "posted_at": "2026-08-25T05:10:08+00:00",
-    "remote": true,
-    "location": "Mindfuel Munich",
-    "salary": null,
-    "technical_matches": [
-      "claude"
-    ],
-    "transferable_matches": [
-      "otel ← experience with observability",
-      "prompt engineering ← experience with structured output",
-      "together ai ← experience with claude",
-      "unstructured ← experience with llamaindex"
-    ],
-    "missing_skills": [],
-    "hard_requirements_missing": [],
-    "experience_required": "not specified",
-    "location_eligible": true,
-    "location_confidence": "high",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at Mindfuel with strong overlap in claude, unstructured, together ai.",
-    "recommended_action": "SKIP",
-    "response_probability": "UNKNOWN",
-    "url_status": "not_checked",
-    "score_breakdown": {
-      "technical": 55,
-      "role": 57,
-      "remote": 100,
-      "freshness": 100,
-      "experience": 100,
-      "response": 50,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 73,
-    "priority": "⚪ REVIEW",
     "title": "Forward Deployed Engineer, Agentic Platform (UK Public Sector)",
     "company": "Cohere",
     "source": "arbeitnow",
@@ -12280,7 +12211,7 @@
       "rag"
     ],
     "transferable_matches": [
-      "cohere ← experience with claude"
+      "cohere ← experience with anthropic"
     ],
     "missing_skills": [
       "agent workflows",
@@ -12371,7 +12302,7 @@
       "arize ← experience with llm evaluation",
       "metrics ← experience with observability",
       "offline evaluation ← experience with llm evaluation",
-      "transformers ← experience with claude"
+      "transformers ← experience with anthropic"
     ],
     "missing_skills": [
       "embedding",
@@ -12417,7 +12348,7 @@
       "python"
     ],
     "transferable_matches": [
-      "guidance ← experience with structured output",
+      "guidance ← experience with pydantic v2",
       "metrics ← experience with observability",
       "otel ← experience with observability"
     ],
@@ -12465,7 +12396,7 @@
       "python"
     ],
     "transferable_matches": [
-      "guidance ← experience with structured output",
+      "guidance ← experience with pydantic v2",
       "metrics ← experience with observability",
       "otel ← experience with observability"
     ],
@@ -12513,7 +12444,7 @@
       "python"
     ],
     "transferable_matches": [
-      "guidance ← experience with structured output",
+      "guidance ← experience with pydantic v2",
       "metrics ← experience with observability",
       "otel ← experience with observability"
     ],
@@ -12561,7 +12492,7 @@
       "python"
     ],
     "transferable_matches": [
-      "guidance ← experience with structured output",
+      "guidance ← experience with pydantic v2",
       "metrics ← experience with observability",
       "otel ← experience with observability"
     ],
@@ -12608,10 +12539,10 @@
       "python"
     ],
     "transferable_matches": [
-      "guidance ← experience with structured output",
+      "guidance ← experience with pydantic v2",
       "metrics ← experience with observability",
       "otel ← experience with observability",
-      "together ai ← experience with claude"
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "distributed systems",
@@ -12996,7 +12927,7 @@
       "observability"
     ],
     "transferable_matches": [
-      "prompt engineering ← experience with structured output"
+      "prompt engineering ← experience with pydantic v2"
     ],
     "missing_skills": [
       "autonomous agents"
@@ -13037,7 +12968,7 @@
       "rag"
     ],
     "transferable_matches": [
-      "guardrails ← experience with structured output"
+      "guardrails ← experience with pydantic v2"
     ],
     "missing_skills": [
       "agent workflows"
@@ -13207,7 +13138,7 @@
       "bedrock"
     ],
     "transferable_matches": [
-      "aws bedrock ← experience with claude"
+      "aws bedrock ← experience with anthropic"
     ],
     "missing_skills": [],
     "hard_requirements_missing": [],
@@ -13341,7 +13272,7 @@
     "transferable_matches": [
       "agent development kit ← experience with llamaindex",
       "google cloud ← experience with bedrock",
-      "guardrails ← experience with structured output",
+      "guardrails ← experience with pydantic v2",
       "tracing ← experience with observability"
     ],
     "missing_skills": [
@@ -13386,7 +13317,7 @@
     "transferable_matches": [
       "arize ← experience with llm evaluation",
       "benchmarking ← experience with llm evaluation",
-      "guardrails ← experience with structured output",
+      "guardrails ← experience with pydantic v2",
       "otel ← experience with observability"
     ],
     "missing_skills": [
@@ -13624,7 +13555,7 @@
       "python"
     ],
     "transferable_matches": [
-      "guidance ← experience with structured output",
+      "guidance ← experience with pydantic v2",
       "metrics ← experience with observability",
       "otel ← experience with observability"
     ],
@@ -13668,7 +13599,7 @@
       "python"
     ],
     "transferable_matches": [
-      "guidance ← experience with structured output",
+      "guidance ← experience with pydantic v2",
       "metrics ← experience with observability",
       "otel ← experience with observability"
     ],
@@ -13714,7 +13645,7 @@
       "python"
     ],
     "transferable_matches": [
-      "guidance ← experience with structured output",
+      "guidance ← experience with pydantic v2",
       "metrics ← experience with observability",
       "otel ← experience with observability"
     ],
@@ -13850,7 +13781,7 @@
       "observability"
     ],
     "transferable_matches": [
-      "guidance ← experience with structured output"
+      "guidance ← experience with pydantic v2"
     ],
     "missing_skills": [
       "agent platform",
@@ -13893,7 +13824,7 @@
     ],
     "transferable_matches": [
       "benchmarking ← experience with llm evaluation",
-      "guidance ← experience with structured output"
+      "guidance ← experience with pydantic v2"
     ],
     "missing_skills": [
       "document ai",
@@ -13939,7 +13870,7 @@
     "transferable_matches": [
       "azure ← experience with bedrock",
       "sagemaker ← experience with bedrock",
-      "vertex ai ← experience with claude"
+      "vertex ai ← experience with bedrock"
     ],
     "missing_skills": [
       "agent framework",
@@ -14038,7 +13969,7 @@
       "observability"
     ],
     "transferable_matches": [
-      "guardrails ← experience with structured output"
+      "guardrails ← experience with pydantic v2"
     ],
     "missing_skills": [
       "distributed systems",
@@ -15548,6 +15479,86 @@
   {
     "score": 71,
     "priority": "⚪ REVIEW",
+    "title": "Founding AI Forward Deployed Engineer",
+    "company": "jobgether",
+    "source": "lever",
+    "url": "https://jobs.lever.co/jobgether/a060203f-7720-4923-96de-93b8e56e859f/apply",
+    "posted_at": "2026-08-24T10:44:35.985000+00:00",
+    "remote": true,
+    "location": "US",
+    "salary": null,
+    "technical_matches": [
+      "agentic ai",
+      "observability"
+    ],
+    "transferable_matches": [
+      "guardrails ← experience with pydantic v2"
+    ],
+    "missing_skills": [
+      "retrieval"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "not specified",
+    "location_eligible": true,
+    "location_confidence": "high",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at jobgether with strong overlap in agentic ai, observability, guardrails.",
+    "recommended_action": "SKIP",
+    "response_probability": "MEDIUM",
+    "url_status": "not_checked",
+    "score_breakdown": {
+      "technical": 40,
+      "role": 100,
+      "remote": 100,
+      "freshness": 75,
+      "experience": 100,
+      "response": 60,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 71,
+    "priority": "⚪ REVIEW",
+    "title": "Intermediate Cloud / AI Developer",
+    "company": "jobgether",
+    "source": "lever",
+    "url": "https://jobs.lever.co/jobgether/1bbcbdc5-6639-4610-bb73-576df8b8bd76/apply",
+    "posted_at": "2026-08-24T11:29:28.743000+00:00",
+    "remote": true,
+    "location": "US",
+    "salary": null,
+    "technical_matches": [
+      "ci/cd",
+      "observability"
+    ],
+    "transferable_matches": [
+      "google cloud ← experience with bedrock"
+    ],
+    "missing_skills": [
+      "java"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "not specified",
+    "location_eligible": true,
+    "location_confidence": "high",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at jobgether with strong overlap in observability, ci/cd, google cloud.",
+    "recommended_action": "SKIP",
+    "response_probability": "MEDIUM",
+    "url_status": "not_checked",
+    "score_breakdown": {
+      "technical": 40,
+      "role": 100,
+      "remote": 100,
+      "freshness": 75,
+      "experience": 100,
+      "response": 60,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 71,
+    "priority": "⚪ REVIEW",
     "title": "Sr. Java Developer Microservices",
     "company": "jobgether",
     "source": "lever",
@@ -15604,7 +15615,7 @@
     ],
     "transferable_matches": [
       "evals ← experience with llm evaluation",
-      "together ai ← experience with claude"
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "mcp tools",
@@ -15632,6 +15643,46 @@
   {
     "score": 71,
     "priority": "⚪ REVIEW",
+    "title": "Senior Product Manager (f/m/x)",
+    "company": "Mindfuel",
+    "source": "arbeitnow",
+    "url": "https://www.arbeitnow.com/jobs/companies/mindfuel/remote-senior-product-manager-mindfuel-munich-380433",
+    "posted_at": "2026-08-25T05:10:08+00:00",
+    "remote": true,
+    "location": "Mindfuel Munich",
+    "salary": null,
+    "technical_matches": [
+      "claude"
+    ],
+    "transferable_matches": [
+      "otel ← experience with observability",
+      "prompt engineering ← experience with pydantic v2",
+      "together ai ← experience with anthropic",
+      "unstructured ← experience with lightrag"
+    ],
+    "missing_skills": [],
+    "hard_requirements_missing": [],
+    "experience_required": "not specified",
+    "location_eligible": true,
+    "location_confidence": "high",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at Mindfuel with strong overlap in claude, unstructured, together ai.",
+    "recommended_action": "SKIP",
+    "response_probability": "UNKNOWN",
+    "url_status": "not_checked",
+    "score_breakdown": {
+      "technical": 55,
+      "role": 57,
+      "remote": 100,
+      "freshness": 90,
+      "experience": 100,
+      "response": 50,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 71,
+    "priority": "⚪ REVIEW",
     "title": "Staff Engineer / Technical Lead Azure/.NET",
     "company": "Berlinbrands",
     "source": "arbeitnow",
@@ -15648,7 +15699,7 @@
     "transferable_matches": [
       "azure functions ← experience with bedrock",
       "azure ← experience with bedrock",
-      "together ai ← experience with claude"
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       ".net",
@@ -15700,8 +15751,8 @@
     "transferable_matches": [
       "azure ← experience with bedrock",
       "gcp ← experience with bedrock",
-      "gemini ← experience with claude",
-      "guidance ← experience with structured output"
+      "gemini ← experience with anthropic",
+      "guidance ← experience with pydantic v2"
     ],
     "missing_skills": [
       "databricks",
@@ -15745,9 +15796,9 @@
       "retrieval augmented generation"
     ],
     "transferable_matches": [
-      "guidance ← experience with structured output",
+      "guidance ← experience with pydantic v2",
       "metrics ← experience with observability",
-      "prompt engineering ← experience with structured output"
+      "prompt engineering ← experience with pydantic v2"
     ],
     "missing_skills": [
       "document ai",
@@ -15781,10 +15832,10 @@
     "title": "Technical Support Engineer, Metronome",
     "company": "stripe",
     "source": "greenhouse",
-    "url": "https://stripe.com/jobs/search?gh_jid=7860377",
-    "posted_at": "2026-08-18T17:57:23-04:00",
+    "url": "https://stripe.com/jobs/search?gh_jid=7733725",
+    "posted_at": "2026-08-18T17:38:41-04:00",
     "remote": false,
-    "location": "Dublin, Ireland",
+    "location": "San Francisco, CA",
     "salary": null,
     "technical_matches": [
       "anthropic",
@@ -15794,7 +15845,7 @@
     ],
     "transferable_matches": [
       "agno ← experience with llamaindex",
-      "guidance ← experience with structured output"
+      "guidance ← experience with pydantic v2"
     ],
     "missing_skills": [
       "document ai",
@@ -15827,10 +15878,10 @@
     "title": "Technical Support Engineer, Metronome",
     "company": "stripe",
     "source": "greenhouse",
-    "url": "https://stripe.com/jobs/search?gh_jid=7733725",
-    "posted_at": "2026-08-18T17:38:41-04:00",
+    "url": "https://stripe.com/jobs/search?gh_jid=7860377",
+    "posted_at": "2026-08-18T17:57:23-04:00",
     "remote": false,
-    "location": "San Francisco, CA",
+    "location": "Dublin, Ireland",
     "salary": null,
     "technical_matches": [
       "anthropic",
@@ -15840,7 +15891,7 @@
     ],
     "transferable_matches": [
       "agno ← experience with llamaindex",
-      "guidance ← experience with structured output"
+      "guidance ← experience with pydantic v2"
     ],
     "missing_skills": [
       "document ai",
@@ -15888,7 +15939,7 @@
     "transferable_matches": [
       "azure ← experience with bedrock",
       "gcp ← experience with bedrock",
-      "unstructured ← experience with llamaindex"
+      "unstructured ← experience with lightrag"
     ],
     "missing_skills": [
       "autonomous agents",
@@ -15934,7 +15985,7 @@
     ],
     "transferable_matches": [
       "eks ← experience with bedrock",
-      "guardrails ← experience with structured output",
+      "guardrails ← experience with pydantic v2",
       "metrics ← experience with observability"
     ],
     "missing_skills": [
@@ -16285,8 +16336,8 @@
     ],
     "transferable_matches": [
       "agno ← experience with llamaindex",
-      "guidance ← experience with structured output",
-      "prompt engineering ← experience with structured output"
+      "guidance ← experience with pydantic v2",
+      "prompt engineering ← experience with pydantic v2"
     ],
     "missing_skills": [
       "api integration",
@@ -16334,8 +16385,8 @@
     ],
     "transferable_matches": [
       "agno ← experience with llamaindex",
-      "guidance ← experience with structured output",
-      "prompt engineering ← experience with structured output"
+      "guidance ← experience with pydantic v2",
+      "prompt engineering ← experience with pydantic v2"
     ],
     "missing_skills": [
       "api integration",
@@ -16711,7 +16762,7 @@
       "azure ← experience with bedrock",
       "dify ← experience with llamaindex",
       "gcp ← experience with bedrock",
-      "guardrails ← experience with structured output",
+      "guardrails ← experience with pydantic v2",
       "logging ← experience with observability"
     ],
     "missing_skills": [
@@ -16902,7 +16953,7 @@
       "agno ← experience with llamaindex",
       "azure ← experience with bedrock",
       "gcp ← experience with bedrock",
-      "guardrails ← experience with structured output"
+      "guardrails ← experience with pydantic v2"
     ],
     "missing_skills": [
       "databricks",
@@ -16948,7 +16999,7 @@
     "transferable_matches": [
       "azure ← experience with bedrock",
       "gcp ← experience with bedrock",
-      "guidance ← experience with structured output"
+      "guidance ← experience with pydantic v2"
     ],
     "missing_skills": [
       "document ai",
@@ -16989,7 +17040,7 @@
       "python"
     ],
     "transferable_matches": [
-      "guidance ← experience with structured output",
+      "guidance ← experience with pydantic v2",
       "networkx ← experience with neo4j",
       "otel ← experience with observability"
     ],
@@ -17514,7 +17565,7 @@
       "retrieval augmented generation"
     ],
     "transferable_matches": [
-      "unstructured ← experience with llamaindex"
+      "unstructured ← experience with lightrag"
     ],
     "missing_skills": [
       "java",
@@ -17559,7 +17610,7 @@
     "transferable_matches": [
       "azure ← experience with bedrock",
       "gcp ← experience with bedrock",
-      "instructor ← experience with structured output"
+      "instructor ← experience with pydantic v2"
     ],
     "missing_skills": [
       "node.js",
@@ -18120,8 +18171,8 @@
       "observability"
     ],
     "transferable_matches": [
-      "guardrails ← experience with structured output",
-      "guidance ← experience with structured output",
+      "guardrails ← experience with pydantic v2",
+      "guidance ← experience with pydantic v2",
       "metrics ← experience with observability"
     ],
     "missing_skills": [
@@ -18254,12 +18305,12 @@
       "openai"
     ],
     "transferable_matches": [
-      "gpt ← experience with claude",
-      "guidance ← experience with structured output",
-      "llama ← experience with claude",
-      "qwen ← experience with claude",
-      "sglang ← experience with claude",
-      "vllm ← experience with claude"
+      "gpt ← experience with anthropic",
+      "guidance ← experience with pydantic v2",
+      "llama ← experience with anthropic",
+      "qwen ← experience with anthropic",
+      "sglang ← experience with anthropic",
+      "vllm ← experience with anthropic"
     ],
     "missing_skills": [
       "databricks",
@@ -18303,7 +18354,7 @@
     "transferable_matches": [
       "azure ← experience with bedrock",
       "gcp ← experience with bedrock",
-      "together ai ← experience with claude"
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "databricks",
@@ -18466,7 +18517,7 @@
     ],
     "transferable_matches": [
       "metrics ← experience with observability",
-      "together ai ← experience with claude"
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "document ai",
@@ -18509,9 +18560,9 @@
     "transferable_matches": [
       "azure ← experience with bedrock",
       "gcp ← experience with bedrock",
-      "guardrails ← experience with structured output",
-      "guidance ← experience with structured output",
-      "instructor ← experience with structured output"
+      "guardrails ← experience with pydantic v2",
+      "guidance ← experience with pydantic v2",
+      "instructor ← experience with pydantic v2"
     ],
     "missing_skills": [
       "rust",
@@ -18553,7 +18604,7 @@
       "postgresql"
     ],
     "transferable_matches": [
-      "together ai ← experience with claude"
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "nestjs",
@@ -18599,7 +18650,7 @@
     ],
     "transferable_matches": [
       "azure ← experience with bedrock",
-      "together ai ← experience with claude"
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       ".net",
@@ -18644,7 +18695,7 @@
       "python"
     ],
     "transferable_matches": [
-      "guidance ← experience with structured output",
+      "guidance ← experience with pydantic v2",
       "otel ← experience with observability"
     ],
     "missing_skills": [
@@ -18688,7 +18739,7 @@
       "python"
     ],
     "transferable_matches": [
-      "guardrails ← experience with structured output",
+      "guardrails ← experience with pydantic v2",
       "otel ← experience with observability"
     ],
     "missing_skills": [
@@ -18732,7 +18783,7 @@
       "python"
     ],
     "transferable_matches": [
-      "guardrails ← experience with structured output",
+      "guardrails ← experience with pydantic v2",
       "otel ← experience with observability"
     ],
     "missing_skills": [
@@ -18775,7 +18826,7 @@
       "python"
     ],
     "transferable_matches": [
-      "guidance ← experience with structured output",
+      "guidance ← experience with pydantic v2",
       "metrics ← experience with observability",
       "otel ← experience with observability"
     ],
@@ -18822,7 +18873,7 @@
       "python"
     ],
     "transferable_matches": [
-      "guidance ← experience with structured output",
+      "guidance ← experience with pydantic v2",
       "metrics ← experience with observability",
       "otel ← experience with observability"
     ],
@@ -18869,7 +18920,7 @@
       "python"
     ],
     "transferable_matches": [
-      "guidance ← experience with structured output",
+      "guidance ← experience with pydantic v2",
       "metrics ← experience with observability",
       "otel ← experience with observability"
     ],
@@ -18912,7 +18963,7 @@
       "python"
     ],
     "transferable_matches": [
-      "guidance ← experience with structured output",
+      "guidance ← experience with pydantic v2",
       "metrics ← experience with observability",
       "otel ← experience with observability"
     ],
@@ -18957,7 +19008,7 @@
       "python"
     ],
     "transferable_matches": [
-      "guidance ← experience with structured output",
+      "guidance ← experience with pydantic v2",
       "metrics ← experience with observability",
       "otel ← experience with observability"
     ],
@@ -19001,7 +19052,7 @@
       "python"
     ],
     "transferable_matches": [
-      "guidance ← experience with structured output",
+      "guidance ← experience with pydantic v2",
       "metrics ← experience with observability",
       "otel ← experience with observability"
     ],
@@ -19045,7 +19096,7 @@
       "python"
     ],
     "transferable_matches": [
-      "guidance ← experience with structured output",
+      "guidance ← experience with pydantic v2",
       "metrics ← experience with observability",
       "otel ← experience with observability"
     ],
@@ -19089,7 +19140,7 @@
       "python"
     ],
     "transferable_matches": [
-      "guidance ← experience with structured output",
+      "guidance ← experience with pydantic v2",
       "metrics ← experience with observability",
       "otel ← experience with observability"
     ],
@@ -19134,7 +19185,7 @@
       "python"
     ],
     "transferable_matches": [
-      "guidance ← experience with structured output",
+      "guidance ← experience with pydantic v2",
       "metrics ← experience with observability",
       "otel ← experience with observability"
     ],
@@ -19480,10 +19531,10 @@
     "title": "Senior Software Engineer - Fullstack",
     "company": "databricks",
     "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6544403002",
-    "posted_at": "2026-08-18T13:17:05-04:00",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=5445641002",
+    "posted_at": "2026-08-18T13:17:04-04:00",
     "remote": false,
-    "location": "Seattle, Washington",
+    "location": "Mountain View, California; San Francisco, California",
     "salary": null,
     "technical_matches": [
       "aws",
@@ -19531,10 +19582,10 @@
     "title": "Senior Software Engineer - Fullstack",
     "company": "databricks",
     "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=5445641002",
-    "posted_at": "2026-08-18T13:17:04-04:00",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6544403002",
+    "posted_at": "2026-08-18T13:17:05-04:00",
     "remote": false,
-    "location": "Mountain View, California; San Francisco, California",
+    "location": "Seattle, Washington",
     "salary": null,
     "technical_matches": [
       "aws",
@@ -19672,6 +19723,57 @@
     "title": "Staff Designated Support Engineer",
     "company": "databricks",
     "source": "greenhouse",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8554463002",
+    "posted_at": "2026-08-18T13:17:14-04:00",
+    "remote": false,
+    "location": "Bengaluru, India",
+    "salary": null,
+    "technical_matches": [
+      "aws",
+      "ci/cd",
+      "python"
+    ],
+    "transferable_matches": [
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock",
+      "metrics ← experience with observability"
+    ],
+    "missing_skills": [
+      "bigquery",
+      "databricks",
+      "document ai",
+      "java",
+      "knowledge base",
+      "rust",
+      "snowflake",
+      "spark",
+      "sql"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "12+ years required",
+    "location_eligible": true,
+    "location_confidence": "low",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at databricks with strong overlap in python, ci/cd, aws, metrics, azure.",
+    "recommended_action": "SKIP",
+    "response_probability": "HIGH",
+    "url_status": "not_checked",
+    "score_breakdown": {
+      "technical": 75,
+      "role": 84,
+      "remote": 55,
+      "freshness": 55,
+      "experience": 50,
+      "response": 100,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 68,
+    "priority": "⚪ REVIEW",
+    "title": "Staff Designated Support Engineer",
+    "company": "databricks",
+    "source": "greenhouse",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7839474002",
     "posted_at": "2026-08-18T13:17:06-04:00",
     "remote": false,
@@ -19772,57 +19874,6 @@
   {
     "score": 68,
     "priority": "⚪ REVIEW",
-    "title": "Staff Designated Support Engineer",
-    "company": "databricks",
-    "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8554463002",
-    "posted_at": "2026-08-18T13:17:14-04:00",
-    "remote": false,
-    "location": "Bengaluru, India",
-    "salary": null,
-    "technical_matches": [
-      "aws",
-      "ci/cd",
-      "python"
-    ],
-    "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock",
-      "metrics ← experience with observability"
-    ],
-    "missing_skills": [
-      "bigquery",
-      "databricks",
-      "document ai",
-      "java",
-      "knowledge base",
-      "rust",
-      "snowflake",
-      "spark",
-      "sql"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "12+ years required",
-    "location_eligible": true,
-    "location_confidence": "low",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at databricks with strong overlap in python, ci/cd, aws, metrics, azure.",
-    "recommended_action": "SKIP",
-    "response_probability": "HIGH",
-    "url_status": "not_checked",
-    "score_breakdown": {
-      "technical": 75,
-      "role": 84,
-      "remote": 55,
-      "freshness": 55,
-      "experience": 50,
-      "response": 100,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 68,
-    "priority": "⚪ REVIEW",
     "title": "Staff Partner Engineer, Azure ",
     "company": "databricks",
     "source": "greenhouse",
@@ -19839,8 +19890,8 @@
     "transferable_matches": [
       "azure ← experience with bedrock",
       "gcp ← experience with bedrock",
-      "guidance ← experience with structured output",
-      "together ai ← experience with claude"
+      "guidance ← experience with pydantic v2",
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "api integration",
@@ -20098,7 +20149,7 @@
     ],
     "transferable_matches": [
       "elasticsearch ← experience with qdrant",
-      "together ai ← experience with claude"
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "java",
@@ -20145,7 +20196,7 @@
     ],
     "transferable_matches": [
       "metrics ← experience with observability",
-      "together ai ← experience with claude"
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "computer vision",
@@ -20187,10 +20238,10 @@
       "claude"
     ],
     "transferable_matches": [
-      "cohere ← experience with claude",
+      "cohere ← experience with anthropic",
       "datadog ← experience with observability",
       "metrics ← experience with observability",
-      "together ai ← experience with claude"
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "document ai",
@@ -20211,48 +20262,6 @@
       "role": 77,
       "remote": 55,
       "freshness": 90,
-      "experience": 100,
-      "response": 50,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 68,
-    "priority": "⚪ REVIEW",
-    "title": "Software Engineer - Build Platform",
-    "company": "Optiverus",
-    "source": "arbeitnow",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/optiverus/software-engineer-build-platform-london-313285",
-    "posted_at": "2026-08-23T12:55:18+00:00",
-    "remote": false,
-    "location": "London",
-    "salary": null,
-    "technical_matches": [
-      "ci/cd",
-      "github actions",
-      "observability"
-    ],
-    "transferable_matches": [
-      "agno ← experience with llamaindex"
-    ],
-    "missing_skills": [
-      "jenkins",
-      "rust"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "not specified",
-    "location_eligible": true,
-    "location_confidence": "low",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at Optiverus with strong overlap in observability, ci/cd, github actions, agno.",
-    "recommended_action": "SKIP",
-    "response_probability": "UNKNOWN",
-    "url_status": "not_checked",
-    "score_breakdown": {
-      "technical": 55,
-      "role": 92,
-      "remote": 55,
-      "freshness": 75,
       "experience": 100,
       "response": 50,
       "compensation": 50
@@ -20366,11 +20375,11 @@
     ],
     "transferable_matches": [
       "a/b testing ← experience with llm evaluation",
-      "gemini ← experience with claude",
+      "gemini ← experience with anthropic",
       "logging ← experience with observability",
       "metrics ← experience with observability",
-      "prompt engineering ← experience with structured output",
-      "unstructured ← experience with llamaindex"
+      "prompt engineering ← experience with pydantic v2",
+      "unstructured ← experience with lightrag"
     ],
     "missing_skills": [
       "lora",
@@ -20419,10 +20428,10 @@
     "transferable_matches": [
       "a/b testing ← experience with llm evaluation",
       "benchmarking ← experience with llm evaluation",
-      "guardrails ← experience with structured output",
+      "guardrails ← experience with pydantic v2",
       "metrics ← experience with observability",
-      "transformers ← experience with claude",
-      "unstructured ← experience with llamaindex"
+      "transformers ← experience with anthropic",
+      "unstructured ← experience with lightrag"
     ],
     "missing_skills": [
       "agentic rag",
@@ -20469,9 +20478,9 @@
     ],
     "transferable_matches": [
       "evals ← experience with llm evaluation",
-      "gemini ← experience with claude",
-      "guardrails ← experience with structured output",
-      "prompt engineering ← experience with structured output"
+      "gemini ← experience with anthropic",
+      "guardrails ← experience with pydantic v2",
+      "prompt engineering ← experience with pydantic v2"
     ],
     "missing_skills": [
       "agentic rag",
@@ -20515,7 +20524,7 @@
       "ai agents"
     ],
     "transferable_matches": [
-      "instructor ← experience with structured output",
+      "instructor ← experience with pydantic v2",
       "metrics ← experience with observability",
       "otel ← experience with observability"
     ],
@@ -20557,7 +20566,7 @@
       "ai agents"
     ],
     "transferable_matches": [
-      "instructor ← experience with structured output",
+      "instructor ← experience with pydantic v2",
       "metrics ← experience with observability",
       "otel ← experience with observability"
     ],
@@ -20600,7 +20609,7 @@
       "python"
     ],
     "transferable_matches": [
-      "guidance ← experience with structured output",
+      "guidance ← experience with pydantic v2",
       "otel ← experience with observability"
     ],
     "missing_skills": [
@@ -20771,10 +20780,10 @@
       "openai"
     ],
     "transferable_matches": [
-      "gemini ← experience with claude",
-      "gpt ← experience with claude",
-      "llama ← experience with claude",
-      "qwen ← experience with claude"
+      "gemini ← experience with anthropic",
+      "gpt ← experience with anthropic",
+      "llama ← experience with anthropic",
+      "qwen ← experience with anthropic"
     ],
     "missing_skills": [
       "databricks",
@@ -20993,53 +21002,6 @@
     "title": "Sr. Forward Deployed Engineer",
     "company": "databricks",
     "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8739484002",
-    "posted_at": "2026-08-21T20:23:39-04:00",
-    "remote": false,
-    "location": "United States",
-    "salary": null,
-    "technical_matches": [
-      "aws",
-      "ci/cd",
-      "python"
-    ],
-    "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
-    ],
-    "missing_skills": [
-      "databricks",
-      "document ai",
-      "java",
-      "javascript",
-      "spark",
-      "typescript"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "6+ years required",
-    "location_eligible": true,
-    "location_confidence": "low",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at databricks with strong overlap in python, ci/cd, aws, azure, gcp.",
-    "recommended_action": "SKIP",
-    "response_probability": "MEDIUM",
-    "url_status": "not_checked",
-    "score_breakdown": {
-      "technical": 65,
-      "role": 100,
-      "remote": 55,
-      "freshness": 55,
-      "experience": 70,
-      "response": 60,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 67,
-    "priority": "⚪ REVIEW",
-    "title": "Sr. Forward Deployed Engineer",
-    "company": "databricks",
-    "source": "greenhouse",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8568173002",
     "posted_at": "2026-08-18T14:04:31-04:00",
     "remote": false,
@@ -21087,10 +21049,57 @@
     "title": "Sr. Forward Deployed Engineer",
     "company": "databricks",
     "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8739474002",
-    "posted_at": "2026-08-21T20:23:36-04:00",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8657065002",
+    "posted_at": "2026-08-21T20:23:25-04:00",
     "remote": false,
-    "location": "San Francisco, California",
+    "location": "Austin, Texas; USCA",
+    "salary": null,
+    "technical_matches": [
+      "aws",
+      "ci/cd",
+      "python"
+    ],
+    "transferable_matches": [
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock"
+    ],
+    "missing_skills": [
+      "databricks",
+      "document ai",
+      "java",
+      "javascript",
+      "spark",
+      "typescript"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "6+ years required",
+    "location_eligible": true,
+    "location_confidence": "low",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at databricks with strong overlap in python, ci/cd, aws, azure, gcp.",
+    "recommended_action": "SKIP",
+    "response_probability": "MEDIUM",
+    "url_status": "not_checked",
+    "score_breakdown": {
+      "technical": 65,
+      "role": 100,
+      "remote": 55,
+      "freshness": 55,
+      "experience": 70,
+      "response": 60,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 67,
+    "priority": "⚪ REVIEW",
+    "title": "Sr. Forward Deployed Engineer",
+    "company": "databricks",
+    "source": "greenhouse",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8739458002",
+    "posted_at": "2026-08-21T20:23:27-04:00",
+    "remote": false,
+    "location": "Chicago, Illinois",
     "salary": null,
     "technical_matches": [
       "aws",
@@ -21228,10 +21237,10 @@
     "title": "Sr. Forward Deployed Engineer",
     "company": "databricks",
     "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8739458002",
-    "posted_at": "2026-08-21T20:23:27-04:00",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8739474002",
+    "posted_at": "2026-08-21T20:23:36-04:00",
     "remote": false,
-    "location": "Chicago, Illinois",
+    "location": "San Francisco, California",
     "salary": null,
     "technical_matches": [
       "aws",
@@ -21275,198 +21284,10 @@
     "title": "Sr. Forward Deployed Engineer",
     "company": "databricks",
     "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8657065002",
-    "posted_at": "2026-08-21T20:23:25-04:00",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8739484002",
+    "posted_at": "2026-08-21T20:23:39-04:00",
     "remote": false,
-    "location": "Austin, Texas; USCA",
-    "salary": null,
-    "technical_matches": [
-      "aws",
-      "ci/cd",
-      "python"
-    ],
-    "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
-    ],
-    "missing_skills": [
-      "databricks",
-      "document ai",
-      "java",
-      "javascript",
-      "spark",
-      "typescript"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "6+ years required",
-    "location_eligible": true,
-    "location_confidence": "low",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at databricks with strong overlap in python, ci/cd, aws, azure, gcp.",
-    "recommended_action": "SKIP",
-    "response_probability": "MEDIUM",
-    "url_status": "not_checked",
-    "score_breakdown": {
-      "technical": 65,
-      "role": 100,
-      "remote": 55,
-      "freshness": 55,
-      "experience": 70,
-      "response": 60,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 67,
-    "priority": "⚪ REVIEW",
-    "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
-    "company": "databricks",
-    "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461168002",
-    "posted_at": "2026-08-18T13:54:10-04:00",
-    "remote": false,
-    "location": "Los Angeles, California",
-    "salary": null,
-    "technical_matches": [
-      "aws",
-      "ci/cd",
-      "python"
-    ],
-    "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
-    ],
-    "missing_skills": [
-      "databricks",
-      "document ai",
-      "java",
-      "javascript",
-      "spark",
-      "typescript"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "6+ years required",
-    "location_eligible": true,
-    "location_confidence": "low",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at databricks with strong overlap in python, ci/cd, aws, azure, gcp.",
-    "recommended_action": "SKIP",
-    "response_probability": "MEDIUM",
-    "url_status": "not_checked",
-    "score_breakdown": {
-      "technical": 65,
-      "role": 100,
-      "remote": 55,
-      "freshness": 55,
-      "experience": 70,
-      "response": 60,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 67,
-    "priority": "⚪ REVIEW",
-    "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
-    "company": "databricks",
-    "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8494153002",
-    "posted_at": "2026-08-18T13:54:10-04:00",
-    "remote": false,
-    "location": "Philadelphia, Pennsylvania",
-    "salary": null,
-    "technical_matches": [
-      "aws",
-      "ci/cd",
-      "python"
-    ],
-    "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
-    ],
-    "missing_skills": [
-      "databricks",
-      "document ai",
-      "java",
-      "javascript",
-      "spark",
-      "typescript"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "6+ years required",
-    "location_eligible": true,
-    "location_confidence": "low",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at databricks with strong overlap in python, ci/cd, aws, azure, gcp.",
-    "recommended_action": "SKIP",
-    "response_probability": "MEDIUM",
-    "url_status": "not_checked",
-    "score_breakdown": {
-      "technical": 65,
-      "role": 100,
-      "remote": 55,
-      "freshness": 55,
-      "experience": 70,
-      "response": 60,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 67,
-    "priority": "⚪ REVIEW",
-    "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
-    "company": "databricks",
-    "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461258002",
-    "posted_at": "2026-08-18T13:54:10-04:00",
-    "remote": false,
-    "location": "Raleigh, North Carolina",
-    "salary": null,
-    "technical_matches": [
-      "aws",
-      "ci/cd",
-      "python"
-    ],
-    "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
-    ],
-    "missing_skills": [
-      "databricks",
-      "document ai",
-      "java",
-      "javascript",
-      "spark",
-      "typescript"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "6+ years required",
-    "location_eligible": true,
-    "location_confidence": "low",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at databricks with strong overlap in python, ci/cd, aws, azure, gcp.",
-    "recommended_action": "SKIP",
-    "response_probability": "MEDIUM",
-    "url_status": "not_checked",
-    "score_breakdown": {
-      "technical": 65,
-      "role": 100,
-      "remote": 55,
-      "freshness": 55,
-      "experience": 70,
-      "response": 60,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 67,
-    "priority": "⚪ REVIEW",
-    "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
-    "company": "databricks",
-    "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461251002",
-    "posted_at": "2026-08-18T13:54:10-04:00",
-    "remote": false,
-    "location": "Mountain View, California",
+    "location": "United States",
     "salary": null,
     "technical_matches": [
       "aws",
@@ -21557,10 +21378,10 @@
     "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
     "company": "databricks",
     "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461241002",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8494153002",
     "posted_at": "2026-08-18T13:54:10-04:00",
     "remote": false,
-    "location": "Washington, D.C.",
+    "location": "Philadelphia, Pennsylvania",
     "salary": null,
     "technical_matches": [
       "aws",
@@ -21604,10 +21425,10 @@
     "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
     "company": "databricks",
     "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461239002",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461251002",
     "posted_at": "2026-08-18T13:54:10-04:00",
     "remote": false,
-    "location": "Atlanta, Georgia",
+    "location": "Mountain View, California",
     "salary": null,
     "technical_matches": [
       "aws",
@@ -21651,10 +21472,10 @@
     "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
     "company": "databricks",
     "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461226002",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461258002",
     "posted_at": "2026-08-18T13:54:10-04:00",
     "remote": false,
-    "location": "New York City, New York",
+    "location": "Raleigh, North Carolina",
     "salary": null,
     "technical_matches": [
       "aws",
@@ -21745,10 +21566,10 @@
     "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
     "company": "databricks",
     "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461220002",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461163002",
     "posted_at": "2026-08-18T13:54:10-04:00",
     "remote": false,
-    "location": "Chicago, Illinois",
+    "location": "San Francisco, California",
     "salary": null,
     "technical_matches": [
       "aws",
@@ -21792,10 +21613,10 @@
     "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
     "company": "databricks",
     "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461219002",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461168002",
     "posted_at": "2026-08-18T13:54:10-04:00",
     "remote": false,
-    "location": "Austin, Texas",
+    "location": "Los Angeles, California",
     "salary": null,
     "technical_matches": [
       "aws",
@@ -21809,7 +21630,10 @@
     "missing_skills": [
       "databricks",
       "document ai",
-      "spark"
+      "java",
+      "javascript",
+      "spark",
+      "typescript"
     ],
     "hard_requirements_missing": [],
     "experience_required": "6+ years required",
@@ -21836,10 +21660,151 @@
     "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
     "company": "databricks",
     "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461163002",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461226002",
     "posted_at": "2026-08-18T13:54:10-04:00",
     "remote": false,
-    "location": "San Francisco, California",
+    "location": "New York City, New York",
+    "salary": null,
+    "technical_matches": [
+      "aws",
+      "ci/cd",
+      "python"
+    ],
+    "transferable_matches": [
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock"
+    ],
+    "missing_skills": [
+      "databricks",
+      "document ai",
+      "java",
+      "javascript",
+      "spark",
+      "typescript"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "6+ years required",
+    "location_eligible": true,
+    "location_confidence": "low",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at databricks with strong overlap in python, ci/cd, aws, azure, gcp.",
+    "recommended_action": "SKIP",
+    "response_probability": "MEDIUM",
+    "url_status": "not_checked",
+    "score_breakdown": {
+      "technical": 65,
+      "role": 100,
+      "remote": 55,
+      "freshness": 55,
+      "experience": 70,
+      "response": 60,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 67,
+    "priority": "⚪ REVIEW",
+    "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
+    "company": "databricks",
+    "source": "greenhouse",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461193002",
+    "posted_at": "2026-08-18T13:54:10-04:00",
+    "remote": false,
+    "location": "Seattle, Washington",
+    "salary": null,
+    "technical_matches": [
+      "aws",
+      "ci/cd",
+      "python"
+    ],
+    "transferable_matches": [
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock"
+    ],
+    "missing_skills": [
+      "databricks",
+      "document ai",
+      "java",
+      "javascript",
+      "spark",
+      "typescript"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "6+ years required",
+    "location_eligible": true,
+    "location_confidence": "low",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at databricks with strong overlap in python, ci/cd, aws, azure, gcp.",
+    "recommended_action": "SKIP",
+    "response_probability": "MEDIUM",
+    "url_status": "not_checked",
+    "score_breakdown": {
+      "technical": 65,
+      "role": 100,
+      "remote": 55,
+      "freshness": 55,
+      "experience": 70,
+      "response": 60,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 67,
+    "priority": "⚪ REVIEW",
+    "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
+    "company": "databricks",
+    "source": "greenhouse",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461239002",
+    "posted_at": "2026-08-18T13:54:10-04:00",
+    "remote": false,
+    "location": "Atlanta, Georgia",
+    "salary": null,
+    "technical_matches": [
+      "aws",
+      "ci/cd",
+      "python"
+    ],
+    "transferable_matches": [
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock"
+    ],
+    "missing_skills": [
+      "databricks",
+      "document ai",
+      "java",
+      "javascript",
+      "spark",
+      "typescript"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "6+ years required",
+    "location_eligible": true,
+    "location_confidence": "low",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at databricks with strong overlap in python, ci/cd, aws, azure, gcp.",
+    "recommended_action": "SKIP",
+    "response_probability": "MEDIUM",
+    "url_status": "not_checked",
+    "score_breakdown": {
+      "technical": 65,
+      "role": 100,
+      "remote": 55,
+      "freshness": 55,
+      "experience": 70,
+      "response": 60,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 67,
+    "priority": "⚪ REVIEW",
+    "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
+    "company": "databricks",
+    "source": "greenhouse",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461241002",
+    "posted_at": "2026-08-18T13:54:10-04:00",
+    "remote": false,
+    "location": "Washington, D.C.",
     "salary": null,
     "technical_matches": [
       "aws",
@@ -21930,10 +21895,54 @@
     "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
     "company": "databricks",
     "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461193002",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461219002",
     "posted_at": "2026-08-18T13:54:10-04:00",
     "remote": false,
-    "location": "Seattle, Washington",
+    "location": "Austin, Texas",
+    "salary": null,
+    "technical_matches": [
+      "aws",
+      "ci/cd",
+      "python"
+    ],
+    "transferable_matches": [
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock"
+    ],
+    "missing_skills": [
+      "databricks",
+      "document ai",
+      "spark"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "6+ years required",
+    "location_eligible": true,
+    "location_confidence": "low",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at databricks with strong overlap in python, ci/cd, aws, azure, gcp.",
+    "recommended_action": "SKIP",
+    "response_probability": "MEDIUM",
+    "url_status": "not_checked",
+    "score_breakdown": {
+      "technical": 65,
+      "role": 100,
+      "remote": 55,
+      "freshness": 55,
+      "experience": 70,
+      "response": 60,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 67,
+    "priority": "⚪ REVIEW",
+    "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
+    "company": "databricks",
+    "source": "greenhouse",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461220002",
+    "posted_at": "2026-08-18T13:54:10-04:00",
+    "remote": false,
+    "location": "Chicago, Illinois",
     "salary": null,
     "technical_matches": [
       "aws",
@@ -21981,53 +21990,6 @@
     "posted_at": "2026-08-18T14:06:29-04:00",
     "remote": false,
     "location": "Mountain View, California; San Francisco, California",
-    "salary": null,
-    "technical_matches": [
-      "aws",
-      "ci/cd",
-      "python"
-    ],
-    "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
-    ],
-    "missing_skills": [
-      "databricks",
-      "document ai",
-      "java",
-      "javascript",
-      "spark",
-      "typescript"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "6+ years required",
-    "location_eligible": true,
-    "location_confidence": "low",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at databricks with strong overlap in python, ci/cd, aws, azure, gcp.",
-    "recommended_action": "SKIP",
-    "response_probability": "MEDIUM",
-    "url_status": "not_checked",
-    "score_breakdown": {
-      "technical": 65,
-      "role": 100,
-      "remote": 55,
-      "freshness": 55,
-      "experience": 70,
-      "response": 60,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 67,
-    "priority": "⚪ REVIEW",
-    "title": "Sr. Forward Deployed Engineer (FDE) - Financial Services",
-    "company": "databricks",
-    "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8592939002",
-    "posted_at": "2026-08-18T14:00:53-04:00",
-    "remote": false,
-    "location": "Philadelphia, Pennsylvania",
     "salary": null,
     "technical_matches": [
       "aws",
@@ -22263,6 +22225,53 @@
     "posted_at": "2026-08-18T14:00:53-04:00",
     "remote": false,
     "location": "Chicago, Illinois",
+    "salary": null,
+    "technical_matches": [
+      "aws",
+      "ci/cd",
+      "python"
+    ],
+    "transferable_matches": [
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock"
+    ],
+    "missing_skills": [
+      "databricks",
+      "document ai",
+      "java",
+      "javascript",
+      "spark",
+      "typescript"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "6+ years required",
+    "location_eligible": true,
+    "location_confidence": "low",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at databricks with strong overlap in python, ci/cd, aws, azure, gcp.",
+    "recommended_action": "SKIP",
+    "response_probability": "MEDIUM",
+    "url_status": "not_checked",
+    "score_breakdown": {
+      "technical": 65,
+      "role": 100,
+      "remote": 55,
+      "freshness": 55,
+      "experience": 70,
+      "response": 60,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 67,
+    "priority": "⚪ REVIEW",
+    "title": "Sr. Forward Deployed Engineer (FDE) - Financial Services",
+    "company": "databricks",
+    "source": "greenhouse",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8592939002",
+    "posted_at": "2026-08-18T14:00:53-04:00",
+    "remote": false,
+    "location": "Philadelphia, Pennsylvania",
     "salary": null,
     "technical_matches": [
       "aws",
@@ -22588,104 +22597,10 @@
     "title": "Sr. Forward Deployed Engineer (FDE) - Healthcare & Life Sciences",
     "company": "databricks",
     "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8494144002",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8371312002",
     "posted_at": "2026-08-18T13:55:14-04:00",
     "remote": false,
-    "location": "Dallas, Texas",
-    "salary": null,
-    "technical_matches": [
-      "aws",
-      "ci/cd",
-      "python"
-    ],
-    "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
-    ],
-    "missing_skills": [
-      "databricks",
-      "document ai",
-      "java",
-      "javascript",
-      "spark",
-      "typescript"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "6+ years required",
-    "location_eligible": true,
-    "location_confidence": "low",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at databricks with strong overlap in python, ci/cd, aws, azure, gcp.",
-    "recommended_action": "SKIP",
-    "response_probability": "MEDIUM",
-    "url_status": "not_checked",
-    "score_breakdown": {
-      "technical": 65,
-      "role": 100,
-      "remote": 55,
-      "freshness": 55,
-      "experience": 70,
-      "response": 60,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 67,
-    "priority": "⚪ REVIEW",
-    "title": "Sr. Forward Deployed Engineer (FDE) - Healthcare & Life Sciences",
-    "company": "databricks",
-    "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8494145002",
-    "posted_at": "2026-08-18T13:55:14-04:00",
-    "remote": false,
-    "location": "Austin, Texas",
-    "salary": null,
-    "technical_matches": [
-      "aws",
-      "ci/cd",
-      "python"
-    ],
-    "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
-    ],
-    "missing_skills": [
-      "databricks",
-      "document ai",
-      "java",
-      "javascript",
-      "spark",
-      "typescript"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "6+ years required",
-    "location_eligible": true,
-    "location_confidence": "low",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at databricks with strong overlap in python, ci/cd, aws, azure, gcp.",
-    "recommended_action": "SKIP",
-    "response_probability": "MEDIUM",
-    "url_status": "not_checked",
-    "score_breakdown": {
-      "technical": 65,
-      "role": 100,
-      "remote": 55,
-      "freshness": 55,
-      "experience": 70,
-      "response": 60,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 67,
-    "priority": "⚪ REVIEW",
-    "title": "Sr. Forward Deployed Engineer (FDE) - Healthcare & Life Sciences",
-    "company": "databricks",
-    "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8494146002",
-    "posted_at": "2026-08-18T13:55:14-04:00",
-    "remote": false,
-    "location": "Atlanta, Georgia",
+    "location": "New York City, New York",
     "salary": null,
     "technical_matches": [
       "aws",
@@ -22776,10 +22691,104 @@
     "title": "Sr. Forward Deployed Engineer (FDE) - Healthcare & Life Sciences",
     "company": "databricks",
     "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8371312002",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8494146002",
     "posted_at": "2026-08-18T13:55:14-04:00",
     "remote": false,
-    "location": "New York City, New York",
+    "location": "Atlanta, Georgia",
+    "salary": null,
+    "technical_matches": [
+      "aws",
+      "ci/cd",
+      "python"
+    ],
+    "transferable_matches": [
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock"
+    ],
+    "missing_skills": [
+      "databricks",
+      "document ai",
+      "java",
+      "javascript",
+      "spark",
+      "typescript"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "6+ years required",
+    "location_eligible": true,
+    "location_confidence": "low",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at databricks with strong overlap in python, ci/cd, aws, azure, gcp.",
+    "recommended_action": "SKIP",
+    "response_probability": "MEDIUM",
+    "url_status": "not_checked",
+    "score_breakdown": {
+      "technical": 65,
+      "role": 100,
+      "remote": 55,
+      "freshness": 55,
+      "experience": 70,
+      "response": 60,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 67,
+    "priority": "⚪ REVIEW",
+    "title": "Sr. Forward Deployed Engineer (FDE) - Healthcare & Life Sciences",
+    "company": "databricks",
+    "source": "greenhouse",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8494145002",
+    "posted_at": "2026-08-18T13:55:14-04:00",
+    "remote": false,
+    "location": "Austin, Texas",
+    "salary": null,
+    "technical_matches": [
+      "aws",
+      "ci/cd",
+      "python"
+    ],
+    "transferable_matches": [
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock"
+    ],
+    "missing_skills": [
+      "databricks",
+      "document ai",
+      "java",
+      "javascript",
+      "spark",
+      "typescript"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "6+ years required",
+    "location_eligible": true,
+    "location_confidence": "low",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at databricks with strong overlap in python, ci/cd, aws, azure, gcp.",
+    "recommended_action": "SKIP",
+    "response_probability": "MEDIUM",
+    "url_status": "not_checked",
+    "score_breakdown": {
+      "technical": 65,
+      "role": 100,
+      "remote": 55,
+      "freshness": 55,
+      "experience": 70,
+      "response": 60,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 67,
+    "priority": "⚪ REVIEW",
+    "title": "Sr. Forward Deployed Engineer (FDE) - Healthcare & Life Sciences",
+    "company": "databricks",
+    "source": "greenhouse",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8494144002",
+    "posted_at": "2026-08-18T13:55:14-04:00",
+    "remote": false,
+    "location": "Dallas, Texas",
     "salary": null,
     "technical_matches": [
       "aws",
@@ -22917,53 +22926,6 @@
     "title": "Sr. Forward Deployed Engineer (FDE) - Manufacturing",
     "company": "databricks",
     "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8494156002",
-    "posted_at": "2026-08-18T13:54:14-04:00",
-    "remote": false,
-    "location": "Seattle, Washington",
-    "salary": null,
-    "technical_matches": [
-      "aws",
-      "ci/cd",
-      "python"
-    ],
-    "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
-    ],
-    "missing_skills": [
-      "databricks",
-      "document ai",
-      "java",
-      "javascript",
-      "spark",
-      "typescript"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "6+ years required",
-    "location_eligible": true,
-    "location_confidence": "low",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at databricks with strong overlap in python, ci/cd, aws, azure, gcp.",
-    "recommended_action": "SKIP",
-    "response_probability": "MEDIUM",
-    "url_status": "not_checked",
-    "score_breakdown": {
-      "technical": 65,
-      "role": 100,
-      "remote": 55,
-      "freshness": 55,
-      "experience": 70,
-      "response": 60,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 67,
-    "priority": "⚪ REVIEW",
-    "title": "Sr. Forward Deployed Engineer (FDE) - Manufacturing",
-    "company": "databricks",
-    "source": "greenhouse",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8341313002",
     "posted_at": "2026-08-18T13:54:14-04:00",
     "remote": false,
@@ -23008,13 +22970,13 @@
   {
     "score": 67,
     "priority": "⚪ REVIEW",
-    "title": "Sr. Forward Deployed Engineer (FDE) - Public Sector",
+    "title": "Sr. Forward Deployed Engineer (FDE) - Manufacturing",
     "company": "databricks",
     "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8356289002",
-    "posted_at": "2026-08-18T13:54:46-04:00",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8494156002",
+    "posted_at": "2026-08-18T13:54:14-04:00",
     "remote": false,
-    "location": "Washington, D.C.",
+    "location": "Seattle, Washington",
     "salary": null,
     "technical_matches": [
       "aws",
@@ -23105,53 +23067,6 @@
     "title": "Sr. Forward Deployed Engineer (FDE) - Public Sector",
     "company": "databricks",
     "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8423296002",
-    "posted_at": "2026-08-18T18:04:25-04:00",
-    "remote": false,
-    "location": "Alabama; Arkansas; Florida; New York; Tennessee",
-    "salary": null,
-    "technical_matches": [
-      "aws",
-      "ci/cd",
-      "python"
-    ],
-    "transferable_matches": [
-      "azure ← experience with bedrock",
-      "gcp ← experience with bedrock"
-    ],
-    "missing_skills": [
-      "databricks",
-      "document ai",
-      "java",
-      "javascript",
-      "spark",
-      "typescript"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "6+ years required",
-    "location_eligible": true,
-    "location_confidence": "low",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at databricks with strong overlap in python, ci/cd, aws, azure, gcp.",
-    "recommended_action": "SKIP",
-    "response_probability": "MEDIUM",
-    "url_status": "not_checked",
-    "score_breakdown": {
-      "technical": 65,
-      "role": 100,
-      "remote": 55,
-      "freshness": 55,
-      "experience": 70,
-      "response": 60,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 67,
-    "priority": "⚪ REVIEW",
-    "title": "Sr. Forward Deployed Engineer (FDE) - Public Sector",
-    "company": "databricks",
-    "source": "greenhouse",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8494108002",
     "posted_at": "2026-08-18T13:54:47-04:00",
     "remote": false,
@@ -23196,13 +23111,60 @@
   {
     "score": 67,
     "priority": "⚪ REVIEW",
-    "title": "Sr. Forward Deployed Engineer (FDE) - Retail",
+    "title": "Sr. Forward Deployed Engineer (FDE) - Public Sector",
     "company": "databricks",
     "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8647668002",
-    "posted_at": "2026-08-18T14:40:49-04:00",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8356289002",
+    "posted_at": "2026-08-18T13:54:46-04:00",
     "remote": false,
-    "location": "Austin, Texas",
+    "location": "Washington, D.C.",
+    "salary": null,
+    "technical_matches": [
+      "aws",
+      "ci/cd",
+      "python"
+    ],
+    "transferable_matches": [
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock"
+    ],
+    "missing_skills": [
+      "databricks",
+      "document ai",
+      "java",
+      "javascript",
+      "spark",
+      "typescript"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "6+ years required",
+    "location_eligible": true,
+    "location_confidence": "low",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at databricks with strong overlap in python, ci/cd, aws, azure, gcp.",
+    "recommended_action": "SKIP",
+    "response_probability": "MEDIUM",
+    "url_status": "not_checked",
+    "score_breakdown": {
+      "technical": 65,
+      "role": 100,
+      "remote": 55,
+      "freshness": 55,
+      "experience": 70,
+      "response": 60,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 67,
+    "priority": "⚪ REVIEW",
+    "title": "Sr. Forward Deployed Engineer (FDE) - Public Sector",
+    "company": "databricks",
+    "source": "greenhouse",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8423296002",
+    "posted_at": "2026-08-18T18:04:25-04:00",
+    "remote": false,
+    "location": "Alabama; Arkansas; Florida; New York; Tennessee",
     "salary": null,
     "technical_matches": [
       "aws",
@@ -23293,10 +23255,10 @@
     "title": "Sr. Forward Deployed Engineer (FDE) - Retail",
     "company": "databricks",
     "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8647670002",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8647669002",
     "posted_at": "2026-08-18T14:40:49-04:00",
     "remote": false,
-    "location": "Dallas, Texas",
+    "location": "Chicago, Illinois",
     "salary": null,
     "technical_matches": [
       "aws",
@@ -23340,10 +23302,57 @@
     "title": "Sr. Forward Deployed Engineer (FDE) - Retail",
     "company": "databricks",
     "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8647669002",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8647668002",
     "posted_at": "2026-08-18T14:40:49-04:00",
     "remote": false,
-    "location": "Chicago, Illinois",
+    "location": "Austin, Texas",
+    "salary": null,
+    "technical_matches": [
+      "aws",
+      "ci/cd",
+      "python"
+    ],
+    "transferable_matches": [
+      "azure ← experience with bedrock",
+      "gcp ← experience with bedrock"
+    ],
+    "missing_skills": [
+      "databricks",
+      "document ai",
+      "java",
+      "javascript",
+      "spark",
+      "typescript"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "6+ years required",
+    "location_eligible": true,
+    "location_confidence": "low",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at databricks with strong overlap in python, ci/cd, aws, azure, gcp.",
+    "recommended_action": "SKIP",
+    "response_probability": "MEDIUM",
+    "url_status": "not_checked",
+    "score_breakdown": {
+      "technical": 65,
+      "role": 100,
+      "remote": 55,
+      "freshness": 55,
+      "experience": 70,
+      "response": 60,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 67,
+    "priority": "⚪ REVIEW",
+    "title": "Sr. Forward Deployed Engineer (FDE) - Retail",
+    "company": "databricks",
+    "source": "greenhouse",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8647670002",
+    "posted_at": "2026-08-18T14:40:49-04:00",
+    "remote": false,
+    "location": "Dallas, Texas",
     "salary": null,
     "technical_matches": [
       "aws",
@@ -23481,10 +23490,10 @@
     "title": "Sr. Forward Deployed Engineer - Public Sector ",
     "company": "databricks",
     "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8657468002",
-    "posted_at": "2026-08-18T16:29:06-04:00",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8632188002",
+    "posted_at": "2026-08-18T14:36:04-04:00",
     "remote": false,
-    "location": "USCA",
+    "location": "Berkeley, California; California; Los Angeles, California; San Diego, California",
     "salary": null,
     "technical_matches": [
       "aws",
@@ -23528,10 +23537,10 @@
     "title": "Sr. Forward Deployed Engineer - Public Sector ",
     "company": "databricks",
     "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8632188002",
-    "posted_at": "2026-08-18T14:36:04-04:00",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8657468002",
+    "posted_at": "2026-08-18T16:29:06-04:00",
     "remote": false,
-    "location": "Berkeley, California; California; Los Angeles, California; San Diego, California",
+    "location": "USCA",
     "salary": null,
     "technical_matches": [
       "aws",
@@ -23588,7 +23597,7 @@
     "transferable_matches": [
       "azure ← experience with bedrock",
       "gcp ← experience with bedrock",
-      "guidance ← experience with structured output"
+      "guidance ← experience with pydantic v2"
     ],
     "missing_skills": [
       "databricks"
@@ -23874,7 +23883,7 @@
     "transferable_matches": [
       "azure ← experience with bedrock",
       "elasticsearch ← experience with qdrant",
-      "guidance ← experience with structured output"
+      "guidance ← experience with pydantic v2"
     ],
     "missing_skills": [
       "sql"
@@ -24198,7 +24207,7 @@
       "python"
     ],
     "transferable_matches": [
-      "prompt engineering ← experience with structured output"
+      "prompt engineering ← experience with pydantic v2"
     ],
     "missing_skills": [
       "java",
@@ -24284,7 +24293,7 @@
     "transferable_matches": [
       "azure ← experience with bedrock",
       "gcp ← experience with bedrock",
-      "guardrails ← experience with structured output"
+      "guardrails ← experience with pydantic v2"
     ],
     "missing_skills": [
       "embedding",
@@ -24327,7 +24336,7 @@
       "openai"
     ],
     "transferable_matches": [
-      "guidance ← experience with structured output",
+      "guidance ← experience with pydantic v2",
       "metrics ← experience with observability",
       "new relic ← experience with observability"
     ],
@@ -24725,7 +24734,7 @@
       "agent orchestration"
     ],
     "transferable_matches": [
-      "guidance ← experience with structured output",
+      "guidance ← experience with pydantic v2",
       "otel ← experience with observability"
     ],
     "missing_skills": [
@@ -24770,7 +24779,7 @@
     "transferable_matches": [
       "agno ← experience with llamaindex",
       "dify ← experience with llamaindex",
-      "guardrails ← experience with structured output"
+      "guardrails ← experience with pydantic v2"
     ],
     "missing_skills": [
       "autonomous agents",
@@ -24860,7 +24869,7 @@
       "python"
     ],
     "transferable_matches": [
-      "gemini ← experience with claude"
+      "gemini ← experience with anthropic"
     ],
     "missing_skills": [
       "databricks",
@@ -24894,8 +24903,8 @@
     "title": "Sr. Forward Deployed Engineer (FDE) - Public Sector ",
     "company": "databricks",
     "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8657488002",
-    "posted_at": "2026-08-18T14:46:06-04:00",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8423310002",
+    "posted_at": "2026-08-18T13:59:13-04:00",
     "remote": true,
     "location": "Remote - Virginia; Remote - Washington D.C.",
     "salary": null,
@@ -24954,7 +24963,7 @@
       "python"
     ],
     "transferable_matches": [
-      "gemini ← experience with claude"
+      "gemini ← experience with anthropic"
     ],
     "missing_skills": [
       "databricks",
@@ -25045,7 +25054,7 @@
     "transferable_matches": [
       "azure ← experience with bedrock",
       "gcp ← experience with bedrock",
-      "guidance ← experience with structured output"
+      "guidance ← experience with pydantic v2"
     ],
     "missing_skills": [
       "document ai",
@@ -25092,7 +25101,7 @@
     "transferable_matches": [
       "azure ← experience with bedrock",
       "gcp ← experience with bedrock",
-      "guidance ← experience with structured output"
+      "guidance ← experience with pydantic v2"
     ],
     "missing_skills": [
       "document ai",
@@ -25500,46 +25509,6 @@
   {
     "score": 66,
     "priority": "⚪ REVIEW",
-    "title": "Senior Cloud / AI Developer",
-    "company": "jobgether",
-    "source": "lever",
-    "url": "https://jobs.lever.co/jobgether/cb5ededd-8aa3-4875-90f9-97a78c897b85/apply",
-    "posted_at": "2026-08-24T10:59:14.024000+00:00",
-    "remote": true,
-    "location": "US",
-    "salary": null,
-    "technical_matches": [],
-    "transferable_matches": [
-      "gcp ← experience with bedrock",
-      "google cloud ← experience with bedrock"
-    ],
-    "missing_skills": [
-      "api integration",
-      "java",
-      "retrieval"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "not specified",
-    "location_eligible": true,
-    "location_confidence": "high",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at jobgether with strong overlap in gcp, google cloud.",
-    "recommended_action": "SKIP",
-    "response_probability": "MEDIUM",
-    "url_status": "not_checked",
-    "score_breakdown": {
-      "technical": 20,
-      "role": 100,
-      "remote": 100,
-      "freshness": 90,
-      "experience": 100,
-      "response": 60,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 66,
-    "priority": "⚪ REVIEW",
     "title": "Senior Infrastructure Engineer (AWS)",
     "company": "jobgether",
     "source": "lever",
@@ -25626,7 +25595,7 @@
     "transferable_matches": [
       "azure ← experience with bedrock",
       "google cloud ← experience with bedrock",
-      "instructor ← experience with structured output"
+      "instructor ← experience with pydantic v2"
     ],
     "missing_skills": [
       "java",
@@ -25671,7 +25640,7 @@
     "transferable_matches": [
       "azure ← experience with bedrock",
       "google cloud ← experience with bedrock",
-      "instructor ← experience with structured output"
+      "instructor ← experience with pydantic v2"
     ],
     "missing_skills": [
       "java",
@@ -25757,7 +25726,7 @@
       "supervisor"
     ],
     "transferable_matches": [
-      "guidance ← experience with structured output"
+      "guidance ← experience with pydantic v2"
     ],
     "missing_skills": [
       "rust"
@@ -25838,8 +25807,8 @@
       "supervisor"
     ],
     "transferable_matches": [
-      "gemini ← experience with claude",
-      "gpt ← experience with claude",
+      "gemini ← experience with anthropic",
+      "gpt ← experience with anthropic",
       "otel ← experience with observability"
     ],
     "missing_skills": [],
@@ -25926,7 +25895,7 @@
       "rag"
     ],
     "transferable_matches": [
-      "prompt engineering ← experience with structured output"
+      "prompt engineering ← experience with pydantic v2"
     ],
     "missing_skills": [
       "java",
@@ -26101,7 +26070,7 @@
     ],
     "transferable_matches": [
       "arize ← experience with llm evaluation",
-      "guardrails ← experience with structured output",
+      "guardrails ← experience with pydantic v2",
       "otel ← experience with observability"
     ],
     "missing_skills": [
@@ -26147,7 +26116,7 @@
     "transferable_matches": [
       "a/b testing ← experience with llm evaluation",
       "arize ← experience with llm evaluation",
-      "guardrails ← experience with structured output",
+      "guardrails ← experience with pydantic v2",
       "metrics ← experience with observability"
     ],
     "missing_skills": [
@@ -26193,7 +26162,7 @@
     "transferable_matches": [
       "a/b testing ← experience with llm evaluation",
       "arize ← experience with llm evaluation",
-      "guardrails ← experience with structured output",
+      "guardrails ← experience with pydantic v2",
       "metrics ← experience with observability"
     ],
     "missing_skills": [
@@ -26238,7 +26207,7 @@
       "ai agents"
     ],
     "transferable_matches": [
-      "guardrails ← experience with structured output"
+      "guardrails ← experience with pydantic v2"
     ],
     "missing_skills": [
       "distributed systems"
@@ -26321,10 +26290,10 @@
       "ai agents"
     ],
     "transferable_matches": [
-      "guidance ← experience with structured output",
-      "instructor ← experience with structured output",
+      "guidance ← experience with pydantic v2",
+      "instructor ← experience with pydantic v2",
       "metrics ← experience with observability",
-      "prompt engineering ← experience with structured output"
+      "prompt engineering ← experience with pydantic v2"
     ],
     "missing_skills": [],
     "hard_requirements_missing": [],
@@ -26361,10 +26330,10 @@
       "ai agents"
     ],
     "transferable_matches": [
-      "guidance ← experience with structured output",
-      "instructor ← experience with structured output",
+      "guidance ← experience with pydantic v2",
+      "instructor ← experience with pydantic v2",
       "metrics ← experience with observability",
-      "prompt engineering ← experience with structured output"
+      "prompt engineering ← experience with pydantic v2"
     ],
     "missing_skills": [],
     "hard_requirements_missing": [],
@@ -26401,10 +26370,10 @@
       "ai agents"
     ],
     "transferable_matches": [
-      "guidance ← experience with structured output",
-      "instructor ← experience with structured output",
+      "guidance ← experience with pydantic v2",
+      "instructor ← experience with pydantic v2",
       "metrics ← experience with observability",
-      "prompt engineering ← experience with structured output"
+      "prompt engineering ← experience with pydantic v2"
     ],
     "missing_skills": [],
     "hard_requirements_missing": [],
@@ -26441,10 +26410,10 @@
       "ai agents"
     ],
     "transferable_matches": [
-      "guidance ← experience with structured output",
-      "instructor ← experience with structured output",
+      "guidance ← experience with pydantic v2",
+      "instructor ← experience with pydantic v2",
       "metrics ← experience with observability",
-      "prompt engineering ← experience with structured output"
+      "prompt engineering ← experience with pydantic v2"
     ],
     "missing_skills": [],
     "hard_requirements_missing": [],
@@ -26481,10 +26450,10 @@
       "ai agents"
     ],
     "transferable_matches": [
-      "guidance ← experience with structured output",
-      "instructor ← experience with structured output",
+      "guidance ← experience with pydantic v2",
+      "instructor ← experience with pydantic v2",
       "metrics ← experience with observability",
-      "prompt engineering ← experience with structured output"
+      "prompt engineering ← experience with pydantic v2"
     ],
     "missing_skills": [],
     "hard_requirements_missing": [],
@@ -26617,7 +26586,7 @@
       "python"
     ],
     "transferable_matches": [
-      "guidance ← experience with structured output",
+      "guidance ← experience with pydantic v2",
       "otel ← experience with observability"
     ],
     "missing_skills": [
@@ -26711,7 +26680,7 @@
       "python"
     ],
     "transferable_matches": [
-      "guidance ← experience with structured output",
+      "guidance ← experience with pydantic v2",
       "metrics ← experience with observability",
       "otel ← experience with observability"
     ],
@@ -26755,7 +26724,7 @@
       "python"
     ],
     "transferable_matches": [
-      "guidance ← experience with structured output",
+      "guidance ← experience with pydantic v2",
       "metrics ← experience with observability",
       "otel ← experience with observability"
     ],
@@ -26798,7 +26767,7 @@
       "python"
     ],
     "transferable_matches": [
-      "guidance ← experience with structured output",
+      "guidance ← experience with pydantic v2",
       "metrics ← experience with observability",
       "otel ← experience with observability"
     ],
@@ -26842,9 +26811,9 @@
       "python"
     ],
     "transferable_matches": [
-      "guidance ← experience with structured output",
+      "guidance ← experience with pydantic v2",
       "otel ← experience with observability",
-      "together ai ← experience with claude"
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "kubernetes",
@@ -26886,9 +26855,9 @@
       "python"
     ],
     "transferable_matches": [
-      "guidance ← experience with structured output",
+      "guidance ← experience with pydantic v2",
       "otel ← experience with observability",
-      "together ai ← experience with claude"
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "document ai",
@@ -26931,9 +26900,9 @@
       "python"
     ],
     "transferable_matches": [
-      "guidance ← experience with structured output",
+      "guidance ← experience with pydantic v2",
       "otel ← experience with observability",
-      "together ai ← experience with claude"
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "airflow",
@@ -26978,9 +26947,9 @@
       "python"
     ],
     "transferable_matches": [
-      "guidance ← experience with structured output",
+      "guidance ← experience with pydantic v2",
       "otel ← experience with observability",
-      "together ai ← experience with claude"
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "airflow",
@@ -27107,7 +27076,7 @@
       "ci/cd"
     ],
     "transferable_matches": [
-      "together ai ← experience with claude"
+      "together ai ← experience with anthropic"
     ],
     "missing_skills": [
       "document ai",
@@ -27151,7 +27120,7 @@
     "transferable_matches": [
       "azure ← experience with bedrock",
       "gcp ← experience with bedrock",
-      "guidance ← experience with structured output"
+      "guidance ← experience with pydantic v2"
     ],
     "missing_skills": [
       "databricks",
@@ -27344,7 +27313,7 @@
     ],
     "transferable_matches": [
       "logging ← experience with observability",
-      "prompt engineering ← experience with structured output"
+      "prompt engineering ← experience with pydantic v2"
     ],
     "missing_skills": [
       "databricks",
@@ -27440,7 +27409,7 @@
     "transferable_matches": [
       "dify ← experience with llamaindex",
       "grafana ← experience with observability",
-      "json schema ← experience with structured output",
+      "json schema ← experience with pydantic v2",
       "prometheus ← experience with observability"
     ],
     "missing_skills": [
@@ -27488,7 +27457,7 @@
     "transferable_matches": [
       "azure ← experience with bedrock",
       "gcp ← experience with bedrock",
-      "schema validation ← experience with structured output"
+      "schema validation ← experience with pydantic v2"
     ],
     "missing_skills": [
       "document ai",
@@ -28954,43 +28923,6 @@
   {
     "score": 65,
     "priority": "⚪ REVIEW",
-    "title": "Staff Software Engineer - Full Stack",
-    "company": "jobgether",
-    "source": "lever",
-    "url": "https://jobs.lever.co/jobgether/8ed6be18-a4c5-4e2a-8d62-0b39b3a3dbef/apply",
-    "posted_at": "2026-08-25T04:48:03.991000+00:00",
-    "remote": true,
-    "location": "India",
-    "salary": null,
-    "technical_matches": [
-      "python"
-    ],
-    "transferable_matches": [],
-    "missing_skills": [
-      "java"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "not specified",
-    "location_eligible": true,
-    "location_confidence": "high",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at jobgether with strong overlap in python.",
-    "recommended_action": "SKIP",
-    "response_probability": "MEDIUM",
-    "url_status": "not_checked",
-    "score_breakdown": {
-      "technical": 15,
-      "role": 92,
-      "remote": 100,
-      "freshness": 100,
-      "experience": 100,
-      "response": 60,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 65,
-    "priority": "⚪ REVIEW",
     "title": "Staff Software Engineer, Core Infrastructure",
     "company": "jobgether",
     "source": "lever",
@@ -29089,8 +29021,8 @@
       "claude"
     ],
     "transferable_matches": [
-      "aws bedrock ← experience with claude",
-      "gpt ← experience with claude"
+      "aws bedrock ← experience with anthropic",
+      "gpt ← experience with anthropic"
     ],
     "missing_skills": [
       "playwright",

@@ -453,7 +453,7 @@
   "https://arbeitnow.co.uk/jobs/companies/anaplan/senior-software-engineer-manchester-39874": {
     "company_normalized": "anaplan",
     "first_seen": "2026-08-31T13:30:15.318561+00:00",
-    "last_seen": "2026-09-01T18:24:46.467487+00:00",
+    "last_seen": "2026-09-01T21:47:43.077102+00:00",
     "location": "Manchester",
     "notified": true,
     "score": 79,
@@ -585,10 +585,10 @@
   "https://arbeitnow.co.uk/jobs/companies/ben/software-engineer-data-london-373837": {
     "company_normalized": "ben",
     "first_seen": "2026-09-01T18:24:45.868124+00:00",
-    "last_seen": "2026-09-01T18:24:46.467214+00:00",
+    "last_seen": "2026-09-01T21:47:43.076685+00:00",
     "location": "London",
     "notified": true,
-    "score": 87,
+    "score": 86,
     "source": "arbeitnow",
     "title_normalized": "software engineer data",
     "url": "https://www.arbeitnow.co.uk/jobs/companies/ben/software-engineer-data-london-373837"
@@ -684,7 +684,7 @@
   "https://arbeitnow.co.uk/jobs/companies/blp-digital-ag/sap-developer-london-102030": {
     "company_normalized": "blp digital ag",
     "first_seen": "2026-09-01T09:59:24.897459+00:00",
-    "last_seen": "2026-09-01T18:24:46.467228+00:00",
+    "last_seen": "2026-09-01T21:47:43.076897+00:00",
     "location": "UK",
     "notified": false,
     "score": 66,
@@ -981,7 +981,7 @@
   "https://arbeitnow.co.uk/jobs/companies/coreweave/senior-software-engineer-physical-ai-london-128249": {
     "company_normalized": "coreweave",
     "first_seen": "2026-08-31T23:48:54.187786+00:00",
-    "last_seen": "2026-09-01T18:24:46.467259+00:00",
+    "last_seen": "2026-09-01T21:47:43.076941+00:00",
     "location": "London",
     "notified": true,
     "score": 84,
@@ -992,7 +992,7 @@
   "https://arbeitnow.co.uk/jobs/companies/coreweave/staff-software-engineer-physical-ai-london-246734": {
     "company_normalized": "coreweave",
     "first_seen": "2026-08-31T23:48:53.541231+00:00",
-    "last_seen": "2026-09-01T18:24:46.467243+00:00",
+    "last_seen": "2026-09-01T21:47:43.076918+00:00",
     "location": "London",
     "notified": true,
     "score": 82,
@@ -1146,7 +1146,7 @@
   "https://arbeitnow.co.uk/jobs/companies/elastic/aws-alliance-director-emea-356176": {
     "company_normalized": "elastic",
     "first_seen": "2026-08-31T23:48:54.869063+00:00",
-    "last_seen": "2026-09-01T18:24:46.467389+00:00",
+    "last_seen": "2026-09-01T21:47:43.076961+00:00",
     "location": "",
     "notified": false,
     "score": 65,
@@ -1440,6 +1440,17 @@
     "title_normalized": "engineering lead",
     "url": "https://www.arbeitnow.co.uk/jobs/companies/flock/engineering-lead-london-85816"
   },
+  "https://arbeitnow.co.uk/jobs/companies/forgd-ai/remote-forward-deployed-engineer-fde-united-kingdom-441564": {
+    "company_normalized": "forgd ai",
+    "first_seen": "2026-09-01T21:47:42.414633+00:00",
+    "last_seen": "2026-09-01T21:47:43.076641+00:00",
+    "location": "Remote - UK",
+    "notified": true,
+    "score": 88,
+    "source": "arbeitnow",
+    "title_normalized": "forward deployed engineer fde united kingdom",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/forgd-ai/remote-forward-deployed-engineer-fde-united-kingdom-441564"
+  },
   "https://arbeitnow.co.uk/jobs/companies/form3/senior-software-engineer-go-212737": {
     "company_normalized": "form3",
     "first_seen": "2026-08-25T04:52:00.044061+00:00",
@@ -1520,10 +1531,10 @@
   "https://arbeitnow.co.uk/jobs/companies/gitlab/remote-senior-backend-engineer-ruby-ai-catalog-external-agents-492546": {
     "company_normalized": "gitlab",
     "first_seen": "2026-08-31T20:01:16.633290+00:00",
-    "last_seen": "2026-09-01T18:24:46.467404+00:00",
+    "last_seen": "2026-09-01T21:47:43.076982+00:00",
     "location": "Remote",
     "notified": true,
-    "score": 78,
+    "score": 76,
     "source": "arbeitnow",
     "title_normalized": "senior backend engineer ruby ai catalog external agents",
     "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-senior-backend-engineer-ruby-ai-catalog-external-agents-492546"
@@ -2235,7 +2246,7 @@
   "https://arbeitnow.co.uk/jobs/companies/partnerize/senior-platform-engineer-bristol-489774": {
     "company_normalized": "partnerize",
     "first_seen": "2026-08-31T20:01:15.190534+00:00",
-    "last_seen": "2026-09-01T18:24:46.467448+00:00",
+    "last_seen": "2026-09-01T21:47:43.077044+00:00",
     "location": "Bristol, England, United Kingdom",
     "notified": true,
     "score": 84,
@@ -2246,7 +2257,7 @@
   "https://arbeitnow.co.uk/jobs/companies/partnerize/senior-platform-engineer-cambridge-497541": {
     "company_normalized": "partnerize",
     "first_seen": "2026-08-31T20:01:14.242256+00:00",
-    "last_seen": "2026-09-01T18:24:46.467420+00:00",
+    "last_seen": "2026-09-01T21:47:43.077005+00:00",
     "location": "Cambridge, England, United Kingdom",
     "notified": true,
     "score": 84,
@@ -2257,7 +2268,7 @@
   "https://arbeitnow.co.uk/jobs/companies/partnerize/senior-platform-engineer-edinburgh-398111": {
     "company_normalized": "partnerize",
     "first_seen": "2026-08-31T20:01:15.665432+00:00",
-    "last_seen": "2026-09-01T18:24:46.467462+00:00",
+    "last_seen": "2026-09-01T21:47:43.077064+00:00",
     "location": "Edinburgh, Scotland, United Kingdom",
     "notified": true,
     "score": 84,
@@ -2268,7 +2279,7 @@
   "https://arbeitnow.co.uk/jobs/companies/partnerize/senior-platform-engineer-england-united-kingdom-423807": {
     "company_normalized": "partnerize",
     "first_seen": "2026-08-31T20:01:16.154354+00:00",
-    "last_seen": "2026-09-01T18:24:46.467474+00:00",
+    "last_seen": "2026-09-01T21:47:43.077082+00:00",
     "location": "England, United Kingdom",
     "notified": true,
     "score": 84,
@@ -2279,7 +2290,7 @@
   "https://arbeitnow.co.uk/jobs/companies/partnerize/senior-platform-engineer-manchester-469731": {
     "company_normalized": "partnerize",
     "first_seen": "2026-08-31T20:01:14.706663+00:00",
-    "last_seen": "2026-09-01T18:24:46.467434+00:00",
+    "last_seen": "2026-09-01T21:47:43.077025+00:00",
     "location": "Manchester, England, United Kingdom",
     "notified": true,
     "score": 84,
@@ -2620,7 +2631,7 @@
   "https://arbeitnow.co.uk/jobs/companies/rubrik/global-solutions-architect-cloud-london-119074": {
     "company_normalized": "rubrik",
     "first_seen": "2026-09-01T18:24:46.458759+00:00",
-    "last_seen": "2026-09-01T18:24:46.467200+00:00",
+    "last_seen": "2026-09-01T21:47:43.076664+00:00",
     "location": "London",
     "notified": true,
     "score": 78,
@@ -2837,6 +2848,17 @@
     "title_normalized": "frontend software engineer 100 remote",
     "url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/frontend-software-engineer-100-remote-united-kindom-470934"
   },
+  "https://arbeitnow.co.uk/jobs/companies/thgingenuity/database-platform-manager-manchester-450268": {
+    "company_normalized": "thgingenuity",
+    "first_seen": "2026-09-01T21:47:41.768230+00:00",
+    "last_seen": "2026-09-01T21:47:43.076620+00:00",
+    "location": "Manchester",
+    "notified": true,
+    "score": 83,
+    "source": "arbeitnow",
+    "title_normalized": "database platform manager",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/thgingenuity/database-platform-manager-manchester-450268"
+  },
   "https://arbeitnow.co.uk/jobs/companies/thought-machine/senior-site-reliability-engineer-london-313036": {
     "company_normalized": "thought machine",
     "first_seen": "2026-08-26T14:57:40.958708+00:00",
@@ -3016,7 +3038,7 @@
   "https://arbeitnow.com/jobs/companies/accso-accelerated-solutions-gmbh/senior-cloud-devops-engineer-frankfurt-am-main-52872": {
     "company_normalized": "accso – accelerated solutions gmbh",
     "first_seen": "2026-09-01T09:59:24.897223+00:00",
-    "last_seen": "2026-09-01T18:24:46.467618+00:00",
+    "last_seen": "2026-09-01T21:47:43.077165+00:00",
     "location": "Frankfurt am Main",
     "notified": false,
     "score": 66,
@@ -3368,10 +3390,10 @@
   "https://arbeitnow.com/jobs/companies/apt-one-gmbh/it-ot-security-architekt-berlin-363919": {
     "company_normalized": "apt-one gmbh",
     "first_seen": "2026-09-01T14:48:57.827695+00:00",
-    "last_seen": "2026-09-01T18:24:46.467184+00:00",
+    "last_seen": "2026-09-01T21:47:43.076755+00:00",
     "location": "Berlin",
     "notified": false,
-    "score": 70,
+    "score": 69,
     "source": "arbeitnow",
     "title_normalized": "it ot security architekt m w d",
     "url": "https://www.arbeitnow.com/jobs/companies/apt-one-gmbh/it-ot-security-architekt-berlin-363919"
@@ -3379,10 +3401,10 @@
   "https://arbeitnow.com/jobs/companies/apt-one-gmbh/security-engineer-soc-berlin-145924": {
     "company_normalized": "apt-one gmbh",
     "first_seen": "2026-09-01T14:48:57.151015+00:00",
-    "last_seen": "2026-09-01T18:24:46.467305+00:00",
+    "last_seen": "2026-09-01T21:47:43.076823+00:00",
     "location": "Berlin",
     "notified": true,
-    "score": 84,
+    "score": 82,
     "source": "arbeitnow",
     "title_normalized": "security engineer soc m w d",
     "url": "https://www.arbeitnow.com/jobs/companies/apt-one-gmbh/security-engineer-soc-berlin-145924"
@@ -3401,10 +3423,10 @@
   "https://arbeitnow.com/jobs/companies/arculus/infrastructure-engineer-deployments-munich-319847": {
     "company_normalized": "arculus",
     "first_seen": "2026-09-01T18:24:46.467124+00:00",
-    "last_seen": "2026-09-01T18:24:46.467124+00:00",
+    "last_seen": "2026-09-01T21:47:43.076575+00:00",
     "location": "Munich",
     "notified": false,
-    "score": 75,
+    "score": 73,
     "source": "arbeitnow",
     "title_normalized": "infrastructure engineer deployments d f m",
     "url": "https://www.arbeitnow.com/jobs/companies/arculus/infrastructure-engineer-deployments-munich-319847"
@@ -3434,10 +3456,10 @@
   "https://arbeitnow.com/jobs/companies/athereon/senior-software-developer-frontend-react-saarbrucken-8062": {
     "company_normalized": "athereon",
     "first_seen": "2026-09-01T18:24:46.467059+00:00",
-    "last_seen": "2026-09-01T18:24:46.467059+00:00",
+    "last_seen": "2026-09-01T21:47:43.076479+00:00",
     "location": "Saarbrücken",
     "notified": false,
-    "score": 67,
+    "score": 65,
     "source": "arbeitnow",
     "title_normalized": "senior software developer frontend react m w d",
     "url": "https://www.arbeitnow.com/jobs/companies/athereon/senior-software-developer-frontend-react-saarbrucken-8062"
@@ -3753,7 +3775,7 @@
   "https://arbeitnow.com/jobs/companies/buying-labs/product-engineer-hamburg-132383": {
     "company_normalized": "buying labs",
     "first_seen": "2026-09-01T09:59:24.387782+00:00",
-    "last_seen": "2026-09-01T18:24:46.467342+00:00",
+    "last_seen": "2026-09-01T21:47:43.076876+00:00",
     "location": "Hamburg",
     "notified": true,
     "score": 86,
@@ -3764,10 +3786,10 @@
   "https://arbeitnow.com/jobs/companies/buying-labs/product-engineer-hamburg-172212": {
     "company_normalized": "buying labs",
     "first_seen": "2026-09-01T18:24:45.290513+00:00",
-    "last_seen": "2026-09-01T18:24:46.467155+00:00",
+    "last_seen": "2026-09-01T21:47:43.076710+00:00",
     "location": "Hamburg",
     "notified": true,
-    "score": 82,
+    "score": 81,
     "source": "arbeitnow",
     "title_normalized": "product engineer m f d",
     "url": "https://www.arbeitnow.com/jobs/companies/buying-labs/product-engineer-hamburg-172212"
@@ -3852,7 +3874,7 @@
   "https://arbeitnow.com/jobs/companies/cartesia/remote-language-lead-english-contract-488911": {
     "company_normalized": "cartesia",
     "first_seen": "2026-09-01T04:50:29.645088+00:00",
-    "last_seen": "2026-09-01T18:24:46.467698+00:00",
+    "last_seen": "2026-09-01T21:47:43.077260+00:00",
     "location": "Remote",
     "notified": false,
     "score": 65,
@@ -3863,7 +3885,7 @@
   "https://arbeitnow.com/jobs/companies/cartesia/remote-language-lead-french-contract-94123": {
     "company_normalized": "cartesia",
     "first_seen": "2026-09-01T04:50:29.645032+00:00",
-    "last_seen": "2026-09-01T18:24:46.467652+00:00",
+    "last_seen": "2026-09-01T21:47:43.077195+00:00",
     "location": "Remote",
     "notified": false,
     "score": 65,
@@ -3874,7 +3896,7 @@
   "https://arbeitnow.com/jobs/companies/cartesia/remote-language-lead-hindi-contract-6988": {
     "company_normalized": "cartesia",
     "first_seen": "2026-09-01T04:50:29.645070+00:00",
-    "last_seen": "2026-09-01T18:24:46.467684+00:00",
+    "last_seen": "2026-09-01T21:47:43.077239+00:00",
     "location": "Remote",
     "notified": false,
     "score": 65,
@@ -3885,7 +3907,7 @@
   "https://arbeitnow.com/jobs/companies/cartesia/remote-language-lead-japanese-contract-350770": {
     "company_normalized": "cartesia",
     "first_seen": "2026-09-01T04:50:29.645051+00:00",
-    "last_seen": "2026-09-01T18:24:46.467668+00:00",
+    "last_seen": "2026-09-01T21:47:43.077217+00:00",
     "location": "Remote",
     "notified": false,
     "score": 65,
@@ -4248,7 +4270,7 @@
   "https://arbeitnow.com/jobs/companies/data-nation-gmbh/junior-software-engineer-ki-gestutzte-entwicklung-hamburg-374706": {
     "company_normalized": "data nation gmbh",
     "first_seen": "2026-09-01T04:50:29.634114+00:00",
-    "last_seen": "2026-09-01T18:24:46.467845+00:00",
+    "last_seen": "2026-09-01T21:47:43.077484+00:00",
     "location": "Hamburg",
     "notified": true,
     "score": 77,
@@ -4413,10 +4435,10 @@
   "https://arbeitnow.com/jobs/companies/distribusion-technologies/remote-senior-product-engineer-ecomm-all-gender-berlin-121973": {
     "company_normalized": "distribusion technologies",
     "first_seen": "2026-09-01T18:24:46.467042+00:00",
-    "last_seen": "2026-09-01T18:24:46.467042+00:00",
+    "last_seen": "2026-09-01T21:47:43.076454+00:00",
     "location": "Remote job",
     "notified": false,
-    "score": 69,
+    "score": 67,
     "source": "arbeitnow",
     "title_normalized": "senior product engineer ecomm all gender",
     "url": "https://www.arbeitnow.com/jobs/companies/distribusion-technologies/remote-senior-product-engineer-ecomm-all-gender-berlin-121973"
@@ -4490,7 +4512,7 @@
   "https://arbeitnow.com/jobs/companies/duck-duck-go/remote-senior-privacy-engineer-456199": {
     "company_normalized": "duck duck go",
     "first_seen": "2026-09-01T04:50:29.645146+00:00",
-    "last_seen": "2026-09-01T18:24:46.467742+00:00",
+    "last_seen": "2026-09-01T21:47:43.077340+00:00",
     "location": "Remote",
     "notified": false,
     "score": 70,
@@ -4501,7 +4523,7 @@
   "https://arbeitnow.com/jobs/companies/duck-duck-go/remote-staff-data-scientist-33041": {
     "company_normalized": "duck duck go",
     "first_seen": "2026-09-01T04:50:29.645124+00:00",
-    "last_seen": "2026-09-01T18:24:46.467728+00:00",
+    "last_seen": "2026-09-01T21:47:43.077318+00:00",
     "location": "Remote",
     "notified": false,
     "score": 69,
@@ -4534,10 +4556,10 @@
   "https://arbeitnow.com/jobs/companies/egroup/ai-product-engineer-berlin-279052": {
     "company_normalized": "egroup",
     "first_seen": "2026-09-01T18:24:46.467140+00:00",
-    "last_seen": "2026-09-01T18:24:46.467140+00:00",
+    "last_seen": "2026-09-01T21:47:43.076598+00:00",
     "location": "Berlin",
     "notified": false,
-    "score": 74,
+    "score": 73,
     "source": "arbeitnow",
     "title_normalized": "ai product engineer f m d",
     "url": "https://www.arbeitnow.com/jobs/companies/egroup/ai-product-engineer-berlin-279052"
@@ -4886,7 +4908,7 @@
   "https://arbeitnow.com/jobs/companies/gismart/remote-ai-automation-engineer-fitme-395989": {
     "company_normalized": "gismart",
     "first_seen": "2026-09-01T04:50:29.634097+00:00",
-    "last_seen": "2026-09-01T18:24:46.467786+00:00",
+    "last_seen": "2026-09-01T21:47:43.077402+00:00",
     "location": "Remote",
     "notified": true,
     "score": 80,
@@ -4897,7 +4919,7 @@
   "https://arbeitnow.com/jobs/companies/gismart/remote-product-manager-radiotech-120708": {
     "company_normalized": "gismart",
     "first_seen": "2026-09-01T04:50:29.645219+00:00",
-    "last_seen": "2026-09-01T18:24:46.467800+00:00",
+    "last_seen": "2026-09-01T21:47:43.077422+00:00",
     "location": "Remote",
     "notified": false,
     "score": 69,
@@ -4908,10 +4930,10 @@
   "https://arbeitnow.com/jobs/companies/glassflow/ai-engineer-berlin-157513": {
     "company_normalized": "glassflow",
     "first_seen": "2026-09-01T14:48:57.827676+00:00",
-    "last_seen": "2026-09-01T18:24:46.467170+00:00",
+    "last_seen": "2026-09-01T21:47:43.076733+00:00",
     "location": "Berlin",
     "notified": false,
-    "score": 72,
+    "score": 71,
     "source": "arbeitnow",
     "title_normalized": "ai engineer",
     "url": "https://www.arbeitnow.com/jobs/companies/glassflow/ai-engineer-berlin-157513"
@@ -4941,7 +4963,7 @@
   "https://arbeitnow.com/jobs/companies/global-side-gmbh/tech-lead-softwareentwicklung-all-genders-munchen-473532": {
     "company_normalized": "global side gmbh",
     "first_seen": "2026-09-01T14:48:57.827717+00:00",
-    "last_seen": "2026-09-01T18:24:46.467273+00:00",
+    "last_seen": "2026-09-01T21:47:43.076778+00:00",
     "location": "München",
     "notified": true,
     "score": 79,
@@ -5469,7 +5491,7 @@
   "https://arbeitnow.com/jobs/companies/isento-gmbh/senior-software-developer-nuremberg-167804": {
     "company_normalized": "isento gmbh",
     "first_seen": "2026-09-01T14:48:57.827763+00:00",
-    "last_seen": "2026-09-01T18:24:46.467289+00:00",
+    "last_seen": "2026-09-01T21:47:43.076801+00:00",
     "location": "Nuremberg",
     "notified": false,
     "score": 65,
@@ -5608,6 +5630,17 @@
     "source": "arbeitnow",
     "title_normalized": "senior ai agent engineer m w d",
     "url": "https://www.arbeitnow.com/jobs/companies/joinbeam/senior-ai-agent-engineer-berlin-247798"
+  },
+  "https://arbeitnow.com/jobs/companies/joinbeam/senior-solutions-engineer-berlin-443745": {
+    "company_normalized": "joinbeam",
+    "first_seen": "2026-09-01T21:47:43.076298+00:00",
+    "last_seen": "2026-09-01T21:47:43.076298+00:00",
+    "location": "Berlin, Germany",
+    "notified": false,
+    "score": 73,
+    "source": "arbeitnow",
+    "title_normalized": "senior solutions engineer m w d",
+    "url": "https://www.arbeitnow.com/jobs/companies/joinbeam/senior-solutions-engineer-berlin-443745"
   },
   "https://arbeitnow.com/jobs/companies/jupus/senior-ai-engineer-voice-germany-314264": {
     "company_normalized": "jupus",
@@ -5909,7 +5942,7 @@
   "https://arbeitnow.com/jobs/companies/makersite-gmbh/remote-python-backend-engineer-berlin-341113": {
     "company_normalized": "makersite gmbh",
     "first_seen": "2026-09-01T04:50:29.645236+00:00",
-    "last_seen": "2026-09-01T18:24:46.467814+00:00",
+    "last_seen": "2026-09-01T21:47:43.077441+00:00",
     "location": "Remote job",
     "notified": false,
     "score": 67,
@@ -5920,7 +5953,7 @@
   "https://arbeitnow.com/jobs/companies/makersite-gmbh/remote-senior-data-scientist-berlin-106805": {
     "company_normalized": "makersite gmbh",
     "first_seen": "2026-09-01T04:50:29.645256+00:00",
-    "last_seen": "2026-09-01T18:24:46.467829+00:00",
+    "last_seen": "2026-09-01T21:47:43.077463+00:00",
     "location": "Remote job",
     "notified": true,
     "score": 80,
@@ -5975,7 +6008,7 @@
   "https://arbeitnow.com/jobs/companies/mattermost/senior-security-engineer-117600": {
     "company_normalized": "mattermost",
     "first_seen": "2026-09-01T04:50:29.645105+00:00",
-    "last_seen": "2026-09-01T18:24:46.467713+00:00",
+    "last_seen": "2026-09-01T21:47:43.077297+00:00",
     "location": "",
     "notified": false,
     "score": 72,
@@ -6052,7 +6085,7 @@
   "https://arbeitnow.com/jobs/companies/mittwald-cm-service-gmbh-co-kg/senior-developer-fullstack-oder-backend-espelkamp-261521": {
     "company_normalized": "mittwald cm service gmbh & kg",
     "first_seen": "2026-09-01T14:48:57.827807+00:00",
-    "last_seen": "2026-09-01T18:24:46.467321+00:00",
+    "last_seen": "2026-09-01T21:47:43.076845+00:00",
     "location": "Espelkamp",
     "notified": false,
     "score": 67,
@@ -6470,7 +6503,7 @@
   "https://arbeitnow.com/jobs/companies/plane/solutions-architect-germany-1388": {
     "company_normalized": "plane",
     "first_seen": "2026-09-01T09:59:24.897181+00:00",
-    "last_seen": "2026-09-01T18:24:46.467358+00:00",
+    "last_seen": "2026-09-01T21:47:43.077122+00:00",
     "location": "Germany",
     "notified": false,
     "score": 73,
@@ -6767,10 +6800,10 @@
   "https://arbeitnow.com/jobs/companies/real-digital/remote-senior-business-automation-developer-all-genders-i-international-336366": {
     "company_normalized": "real digital",
     "first_seen": "2026-09-01T18:24:46.467108+00:00",
-    "last_seen": "2026-09-01T18:24:46.467108+00:00",
+    "last_seen": "2026-09-01T21:47:43.076550+00:00",
     "location": "Remote oder Köln / Darmstadt / Düsseldorf / Berlin",
     "notified": false,
-    "score": 67,
+    "score": 65,
     "source": "arbeitnow",
     "title_normalized": "senior business automation developer all genders i international",
     "url": "https://www.arbeitnow.com/jobs/companies/real-digital/remote-senior-business-automation-developer-all-genders-i-international-336366"
@@ -6789,10 +6822,10 @@
   "https://arbeitnow.com/jobs/companies/real-digital/remote-senior-devops-engineer-all-genders-data-platform-263620": {
     "company_normalized": "real digital",
     "first_seen": "2026-09-01T18:24:44.702911+00:00",
-    "last_seen": "2026-09-01T18:24:46.467092+00:00",
+    "last_seen": "2026-09-01T21:47:43.076527+00:00",
     "location": "Remote oder Köln / Darmstadt / Düsseldorf / Berlin",
     "notified": true,
-    "score": 87,
+    "score": 86,
     "source": "arbeitnow",
     "title_normalized": "senior devops engineer all genders data platform",
     "url": "https://www.arbeitnow.com/jobs/companies/real-digital/remote-senior-devops-engineer-all-genders-data-platform-263620"
@@ -7086,10 +7119,10 @@
   "https://arbeitnow.com/jobs/companies/snke/senior-software-engineer-full-stack-healthcare-applications-munchen-488952": {
     "company_normalized": "snke",
     "first_seen": "2026-09-01T18:24:46.467077+00:00",
-    "last_seen": "2026-09-01T18:24:46.467077+00:00",
+    "last_seen": "2026-09-01T21:47:43.076504+00:00",
     "location": "München",
     "notified": false,
-    "score": 68,
+    "score": 66,
     "source": "arbeitnow",
     "title_normalized": "senior software engineer full stack healthcare applications",
     "url": "https://www.arbeitnow.com/jobs/companies/snke/senior-software-engineer-full-stack-healthcare-applications-munchen-488952"
@@ -7097,7 +7130,7 @@
   "https://arbeitnow.com/jobs/companies/sofi-ai-gmbh/backend-full-stack-developer-krailling-424909": {
     "company_normalized": "sofi ai gmbh",
     "first_seen": "2026-09-01T09:59:24.897200+00:00",
-    "last_seen": "2026-09-01T18:24:46.467372+00:00",
+    "last_seen": "2026-09-01T21:47:43.077141+00:00",
     "location": "Krailling",
     "notified": false,
     "score": 67,
@@ -7262,10 +7295,10 @@
   "https://arbeitnow.com/jobs/companies/staffbase/staff-engineer-data-analytics-berlin-brandenburg-87554": {
     "company_normalized": "staffbase",
     "first_seen": "2026-09-01T18:24:46.466954+00:00",
-    "last_seen": "2026-09-01T18:24:46.466954+00:00",
+    "last_seen": "2026-09-01T21:47:43.076322+00:00",
     "location": "Berlin, Brandenburg",
     "notified": false,
-    "score": 66,
+    "score": 65,
     "source": "arbeitnow",
     "title_normalized": "staff engineer data analytics",
     "url": "https://www.arbeitnow.com/jobs/companies/staffbase/staff-engineer-data-analytics-berlin-brandenburg-87554"
@@ -7273,10 +7306,10 @@
   "https://arbeitnow.com/jobs/companies/staffbase/staff-engineer-data-analytics-chemnitz-sachsen-469574": {
     "company_normalized": "staffbase",
     "first_seen": "2026-09-01T18:24:46.466969+00:00",
-    "last_seen": "2026-09-01T18:24:46.466969+00:00",
+    "last_seen": "2026-09-01T21:47:43.076345+00:00",
     "location": "Chemnitz, Sachsen",
     "notified": false,
-    "score": 66,
+    "score": 65,
     "source": "arbeitnow",
     "title_normalized": "staff engineer data analytics",
     "url": "https://www.arbeitnow.com/jobs/companies/staffbase/staff-engineer-data-analytics-chemnitz-sachsen-469574"
@@ -7284,10 +7317,10 @@
   "https://arbeitnow.com/jobs/companies/staffbase/staff-engineer-data-analytics-dresden-sachsen-479084": {
     "company_normalized": "staffbase",
     "first_seen": "2026-09-01T18:24:46.466983+00:00",
-    "last_seen": "2026-09-01T18:24:46.466983+00:00",
+    "last_seen": "2026-09-01T21:47:43.076365+00:00",
     "location": "Dresden, Sachsen",
     "notified": false,
-    "score": 66,
+    "score": 65,
     "source": "arbeitnow",
     "title_normalized": "staff engineer data analytics",
     "url": "https://www.arbeitnow.com/jobs/companies/staffbase/staff-engineer-data-analytics-dresden-sachsen-479084"
@@ -7977,10 +8010,10 @@
   "https://arbeitnow.com/jobs/companies/vinteden/analytics-engineer-payments-intelligence-berlin-175027": {
     "company_normalized": "vinteden",
     "first_seen": "2026-09-01T18:24:46.467011+00:00",
-    "last_seen": "2026-09-01T18:24:46.467011+00:00",
+    "last_seen": "2026-09-01T21:47:43.076406+00:00",
     "location": "Berlin",
     "notified": false,
-    "score": 70,
+    "score": 68,
     "source": "arbeitnow",
     "title_normalized": "analytics engineer payments intelligence",
     "url": "https://www.arbeitnow.com/jobs/companies/vinteden/analytics-engineer-payments-intelligence-berlin-175027"
@@ -8021,10 +8054,10 @@
   "https://arbeitnow.com/jobs/companies/vinteden/staff-engineer-supply-berlin-480409": {
     "company_normalized": "vinteden",
     "first_seen": "2026-09-01T18:24:46.466997+00:00",
-    "last_seen": "2026-09-01T18:24:46.466997+00:00",
+    "last_seen": "2026-09-01T21:47:43.076385+00:00",
     "location": "Berlin",
     "notified": false,
-    "score": 72,
+    "score": 70,
     "source": "arbeitnow",
     "title_normalized": "staff engineer supply",
     "url": "https://www.arbeitnow.com/jobs/companies/vinteden/staff-engineer-supply-berlin-480409"
@@ -8087,10 +8120,10 @@
   "https://arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-vulnerability-container-security-engineer-bonn-304599": {
     "company_normalized": "virtual7 gmbh",
     "first_seen": "2026-09-01T18:24:46.467025+00:00",
-    "last_seen": "2026-09-01T18:24:46.467025+00:00",
+    "last_seen": "2026-09-01T21:47:43.076427+00:00",
     "location": "Homeoffice",
     "notified": false,
-    "score": 68,
+    "score": 67,
     "source": "arbeitnow",
     "title_normalized": "senior vulnerability container security engineer m w d",
     "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-vulnerability-container-security-engineer-bonn-304599"
@@ -8131,7 +8164,7 @@
   "https://arbeitnow.com/jobs/companies/whitecircle/remote-recruiter-gtm-business-96049": {
     "company_normalized": "whitecircle",
     "first_seen": "2026-09-01T04:50:29.645184+00:00",
-    "last_seen": "2026-09-01T18:24:46.467771+00:00",
+    "last_seen": "2026-09-01T21:47:43.077381+00:00",
     "location": "Remote",
     "notified": false,
     "score": 69,
@@ -8142,7 +8175,7 @@
   "https://arbeitnow.com/jobs/companies/whitecircle/remote-recruiter-research-34570": {
     "company_normalized": "whitecircle",
     "first_seen": "2026-09-01T04:50:29.634075+00:00",
-    "last_seen": "2026-09-01T18:24:46.467756+00:00",
+    "last_seen": "2026-09-01T21:47:43.077361+00:00",
     "location": "Remote",
     "notified": true,
     "score": 78,
@@ -8428,10 +8461,10 @@
   "https://boards.greenhouse.io/cloudflare/jobs/7515882?gh_jid=7515882": {
     "company_normalized": "cloudflare",
     "first_seen": "2026-09-01T14:48:56.488381+00:00",
-    "last_seen": "2026-09-01T18:24:46.464746+00:00",
+    "last_seen": "2026-09-01T21:47:43.073642+00:00",
     "location": "Hybrid",
     "notified": true,
-    "score": 83,
+    "score": 81,
     "source": "greenhouse",
     "title_normalized": "senior named customer engineer uki",
     "url": "https://boards.greenhouse.io/cloudflare/jobs/7515882?gh_jid=7515882"
@@ -8439,7 +8472,7 @@
   "https://boards.greenhouse.io/cloudflare/jobs/7518699?gh_jid=7518699": {
     "company_normalized": "cloudflare",
     "first_seen": "2026-08-16T19:01:13.158882+00:00",
-    "last_seen": "2026-09-01T18:24:46.464497+00:00",
+    "last_seen": "2026-09-01T21:47:43.073234+00:00",
     "location": "Distributed",
     "notified": true,
     "score": 70,
@@ -8472,7 +8505,7 @@
   "https://boards.greenhouse.io/cloudflare/jobs/7551589?gh_jid=7551589": {
     "company_normalized": "cloudflare",
     "first_seen": "2026-08-16T19:01:13.158755+00:00",
-    "last_seen": "2026-09-01T18:24:46.464407+00:00",
+    "last_seen": "2026-09-01T21:47:43.073096+00:00",
     "location": "Hybrid",
     "notified": true,
     "score": 70,
@@ -8483,7 +8516,7 @@
   "https://boards.greenhouse.io/cloudflare/jobs/7558153?gh_jid=7558153": {
     "company_normalized": "cloudflare",
     "first_seen": "2026-08-18T14:47:07.088534+00:00",
-    "last_seen": "2026-09-01T18:24:46.464885+00:00",
+    "last_seen": "2026-09-01T21:47:43.073869+00:00",
     "location": "Hybrid",
     "notified": false,
     "score": 67,
@@ -8494,7 +8527,7 @@
   "https://boards.greenhouse.io/cloudflare/jobs/7649981?gh_jid=7649981": {
     "company_normalized": "cloudflare",
     "first_seen": "2026-08-16T19:01:13.154581+00:00",
-    "last_seen": "2026-09-01T18:24:46.464780+00:00",
+    "last_seen": "2026-09-01T21:47:43.073700+00:00",
     "location": "Hybrid",
     "notified": true,
     "score": 66,
@@ -8505,10 +8538,10 @@
   "https://boards.greenhouse.io/cloudflare/jobs/7655695?gh_jid=7655695": {
     "company_normalized": "cloudflare",
     "first_seen": "2026-08-16T19:01:13.159081+00:00",
-    "last_seen": "2026-09-01T18:24:46.464676+00:00",
+    "last_seen": "2026-09-01T21:47:43.073533+00:00",
     "location": "Hybrid",
     "notified": true,
-    "score": 77,
+    "score": 75,
     "source": "greenhouse",
     "title_normalized": "senior data scientist",
     "url": "https://boards.greenhouse.io/cloudflare/jobs/7655695?gh_jid=7655695"
@@ -8538,7 +8571,7 @@
   "https://boards.greenhouse.io/cloudflare/jobs/7778747?gh_jid=7778747": {
     "company_normalized": "cloudflare",
     "first_seen": "2026-08-16T19:01:13.158424+00:00",
-    "last_seen": "2026-09-01T18:24:46.464192+00:00",
+    "last_seen": "2026-09-01T21:47:43.072758+00:00",
     "location": "Distributed",
     "notified": true,
     "score": 75,
@@ -8560,7 +8593,7 @@
   "https://boards.greenhouse.io/cloudflare/jobs/7831810?gh_jid=7831810": {
     "company_normalized": "cloudflare",
     "first_seen": "2026-08-16T19:01:13.159212+00:00",
-    "last_seen": "2026-09-01T18:24:46.464902+00:00",
+    "last_seen": "2026-09-01T21:47:43.073895+00:00",
     "location": "In-Office",
     "notified": true,
     "score": 82,
@@ -8571,7 +8604,7 @@
   "https://boards.greenhouse.io/cloudflare/jobs/7864156?gh_jid=7864156": {
     "company_normalized": "cloudflare",
     "first_seen": "2026-08-16T19:01:13.158730+00:00",
-    "last_seen": "2026-09-01T18:24:46.464389+00:00",
+    "last_seen": "2026-09-01T21:47:43.073068+00:00",
     "location": "Distributed",
     "notified": true,
     "score": 69,
@@ -8593,7 +8626,7 @@
   "https://boards.greenhouse.io/cloudflare/jobs/7954702?gh_jid=7954702": {
     "company_normalized": "cloudflare",
     "first_seen": "2026-08-16T19:01:13.158832+00:00",
-    "last_seen": "2026-09-01T18:24:46.464462+00:00",
+    "last_seen": "2026-09-01T21:47:43.073180+00:00",
     "location": "Distributed",
     "notified": true,
     "score": 69,
@@ -8604,7 +8637,7 @@
   "https://boards.greenhouse.io/cloudflare/jobs/7955378?gh_jid=7955378": {
     "company_normalized": "cloudflare",
     "first_seen": "2026-08-16T19:01:13.154420+00:00",
-    "last_seen": "2026-09-01T18:24:46.463940+00:00",
+    "last_seen": "2026-09-01T21:47:43.072373+00:00",
     "location": "Remote India",
     "notified": true,
     "score": 76,
@@ -8626,7 +8659,7 @@
   "https://boards.greenhouse.io/cloudflare/jobs/7956845?gh_jid=7956845": {
     "company_normalized": "cloudflare",
     "first_seen": "2026-08-25T03:12:47.236789+00:00",
-    "last_seen": "2026-09-01T18:24:46.464156+00:00",
+    "last_seen": "2026-09-01T21:47:43.072702+00:00",
     "location": "Distributed",
     "notified": true,
     "score": 75,
@@ -8659,7 +8692,7 @@
   "https://boards.greenhouse.io/cloudflare/jobs/7980647?gh_jid=7980647": {
     "company_normalized": "cloudflare",
     "first_seen": "2026-08-26T16:30:25.073678+00:00",
-    "last_seen": "2026-09-01T18:24:46.464371+00:00",
+    "last_seen": "2026-09-01T21:47:43.073039+00:00",
     "location": "Distributed",
     "notified": true,
     "score": 70,
@@ -8670,10 +8703,10 @@
   "https://boards.greenhouse.io/cloudflare/jobs/7992903?gh_jid=7992903": {
     "company_normalized": "cloudflare",
     "first_seen": "2026-08-16T19:01:13.159161+00:00",
-    "last_seen": "2026-09-01T18:24:46.464764+00:00",
+    "last_seen": "2026-09-01T21:47:43.073669+00:00",
     "location": "Hybrid",
     "notified": true,
-    "score": 87,
+    "score": 85,
     "source": "greenhouse",
     "title_normalized": "senior network engineer",
     "url": "https://boards.greenhouse.io/cloudflare/jobs/7992903?gh_jid=7992903"
@@ -8681,7 +8714,7 @@
   "https://boards.greenhouse.io/cloudflare/jobs/8007032?gh_jid=8007032": {
     "company_normalized": "cloudflare",
     "first_seen": "2026-08-16T19:01:13.159056+00:00",
-    "last_seen": "2026-09-01T14:48:57.824502+00:00",
+    "last_seen": "2026-09-01T21:47:43.073506+00:00",
     "location": "In-Office",
     "notified": true,
     "score": 81,
@@ -8714,7 +8747,7 @@
   "https://boards.greenhouse.io/cloudflare/jobs/8020043?gh_jid=8020043": {
     "company_normalized": "cloudflare",
     "first_seen": "2026-08-16T19:01:13.159135+00:00",
-    "last_seen": "2026-09-01T18:24:46.464728+00:00",
+    "last_seen": "2026-09-01T21:47:43.073614+00:00",
     "location": "Remote India",
     "notified": true,
     "score": 75,
@@ -8725,7 +8758,7 @@
   "https://boards.greenhouse.io/cloudflare/jobs/8022909?gh_jid=8022909": {
     "company_normalized": "cloudflare",
     "first_seen": "2026-08-16T19:01:13.159263+00:00",
-    "last_seen": "2026-09-01T18:24:46.464953+00:00",
+    "last_seen": "2026-09-01T21:47:43.073977+00:00",
     "location": "In-Office",
     "notified": true,
     "score": 77,
@@ -8758,7 +8791,7 @@
   "https://boards.greenhouse.io/cloudflare/jobs/8027774?gh_jid=8027774": {
     "company_normalized": "cloudflare",
     "first_seen": "2026-08-16T19:01:13.154447+00:00",
-    "last_seen": "2026-09-01T18:24:46.463959+00:00",
+    "last_seen": "2026-09-01T21:47:43.072402+00:00",
     "location": "Hybrid",
     "notified": true,
     "score": 75,
@@ -8780,7 +8813,7 @@
   "https://boards.greenhouse.io/cloudflare/jobs/8035679?gh_jid=8035679": {
     "company_normalized": "cloudflare",
     "first_seen": "2026-08-16T19:01:13.159186+00:00",
-    "last_seen": "2026-09-01T18:24:46.464814+00:00",
+    "last_seen": "2026-09-01T21:47:43.073755+00:00",
     "location": "Austin, TX, United States",
     "notified": true,
     "score": 74,
@@ -8802,10 +8835,10 @@
   "https://boards.greenhouse.io/cloudflare/jobs/8042034?gh_jid=8042034": {
     "company_normalized": "cloudflare",
     "first_seen": "2026-08-17T01:50:40.354951+00:00",
-    "last_seen": "2026-09-01T09:59:24.894009+00:00",
+    "last_seen": "2026-09-01T21:47:43.073588+00:00",
     "location": "Hybrid",
     "notified": true,
-    "score": 84,
+    "score": 89,
     "source": "greenhouse",
     "title_normalized": "senior machine learning engineer",
     "url": "https://boards.greenhouse.io/cloudflare/jobs/8042034?gh_jid=8042034"
@@ -8868,7 +8901,7 @@
   "https://boards.greenhouse.io/cloudflare/jobs/8054072?gh_jid=8054072": {
     "company_normalized": "cloudflare",
     "first_seen": "2026-08-16T19:01:13.158454+00:00",
-    "last_seen": "2026-09-01T18:24:46.464209+00:00",
+    "last_seen": "2026-09-01T21:47:43.072785+00:00",
     "location": "Distributed",
     "notified": true,
     "score": 73,
@@ -8890,7 +8923,7 @@
   "https://boards.greenhouse.io/cloudflare/jobs/8064055?gh_jid=8064055": {
     "company_normalized": "cloudflare",
     "first_seen": "2026-08-19T19:39:41.246065+00:00",
-    "last_seen": "2026-09-01T18:24:46.464032+00:00",
+    "last_seen": "2026-09-01T21:47:43.072513+00:00",
     "location": "Hybrid",
     "notified": false,
     "score": 65,
@@ -8945,7 +8978,7 @@
   "https://boards.greenhouse.io/cloudflare/jobs/8075765?gh_jid=8075765": {
     "company_normalized": "cloudflare",
     "first_seen": "2026-08-16T19:01:13.158933+00:00",
-    "last_seen": "2026-09-01T18:24:46.464531+00:00",
+    "last_seen": "2026-09-01T21:47:43.073308+00:00",
     "location": "Hybrid",
     "notified": true,
     "score": 75,
@@ -8967,7 +9000,7 @@
   "https://boards.greenhouse.io/cloudflare/jobs/8076538?gh_jid=8076538": {
     "company_normalized": "cloudflare",
     "first_seen": "2026-08-16T19:01:13.154662+00:00",
-    "last_seen": "2026-09-01T18:24:46.464104+00:00",
+    "last_seen": "2026-09-01T21:47:43.072620+00:00",
     "location": "Hybrid",
     "notified": true,
     "score": 73,
@@ -8978,7 +9011,7 @@
   "https://boards.greenhouse.io/cloudflare/jobs/8076565?gh_jid=8076565": {
     "company_normalized": "cloudflare",
     "first_seen": "2026-08-16T19:01:13.154635+00:00",
-    "last_seen": "2026-09-01T18:24:46.464085+00:00",
+    "last_seen": "2026-09-01T21:47:43.072591+00:00",
     "location": "Hybrid",
     "notified": true,
     "score": 72,
@@ -8989,7 +9022,7 @@
   "https://boards.greenhouse.io/cloudflare/jobs/8077614?gh_jid=8077614": {
     "company_normalized": "cloudflare",
     "first_seen": "2026-08-16T19:01:13.158512+00:00",
-    "last_seen": "2026-09-01T18:24:46.464246+00:00",
+    "last_seen": "2026-09-01T21:47:43.072842+00:00",
     "location": "Hybrid",
     "notified": true,
     "score": 76,
@@ -9011,7 +9044,7 @@
   "https://boards.greenhouse.io/cloudflare/jobs/8078323?gh_jid=8078323": {
     "company_normalized": "cloudflare",
     "first_seen": "2026-08-16T19:01:13.158678+00:00",
-    "last_seen": "2026-09-01T18:24:46.464354+00:00",
+    "last_seen": "2026-09-01T21:47:43.073010+00:00",
     "location": "Distributed",
     "notified": true,
     "score": 69,
@@ -9022,7 +9055,7 @@
   "https://boards.greenhouse.io/cloudflare/jobs/8080187?gh_jid=8080187": {
     "company_normalized": "cloudflare",
     "first_seen": "2026-08-16T19:01:13.158569+00:00",
-    "last_seen": "2026-09-01T18:24:46.464264+00:00",
+    "last_seen": "2026-09-01T21:47:43.072871+00:00",
     "location": "Hybrid",
     "notified": true,
     "score": 76,
@@ -9055,7 +9088,7 @@
   "https://boards.greenhouse.io/cloudflare/jobs/8082834?gh_jid=8082834": {
     "company_normalized": "cloudflare",
     "first_seen": "2026-08-16T19:01:13.158806+00:00",
-    "last_seen": "2026-09-01T18:24:46.464443+00:00",
+    "last_seen": "2026-09-01T21:47:43.073152+00:00",
     "location": "Distributed",
     "notified": true,
     "score": 68,
@@ -9066,7 +9099,7 @@
   "https://boards.greenhouse.io/cloudflare/jobs/8087769?gh_jid=8087769": {
     "company_normalized": "cloudflare",
     "first_seen": "2026-08-16T19:01:13.158907+00:00",
-    "last_seen": "2026-09-01T18:24:46.464514+00:00",
+    "last_seen": "2026-09-01T21:47:43.073262+00:00",
     "location": "Distributed",
     "notified": true,
     "score": 75,
@@ -9077,7 +9110,7 @@
   "https://boards.greenhouse.io/cloudflare/jobs/8087772?gh_jid=8087772": {
     "company_normalized": "cloudflare",
     "first_seen": "2026-08-16T19:01:13.159026+00:00",
-    "last_seen": "2026-09-01T18:24:46.464643+00:00",
+    "last_seen": "2026-09-01T21:47:43.073479+00:00",
     "location": "Hybrid",
     "notified": true,
     "score": 75,
@@ -9088,7 +9121,7 @@
   "https://boards.greenhouse.io/cloudflare/jobs/8087911?gh_jid=8087911": {
     "company_normalized": "cloudflare",
     "first_seen": "2026-08-16T19:01:13.158263+00:00",
-    "last_seen": "2026-09-01T18:24:46.464122+00:00",
+    "last_seen": "2026-09-01T21:47:43.072648+00:00",
     "location": "Hybrid",
     "notified": true,
     "score": 79,
@@ -9099,7 +9132,7 @@
   "https://boards.greenhouse.io/cloudflare/jobs/8088046?gh_jid=8088046": {
     "company_normalized": "cloudflare",
     "first_seen": "2026-08-24T20:45:58.180192+00:00",
-    "last_seen": "2026-09-01T18:24:46.464050+00:00",
+    "last_seen": "2026-09-01T21:47:43.072538+00:00",
     "location": "Hybrid",
     "notified": false,
     "score": 68,
@@ -9110,7 +9143,7 @@
   "https://boards.greenhouse.io/cloudflare/jobs/8088751?gh_jid=8088751": {
     "company_normalized": "cloudflare",
     "first_seen": "2026-08-16T19:01:13.159237+00:00",
-    "last_seen": "2026-09-01T18:24:46.464919+00:00",
+    "last_seen": "2026-09-01T21:47:43.073923+00:00",
     "location": "Hybrid",
     "notified": true,
     "score": 78,
@@ -9121,7 +9154,7 @@
   "https://boards.greenhouse.io/cloudflare/jobs/8089031?gh_jid=8089031": {
     "company_normalized": "cloudflare",
     "first_seen": "2026-08-16T19:01:13.159289+00:00",
-    "last_seen": "2026-09-01T18:24:46.464988+00:00",
+    "last_seen": "2026-09-01T21:47:43.074032+00:00",
     "location": "Austin, TX, United States",
     "notified": true,
     "score": 72,
@@ -9132,7 +9165,7 @@
   "https://boards.greenhouse.io/cloudflare/jobs/8093023?gh_jid=8093023": {
     "company_normalized": "cloudflare",
     "first_seen": "2026-08-16T19:01:13.158984+00:00",
-    "last_seen": "2026-09-01T18:24:46.464617+00:00",
+    "last_seen": "2026-09-01T21:47:43.073452+00:00",
     "location": "Distributed",
     "notified": true,
     "score": 75,
@@ -9143,7 +9176,7 @@
   "https://boards.greenhouse.io/cloudflare/jobs/8097321?gh_jid=8097321": {
     "company_normalized": "cloudflare",
     "first_seen": "2026-08-16T19:01:13.154388+00:00",
-    "last_seen": "2026-09-01T18:24:46.463883+00:00",
+    "last_seen": "2026-09-01T21:47:43.072261+00:00",
     "location": "Hybrid",
     "notified": false,
     "score": 68,
@@ -9154,7 +9187,7 @@
   "https://boards.greenhouse.io/cloudflare/jobs/8097947?gh_jid=8097947": {
     "company_normalized": "cloudflare",
     "first_seen": "2026-08-16T19:01:13.158626+00:00",
-    "last_seen": "2026-09-01T18:24:46.464318+00:00",
+    "last_seen": "2026-09-01T21:47:43.072955+00:00",
     "location": "Hybrid",
     "notified": true,
     "score": 69,
@@ -9165,7 +9198,7 @@
   "https://boards.greenhouse.io/cloudflare/jobs/8099000?gh_jid=8099000": {
     "company_normalized": "cloudflare",
     "first_seen": "2026-08-16T19:01:13.154530+00:00",
-    "last_seen": "2026-09-01T18:24:46.463979+00:00",
+    "last_seen": "2026-09-01T21:47:43.072432+00:00",
     "location": "Hybrid",
     "notified": false,
     "score": 67,
@@ -9176,10 +9209,10 @@
   "https://boards.greenhouse.io/cloudflare/jobs/8104955?gh_jid=8104955": {
     "company_normalized": "cloudflare",
     "first_seen": "2026-08-19T17:41:19.888178+00:00",
-    "last_seen": "2026-09-01T18:24:46.464850+00:00",
+    "last_seen": "2026-09-01T21:47:43.073810+00:00",
     "location": "Hybrid",
     "notified": false,
-    "score": 72,
+    "score": 70,
     "source": "greenhouse",
     "title_normalized": "senior systems engineer identity access management",
     "url": "https://boards.greenhouse.io/cloudflare/jobs/8104955?gh_jid=8104955"
@@ -9187,7 +9220,7 @@
   "https://boards.greenhouse.io/cloudflare/jobs/8105716?gh_jid=8105716": {
     "company_normalized": "cloudflare",
     "first_seen": "2026-08-31T13:30:15.327939+00:00",
-    "last_seen": "2026-09-01T18:24:46.464797+00:00",
+    "last_seen": "2026-09-01T21:47:43.073728+00:00",
     "location": "Hybrid",
     "notified": false,
     "score": 70,
@@ -9198,7 +9231,7 @@
   "https://boards.greenhouse.io/cloudflare/jobs/8109939?gh_jid=8109939": {
     "company_normalized": "cloudflare",
     "first_seen": "2026-08-17T21:36:58.727280+00:00",
-    "last_seen": "2026-09-01T18:24:46.464139+00:00",
+    "last_seen": "2026-09-01T21:47:43.072674+00:00",
     "location": "Hybrid; In-Office",
     "notified": false,
     "score": 66,
@@ -9209,7 +9242,7 @@
   "https://boards.greenhouse.io/cloudflare/jobs/8110209?gh_jid=8110209": {
     "company_normalized": "cloudflare",
     "first_seen": "2026-08-24T21:42:38.561827+00:00",
-    "last_seen": "2026-09-01T09:59:24.893983+00:00",
+    "last_seen": "2026-09-01T21:47:43.073560+00:00",
     "location": "Hybrid",
     "notified": false,
     "score": 65,
@@ -9231,7 +9264,7 @@
   "https://boards.greenhouse.io/cloudflare/jobs/8115936?gh_jid=8115936": {
     "company_normalized": "cloudflare",
     "first_seen": "2026-08-16T19:01:13.158959+00:00",
-    "last_seen": "2026-09-01T18:24:46.464548+00:00",
+    "last_seen": "2026-09-01T21:47:43.073337+00:00",
     "location": "Distributed",
     "notified": true,
     "score": 70,
@@ -9242,7 +9275,7 @@
   "https://boards.greenhouse.io/cloudflare/jobs/8116208?gh_jid=8116208": {
     "company_normalized": "cloudflare",
     "first_seen": "2026-08-16T19:01:13.158392+00:00",
-    "last_seen": "2026-09-01T18:24:46.464174+00:00",
+    "last_seen": "2026-09-01T21:47:43.072731+00:00",
     "location": "Hybrid",
     "notified": true,
     "score": 75,
@@ -9253,7 +9286,7 @@
   "https://boards.greenhouse.io/cloudflare/jobs/8121827?gh_jid=8121827": {
     "company_normalized": "cloudflare",
     "first_seen": "2026-08-16T19:01:13.158857+00:00",
-    "last_seen": "2026-09-01T18:24:46.464480+00:00",
+    "last_seen": "2026-09-01T21:47:43.073207+00:00",
     "location": "Distributed",
     "notified": true,
     "score": 70,
@@ -9264,7 +9297,7 @@
   "https://boards.greenhouse.io/cloudflare/jobs/8121983?gh_jid=8121983": {
     "company_normalized": "cloudflare",
     "first_seen": "2026-08-16T19:01:13.158780+00:00",
-    "last_seen": "2026-09-01T18:24:46.464425+00:00",
+    "last_seen": "2026-09-01T21:47:43.073124+00:00",
     "location": "Distributed",
     "notified": true,
     "score": 69,
@@ -9275,7 +9308,7 @@
   "https://boards.greenhouse.io/cloudflare/jobs/8122071?gh_jid=8122071": {
     "company_normalized": "cloudflare",
     "first_seen": "2026-08-16T19:01:13.158595+00:00",
-    "last_seen": "2026-09-01T18:24:46.464300+00:00",
+    "last_seen": "2026-09-01T21:47:43.072927+00:00",
     "location": "Distributed",
     "notified": true,
     "score": 70,
@@ -9286,7 +9319,7 @@
   "https://boards.greenhouse.io/cloudflare/jobs/8126829?gh_jid=8126829": {
     "company_normalized": "cloudflare",
     "first_seen": "2026-08-16T19:01:13.158484+00:00",
-    "last_seen": "2026-09-01T18:24:46.464229+00:00",
+    "last_seen": "2026-09-01T21:47:43.072814+00:00",
     "location": "Hybrid",
     "notified": true,
     "score": 70,
@@ -9297,10 +9330,10 @@
   "https://boards.greenhouse.io/cloudflare/jobs/8131819?gh_jid=8131819": {
     "company_normalized": "cloudflare",
     "first_seen": "2026-09-01T18:24:46.458706+00:00",
-    "last_seen": "2026-09-01T18:24:46.464564+00:00",
+    "last_seen": "2026-09-01T21:47:43.073367+00:00",
     "location": "Hybrid",
     "notified": true,
-    "score": 77,
+    "score": 75,
     "source": "greenhouse",
     "title_normalized": "senior customer engineer sled",
     "url": "https://boards.greenhouse.io/cloudflare/jobs/8131819?gh_jid=8131819"
@@ -9308,7 +9341,7 @@
   "https://boards.greenhouse.io/cloudflare/jobs/8132642?gh_jid=8132642": {
     "company_normalized": "cloudflare",
     "first_seen": "2026-08-17T20:39:53.311137+00:00",
-    "last_seen": "2026-09-01T18:24:46.464599+00:00",
+    "last_seen": "2026-09-01T21:47:43.073425+00:00",
     "location": "Distributed",
     "notified": true,
     "score": 69,
@@ -9319,7 +9352,7 @@
   "https://boards.greenhouse.io/cloudflare/jobs/8142219?gh_jid=8142219": {
     "company_normalized": "cloudflare",
     "first_seen": "2026-08-19T21:39:07.625711+00:00",
-    "last_seen": "2026-09-01T18:24:46.464581+00:00",
+    "last_seen": "2026-09-01T21:47:43.073396+00:00",
     "location": "Hybrid",
     "notified": true,
     "score": 75,
@@ -9330,7 +9363,7 @@
   "https://boards.greenhouse.io/cloudflare/jobs/8142261?gh_jid=8142261": {
     "company_normalized": "cloudflare",
     "first_seen": "2026-08-21T15:47:58.255907+00:00",
-    "last_seen": "2026-09-01T18:24:46.464971+00:00",
+    "last_seen": "2026-09-01T21:47:43.074005+00:00",
     "location": "Lisbon, Portugal",
     "notified": false,
     "score": 65,
@@ -9352,7 +9385,7 @@
   "https://boards.greenhouse.io/cloudflare/jobs/8147148?gh_jid=8147148": {
     "company_normalized": "cloudflare",
     "first_seen": "2026-08-23T15:35:14.267549+00:00",
-    "last_seen": "2026-09-01T18:24:46.464282+00:00",
+    "last_seen": "2026-09-01T21:47:43.072899+00:00",
     "location": "Distributed",
     "notified": true,
     "score": 77,
@@ -9363,10 +9396,10 @@
   "https://boards.greenhouse.io/cloudflare/jobs/8147174?gh_jid=8147174": {
     "company_normalized": "cloudflare",
     "first_seen": "2026-08-26T16:30:25.065133+00:00",
-    "last_seen": "2026-09-01T18:24:46.464067+00:00",
+    "last_seen": "2026-09-01T21:47:43.072565+00:00",
     "location": "Hybrid",
     "notified": true,
-    "score": 78,
+    "score": 76,
     "source": "greenhouse",
     "title_normalized": "network hardware engineer",
     "url": "https://boards.greenhouse.io/cloudflare/jobs/8147174?gh_jid=8147174"
@@ -9374,7 +9407,7 @@
   "https://boards.greenhouse.io/cloudflare/jobs/8147213?gh_jid=8147213": {
     "company_normalized": "cloudflare",
     "first_seen": "2026-08-23T15:35:14.267623+00:00",
-    "last_seen": "2026-09-01T18:24:46.464337+00:00",
+    "last_seen": "2026-09-01T21:47:43.072984+00:00",
     "location": "Hybrid",
     "notified": true,
     "score": 70,
@@ -9429,7 +9462,7 @@
   "https://boards.greenhouse.io/cloudflare/jobs/8158609?gh_jid=8158609": {
     "company_normalized": "cloudflare",
     "first_seen": "2026-09-01T09:59:24.892920+00:00",
-    "last_seen": "2026-09-01T18:24:46.463997+00:00",
+    "last_seen": "2026-09-01T21:47:43.072459+00:00",
     "location": "Hybrid",
     "notified": true,
     "score": 79,
@@ -9440,7 +9473,7 @@
   "https://boards.greenhouse.io/cloudflare/jobs/8158614?gh_jid=8158614": {
     "company_normalized": "cloudflare",
     "first_seen": "2026-09-01T04:50:29.633991+00:00",
-    "last_seen": "2026-09-01T18:24:46.463902+00:00",
+    "last_seen": "2026-09-01T21:47:43.072309+00:00",
     "location": "Hybrid",
     "notified": true,
     "score": 78,
@@ -9451,7 +9484,7 @@
   "https://boards.greenhouse.io/cloudflare/jobs/8158617?gh_jid=8158617": {
     "company_normalized": "cloudflare",
     "first_seen": "2026-09-01T04:50:29.633926+00:00",
-    "last_seen": "2026-09-01T18:24:46.463922+00:00",
+    "last_seen": "2026-09-01T21:47:43.072343+00:00",
     "location": "Hybrid",
     "notified": true,
     "score": 78,
@@ -9462,7 +9495,7 @@
   "https://boards.greenhouse.io/cloudflare/jobs/8158620?gh_jid=8158620": {
     "company_normalized": "cloudflare",
     "first_seen": "2026-09-01T04:50:29.634017+00:00",
-    "last_seen": "2026-09-01T18:24:46.464015+00:00",
+    "last_seen": "2026-09-01T21:47:43.072486+00:00",
     "location": "Hybrid",
     "notified": true,
     "score": 79,
@@ -9473,7 +9506,7 @@
   "https://boards.greenhouse.io/cloudflare/jobs/8161940?gh_jid=8161940": {
     "company_normalized": "cloudflare",
     "first_seen": "2026-08-28T17:24:16.523383+00:00",
-    "last_seen": "2026-09-01T18:24:46.464868+00:00",
+    "last_seen": "2026-09-01T21:47:43.073841+00:00",
     "location": "Hybrid",
     "notified": false,
     "score": 65,
@@ -9495,7 +9528,7 @@
   "https://boards.greenhouse.io/cloudflare/jobs/8164600?gh_jid=8164600": {
     "company_normalized": "cloudflare",
     "first_seen": "2026-09-01T09:59:23.912462+00:00",
-    "last_seen": "2026-09-01T18:24:46.464832+00:00",
+    "last_seen": "2026-09-01T21:47:43.073783+00:00",
     "location": "Hybrid",
     "notified": true,
     "score": 84,
@@ -9506,7 +9539,7 @@
   "https://boards.greenhouse.io/cloudflare/jobs/8168623?gh_jid=8168623": {
     "company_normalized": "cloudflare",
     "first_seen": "2026-09-01T09:59:24.884897+00:00",
-    "last_seen": "2026-09-01T18:24:46.464937+00:00",
+    "last_seen": "2026-09-01T21:47:43.073950+00:00",
     "location": "Hybrid",
     "notified": true,
     "score": 79,
@@ -9539,7 +9572,7 @@
   "https://boards.greenhouse.io/robinhood/jobs/7460167?gh_jid=7460167&t=gh_src%3D": {
     "company_normalized": "robinhood",
     "first_seen": "2026-08-16T19:01:13.146241+00:00",
-    "last_seen": "2026-09-01T18:24:46.460306+00:00",
+    "last_seen": "2026-09-01T21:47:43.067297+00:00",
     "location": "Bellevue, WA; Menlo Park, CA; New York, NY",
     "notified": false,
     "score": 65,
@@ -9561,10 +9594,10 @@
   "https://boards.greenhouse.io/robinhood/jobs/7489707?gh_jid=7489707&t=gh_src%3D": {
     "company_normalized": "robinhood",
     "first_seen": "2026-08-16T19:01:13.146307+00:00",
-    "last_seen": "2026-09-01T18:24:46.460350+00:00",
+    "last_seen": "2026-09-01T21:47:43.067373+00:00",
     "location": "Menlo Park, CA",
     "notified": true,
-    "score": 72,
+    "score": 69,
     "source": "greenhouse",
     "title_normalized": "staff software engineer observability",
     "url": "https://boards.greenhouse.io/robinhood/jobs/7489707?t=gh_src=&gh_jid=7489707"
@@ -9594,10 +9627,10 @@
   "https://boards.greenhouse.io/robinhood/jobs/7729019?gh_jid=7729019&t=gh_src%3D": {
     "company_normalized": "robinhood",
     "first_seen": "2026-08-16T19:01:13.146173+00:00",
-    "last_seen": "2026-09-01T18:24:46.460283+00:00",
+    "last_seen": "2026-09-01T21:47:43.067209+00:00",
     "location": "Bellevue, WA",
     "notified": true,
-    "score": 73,
+    "score": 70,
     "source": "greenhouse",
     "title_normalized": "senior software engineer storage platform",
     "url": "https://boards.greenhouse.io/robinhood/jobs/7729019?t=gh_src=&gh_jid=7729019"
@@ -9605,10 +9638,10 @@
   "https://boards.greenhouse.io/robinhood/jobs/7819461?gh_jid=7819461&t=gh_src%3D": {
     "company_normalized": "robinhood",
     "first_seen": "2026-08-16T19:01:13.146273+00:00",
-    "last_seen": "2026-09-01T18:24:46.460328+00:00",
+    "last_seen": "2026-09-01T21:47:43.067337+00:00",
     "location": "Bellevue, WA",
     "notified": true,
-    "score": 73,
+    "score": 70,
     "source": "greenhouse",
     "title_normalized": "staff software engineer identity access management",
     "url": "https://boards.greenhouse.io/robinhood/jobs/7819461?t=gh_src=&gh_jid=7819461"
@@ -9627,10 +9660,10 @@
   "https://boards.greenhouse.io/robinhood/jobs/7847485?gh_jid=7847485&t=gh_src%3D": {
     "company_normalized": "robinhood",
     "first_seen": "2026-08-16T19:01:13.146066+00:00",
-    "last_seen": "2026-09-01T18:24:46.460207+00:00",
+    "last_seen": "2026-09-01T21:47:43.067134+00:00",
     "location": "Bellevue, WA; Menlo Park, CA",
     "notified": true,
-    "score": 71,
+    "score": 68,
     "source": "greenhouse",
     "title_normalized": "senior corporate security engineer",
     "url": "https://boards.greenhouse.io/robinhood/jobs/7847485?t=gh_src=&gh_jid=7847485"
@@ -9682,10 +9715,10 @@
   "https://boards.greenhouse.io/robinhood/jobs/8044227?gh_jid=8044227&t=gh_src%3D": {
     "company_normalized": "robinhood",
     "first_seen": "2026-08-16T19:01:13.146342+00:00",
-    "last_seen": "2026-09-01T18:24:46.460370+00:00",
+    "last_seen": "2026-09-01T21:47:43.067408+00:00",
     "location": "Bellevue, WA",
     "notified": true,
-    "score": 69,
+    "score": 66,
     "source": "greenhouse",
     "title_normalized": "staff software engineer storage platform",
     "url": "https://boards.greenhouse.io/robinhood/jobs/8044227?t=gh_src=&gh_jid=8044227"
@@ -9704,10 +9737,10 @@
   "https://boards.greenhouse.io/robinhood/jobs/8080244?gh_jid=8080244&t=gh_src%3D": {
     "company_normalized": "robinhood",
     "first_seen": "2026-08-16T19:01:13.146102+00:00",
-    "last_seen": "2026-09-01T18:24:46.460233+00:00",
+    "last_seen": "2026-09-01T21:47:43.067172+00:00",
     "location": "Bellevue, WA",
     "notified": true,
-    "score": 70,
+    "score": 77,
     "source": "greenhouse",
     "title_normalized": "senior software engineer cloud networking",
     "url": "https://boards.greenhouse.io/robinhood/jobs/8080244?t=gh_src=&gh_jid=8080244"
@@ -9778,10 +9811,21 @@
     "title_normalized": "senior applications engineer corporate systems",
     "url": "https://boards.greenhouse.io/robinhood/jobs/8133116?t=gh_src=&gh_jid=8133116"
   },
+  "https://boards.greenhouse.io/robinhood/jobs/8167616?gh_jid=8167616&t=gh_src%3D": {
+    "company_normalized": "robinhood",
+    "first_seen": "2026-09-01T21:47:43.067244+00:00",
+    "last_seen": "2026-09-01T21:47:43.067244+00:00",
+    "location": "Bellevue, WA; Menlo Park, CA",
+    "notified": false,
+    "score": 67,
+    "source": "greenhouse",
+    "title_normalized": "senior staff security engineer",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8167616?t=gh_src=&gh_jid=8167616"
+  },
   "https://brex.com/careers/8606885002?gh_jid=8606885002": {
     "company_normalized": "brex",
     "first_seen": "2026-08-16T19:01:13.147072+00:00",
-    "last_seen": "2026-09-01T18:24:46.461009+00:00",
+    "last_seen": "2026-09-01T21:47:43.068295+00:00",
     "location": "Seattle, Washington, United States",
     "notified": true,
     "score": 67,
@@ -9792,7 +9836,7 @@
   "https://brex.com/careers/8606890002?gh_jid=8606890002": {
     "company_normalized": "brex",
     "first_seen": "2026-08-16T19:01:13.147101+00:00",
-    "last_seen": "2026-09-01T18:24:46.461028+00:00",
+    "last_seen": "2026-09-01T21:47:43.068328+00:00",
     "location": "San Francisco, California, United States",
     "notified": true,
     "score": 67,
@@ -9891,7 +9935,7 @@
   "https://careers.airbnb.com/positions/7755758?gh_jid=7755758": {
     "company_normalized": "airbnb",
     "first_seen": "2026-08-26T03:18:23.064828+00:00",
-    "last_seen": "2026-09-01T18:24:46.460157+00:00",
+    "last_seen": "2026-09-01T21:47:43.067068+00:00",
     "location": "Remote-USA",
     "notified": false,
     "score": 66,
@@ -9902,10 +9946,10 @@
   "https://careers.airbnb.com/positions/7858738?gh_jid=7858738": {
     "company_normalized": "airbnb",
     "first_seen": "2026-08-16T19:01:13.145905+00:00",
-    "last_seen": "2026-09-01T18:24:46.460179+00:00",
+    "last_seen": "2026-09-01T21:47:43.067096+00:00",
     "location": "Remote - USA",
     "notified": true,
-    "score": 68,
+    "score": 65,
     "source": "greenhouse",
     "title_normalized": "senior staff machine learning engineer post training",
     "url": "https://careers.airbnb.com/positions/7858738?gh_jid=7858738"
@@ -9924,12 +9968,12 @@
   "https://careers.airbnb.com/positions/8014904?gh_jid=8014904": {
     "company_normalized": "airbnb",
     "first_seen": "2026-08-16T19:01:13.145819+00:00",
-    "last_seen": "2026-08-17T18:57:38.939438+00:00",
+    "last_seen": "2026-09-01T21:47:43.067038+00:00",
     "location": "Remote-USA",
     "notified": true,
-    "score": 84,
+    "score": 94,
     "source": "greenhouse",
-    "title_normalized": "senior machine learning engineer customer support engineering",
+    "title_normalized": "senior machine learning engineer assistance engineering",
     "url": "https://careers.airbnb.com/positions/8014904?gh_jid=8014904"
   },
   "https://careers.airbnb.com/positions/8083137?gh_jid=8083137": {
@@ -10023,7 +10067,7 @@
   "https://coinbase.com/careers/positions/6784618?gh_jid=6784618": {
     "company_normalized": "coinbase",
     "first_seen": "2026-08-19T17:41:19.301445+00:00",
-    "last_seen": "2026-09-01T18:24:46.460970+00:00",
+    "last_seen": "2026-09-01T21:47:43.068223+00:00",
     "location": "Remote - USA",
     "notified": true,
     "score": 79,
@@ -10034,7 +10078,7 @@
   "https://coinbase.com/careers/positions/7701645?gh_jid=7701645": {
     "company_normalized": "coinbase",
     "first_seen": "2026-08-27T19:53:08.821105+00:00",
-    "last_seen": "2026-09-01T18:24:46.460836+00:00",
+    "last_seen": "2026-09-01T21:47:43.067996+00:00",
     "location": "Remote - USA",
     "notified": true,
     "score": 84,
@@ -10064,6 +10108,17 @@
     "title_normalized": "senior software engineer developer infrastructure",
     "url": "https://www.coinbase.com/careers/positions/7964402?gh_jid=7964402"
   },
+  "https://coinbase.com/careers/positions/7964410?gh_jid=7964410": {
+    "company_normalized": "coinbase",
+    "first_seen": "2026-09-01T21:47:43.068194+00:00",
+    "last_seen": "2026-09-01T21:47:43.068194+00:00",
+    "location": "Remote - USA",
+    "notified": false,
+    "score": 72,
+    "source": "greenhouse",
+    "title_normalized": "staff software engineer developer infrastructure test infrastructure",
+    "url": "https://www.coinbase.com/careers/positions/7964410?gh_jid=7964410"
+  },
   "https://coinbase.com/careers/positions/7997420?gh_jid=7997420": {
     "company_normalized": "coinbase",
     "first_seen": "2026-08-16T19:01:13.146991+00:00",
@@ -10089,7 +10144,7 @@
   "https://coinbase.com/careers/positions/8024814?gh_jid=8024814": {
     "company_normalized": "coinbase",
     "first_seen": "2026-08-25T16:53:36.696381+00:00",
-    "last_seen": "2026-09-01T18:24:46.460932+00:00",
+    "last_seen": "2026-09-01T21:47:43.068138+00:00",
     "location": "Remote - Brazil",
     "notified": true,
     "score": 78,
@@ -10100,7 +10155,7 @@
   "https://coinbase.com/careers/positions/8031260?gh_jid=8031260": {
     "company_normalized": "coinbase",
     "first_seen": "2026-08-25T16:53:35.678631+00:00",
-    "last_seen": "2026-09-01T18:24:46.460794+00:00",
+    "last_seen": "2026-09-01T21:47:43.067938+00:00",
     "location": "Remote - Brazil",
     "notified": true,
     "score": 84,
@@ -10177,7 +10232,7 @@
   "https://coinbase.com/careers/positions/8100066?gh_jid=8100066": {
     "company_normalized": "coinbase",
     "first_seen": "2026-08-25T16:53:36.190875+00:00",
-    "last_seen": "2026-09-01T18:24:46.460913+00:00",
+    "last_seen": "2026-09-01T21:47:43.068112+00:00",
     "location": "Remote - Brazil",
     "notified": true,
     "score": 75,
@@ -10188,7 +10243,7 @@
   "https://coinbase.com/careers/positions/8105437?gh_jid=8105437": {
     "company_normalized": "coinbase",
     "first_seen": "2026-08-20T16:49:13.848278+00:00",
-    "last_seen": "2026-09-01T18:24:46.460816+00:00",
+    "last_seen": "2026-09-01T21:47:43.067968+00:00",
     "location": "Remote - USA",
     "notified": true,
     "score": 67,
@@ -10199,7 +10254,7 @@
   "https://coinbase.com/careers/positions/8113286?gh_jid=8113286": {
     "company_normalized": "coinbase",
     "first_seen": "2026-08-20T04:50:23.332767+00:00",
-    "last_seen": "2026-09-01T18:24:46.460894+00:00",
+    "last_seen": "2026-09-01T21:47:43.068084+00:00",
     "location": "Remote - USA",
     "notified": false,
     "score": 74,
@@ -10221,7 +10276,7 @@
   "https://coinbase.com/careers/positions/8146039?gh_jid=8146039": {
     "company_normalized": "coinbase",
     "first_seen": "2026-08-21T21:38:11.112160+00:00",
-    "last_seen": "2026-09-01T18:24:46.460855+00:00",
+    "last_seen": "2026-09-01T21:47:43.068025+00:00",
     "location": "Remote - USA",
     "notified": true,
     "score": 67,
@@ -10243,10 +10298,10 @@
   "https://coinbase.com/careers/positions/8154856?gh_jid=8154856": {
     "company_normalized": "coinbase",
     "first_seen": "2026-08-25T19:44:48.360648+00:00",
-    "last_seen": "2026-09-01T18:24:46.460950+00:00",
+    "last_seen": "2026-09-01T21:47:43.068166+00:00",
     "location": "Remote - USA",
     "notified": false,
-    "score": 67,
+    "score": 65,
     "source": "greenhouse",
     "title_normalized": "sr systems analyst finance enterprise apps",
     "url": "https://www.coinbase.com/careers/positions/8154856?gh_jid=8154856"
@@ -10276,7 +10331,7 @@
   "https://coinbase.com/careers/positions/8164730?gh_jid=8164730": {
     "company_normalized": "coinbase",
     "first_seen": "2026-08-29T01:45:18.298802+00:00",
-    "last_seen": "2026-09-01T18:24:46.460875+00:00",
+    "last_seen": "2026-09-01T21:47:43.068055+00:00",
     "location": "Remote - USA",
     "notified": true,
     "score": 78,
@@ -10287,7 +10342,7 @@
   "https://coinbase.com/careers/positions/8166218?gh_jid=8166218": {
     "company_normalized": "coinbase",
     "first_seen": "2026-08-31T05:13:13.176818+00:00",
-    "last_seen": "2026-09-01T18:24:46.460989+00:00",
+    "last_seen": "2026-09-01T21:47:43.068250+00:00",
     "location": "Remote - USA",
     "notified": true,
     "score": 74,
@@ -10474,7 +10529,7 @@
   "https://databricks.com/company/careers/open-positions/job?gh_jid=7619811002": {
     "company_normalized": "databricks",
     "first_seen": "2026-08-16T19:01:13.150687+00:00",
-    "last_seen": "2026-09-01T18:24:46.463345+00:00",
+    "last_seen": "2026-09-01T21:47:43.071541+00:00",
     "location": "Bengaluru, India",
     "notified": false,
     "score": 72,
@@ -10518,7 +10573,7 @@
   "https://databricks.com/company/careers/open-positions/job?gh_jid=7654347002": {
     "company_normalized": "databricks",
     "first_seen": "2026-08-16T19:01:13.150661+00:00",
-    "last_seen": "2026-09-01T18:24:46.463327+00:00",
+    "last_seen": "2026-09-01T21:47:43.071513+00:00",
     "location": "Bengaluru, India",
     "notified": true,
     "score": 68,
@@ -10540,7 +10595,7 @@
   "https://databricks.com/company/careers/open-positions/job?gh_jid=7807722002": {
     "company_normalized": "databricks",
     "first_seen": "2026-08-16T19:01:13.150873+00:00",
-    "last_seen": "2026-09-01T18:24:46.463435+00:00",
+    "last_seen": "2026-09-01T21:47:43.071622+00:00",
     "location": "Seattle, Washington",
     "notified": false,
     "score": 65,
@@ -10606,7 +10661,7 @@
   "https://databricks.com/company/careers/open-positions/job?gh_jid=7897431002": {
     "company_normalized": "databricks",
     "first_seen": "2026-08-17T03:12:38.280943+00:00",
-    "last_seen": "2026-09-01T18:24:46.463309+00:00",
+    "last_seen": "2026-09-01T21:47:43.071486+00:00",
     "location": "Bengaluru, India",
     "notified": true,
     "score": 77,
@@ -10793,7 +10848,7 @@
   "https://databricks.com/company/careers/open-positions/job?gh_jid=8099751002": {
     "company_normalized": "databricks",
     "first_seen": "2026-08-21T07:57:36.375945+00:00",
-    "last_seen": "2026-09-01T18:24:46.463162+00:00",
+    "last_seen": "2026-09-01T21:47:43.071080+00:00",
     "location": "Remote - India",
     "notified": true,
     "score": 88,
@@ -10914,7 +10969,7 @@
   "https://databricks.com/company/careers/open-positions/job?gh_jid=8350956002": {
     "company_normalized": "databricks",
     "first_seen": "2026-08-16T19:01:13.150713+00:00",
-    "last_seen": "2026-09-01T18:24:46.463363+00:00",
+    "last_seen": "2026-09-01T21:47:43.071567+00:00",
     "location": "Singapore",
     "notified": true,
     "score": 69,
@@ -11090,7 +11145,7 @@
   "https://databricks.com/company/careers/open-positions/job?gh_jid=8407913002": {
     "company_normalized": "databricks",
     "first_seen": "2026-08-27T08:56:21.080983+00:00",
-    "last_seen": "2026-09-01T18:24:46.463751+00:00",
+    "last_seen": "2026-09-01T21:47:43.072098+00:00",
     "location": "United States",
     "notified": true,
     "score": 80,
@@ -11156,7 +11211,7 @@
   "https://databricks.com/company/careers/open-positions/job?gh_jid=8423310002": {
     "company_normalized": "databricks",
     "first_seen": "2026-08-16T19:01:13.152483+00:00",
-    "last_seen": "2026-09-01T18:24:46.463676+00:00",
+    "last_seen": "2026-09-01T21:47:43.072015+00:00",
     "location": "Delaware; Maryland; Remote - Pennsylvania; Remote - Virginia; Remote - Washington D.C.; West Virginia",
     "notified": true,
     "score": 70,
@@ -11827,7 +11882,7 @@
   "https://databricks.com/company/careers/open-positions/job?gh_jid=8556371002": {
     "company_normalized": "databricks",
     "first_seen": "2026-08-16T19:01:13.150376+00:00",
-    "last_seen": "2026-09-01T18:24:46.463273+00:00",
+    "last_seen": "2026-09-01T21:47:43.071432+00:00",
     "location": "Paris, France",
     "notified": true,
     "score": 70,
@@ -11959,7 +12014,7 @@
   "https://databricks.com/company/careers/open-positions/job?gh_jid=8574655002": {
     "company_normalized": "databricks",
     "first_seen": "2026-08-16T19:01:13.150089+00:00",
-    "last_seen": "2026-09-01T18:24:46.462977+00:00",
+    "last_seen": "2026-09-01T21:47:43.071249+00:00",
     "location": "Seoul, South Korea",
     "notified": true,
     "score": 81,
@@ -12014,7 +12069,7 @@
   "https://databricks.com/company/careers/open-positions/job?gh_jid=8585164002": {
     "company_normalized": "databricks",
     "first_seen": "2026-08-16T19:01:13.151187+00:00",
-    "last_seen": "2026-09-01T18:24:46.463453+00:00",
+    "last_seen": "2026-09-01T21:47:43.071767+00:00",
     "location": "Bengaluru, India",
     "notified": true,
     "score": 83,
@@ -12025,7 +12080,7 @@
   "https://databricks.com/company/careers/open-positions/job?gh_jid=8585599002": {
     "company_normalized": "databricks",
     "first_seen": "2026-08-16T19:01:13.150765+00:00",
-    "last_seen": "2026-09-01T18:24:46.463381+00:00",
+    "last_seen": "2026-09-01T21:47:43.071594+00:00",
     "location": "Remote - United Kingdom",
     "notified": true,
     "score": 78,
@@ -12179,7 +12234,7 @@
   "https://databricks.com/company/careers/open-positions/job?gh_jid=8593505002": {
     "company_normalized": "databricks",
     "first_seen": "2026-08-16T19:01:13.151161+00:00",
-    "last_seen": "2026-09-01T18:24:46.463471+00:00",
+    "last_seen": "2026-09-01T21:47:43.071741+00:00",
     "location": "Mumbai, India",
     "notified": true,
     "score": 83,
@@ -12410,7 +12465,7 @@
   "https://databricks.com/company/careers/open-positions/job?gh_jid=8632126002": {
     "company_normalized": "databricks",
     "first_seen": "2026-08-22T13:43:22.166835+00:00",
-    "last_seen": "2026-09-01T18:24:46.463236+00:00",
+    "last_seen": "2026-09-01T21:47:43.071352+00:00",
     "location": "Bengaluru, India",
     "notified": true,
     "score": 87,
@@ -12454,7 +12509,7 @@
   "https://databricks.com/company/careers/open-positions/job?gh_jid=8638847002": {
     "company_normalized": "databricks",
     "first_seen": "2026-08-16T19:01:13.150116+00:00",
-    "last_seen": "2026-09-01T18:24:46.463198+00:00",
+    "last_seen": "2026-09-01T21:47:43.071324+00:00",
     "location": "United States",
     "notified": true,
     "score": 84,
@@ -12685,7 +12740,7 @@
   "https://databricks.com/company/careers/open-positions/job?gh_jid=8657065002": {
     "company_normalized": "databricks",
     "first_seen": "2026-08-22T01:45:25.476857+00:00",
-    "last_seen": "2026-09-01T18:24:46.463580+00:00",
+    "last_seen": "2026-09-01T21:47:43.071988+00:00",
     "location": "Austin, Texas",
     "notified": false,
     "score": 67,
@@ -12696,7 +12751,7 @@
   "https://databricks.com/company/careers/open-positions/job?gh_jid=8657468002": {
     "company_normalized": "databricks",
     "first_seen": "2026-08-16T19:01:13.152699+00:00",
-    "last_seen": "2026-09-01T18:24:46.463715+00:00",
+    "last_seen": "2026-09-01T21:47:43.072070+00:00",
     "location": "United States; USCA",
     "notified": false,
     "score": 67,
@@ -12718,7 +12773,7 @@
   "https://databricks.com/company/careers/open-positions/job?gh_jid=8661524002": {
     "company_normalized": "databricks",
     "first_seen": "2026-08-22T17:32:41.889219+00:00",
-    "last_seen": "2026-09-01T18:24:46.463806+00:00",
+    "last_seen": "2026-09-01T21:47:43.072126+00:00",
     "location": "Sydney, Australia",
     "notified": true,
     "score": 65,
@@ -12748,10 +12803,21 @@
     "title_normalized": "sr solutions engineer",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8675639002"
   },
+  "https://databricks.com/company/careers/open-positions/job?gh_jid=8679972002": {
+    "company_normalized": "databricks",
+    "first_seen": "2026-09-01T21:47:43.071379+00:00",
+    "last_seen": "2026-09-01T21:47:43.071379+00:00",
+    "location": "Mountain View, California",
+    "notified": false,
+    "score": 65,
+    "source": "greenhouse",
+    "title_normalized": "sap technical lead",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8679972002"
+  },
   "https://databricks.com/company/careers/open-positions/job?gh_jid=8679980002": {
     "company_normalized": "databricks",
     "first_seen": "2026-08-16T19:01:13.152806+00:00",
-    "last_seen": "2026-09-01T18:24:46.463292+00:00",
+    "last_seen": "2026-09-01T21:47:43.071460+00:00",
     "location": "Bengaluru, India",
     "notified": true,
     "score": 76,
@@ -12817,7 +12883,7 @@
   "https://databricks.com/company/careers/open-positions/job?gh_jid=8697991002": {
     "company_normalized": "databricks",
     "first_seen": "2026-08-16T19:01:13.151214+00:00",
-    "last_seen": "2026-09-01T18:24:46.463488+00:00",
+    "last_seen": "2026-09-01T21:47:43.071713+00:00",
     "location": "Central - United States; West Coast - United States",
     "notified": true,
     "score": 75,
@@ -12883,7 +12949,7 @@
   "https://databricks.com/company/careers/open-positions/job?gh_jid=8739458002": {
     "company_normalized": "databricks",
     "first_seen": "2026-08-22T01:45:25.476730+00:00",
-    "last_seen": "2026-09-01T18:24:46.463615+00:00",
+    "last_seen": "2026-09-01T21:47:43.071884+00:00",
     "location": "Chicago, Illinois",
     "notified": false,
     "score": 67,
@@ -12894,7 +12960,7 @@
   "https://databricks.com/company/careers/open-positions/job?gh_jid=8739462002": {
     "company_normalized": "databricks",
     "first_seen": "2026-08-22T01:45:25.476836+00:00",
-    "last_seen": "2026-09-01T18:24:46.463546+00:00",
+    "last_seen": "2026-09-01T21:47:43.071910+00:00",
     "location": "New York City, New York",
     "notified": false,
     "score": 67,
@@ -12905,7 +12971,7 @@
   "https://databricks.com/company/careers/open-positions/job?gh_jid=8739465002": {
     "company_normalized": "databricks",
     "first_seen": "2026-08-22T01:45:25.469816+00:00",
-    "last_seen": "2026-09-01T18:24:46.463641+00:00",
+    "last_seen": "2026-09-01T21:47:43.071962+00:00",
     "location": "Remote - Washington D.C.",
     "notified": true,
     "score": 74,
@@ -12916,7 +12982,7 @@
   "https://databricks.com/company/careers/open-positions/job?gh_jid=8739474002": {
     "company_normalized": "databricks",
     "first_seen": "2026-08-22T01:45:25.476794+00:00",
-    "last_seen": "2026-09-01T18:24:46.463597+00:00",
+    "last_seen": "2026-09-01T21:47:43.071936+00:00",
     "location": "San Francisco, California",
     "notified": false,
     "score": 67,
@@ -12927,7 +12993,7 @@
   "https://databricks.com/company/careers/open-positions/job?gh_jid=8739484002": {
     "company_normalized": "databricks",
     "first_seen": "2026-08-22T01:45:25.476708+00:00",
-    "last_seen": "2026-09-01T18:24:46.463563+00:00",
+    "last_seen": "2026-09-01T21:47:43.071859+00:00",
     "location": "United States",
     "notified": false,
     "score": 67,
@@ -12938,7 +13004,7 @@
   "https://databricks.com/company/careers/open-positions/job?gh_jid=8739506002": {
     "company_normalized": "databricks",
     "first_seen": "2026-08-22T01:45:25.469746+00:00",
-    "last_seen": "2026-09-01T18:24:46.463506+00:00",
+    "last_seen": "2026-09-01T21:47:43.071794+00:00",
     "location": "United States",
     "notified": true,
     "score": 70,
@@ -12949,7 +13015,7 @@
   "https://databricks.com/company/careers/open-positions/job?gh_jid=8740680002": {
     "company_normalized": "databricks",
     "first_seen": "2026-08-22T17:32:41.889155+00:00",
-    "last_seen": "2026-09-01T18:24:46.463255+00:00",
+    "last_seen": "2026-09-01T21:47:43.071405+00:00",
     "location": "Sydney, Australia",
     "notified": true,
     "score": 72,
@@ -12982,7 +13048,7 @@
   "https://databricks.com/company/careers/open-positions/job?gh_jid=8746374002": {
     "company_normalized": "databricks",
     "first_seen": "2026-08-25T16:53:39.326804+00:00",
-    "last_seen": "2026-09-01T18:24:46.463733+00:00",
+    "last_seen": "2026-09-01T21:47:43.072043+00:00",
     "location": "Boston, Massachusetts; Delaware; Maryland; Remote - California; Remote - New York; Remote - Washington D.C.; Virginia; West Virginia",
     "notified": true,
     "score": 74,
@@ -12993,10 +13059,10 @@
   "https://databricks.com/company/careers/open-positions/job?gh_jid=8747605002": {
     "company_normalized": "databricks",
     "first_seen": "2026-08-26T08:59:51.058310+00:00",
-    "last_seen": "2026-09-01T18:24:46.463015+00:00",
+    "last_seen": "2026-09-01T21:47:43.071137+00:00",
     "location": "Amsterdam, Netherlands",
     "notified": true,
-    "score": 84,
+    "score": 91,
     "source": "greenhouse",
     "title_normalized": "ai engineer fde forward deployed engineer",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8747605002"
@@ -13004,10 +13070,10 @@
   "https://databricks.com/company/careers/open-positions/job?gh_jid=8749859002": {
     "company_normalized": "databricks",
     "first_seen": "2026-08-26T08:59:51.058254+00:00",
-    "last_seen": "2026-09-01T18:24:46.463180+00:00",
-    "location": "Stockholm, Sweden",
+    "last_seen": "2026-09-01T21:47:43.071109+00:00",
+    "location": "Munich, Germany",
     "notified": true,
-    "score": 84,
+    "score": 91,
     "source": "greenhouse",
     "title_normalized": "ai engineer fde forward deployed engineer",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8749859002"
@@ -13037,10 +13103,10 @@
   "https://databricks.com/company/careers/open-positions/job?gh_jid=8755476002": {
     "company_normalized": "databricks",
     "first_seen": "2026-08-27T19:53:12.718215+00:00",
-    "last_seen": "2026-08-30T12:49:56.540260+00:00",
+    "last_seen": "2026-09-01T21:47:43.071686+00:00",
     "location": "Remote - New York",
     "notified": false,
-    "score": 65,
+    "score": 69,
     "source": "greenhouse",
     "title_normalized": "solutions architect communications media entertainment and games",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8755476002"
@@ -13048,10 +13114,10 @@
   "https://databricks.com/company/careers/open-positions/job?gh_jid=8755482002": {
     "company_normalized": "databricks",
     "first_seen": "2026-08-27T19:53:12.718238+00:00",
-    "last_seen": "2026-08-30T12:49:56.540288+00:00",
+    "last_seen": "2026-09-01T21:47:43.071658+00:00",
     "location": "Remote - Pennsylvania",
     "notified": false,
-    "score": 65,
+    "score": 69,
     "source": "greenhouse",
     "title_normalized": "solutions architect communications media entertainment and games",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8755482002"
@@ -13070,10 +13136,10 @@
   "https://databricks.com/company/careers/open-positions/job?gh_jid=8760167002": {
     "company_normalized": "databricks",
     "first_seen": "2026-08-28T17:24:14.511726+00:00",
-    "last_seen": "2026-09-01T18:24:46.463525+00:00",
+    "last_seen": "2026-09-01T21:47:43.071829+00:00",
     "location": "Maryland; Virginia; Washington, D.C.",
     "notified": true,
-    "score": 91,
+    "score": 89,
     "source": "greenhouse",
     "title_normalized": "sr ai engineer fde forward deployed engineer u s federal sector",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8760167002"
@@ -13092,10 +13158,10 @@
   "https://databricks.com/company/careers/open-positions/job?gh_jid=8760281002": {
     "company_normalized": "databricks",
     "first_seen": "2026-09-01T14:48:55.826944+00:00",
-    "last_seen": "2026-09-01T18:24:46.463126+00:00",
+    "last_seen": "2026-09-01T21:47:43.071052+00:00",
     "location": "Berkeley, California; Los Angeles, California; Mountain View, California; Sacramento, California; San Diego, California; San Francisco, California",
     "notified": true,
-    "score": 91,
+    "score": 89,
     "source": "greenhouse",
     "title_normalized": "ai engineer fde forward deployed engineer",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8760281002"
@@ -13103,10 +13169,10 @@
   "https://databricks.com/company/careers/open-positions/job?gh_jid=8760282002": {
     "company_normalized": "databricks",
     "first_seen": "2026-09-01T14:48:55.133565+00:00",
-    "last_seen": "2026-09-01T18:24:46.462958+00:00",
+    "last_seen": "2026-09-01T21:47:43.071024+00:00",
     "location": "Bellevue, Washington; Seattle, Washington",
     "notified": true,
-    "score": 91,
+    "score": 89,
     "source": "greenhouse",
     "title_normalized": "ai engineer fde forward deployed engineer",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8760282002"
@@ -13114,10 +13180,10 @@
   "https://databricks.com/company/careers/open-positions/job?gh_jid=8760283002": {
     "company_normalized": "databricks",
     "first_seen": "2026-09-01T14:48:53.828828+00:00",
-    "last_seen": "2026-09-01T18:24:46.463107+00:00",
+    "last_seen": "2026-09-01T21:47:43.070996+00:00",
     "location": "Austin, Texas; Dallas, Texas; Houston, Texas; Plano, Texas",
     "notified": true,
-    "score": 91,
+    "score": 89,
     "source": "greenhouse",
     "title_normalized": "ai engineer fde forward deployed engineer",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8760283002"
@@ -13125,10 +13191,10 @@
   "https://databricks.com/company/careers/open-positions/job?gh_jid=8760289002": {
     "company_normalized": "databricks",
     "first_seen": "2026-09-01T14:48:52.388014+00:00",
-    "last_seen": "2026-09-01T18:24:46.462937+00:00",
+    "last_seen": "2026-09-01T21:47:43.070967+00:00",
     "location": "New York City, New York",
     "notified": true,
-    "score": 91,
+    "score": 89,
     "source": "greenhouse",
     "title_normalized": "ai engineer fde forward deployed engineer",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8760289002"
@@ -13136,10 +13202,10 @@
   "https://databricks.com/company/careers/open-positions/job?gh_jid=8760298002": {
     "company_normalized": "databricks",
     "first_seen": "2026-09-01T14:48:51.736723+00:00",
-    "last_seen": "2026-09-01T18:24:46.463089+00:00",
+    "last_seen": "2026-09-01T21:47:43.070935+00:00",
     "location": "Boston, Massachusetts",
     "notified": true,
-    "score": 91,
+    "score": 89,
     "source": "greenhouse",
     "title_normalized": "ai engineer fde forward deployed engineer",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8760298002"
@@ -13147,10 +13213,10 @@
   "https://databricks.com/company/careers/open-positions/job?gh_jid=8760299002": {
     "company_normalized": "databricks",
     "first_seen": "2026-09-01T14:48:51.095011+00:00",
-    "last_seen": "2026-09-01T18:24:46.463071+00:00",
+    "last_seen": "2026-09-01T21:47:43.071222+00:00",
     "location": "Denver, Colorado",
     "notified": true,
-    "score": 91,
+    "score": 89,
     "source": "greenhouse",
     "title_normalized": "ai engineer fde forward deployed engineer",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8760299002"
@@ -13158,10 +13224,10 @@
   "https://databricks.com/company/careers/open-positions/job?gh_jid=8760318002": {
     "company_normalized": "databricks",
     "first_seen": "2026-09-01T14:48:54.483145+00:00",
-    "last_seen": "2026-09-01T18:24:46.463052+00:00",
+    "last_seen": "2026-09-01T21:47:43.071194+00:00",
     "location": "McLean, Virginia; Reston, Virginia; Richmond, Virginia; Washington, D.C.",
     "notified": true,
-    "score": 91,
+    "score": 89,
     "source": "greenhouse",
     "title_normalized": "ai engineer fde forward deployed engineer",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8760318002"
@@ -13169,10 +13235,10 @@
   "https://databricks.com/company/careers/open-positions/job?gh_jid=8760319002": {
     "company_normalized": "databricks",
     "first_seen": "2026-09-01T14:48:53.178653+00:00",
-    "last_seen": "2026-09-01T18:24:46.463034+00:00",
+    "last_seen": "2026-09-01T21:47:43.071165+00:00",
     "location": "Charlotte, North Carolina; Durham, North Carolina; Raleigh, North Carolina",
     "notified": true,
-    "score": 91,
+    "score": 89,
     "source": "greenhouse",
     "title_normalized": "ai engineer fde forward deployed engineer",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8760319002"
@@ -13180,10 +13246,10 @@
   "https://databricks.com/company/careers/open-positions/job?gh_jid=8760332002": {
     "company_normalized": "databricks",
     "first_seen": "2026-09-01T18:24:44.118735+00:00",
-    "last_seen": "2026-09-01T18:24:46.463144+00:00",
+    "last_seen": "2026-09-01T21:47:43.071293+00:00",
     "location": "Chicago, Illinois",
     "notified": true,
-    "score": 91,
+    "score": 89,
     "source": "greenhouse",
     "title_normalized": "ai engineer fde forward deployed engineer",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8760332002"
@@ -13224,7 +13290,7 @@
   "https://job-boards.greenhouse.io/affirm/jobs/7118737003": {
     "company_normalized": "affirm",
     "first_seen": "2026-08-16T19:01:13.148141+00:00",
-    "last_seen": "2026-09-01T18:24:46.461246+00:00",
+    "last_seen": "2026-09-01T21:47:43.068545+00:00",
     "location": "Remote Poland",
     "notified": true,
     "score": 71,
@@ -13235,7 +13301,7 @@
   "https://job-boards.greenhouse.io/affirm/jobs/7118739003": {
     "company_normalized": "affirm",
     "first_seen": "2026-08-16T19:01:13.148159+00:00",
-    "last_seen": "2026-09-01T18:24:46.461231+00:00",
+    "last_seen": "2026-09-01T21:47:43.068566+00:00",
     "location": "Remote Spain",
     "notified": true,
     "score": 71,
@@ -13246,7 +13312,7 @@
   "https://job-boards.greenhouse.io/affirm/jobs/7590373003": {
     "company_normalized": "affirm",
     "first_seen": "2026-08-16T19:01:13.148317+00:00",
-    "last_seen": "2026-09-01T18:24:46.461337+00:00",
+    "last_seen": "2026-09-01T21:47:43.068686+00:00",
     "location": "Remote Canada",
     "notified": true,
     "score": 68,
@@ -13312,7 +13378,7 @@
   "https://job-boards.greenhouse.io/affirm/jobs/7637823003": {
     "company_normalized": "affirm",
     "first_seen": "2026-08-16T19:01:13.148618+00:00",
-    "last_seen": "2026-09-01T18:24:46.461425+00:00",
+    "last_seen": "2026-09-01T21:47:43.068807+00:00",
     "location": "Remote Poland",
     "notified": true,
     "score": 68,
@@ -13631,7 +13697,7 @@
   "https://job-boards.greenhouse.io/affirm/jobs/7779962003": {
     "company_normalized": "affirm",
     "first_seen": "2026-08-16T19:01:13.148414+00:00",
-    "last_seen": "2026-09-01T18:24:46.461352+00:00",
+    "last_seen": "2026-09-01T21:47:43.068706+00:00",
     "location": "Remote Canada",
     "notified": true,
     "score": 66,
@@ -13664,7 +13730,7 @@
   "https://job-boards.greenhouse.io/affirm/jobs/7796530003": {
     "company_normalized": "affirm",
     "first_seen": "2026-08-16T19:11:07.436723+00:00",
-    "last_seen": "2026-09-01T18:24:46.461043+00:00",
+    "last_seen": "2026-09-01T21:47:43.068355+00:00",
     "location": "Remote Canada",
     "notified": false,
     "score": 67,
@@ -13719,7 +13785,7 @@
   "https://job-boards.greenhouse.io/affirm/jobs/7799348003": {
     "company_normalized": "affirm",
     "first_seen": "2026-08-16T19:01:13.148298+00:00",
-    "last_seen": "2026-09-01T18:24:46.461321+00:00",
+    "last_seen": "2026-09-01T21:47:43.068665+00:00",
     "location": "Remote Poland",
     "notified": true,
     "score": 68,
@@ -13873,7 +13939,7 @@
   "https://job-boards.greenhouse.io/affirm/jobs/7806681003": {
     "company_normalized": "affirm",
     "first_seen": "2026-08-16T19:01:13.147665+00:00",
-    "last_seen": "2026-09-01T18:24:46.461152+00:00",
+    "last_seen": "2026-09-01T21:47:43.068482+00:00",
     "location": "Remote Poland",
     "notified": true,
     "score": 82,
@@ -13895,7 +13961,7 @@
   "https://job-boards.greenhouse.io/affirm/jobs/7806685003": {
     "company_normalized": "affirm",
     "first_seen": "2026-08-16T19:01:13.147941+00:00",
-    "last_seen": "2026-09-01T18:24:46.461214+00:00",
+    "last_seen": "2026-09-01T21:47:43.068523+00:00",
     "location": "Remote Poland",
     "notified": true,
     "score": 65,
@@ -13917,7 +13983,7 @@
   "https://job-boards.greenhouse.io/affirm/jobs/7806924003": {
     "company_normalized": "affirm",
     "first_seen": "2026-08-16T19:01:13.147825+00:00",
-    "last_seen": "2026-09-01T18:24:46.461199+00:00",
+    "last_seen": "2026-09-01T21:47:43.068502+00:00",
     "location": "Remote Canada",
     "notified": true,
     "score": 68,
@@ -13928,7 +13994,7 @@
   "https://job-boards.greenhouse.io/affirm/jobs/7807506003": {
     "company_normalized": "affirm",
     "first_seen": "2026-08-16T19:01:13.148179+00:00",
-    "last_seen": "2026-09-01T18:24:46.461276+00:00",
+    "last_seen": "2026-09-01T21:47:43.068606+00:00",
     "location": "Remote Spain",
     "notified": false,
     "score": 65,
@@ -13939,7 +14005,7 @@
   "https://job-boards.greenhouse.io/affirm/jobs/7807508003": {
     "company_normalized": "affirm",
     "first_seen": "2026-08-16T19:01:13.148199+00:00",
-    "last_seen": "2026-09-01T18:24:46.461262+00:00",
+    "last_seen": "2026-09-01T21:47:43.068586+00:00",
     "location": "Remote Poland",
     "notified": false,
     "score": 65,
@@ -13983,7 +14049,7 @@
   "https://job-boards.greenhouse.io/affirm/jobs/7809761003": {
     "company_normalized": "affirm",
     "first_seen": "2026-08-18T15:46:57.926041+00:00",
-    "last_seen": "2026-09-01T18:24:46.461290+00:00",
+    "last_seen": "2026-09-01T21:47:43.068625+00:00",
     "location": "Remote Poland",
     "notified": false,
     "score": 68,
@@ -13994,7 +14060,7 @@
   "https://job-boards.greenhouse.io/affirm/jobs/7809763003": {
     "company_normalized": "affirm",
     "first_seen": "2026-08-26T13:12:01.793817+00:00",
-    "last_seen": "2026-09-01T18:24:46.461305+00:00",
+    "last_seen": "2026-09-01T21:47:43.068645+00:00",
     "location": "Remote Spain",
     "notified": false,
     "score": 68,
@@ -14005,7 +14071,7 @@
   "https://job-boards.greenhouse.io/affirm/jobs/7812982003": {
     "company_normalized": "affirm",
     "first_seen": "2026-08-16T19:01:13.147518+00:00",
-    "last_seen": "2026-09-01T18:24:46.461106+00:00",
+    "last_seen": "2026-09-01T21:47:43.068421+00:00",
     "location": "Remote US",
     "notified": false,
     "score": 65,
@@ -14016,7 +14082,7 @@
   "https://job-boards.greenhouse.io/affirm/jobs/7813107003": {
     "company_normalized": "affirm",
     "first_seen": "2026-08-16T19:01:13.148503+00:00",
-    "last_seen": "2026-09-01T18:24:46.461367+00:00",
+    "last_seen": "2026-09-01T21:47:43.068727+00:00",
     "location": "Remote US",
     "notified": true,
     "score": 70,
@@ -14104,7 +14170,7 @@
   "https://job-boards.greenhouse.io/affirm/jobs/7819891003": {
     "company_normalized": "affirm",
     "first_seen": "2026-08-26T19:16:11.816269+00:00",
-    "last_seen": "2026-09-01T18:24:46.461121+00:00",
+    "last_seen": "2026-09-01T21:47:43.068441+00:00",
     "location": "Remote Canada",
     "notified": true,
     "score": 71,
@@ -14148,7 +14214,7 @@
   "https://job-boards.greenhouse.io/affirm/jobs/7820448003": {
     "company_normalized": "affirm",
     "first_seen": "2026-08-16T19:01:13.147579+00:00",
-    "last_seen": "2026-09-01T18:24:46.461137+00:00",
+    "last_seen": "2026-09-01T21:47:43.068461+00:00",
     "location": "Remote Poland",
     "notified": true,
     "score": 68,
@@ -14159,7 +14225,7 @@
   "https://job-boards.greenhouse.io/affirm/jobs/7820451003": {
     "company_normalized": "affirm",
     "first_seen": "2026-08-16T19:01:13.148578+00:00",
-    "last_seen": "2026-09-01T18:24:46.461381+00:00",
+    "last_seen": "2026-09-01T21:47:43.068768+00:00",
     "location": "Remote Spain",
     "notified": false,
     "score": 66,
@@ -14170,7 +14236,7 @@
   "https://job-boards.greenhouse.io/affirm/jobs/7820453003": {
     "company_normalized": "affirm",
     "first_seen": "2026-08-16T19:01:13.148559+00:00",
-    "last_seen": "2026-09-01T18:24:46.461396+00:00",
+    "last_seen": "2026-09-01T21:47:43.068747+00:00",
     "location": "Remote Poland",
     "notified": false,
     "score": 66,
@@ -14181,7 +14247,7 @@
   "https://job-boards.greenhouse.io/affirm/jobs/7821440003": {
     "company_normalized": "affirm",
     "first_seen": "2026-08-16T19:01:13.148595+00:00",
-    "last_seen": "2026-09-01T18:24:46.461411+00:00",
+    "last_seen": "2026-09-01T21:47:43.068787+00:00",
     "location": "Remote Canada",
     "notified": true,
     "score": 69,
@@ -14247,7 +14313,7 @@
   "https://job-boards.greenhouse.io/affirm/jobs/7822393003": {
     "company_normalized": "affirm",
     "first_seen": "2026-08-16T19:01:13.147498+00:00",
-    "last_seen": "2026-09-01T18:24:46.461089+00:00",
+    "last_seen": "2026-09-01T21:47:43.068398+00:00",
     "location": "Remote Poland",
     "notified": true,
     "score": 77,
@@ -14379,7 +14445,7 @@
   "https://job-boards.greenhouse.io/affirm/jobs/7906568003": {
     "company_normalized": "affirm",
     "first_seen": "2026-08-20T19:43:59.558888+00:00",
-    "last_seen": "2026-09-01T18:24:46.461074+00:00",
+    "last_seen": "2026-09-01T21:47:43.068377+00:00",
     "location": "Remote Canada",
     "notified": true,
     "score": 74,
@@ -14390,7 +14456,7 @@
   "https://job-boards.greenhouse.io/affirm/jobs/7931494003": {
     "company_normalized": "affirm",
     "first_seen": "2026-08-28T17:24:16.518784+00:00",
-    "last_seen": "2026-09-01T18:24:46.461440+00:00",
+    "last_seen": "2026-09-01T21:47:43.068847+00:00",
     "location": "Remote Spain",
     "notified": false,
     "score": 66,
@@ -14401,7 +14467,7 @@
   "https://job-boards.greenhouse.io/affirm/jobs/7931496003": {
     "company_normalized": "affirm",
     "first_seen": "2026-08-28T17:24:16.518802+00:00",
-    "last_seen": "2026-09-01T18:24:46.461469+00:00",
+    "last_seen": "2026-09-01T21:47:43.068867+00:00",
     "location": "Remote Poland",
     "notified": false,
     "score": 66,
@@ -14412,7 +14478,7 @@
   "https://job-boards.greenhouse.io/affirm/jobs/7979134003": {
     "company_normalized": "affirm",
     "first_seen": "2026-08-28T17:24:16.518766+00:00",
-    "last_seen": "2026-09-01T18:24:46.461455+00:00",
+    "last_seen": "2026-09-01T21:47:43.068827+00:00",
     "location": "Remote UK",
     "notified": false,
     "score": 66,
@@ -14423,7 +14489,7 @@
   "https://job-boards.greenhouse.io/discord/jobs/8545675002": {
     "company_normalized": "discord",
     "first_seen": "2026-08-19T17:41:19.877339+00:00",
-    "last_seen": "2026-09-01T18:24:46.460773+00:00",
+    "last_seen": "2026-09-01T21:47:43.067907+00:00",
     "location": "San Francisco Bay Area or Los Angeles Area",
     "notified": true,
     "score": 68,
@@ -14434,7 +14500,7 @@
   "https://job-boards.greenhouse.io/discord/jobs/8649856002": {
     "company_normalized": "discord",
     "first_seen": "2026-08-16T19:01:13.146877+00:00",
-    "last_seen": "2026-09-01T18:24:46.460757+00:00",
+    "last_seen": "2026-09-01T21:47:43.067886+00:00",
     "location": "San Francisco Bay Area ",
     "notified": true,
     "score": 74,
@@ -14456,7 +14522,7 @@
   "https://job-boards.greenhouse.io/gitlab/jobs/8448283002": {
     "company_normalized": "gitlab",
     "first_seen": "2026-08-16T19:01:13.149788+00:00",
-    "last_seen": "2026-09-01T18:24:46.462735+00:00",
+    "last_seen": "2026-09-01T21:47:43.070658+00:00",
     "location": "Remote, United Kingdom",
     "notified": true,
     "score": 96,
@@ -14467,7 +14533,7 @@
   "https://job-boards.greenhouse.io/gitlab/jobs/8451512002": {
     "company_normalized": "gitlab",
     "first_seen": "2026-08-16T19:01:13.149356+00:00",
-    "last_seen": "2026-09-01T18:24:46.462053+00:00",
+    "last_seen": "2026-09-01T21:47:43.069682+00:00",
     "location": "Remote, Canada; Remote, US",
     "notified": false,
     "score": 72,
@@ -14489,7 +14555,7 @@
   "https://job-boards.greenhouse.io/gitlab/jobs/8464608002": {
     "company_normalized": "gitlab",
     "first_seen": "2026-08-29T21:42:52.338707+00:00",
-    "last_seen": "2026-09-01T18:24:46.462413+00:00",
+    "last_seen": "2026-09-01T21:47:43.070186+00:00",
     "location": "Remote, Canada; Remote, US",
     "notified": false,
     "score": 65,
@@ -14500,7 +14566,7 @@
   "https://job-boards.greenhouse.io/gitlab/jobs/8476375002": {
     "company_normalized": "gitlab",
     "first_seen": "2026-08-16T19:01:13.149663+00:00",
-    "last_seen": "2026-09-01T18:24:46.462599+00:00",
+    "last_seen": "2026-09-01T21:47:43.070497+00:00",
     "location": "Remote, Australia; Remote, Singapore",
     "notified": true,
     "score": 81,
@@ -14511,7 +14577,7 @@
   "https://job-boards.greenhouse.io/gitlab/jobs/8490477002": {
     "company_normalized": "gitlab",
     "first_seen": "2026-08-25T09:47:27.821514+00:00",
-    "last_seen": "2026-09-01T18:24:46.462722+00:00",
+    "last_seen": "2026-09-01T21:47:43.070639+00:00",
     "location": "Remote, Canada; Remote, United Kingdom; Remote, US",
     "notified": false,
     "score": 71,
@@ -14522,7 +14588,7 @@
   "https://job-boards.greenhouse.io/gitlab/jobs/8512432002": {
     "company_normalized": "gitlab",
     "first_seen": "2026-08-16T19:01:13.149828+00:00",
-    "last_seen": "2026-09-01T18:24:46.462777+00:00",
+    "last_seen": "2026-09-01T21:47:43.070715+00:00",
     "location": "Remote, US",
     "notified": true,
     "score": 96,
@@ -14533,7 +14599,7 @@
   "https://job-boards.greenhouse.io/gitlab/jobs/8514960002": {
     "company_normalized": "gitlab",
     "first_seen": "2026-08-16T19:01:13.149863+00:00",
-    "last_seen": "2026-09-01T18:24:46.462820+00:00",
+    "last_seen": "2026-09-01T21:47:43.070774+00:00",
     "location": "Remote, India; Remote, Israel; Remote, United Kingdom; Remote, US",
     "notified": true,
     "score": 81,
@@ -14544,7 +14610,7 @@
   "https://job-boards.greenhouse.io/gitlab/jobs/8517171002": {
     "company_normalized": "gitlab",
     "first_seen": "2026-08-25T19:44:47.687280+00:00",
-    "last_seen": "2026-09-01T18:24:46.461689+00:00",
+    "last_seen": "2026-09-01T21:47:43.069146+00:00",
     "location": "Remote, United States",
     "notified": true,
     "score": 93,
@@ -14555,7 +14621,7 @@
   "https://job-boards.greenhouse.io/gitlab/jobs/8522265002": {
     "company_normalized": "gitlab",
     "first_seen": "2026-08-16T19:01:13.149056+00:00",
-    "last_seen": "2026-09-01T18:24:46.461705+00:00",
+    "last_seen": "2026-09-01T21:47:43.069188+00:00",
     "location": "Remote Ireland; Remote, Denmark; Remote, France; Remote, Germany; Remote, Italy; Remote, Netherlands; Remote, Sweden; Remote, United Kingdom",
     "notified": true,
     "score": 96,
@@ -14566,7 +14632,7 @@
   "https://job-boards.greenhouse.io/gitlab/jobs/8522408002": {
     "company_normalized": "gitlab",
     "first_seen": "2026-08-16T19:01:13.149089+00:00",
-    "last_seen": "2026-09-01T18:24:46.461718+00:00",
+    "last_seen": "2026-09-01T21:47:43.069168+00:00",
     "location": "Remote Ireland; Remote, Austria; Remote, Denmark; Remote, France; Remote, Germany; Remote, Netherlands; Remote, Switzerland; Remote, United Kingdom",
     "notified": true,
     "score": 96,
@@ -14577,7 +14643,7 @@
   "https://job-boards.greenhouse.io/gitlab/jobs/8524783002": {
     "company_normalized": "gitlab",
     "first_seen": "2026-08-16T19:01:13.149109+00:00",
-    "last_seen": "2026-09-01T18:24:46.461732+00:00",
+    "last_seen": "2026-09-01T21:47:43.069207+00:00",
     "location": "Remote, United Arab Emirates",
     "notified": true,
     "score": 96,
@@ -14588,7 +14654,7 @@
   "https://job-boards.greenhouse.io/gitlab/jobs/8556658002": {
     "company_normalized": "gitlab",
     "first_seen": "2026-08-16T19:01:13.148899+00:00",
-    "last_seen": "2026-09-01T18:24:46.461483+00:00",
+    "last_seen": "2026-09-01T21:47:43.068887+00:00",
     "location": "Remote, Bangalore",
     "notified": true,
     "score": 96,
@@ -14599,7 +14665,7 @@
   "https://job-boards.greenhouse.io/gitlab/jobs/8565469002": {
     "company_normalized": "gitlab",
     "first_seen": "2026-08-16T19:01:13.149263+00:00",
-    "last_seen": "2026-09-01T18:24:46.461968+00:00",
+    "last_seen": "2026-09-01T21:47:43.069563+00:00",
     "location": "Remote, US",
     "notified": true,
     "score": 96,
@@ -14610,7 +14676,7 @@
   "https://job-boards.greenhouse.io/gitlab/jobs/8586667002": {
     "company_normalized": "gitlab",
     "first_seen": "2026-08-19T15:46:00.773192+00:00",
-    "last_seen": "2026-09-01T18:24:46.461644+00:00",
+    "last_seen": "2026-09-01T21:47:43.069084+00:00",
     "location": "Remote, United Kingdom",
     "notified": false,
     "score": 67,
@@ -14621,7 +14687,7 @@
   "https://job-boards.greenhouse.io/gitlab/jobs/8588547002": {
     "company_normalized": "gitlab",
     "first_seen": "2026-08-29T21:42:52.338991+00:00",
-    "last_seen": "2026-09-01T18:24:46.462646+00:00",
+    "last_seen": "2026-09-01T21:47:43.070537+00:00",
     "location": "Remote, US",
     "notified": false,
     "score": 68,
@@ -14643,7 +14709,7 @@
   "https://job-boards.greenhouse.io/gitlab/jobs/8592950002": {
     "company_normalized": "gitlab",
     "first_seen": "2026-08-16T19:01:13.148996+00:00",
-    "last_seen": "2026-09-01T18:24:46.461659+00:00",
+    "last_seen": "2026-09-01T21:47:43.069104+00:00",
     "location": "Remote, US",
     "notified": true,
     "score": 81,
@@ -14654,7 +14720,7 @@
   "https://job-boards.greenhouse.io/gitlab/jobs/8597805002": {
     "company_normalized": "gitlab",
     "first_seen": "2026-08-20T18:56:52.332103+00:00",
-    "last_seen": "2026-09-01T18:24:46.462457+00:00",
+    "last_seen": "2026-09-01T21:47:43.070244+00:00",
     "location": "Remote, Canada; Remote, US",
     "notified": false,
     "score": 68,
@@ -14665,7 +14731,7 @@
   "https://job-boards.greenhouse.io/gitlab/jobs/8597813002": {
     "company_normalized": "gitlab",
     "first_seen": "2026-08-29T21:42:52.337980+00:00",
-    "last_seen": "2026-09-01T18:24:46.461878+00:00",
+    "last_seen": "2026-09-01T21:47:43.069443+00:00",
     "location": "Remote, Canada; Remote, US",
     "notified": false,
     "score": 66,
@@ -14676,7 +14742,7 @@
   "https://job-boards.greenhouse.io/gitlab/jobs/8597826002": {
     "company_normalized": "gitlab",
     "first_seen": "2026-08-16T19:01:13.149548+00:00",
-    "last_seen": "2026-09-01T18:24:46.462386+00:00",
+    "last_seen": "2026-09-01T21:47:43.070147+00:00",
     "location": "Remote, Canada; Remote, US",
     "notified": true,
     "score": 86,
@@ -14698,7 +14764,7 @@
   "https://job-boards.greenhouse.io/gitlab/jobs/8607104002": {
     "company_normalized": "gitlab",
     "first_seen": "2026-08-29T21:42:52.337477+00:00",
-    "last_seen": "2026-09-01T18:24:46.461560+00:00",
+    "last_seen": "2026-09-01T21:47:43.068985+00:00",
     "location": "Remote, Israel; Remote, United Kingdom",
     "notified": false,
     "score": 67,
@@ -14709,7 +14775,7 @@
   "https://job-boards.greenhouse.io/gitlab/jobs/8611700002": {
     "company_normalized": "gitlab",
     "first_seen": "2026-08-29T21:42:52.339063+00:00",
-    "last_seen": "2026-09-01T18:24:46.462708+00:00",
+    "last_seen": "2026-09-01T21:47:43.070620+00:00",
     "location": "Remote, KSA; Remote, UAE",
     "notified": false,
     "score": 66,
@@ -14720,7 +14786,7 @@
   "https://job-boards.greenhouse.io/gitlab/jobs/8611767002": {
     "company_normalized": "gitlab",
     "first_seen": "2026-08-29T21:42:52.339029+00:00",
-    "last_seen": "2026-09-01T18:24:46.462682+00:00",
+    "last_seen": "2026-09-01T21:47:43.070581+00:00",
     "location": "Remote, United Kingdom",
     "notified": false,
     "score": 67,
@@ -14742,7 +14808,7 @@
   "https://job-boards.greenhouse.io/gitlab/jobs/8613199002": {
     "company_normalized": "gitlab",
     "first_seen": "2026-08-16T19:01:13.149227+00:00",
-    "last_seen": "2026-09-01T18:24:46.461835+00:00",
+    "last_seen": "2026-09-01T21:47:43.069384+00:00",
     "location": "Remote, Austria; Remote, Germany",
     "notified": true,
     "score": 82,
@@ -14753,7 +14819,7 @@
   "https://job-boards.greenhouse.io/gitlab/jobs/8614945002": {
     "company_normalized": "gitlab",
     "first_seen": "2026-08-26T23:21:38.281471+00:00",
-    "last_seen": "2026-09-01T18:24:46.462542+00:00",
+    "last_seen": "2026-09-01T21:47:43.070417+00:00",
     "location": "Remote, Canada; Remote, United States",
     "notified": true,
     "score": 75,
@@ -14764,7 +14830,7 @@
   "https://job-boards.greenhouse.io/gitlab/jobs/8615268002": {
     "company_normalized": "gitlab",
     "first_seen": "2026-08-16T19:01:13.149765+00:00",
-    "last_seen": "2026-09-01T18:24:46.462859+00:00",
+    "last_seen": "2026-09-01T21:47:43.070828+00:00",
     "location": "Bangalore, India",
     "notified": true,
     "score": 78,
@@ -14775,7 +14841,7 @@
   "https://job-boards.greenhouse.io/gitlab/jobs/8615312002": {
     "company_normalized": "gitlab",
     "first_seen": "2026-09-01T09:59:24.889254+00:00",
-    "last_seen": "2026-09-01T18:24:46.462128+00:00",
+    "last_seen": "2026-09-01T21:47:43.069782+00:00",
     "location": "Bangalore, India",
     "notified": false,
     "score": 68,
@@ -14830,7 +14896,7 @@
   "https://job-boards.greenhouse.io/gitlab/jobs/8616308002": {
     "company_normalized": "gitlab",
     "first_seen": "2026-08-16T19:01:13.149587+00:00",
-    "last_seen": "2026-09-01T18:24:46.462499+00:00",
+    "last_seen": "2026-09-01T21:47:43.070353+00:00",
     "location": "Remote, Canada; Remote, US",
     "notified": false,
     "score": 72,
@@ -14841,7 +14907,7 @@
   "https://job-boards.greenhouse.io/gitlab/jobs/8618771002": {
     "company_normalized": "gitlab",
     "first_seen": "2026-08-29T21:42:52.337525+00:00",
-    "last_seen": "2026-09-01T18:24:46.461590+00:00",
+    "last_seen": "2026-09-01T21:47:43.069023+00:00",
     "location": "Remote",
     "notified": false,
     "score": 67,
@@ -14852,7 +14918,7 @@
   "https://job-boards.greenhouse.io/gitlab/jobs/8620720002": {
     "company_normalized": "gitlab",
     "first_seen": "2026-08-16T19:01:13.148916+00:00",
-    "last_seen": "2026-09-01T18:24:46.461544+00:00",
+    "last_seen": "2026-09-01T21:47:43.068964+00:00",
     "location": "Remote, Canada",
     "notified": true,
     "score": 87,
@@ -14874,7 +14940,7 @@
   "https://job-boards.greenhouse.io/gitlab/jobs/8621620002": {
     "company_normalized": "gitlab",
     "first_seen": "2026-08-16T19:01:13.149454+00:00",
-    "last_seen": "2026-09-01T18:24:46.462201+00:00",
+    "last_seen": "2026-09-01T21:47:43.069884+00:00",
     "location": "Remote, United Kingdom",
     "notified": true,
     "score": 80,
@@ -14885,7 +14951,7 @@
   "https://job-boards.greenhouse.io/gitlab/jobs/8621733002": {
     "company_normalized": "gitlab",
     "first_seen": "2026-08-16T19:01:13.149337+00:00",
-    "last_seen": "2026-09-01T18:24:46.462026+00:00",
+    "last_seen": "2026-09-01T21:47:43.069641+00:00",
     "location": "Remote, Canada; Remote, United Kingdom",
     "notified": true,
     "score": 91,
@@ -14896,7 +14962,7 @@
   "https://job-boards.greenhouse.io/gitlab/jobs/8623389002": {
     "company_normalized": "gitlab",
     "first_seen": "2026-08-16T19:01:13.149741+00:00",
-    "last_seen": "2026-09-01T18:24:46.462663+00:00",
+    "last_seen": "2026-09-01T21:47:43.070556+00:00",
     "location": "Remote, Canada; Remote, United Kingdom; Remote, US",
     "notified": true,
     "score": 92,
@@ -14907,7 +14973,7 @@
   "https://job-boards.greenhouse.io/gitlab/jobs/8623542002": {
     "company_normalized": "gitlab",
     "first_seen": "2026-08-16T19:01:13.149568+00:00",
-    "last_seen": "2026-09-01T18:24:46.462484+00:00",
+    "last_seen": "2026-09-01T21:47:43.070327+00:00",
     "location": "Remote, Japan",
     "notified": true,
     "score": 88,
@@ -14918,7 +14984,7 @@
   "https://job-boards.greenhouse.io/gitlab/jobs/8623751002": {
     "company_normalized": "gitlab",
     "first_seen": "2026-08-16T19:01:13.149166+00:00",
-    "last_seen": "2026-09-01T18:24:46.461775+00:00",
+    "last_seen": "2026-09-01T21:47:43.069288+00:00",
     "location": "Bangalore, India",
     "notified": false,
     "score": 73,
@@ -14929,7 +14995,7 @@
   "https://job-boards.greenhouse.io/gitlab/jobs/8623763002": {
     "company_normalized": "gitlab",
     "first_seen": "2026-08-16T19:01:13.149846+00:00",
-    "last_seen": "2026-09-01T09:59:24.890133+00:00",
+    "last_seen": "2026-09-01T21:47:43.070733+00:00",
     "location": "Bangalore, India",
     "notified": true,
     "score": 78,
@@ -14940,7 +15006,7 @@
   "https://job-boards.greenhouse.io/gitlab/jobs/8626290002": {
     "company_normalized": "gitlab",
     "first_seen": "2026-08-16T19:01:13.149491+00:00",
-    "last_seen": "2026-09-01T18:24:46.462315+00:00",
+    "last_seen": "2026-09-01T21:47:43.070045+00:00",
     "location": "Remote, Canada; Remote, United Kingdom; Remote, US",
     "notified": true,
     "score": 73,
@@ -14973,7 +15039,7 @@
   "https://job-boards.greenhouse.io/gitlab/jobs/8627768002": {
     "company_normalized": "gitlab",
     "first_seen": "2026-08-17T07:14:29.148781+00:00",
-    "last_seen": "2026-09-01T18:24:46.462612+00:00",
+    "last_seen": "2026-09-01T21:47:43.070517+00:00",
     "location": "Remote, Singapore",
     "notified": false,
     "score": 67,
@@ -14984,7 +15050,7 @@
   "https://job-boards.greenhouse.io/gitlab/jobs/8628447002": {
     "company_normalized": "gitlab",
     "first_seen": "2026-08-16T19:01:13.149605+00:00",
-    "last_seen": "2026-09-01T18:24:46.462513+00:00",
+    "last_seen": "2026-09-01T21:47:43.070375+00:00",
     "location": "Remote, Israel; Remote, Poland; Remote, United Kingdom",
     "notified": true,
     "score": 73,
@@ -14995,7 +15061,7 @@
   "https://job-boards.greenhouse.io/gitlab/jobs/8628780002": {
     "company_normalized": "gitlab",
     "first_seen": "2026-08-29T21:42:52.339284+00:00",
-    "last_seen": "2026-09-01T18:24:46.462901+00:00",
+    "last_seen": "2026-09-01T21:47:43.070884+00:00",
     "location": "Remote, US",
     "notified": false,
     "score": 66,
@@ -15017,7 +15083,7 @@
   "https://job-boards.greenhouse.io/gitlab/jobs/8632005002": {
     "company_normalized": "gitlab",
     "first_seen": "2026-08-29T01:45:20.396412+00:00",
-    "last_seen": "2026-09-01T18:24:46.462345+00:00",
+    "last_seen": "2026-09-01T21:47:43.070087+00:00",
     "location": "Remote, Canada; Remote, US",
     "notified": false,
     "score": 67,
@@ -15039,7 +15105,7 @@
   "https://job-boards.greenhouse.io/gitlab/jobs/8632446002": {
     "company_normalized": "gitlab",
     "first_seen": "2026-08-24T23:35:35.969272+00:00",
-    "last_seen": "2026-09-01T18:24:46.462846+00:00",
+    "last_seen": "2026-09-01T21:47:43.070810+00:00",
     "location": "Bangalore, India",
     "notified": false,
     "score": 67,
@@ -15072,7 +15138,7 @@
   "https://job-boards.greenhouse.io/gitlab/jobs/8636539002": {
     "company_normalized": "gitlab",
     "first_seen": "2026-08-16T19:01:13.149511+00:00",
-    "last_seen": "2026-09-01T18:24:46.462329+00:00",
+    "last_seen": "2026-09-01T21:47:43.070065+00:00",
     "location": "Remote, United Kingdom",
     "notified": true,
     "score": 78,
@@ -15083,7 +15149,7 @@
   "https://job-boards.greenhouse.io/gitlab/jobs/8636648002": {
     "company_normalized": "gitlab",
     "first_seen": "2026-08-29T21:42:52.337631+00:00",
-    "last_seen": "2026-09-01T18:24:46.461674+00:00",
+    "last_seen": "2026-09-01T21:47:43.069124+00:00",
     "location": "Remote, United Kingdom",
     "notified": false,
     "score": 67,
@@ -15094,7 +15160,7 @@
   "https://job-boards.greenhouse.io/gitlab/jobs/8637549002": {
     "company_normalized": "gitlab",
     "first_seen": "2026-08-16T19:01:13.149645+00:00",
-    "last_seen": "2026-09-01T18:24:46.462585+00:00",
+    "last_seen": "2026-09-01T21:47:43.070479+00:00",
     "location": "Bangalore, India; Remote, Canada; Remote, Israel; Remote, United Kingdom; Remote, United States",
     "notified": true,
     "score": 80,
@@ -15105,7 +15171,7 @@
   "https://job-boards.greenhouse.io/gitlab/jobs/8638295002": {
     "company_normalized": "gitlab",
     "first_seen": "2026-08-16T19:01:13.149809+00:00",
-    "last_seen": "2026-09-01T18:24:46.462763+00:00",
+    "last_seen": "2026-09-01T21:47:43.070697+00:00",
     "location": "Remote, Canada; Remote, United States",
     "notified": true,
     "score": 89,
@@ -15116,7 +15182,7 @@
   "https://job-boards.greenhouse.io/gitlab/jobs/8639170002": {
     "company_normalized": "gitlab",
     "first_seen": "2026-08-29T21:42:52.337945+00:00",
-    "last_seen": "2026-09-01T18:24:46.461850+00:00",
+    "last_seen": "2026-09-01T21:47:43.069403+00:00",
     "location": "Remote, United States",
     "notified": false,
     "score": 66,
@@ -15127,10 +15193,10 @@
   "https://job-boards.greenhouse.io/gitlab/jobs/8640317002": {
     "company_normalized": "gitlab",
     "first_seen": "2026-08-16T19:01:13.148954+00:00",
-    "last_seen": "2026-09-01T18:24:46.461605+00:00",
+    "last_seen": "2026-09-01T21:47:43.069044+00:00",
     "location": "Remote Ireland; Remote, United Kingdom",
     "notified": true,
-    "score": 75,
+    "score": 73,
     "source": "greenhouse",
     "title_normalized": "ecosystem sales manager scale",
     "url": "https://job-boards.greenhouse.io/gitlab/jobs/8640317002"
@@ -15138,7 +15204,7 @@
   "https://job-boards.greenhouse.io/gitlab/jobs/8642850002": {
     "company_normalized": "gitlab",
     "first_seen": "2026-08-17T23:36:07.781664+00:00",
-    "last_seen": "2026-09-01T18:24:46.462371+00:00",
+    "last_seen": "2026-09-01T21:47:43.070126+00:00",
     "location": "Bangalore, India",
     "notified": false,
     "score": 68,
@@ -15149,7 +15215,7 @@
   "https://job-boards.greenhouse.io/gitlab/jobs/8643077002": {
     "company_normalized": "gitlab",
     "first_seen": "2026-08-16T19:01:13.149531+00:00",
-    "last_seen": "2026-09-01T18:24:46.462358+00:00",
+    "last_seen": "2026-09-01T21:47:43.070107+00:00",
     "location": "Remote, Canada; Remote, United States",
     "notified": false,
     "score": 70,
@@ -15171,7 +15237,7 @@
   "https://job-boards.greenhouse.io/gitlab/jobs/8644569002": {
     "company_normalized": "gitlab",
     "first_seen": "2026-08-16T19:01:13.149147+00:00",
-    "last_seen": "2026-09-01T18:24:46.461760+00:00",
+    "last_seen": "2026-09-01T21:47:43.069250+00:00",
     "location": "Remote, Canada; Remote, United States",
     "notified": true,
     "score": 76,
@@ -15182,7 +15248,7 @@
   "https://job-boards.greenhouse.io/gitlab/jobs/8644572002": {
     "company_normalized": "gitlab",
     "first_seen": "2026-08-16T19:01:13.149436+00:00",
-    "last_seen": "2026-09-01T18:24:46.462143+00:00",
+    "last_seen": "2026-09-01T21:47:43.069803+00:00",
     "location": "Remote, Canada; Remote, United States",
     "notified": true,
     "score": 90,
@@ -15193,7 +15259,7 @@
   "https://job-boards.greenhouse.io/gitlab/jobs/8645825002": {
     "company_normalized": "gitlab",
     "first_seen": "2026-08-29T21:42:52.338142+00:00",
-    "last_seen": "2026-09-01T18:24:46.461997+00:00",
+    "last_seen": "2026-09-01T21:47:43.069601+00:00",
     "location": "Remote, Poland; Remote, United Kingdom",
     "notified": false,
     "score": 67,
@@ -15204,7 +15270,7 @@
   "https://job-boards.greenhouse.io/gitlab/jobs/8646556002": {
     "company_normalized": "gitlab",
     "first_seen": "2026-08-16T19:01:13.149375+00:00",
-    "last_seen": "2026-09-01T18:24:46.462067+00:00",
+    "last_seen": "2026-09-01T21:47:43.069702+00:00",
     "location": "Remote, Canada; Remote, United States",
     "notified": true,
     "score": 74,
@@ -15237,7 +15303,7 @@
   "https://job-boards.greenhouse.io/gitlab/jobs/8648304002": {
     "company_normalized": "gitlab",
     "first_seen": "2026-08-29T21:42:52.338519+00:00",
-    "last_seen": "2026-09-01T18:24:46.462287+00:00",
+    "last_seen": "2026-09-01T21:47:43.070005+00:00",
     "location": "Remote, Singapore",
     "notified": false,
     "score": 68,
@@ -15248,7 +15314,7 @@
   "https://job-boards.greenhouse.io/gitlab/jobs/8649994002": {
     "company_normalized": "gitlab",
     "first_seen": "2026-08-27T19:53:12.716786+00:00",
-    "last_seen": "2026-09-01T18:24:46.461938+00:00",
+    "last_seen": "2026-09-01T21:47:43.069523+00:00",
     "location": "Remote, United States",
     "notified": false,
     "score": 65,
@@ -15259,7 +15325,7 @@
   "https://job-boards.greenhouse.io/gitlab/jobs/8652942002": {
     "company_normalized": "gitlab",
     "first_seen": "2026-08-20T23:38:34.853400+00:00",
-    "last_seen": "2026-09-01T18:24:46.461922+00:00",
+    "last_seen": "2026-09-01T21:47:43.069503+00:00",
     "location": "Remote, United States",
     "notified": false,
     "score": 65,
@@ -15270,7 +15336,7 @@
   "https://job-boards.greenhouse.io/gitlab/jobs/8654230002": {
     "company_normalized": "gitlab",
     "first_seen": "2026-08-16T19:01:13.149899+00:00",
-    "last_seen": "2026-09-01T18:24:46.462888+00:00",
+    "last_seen": "2026-09-01T21:47:43.070866+00:00",
     "location": "Remote, Canada; Remote, United States",
     "notified": false,
     "score": 71,
@@ -15281,7 +15347,7 @@
   "https://job-boards.greenhouse.io/gitlab/jobs/8656506002": {
     "company_normalized": "gitlab",
     "first_seen": "2026-08-29T21:42:52.339046+00:00",
-    "last_seen": "2026-09-01T18:24:46.462695+00:00",
+    "last_seen": "2026-09-01T21:47:43.070600+00:00",
     "location": "Remote, France",
     "notified": false,
     "score": 66,
@@ -15292,7 +15358,7 @@
   "https://job-boards.greenhouse.io/gitlab/jobs/8658878002": {
     "company_normalized": "gitlab",
     "first_seen": "2026-08-29T21:42:52.337962+00:00",
-    "last_seen": "2026-09-01T18:24:46.461864+00:00",
+    "last_seen": "2026-09-01T21:47:43.069422+00:00",
     "location": "Remote, Canada; Remote, United States",
     "notified": false,
     "score": 67,
@@ -15303,7 +15369,7 @@
   "https://job-boards.greenhouse.io/gitlab/jobs/8660935002": {
     "company_normalized": "gitlab",
     "first_seen": "2026-08-29T21:42:52.338017+00:00",
-    "last_seen": "2026-09-01T18:24:46.461908+00:00",
+    "last_seen": "2026-09-01T21:47:43.069484+00:00",
     "location": "Remote, Canada",
     "notified": false,
     "score": 65,
@@ -15314,7 +15380,7 @@
   "https://job-boards.greenhouse.io/gitlab/jobs/8682707002": {
     "company_normalized": "gitlab",
     "first_seen": "2026-08-17T11:38:32.360319+00:00",
-    "last_seen": "2026-09-01T18:24:46.462230+00:00",
+    "last_seen": "2026-09-01T21:47:43.069924+00:00",
     "location": "Remote, Canada; Remote, United States",
     "notified": true,
     "score": 86,
@@ -15325,7 +15391,7 @@
   "https://job-boards.greenhouse.io/gitlab/jobs/8682860002": {
     "company_normalized": "gitlab",
     "first_seen": "2026-08-17T11:38:32.865615+00:00",
-    "last_seen": "2026-09-01T18:24:46.462244+00:00",
+    "last_seen": "2026-09-01T21:47:43.069945+00:00",
     "location": "Remote, United Kingdom",
     "notified": true,
     "score": 78,
@@ -15336,7 +15402,7 @@
   "https://job-boards.greenhouse.io/gitlab/jobs/8684078002": {
     "company_normalized": "gitlab",
     "first_seen": "2026-08-16T19:01:13.149189+00:00",
-    "last_seen": "2026-09-01T18:24:46.461807+00:00",
+    "last_seen": "2026-09-01T21:47:43.069339+00:00",
     "location": "Remote, United Kingdom",
     "notified": false,
     "score": 71,
@@ -15347,7 +15413,7 @@
   "https://job-boards.greenhouse.io/gitlab/jobs/8684201002": {
     "company_normalized": "gitlab",
     "first_seen": "2026-08-16T19:01:13.148937+00:00",
-    "last_seen": "2026-09-01T18:24:46.461575+00:00",
+    "last_seen": "2026-09-01T21:47:43.069004+00:00",
     "location": "Remote, United States",
     "notified": true,
     "score": 74,
@@ -15358,7 +15424,7 @@
   "https://job-boards.greenhouse.io/gitlab/jobs/8684348002": {
     "company_normalized": "gitlab",
     "first_seen": "2026-08-21T19:37:42.949890+00:00",
-    "last_seen": "2026-09-01T18:24:46.462427+00:00",
+    "last_seen": "2026-09-01T21:47:43.070205+00:00",
     "location": "Remote, Canada; Remote, United States",
     "notified": false,
     "score": 65,
@@ -15369,7 +15435,7 @@
   "https://job-boards.greenhouse.io/gitlab/jobs/8686820002": {
     "company_normalized": "gitlab",
     "first_seen": "2026-08-16T19:01:13.149473+00:00",
-    "last_seen": "2026-09-01T18:24:46.462302+00:00",
+    "last_seen": "2026-09-01T21:47:43.070025+00:00",
     "location": "Remote, United States",
     "notified": true,
     "score": 78,
@@ -15402,7 +15468,7 @@
   "https://job-boards.greenhouse.io/gitlab/jobs/8688078002": {
     "company_normalized": "gitlab",
     "first_seen": "2026-08-20T23:38:34.848347+00:00",
-    "last_seen": "2026-09-01T18:24:46.461790+00:00",
+    "last_seen": "2026-09-01T21:47:43.069317+00:00",
     "location": "Remote, Canada; Remote, Israel; Remote, United Kingdom",
     "notified": true,
     "score": 79,
@@ -15413,7 +15479,7 @@
   "https://job-boards.greenhouse.io/gitlab/jobs/8691859002": {
     "company_normalized": "gitlab",
     "first_seen": "2026-08-16T19:01:13.149209+00:00",
-    "last_seen": "2026-09-01T18:24:46.461822+00:00",
+    "last_seen": "2026-09-01T21:47:43.069365+00:00",
     "location": "Remote, United States",
     "notified": true,
     "score": 84,
@@ -15424,7 +15490,7 @@
   "https://job-boards.greenhouse.io/gitlab/jobs/8693103002": {
     "company_normalized": "gitlab",
     "first_seen": "2026-08-16T19:01:13.149625+00:00",
-    "last_seen": "2026-09-01T18:24:46.462571+00:00",
+    "last_seen": "2026-09-01T21:47:43.070438+00:00",
     "location": "Remote, United Kingdom",
     "notified": false,
     "score": 73,
@@ -15435,7 +15501,7 @@
   "https://job-boards.greenhouse.io/gitlab/jobs/8695515002": {
     "company_normalized": "gitlab",
     "first_seen": "2026-08-29T21:42:52.337423+00:00",
-    "last_seen": "2026-09-01T18:24:46.461529+00:00",
+    "last_seen": "2026-09-01T21:47:43.068945+00:00",
     "location": "Bangalore, India",
     "notified": false,
     "score": 68,
@@ -15446,7 +15512,7 @@
   "https://job-boards.greenhouse.io/gitlab/jobs/8695815002": {
     "company_normalized": "gitlab",
     "first_seen": "2026-08-20T07:03:03.664291+00:00",
-    "last_seen": "2026-09-01T18:24:46.462215+00:00",
+    "last_seen": "2026-09-01T21:47:43.069904+00:00",
     "location": "Bangalore, India",
     "notified": true,
     "score": 84,
@@ -15457,7 +15523,7 @@
   "https://job-boards.greenhouse.io/gitlab/jobs/8697043002": {
     "company_normalized": "gitlab",
     "first_seen": "2026-08-17T21:36:58.724324+00:00",
-    "last_seen": "2026-09-01T18:24:46.462442+00:00",
+    "last_seen": "2026-09-01T21:47:43.070224+00:00",
     "location": "Remote, United States",
     "notified": false,
     "score": 70,
@@ -15468,7 +15534,7 @@
   "https://job-boards.greenhouse.io/gitlab/jobs/8697215002": {
     "company_normalized": "gitlab",
     "first_seen": "2026-08-25T22:40:09.678333+00:00",
-    "last_seen": "2026-09-01T18:24:46.461893+00:00",
+    "last_seen": "2026-09-01T21:47:43.069464+00:00",
     "location": "Remote, Canada; Remote, United States",
     "notified": false,
     "score": 68,
@@ -15479,7 +15545,7 @@
   "https://job-boards.greenhouse.io/gitlab/jobs/8698314002": {
     "company_normalized": "gitlab",
     "first_seen": "2026-08-20T22:40:39.285838+00:00",
-    "last_seen": "2026-09-01T18:24:46.461514+00:00",
+    "last_seen": "2026-09-01T21:47:43.068926+00:00",
     "location": "Remote, Canada; Remote, United States",
     "notified": true,
     "score": 91,
@@ -15490,7 +15556,7 @@
   "https://job-boards.greenhouse.io/gitlab/jobs/8698330002": {
     "company_normalized": "gitlab",
     "first_seen": "2026-08-21T01:51:14.877232+00:00",
-    "last_seen": "2026-09-01T18:24:46.461745+00:00",
+    "last_seen": "2026-09-01T21:47:43.069226+00:00",
     "location": "Remote, Canada; Remote, United States",
     "notified": false,
     "score": 71,
@@ -15501,7 +15567,7 @@
   "https://job-boards.greenhouse.io/gitlab/jobs/8701290002": {
     "company_normalized": "gitlab",
     "first_seen": "2026-08-20T18:56:52.331688+00:00",
-    "last_seen": "2026-09-01T18:24:46.462011+00:00",
+    "last_seen": "2026-09-01T21:47:43.069621+00:00",
     "location": "Remote, United Kingdom",
     "notified": false,
     "score": 67,
@@ -15512,7 +15578,7 @@
   "https://job-boards.greenhouse.io/gitlab/jobs/8704363002": {
     "company_normalized": "gitlab",
     "first_seen": "2026-08-19T14:01:31.491729+00:00",
-    "last_seen": "2026-09-01T18:24:46.462171+00:00",
+    "last_seen": "2026-09-01T21:47:43.069842+00:00",
     "location": "Remote, Canada",
     "notified": true,
     "score": 92,
@@ -15523,7 +15589,7 @@
   "https://job-boards.greenhouse.io/gitlab/jobs/8705011002": {
     "company_normalized": "gitlab",
     "first_seen": "2026-08-17T23:36:07.781334+00:00",
-    "last_seen": "2026-09-01T18:24:46.461954+00:00",
+    "last_seen": "2026-09-01T21:47:43.069544+00:00",
     "location": "Bangalore, India",
     "notified": false,
     "score": 65,
@@ -15534,7 +15600,7 @@
   "https://job-boards.greenhouse.io/gitlab/jobs/8705017002": {
     "company_normalized": "gitlab",
     "first_seen": "2026-08-17T22:35:38.433990+00:00",
-    "last_seen": "2026-09-01T18:24:46.462874+00:00",
+    "last_seen": "2026-09-01T21:47:43.070848+00:00",
     "location": "Remote, United States",
     "notified": true,
     "score": 88,
@@ -15545,7 +15611,7 @@
   "https://job-boards.greenhouse.io/gitlab/jobs/8707353002": {
     "company_normalized": "gitlab",
     "first_seen": "2026-08-21T18:54:10.195350+00:00",
-    "last_seen": "2026-09-01T18:24:46.462915+00:00",
+    "last_seen": "2026-09-01T21:47:43.070904+00:00",
     "location": "Remote, United States",
     "notified": false,
     "score": 66,
@@ -15556,7 +15622,7 @@
   "https://job-boards.greenhouse.io/gitlab/jobs/8709925002": {
     "company_normalized": "gitlab",
     "first_seen": "2026-08-20T17:43:19.784632+00:00",
-    "last_seen": "2026-09-01T18:24:46.461982+00:00",
+    "last_seen": "2026-09-01T21:47:43.069582+00:00",
     "location": "Remote, Canada; Remote, United States",
     "notified": false,
     "score": 67,
@@ -15567,7 +15633,7 @@
   "https://job-boards.greenhouse.io/gitlab/jobs/8710061002": {
     "company_normalized": "gitlab",
     "first_seen": "2026-08-19T20:43:00.050747+00:00",
-    "last_seen": "2026-09-01T18:24:46.462400+00:00",
+    "last_seen": "2026-09-01T21:47:43.070166+00:00",
     "location": "Remote, United States",
     "notified": true,
     "score": 94,
@@ -15578,7 +15644,7 @@
   "https://job-boards.greenhouse.io/gitlab/jobs/8715968002": {
     "company_normalized": "gitlab",
     "first_seen": "2026-08-16T19:01:13.149318+00:00",
-    "last_seen": "2026-09-01T18:24:46.462040+00:00",
+    "last_seen": "2026-09-01T21:47:43.069662+00:00",
     "location": "Remote, Canada; Remote, United States",
     "notified": true,
     "score": 84,
@@ -15589,7 +15655,7 @@
   "https://job-boards.greenhouse.io/gitlab/jobs/8716138002": {
     "company_normalized": "gitlab",
     "first_seen": "2026-08-16T19:01:13.149298+00:00",
-    "last_seen": "2026-09-01T18:24:46.462273+00:00",
+    "last_seen": "2026-09-01T21:47:43.069986+00:00",
     "location": "Remote, United Kingdom",
     "notified": true,
     "score": 84,
@@ -15600,7 +15666,7 @@
   "https://job-boards.greenhouse.io/gitlab/jobs/8716143002": {
     "company_normalized": "gitlab",
     "first_seen": "2026-08-16T19:01:13.149281+00:00",
-    "last_seen": "2026-09-01T18:24:46.462114+00:00",
+    "last_seen": "2026-09-01T21:47:43.069763+00:00",
     "location": "Bangalore, India",
     "notified": true,
     "score": 76,
@@ -15611,7 +15677,7 @@
   "https://job-boards.greenhouse.io/gitlab/jobs/8716179002": {
     "company_normalized": "gitlab",
     "first_seen": "2026-08-19T21:39:06.253548+00:00",
-    "last_seen": "2026-09-01T18:24:46.461498+00:00",
+    "last_seen": "2026-09-01T21:47:43.068905+00:00",
     "location": "Remote, Canada; Remote, United Kingdom; Remote, United States",
     "notified": true,
     "score": 91,
@@ -15633,7 +15699,7 @@
   "https://job-boards.greenhouse.io/gitlab/jobs/8721124002": {
     "company_normalized": "gitlab",
     "first_seen": "2026-08-24T23:35:35.969094+00:00",
-    "last_seen": "2026-09-01T18:24:46.462529+00:00",
+    "last_seen": "2026-09-01T21:47:43.070397+00:00",
     "location": "Bangalore, India",
     "notified": false,
     "score": 67,
@@ -15655,7 +15721,7 @@
   "https://job-boards.greenhouse.io/gitlab/jobs/8729451002": {
     "company_normalized": "gitlab",
     "first_seen": "2026-08-20T16:49:13.848343+00:00",
-    "last_seen": "2026-09-01T18:24:46.462083+00:00",
+    "last_seen": "2026-09-01T21:47:43.069743+00:00",
     "location": "Remote, United Kingdom",
     "notified": true,
     "score": 76,
@@ -15666,7 +15732,7 @@
   "https://job-boards.greenhouse.io/gitlab/jobs/8734888002": {
     "company_normalized": "gitlab",
     "first_seen": "2026-08-24T20:45:58.175522+00:00",
-    "last_seen": "2026-09-01T18:24:46.462750+00:00",
+    "last_seen": "2026-09-01T21:47:43.070678+00:00",
     "location": "Remote, Canada; Remote, United States",
     "notified": false,
     "score": 67,
@@ -15677,7 +15743,7 @@
   "https://job-boards.greenhouse.io/gitlab/jobs/8739391002": {
     "company_normalized": "gitlab",
     "first_seen": "2026-09-01T04:50:29.639122+00:00",
-    "last_seen": "2026-09-01T18:24:46.462804+00:00",
+    "last_seen": "2026-09-01T21:47:43.070753+00:00",
     "location": "Remote, Canada; Remote, United States",
     "notified": false,
     "score": 67,
@@ -15710,7 +15776,7 @@
   "https://job-boards.greenhouse.io/gitlab/jobs/8745623002": {
     "company_normalized": "gitlab",
     "first_seen": "2026-08-26T07:06:21.852562+00:00",
-    "last_seen": "2026-09-01T18:24:46.462471+00:00",
+    "last_seen": "2026-09-01T21:47:43.070262+00:00",
     "location": "Remote, Italy; Remote, Netherlands; Remote, Spain",
     "notified": true,
     "score": 88,
@@ -15721,7 +15787,7 @@
   "https://job-boards.greenhouse.io/gitlab/jobs/8749946002": {
     "company_normalized": "gitlab",
     "first_seen": "2026-08-26T11:44:39.136491+00:00",
-    "last_seen": "2026-09-01T18:24:46.462157+00:00",
+    "last_seen": "2026-09-01T21:47:43.069822+00:00",
     "location": "Remote, Poland",
     "notified": true,
     "score": 83,
@@ -15732,7 +15798,7 @@
   "https://job-boards.greenhouse.io/gitlab/jobs/8749950002": {
     "company_normalized": "gitlab",
     "first_seen": "2026-08-26T11:44:39.653595+00:00",
-    "last_seen": "2026-09-01T18:24:46.462259+00:00",
+    "last_seen": "2026-09-01T21:47:43.069965+00:00",
     "location": "Remote, Poland",
     "notified": true,
     "score": 78,
@@ -15743,7 +15809,7 @@
   "https://job-boards.greenhouse.io/gitlab/jobs/8749951002": {
     "company_normalized": "gitlab",
     "first_seen": "2026-08-26T11:44:39.653528+00:00",
-    "last_seen": "2026-09-01T18:24:46.462099+00:00",
+    "last_seen": "2026-09-01T21:47:43.069723+00:00",
     "location": "Remote, Poland",
     "notified": true,
     "score": 76,
@@ -15754,7 +15820,7 @@
   "https://job-boards.greenhouse.io/gitlab/jobs/8749952002": {
     "company_normalized": "gitlab",
     "first_seen": "2026-08-26T11:44:39.658965+00:00",
-    "last_seen": "2026-09-01T18:24:46.462557+00:00",
+    "last_seen": "2026-09-01T21:47:43.070460+00:00",
     "location": "Remote, Poland",
     "notified": false,
     "score": 73,
@@ -15765,7 +15831,7 @@
   "https://job-boards.greenhouse.io/gitlab/jobs/8759577002": {
     "company_normalized": "gitlab",
     "first_seen": "2026-08-31T13:30:12.478122+00:00",
-    "last_seen": "2026-09-01T18:24:46.462186+00:00",
+    "last_seen": "2026-09-01T21:47:43.069863+00:00",
     "location": "Remote, United Kingdom",
     "notified": true,
     "score": 87,
@@ -15776,7 +15842,7 @@
   "https://job-boards.greenhouse.io/gitlab/jobs/8759592002": {
     "company_normalized": "gitlab",
     "first_seen": "2026-09-01T09:59:23.426452+00:00",
-    "last_seen": "2026-09-01T18:24:46.461620+00:00",
+    "last_seen": "2026-09-01T21:47:43.069063+00:00",
     "location": "Remote, United States",
     "notified": true,
     "score": 85,
@@ -15787,7 +15853,7 @@
   "https://job-boards.greenhouse.io/gitlab/jobs/8761409002": {
     "company_normalized": "gitlab",
     "first_seen": "2026-08-31T20:01:13.300646+00:00",
-    "last_seen": "2026-09-01T18:24:46.462833+00:00",
+    "last_seen": "2026-09-01T21:47:43.070792+00:00",
     "location": "Remote, Canada; Remote, United States",
     "notified": true,
     "score": 89,
@@ -15798,7 +15864,7 @@
   "https://job-boards.greenhouse.io/reddit/jobs/6909093": {
     "company_normalized": "reddit",
     "first_seen": "2026-08-24T22:40:39.056245+00:00",
-    "last_seen": "2026-09-01T18:24:46.460575+00:00",
+    "last_seen": "2026-09-01T21:47:43.067685+00:00",
     "location": "Remote - Ontario, Canada",
     "notified": true,
     "score": 76,
@@ -15842,18 +15908,18 @@
   "https://job-boards.greenhouse.io/reddit/jobs/7909463": {
     "company_normalized": "reddit",
     "first_seen": "2026-08-19T01:48:28.312002+00:00",
-    "last_seen": "2026-08-19T07:51:23.115005+00:00",
-    "location": "Dublin, Ireland",
+    "last_seen": "2026-09-01T21:47:43.067847+00:00",
+    "location": "San Francisco, CA",
     "notified": true,
-    "score": 82,
+    "score": 79,
     "source": "greenhouse",
-    "title_normalized": "staff site reliability engineer site experience",
+    "title_normalized": "staff site reliability engineer ads",
     "url": "https://job-boards.greenhouse.io/reddit/jobs/7909463"
   },
   "https://job-boards.greenhouse.io/reddit/jobs/7954001": {
     "company_normalized": "reddit",
     "first_seen": "2026-08-16T19:01:13.146857+00:00",
-    "last_seen": "2026-09-01T18:24:46.460741+00:00",
+    "last_seen": "2026-09-01T21:47:43.067866+00:00",
     "location": "Remote - United States",
     "notified": false,
     "score": 69,
@@ -15864,7 +15930,7 @@
   "https://job-boards.greenhouse.io/reddit/jobs/7954598": {
     "company_normalized": "reddit",
     "first_seen": "2026-08-16T19:01:13.146473+00:00",
-    "last_seen": "2026-09-01T18:24:46.460419+00:00",
+    "last_seen": "2026-09-01T21:47:43.067477+00:00",
     "location": "Remote - United States",
     "notified": false,
     "score": 65,
@@ -15897,7 +15963,7 @@
   "https://job-boards.greenhouse.io/reddit/jobs/7974504": {
     "company_normalized": "reddit",
     "first_seen": "2026-08-16T19:01:13.146722+00:00",
-    "last_seen": "2026-09-01T18:24:46.460633+00:00",
+    "last_seen": "2026-09-01T21:47:43.067748+00:00",
     "location": "Remote - United States",
     "notified": false,
     "score": 65,
@@ -15908,7 +15974,7 @@
   "https://job-boards.greenhouse.io/reddit/jobs/7974507": {
     "company_normalized": "reddit",
     "first_seen": "2026-08-16T19:01:13.146702+00:00",
-    "last_seen": "2026-09-01T18:24:46.460649+00:00",
+    "last_seen": "2026-09-01T21:47:43.067728+00:00",
     "location": "Remote - Ontario, Canada",
     "notified": false,
     "score": 65,
@@ -15919,7 +15985,7 @@
   "https://job-boards.greenhouse.io/reddit/jobs/7976852": {
     "company_normalized": "reddit",
     "first_seen": "2026-08-29T01:45:17.801542+00:00",
-    "last_seen": "2026-09-01T18:24:46.460590+00:00",
+    "last_seen": "2026-09-01T21:47:43.067706+00:00",
     "location": "Remote - United States",
     "notified": true,
     "score": 86,
@@ -15930,7 +15996,7 @@
   "https://job-boards.greenhouse.io/reddit/jobs/7977052": {
     "company_normalized": "reddit",
     "first_seen": "2026-08-26T19:16:10.694972+00:00",
-    "last_seen": "2026-09-01T18:24:46.460511+00:00",
+    "last_seen": "2026-09-01T21:47:43.067602+00:00",
     "location": "Remote - United States",
     "notified": true,
     "score": 76,
@@ -15963,7 +16029,7 @@
   "https://job-boards.greenhouse.io/reddit/jobs/8011163": {
     "company_normalized": "reddit",
     "first_seen": "2026-08-16T19:01:13.146551+00:00",
-    "last_seen": "2026-09-01T18:24:46.460495+00:00",
+    "last_seen": "2026-09-01T21:47:43.067580+00:00",
     "location": "Remote - United States",
     "notified": false,
     "score": 66,
@@ -15974,7 +16040,7 @@
   "https://job-boards.greenhouse.io/reddit/jobs/8018513": {
     "company_normalized": "reddit",
     "first_seen": "2026-08-16T19:01:13.146801+00:00",
-    "last_seen": "2026-09-01T18:24:46.460695+00:00",
+    "last_seen": "2026-09-01T21:47:43.067808+00:00",
     "location": "Remote - United Kingdom",
     "notified": true,
     "score": 71,
@@ -15985,7 +16051,7 @@
   "https://job-boards.greenhouse.io/reddit/jobs/8018517": {
     "company_normalized": "reddit",
     "first_seen": "2026-08-16T19:01:13.146781+00:00",
-    "last_seen": "2026-09-01T18:24:46.460712+00:00",
+    "last_seen": "2026-09-01T21:47:43.067787+00:00",
     "location": "Remote - The Netherlands",
     "notified": true,
     "score": 71,
@@ -16029,7 +16095,7 @@
   "https://job-boards.greenhouse.io/reddit/jobs/8022260": {
     "company_normalized": "reddit",
     "first_seen": "2026-08-16T19:01:13.146493+00:00",
-    "last_seen": "2026-09-01T18:24:46.460434+00:00",
+    "last_seen": "2026-09-01T21:47:43.067499+00:00",
     "location": "Remote - British Columbia, Canada",
     "notified": false,
     "score": 65,
@@ -16040,7 +16106,7 @@
   "https://job-boards.greenhouse.io/reddit/jobs/8022366": {
     "company_normalized": "reddit",
     "first_seen": "2026-08-16T19:01:13.146365+00:00",
-    "last_seen": "2026-09-01T18:24:46.460386+00:00",
+    "last_seen": "2026-09-01T21:47:43.067432+00:00",
     "location": "Remote - United States",
     "notified": false,
     "score": 71,
@@ -16073,7 +16139,7 @@
   "https://job-boards.greenhouse.io/reddit/jobs/8029120": {
     "company_normalized": "reddit",
     "first_seen": "2026-08-16T19:01:13.146388+00:00",
-    "last_seen": "2026-09-01T18:24:46.460527+00:00",
+    "last_seen": "2026-09-01T21:47:43.067622+00:00",
     "location": "Remote - United States",
     "notified": false,
     "score": 73,
@@ -16106,7 +16172,7 @@
   "https://job-boards.greenhouse.io/reddit/jobs/8082867": {
     "company_normalized": "reddit",
     "first_seen": "2026-08-16T19:01:13.146762+00:00",
-    "last_seen": "2026-09-01T18:24:46.460680+00:00",
+    "last_seen": "2026-09-01T21:47:43.067767+00:00",
     "location": "Remote - United States",
     "notified": true,
     "score": 74,
@@ -16128,7 +16194,7 @@
   "https://job-boards.greenhouse.io/reddit/jobs/8088720": {
     "company_normalized": "reddit",
     "first_seen": "2026-09-01T18:24:46.460403+00:00",
-    "last_seen": "2026-09-01T18:24:46.460403+00:00",
+    "last_seen": "2026-09-01T21:47:43.067456+00:00",
     "location": "Remote - United States",
     "notified": false,
     "score": 70,
@@ -16150,7 +16216,7 @@
   "https://job-boards.greenhouse.io/reddit/jobs/8104403": {
     "company_normalized": "reddit",
     "first_seen": "2026-08-16T19:01:13.146512+00:00",
-    "last_seen": "2026-09-01T18:24:46.460449+00:00",
+    "last_seen": "2026-09-01T21:47:43.067519+00:00",
     "location": "Remote - United States",
     "notified": false,
     "score": 66,
@@ -16172,7 +16238,7 @@
   "https://job-boards.greenhouse.io/reddit/jobs/8112967": {
     "company_normalized": "reddit",
     "first_seen": "2026-08-16T19:01:13.146661+00:00",
-    "last_seen": "2026-09-01T18:24:46.460559+00:00",
+    "last_seen": "2026-09-01T21:47:43.067664+00:00",
     "location": "Remote - United States",
     "notified": true,
     "score": 78,
@@ -16183,7 +16249,7 @@
   "https://job-boards.greenhouse.io/reddit/jobs/8115838": {
     "company_normalized": "reddit",
     "first_seen": "2026-08-16T19:01:13.146820+00:00",
-    "last_seen": "2026-09-01T18:24:46.460727+00:00",
+    "last_seen": "2026-09-01T21:47:43.067828+00:00",
     "location": "Remote - United States",
     "notified": false,
     "score": 72,
@@ -16216,7 +16282,7 @@
   "https://job-boards.greenhouse.io/reddit/jobs/8126946": {
     "company_normalized": "reddit",
     "first_seen": "2026-08-16T19:01:13.146531+00:00",
-    "last_seen": "2026-09-01T18:24:46.460480+00:00",
+    "last_seen": "2026-09-01T21:47:43.067559+00:00",
     "location": "Remote - United States",
     "notified": false,
     "score": 66,
@@ -16227,7 +16293,7 @@
   "https://job-boards.greenhouse.io/reddit/jobs/8127022": {
     "company_normalized": "reddit",
     "first_seen": "2026-08-16T19:01:13.146641+00:00",
-    "last_seen": "2026-09-01T18:24:46.460543+00:00",
+    "last_seen": "2026-09-01T21:47:43.067643+00:00",
     "location": "Remote - United States",
     "notified": true,
     "score": 69,
@@ -16293,7 +16359,7 @@
   "https://job-boards.greenhouse.io/reddit/jobs/8157580": {
     "company_normalized": "reddit",
     "first_seen": "2026-08-28T04:16:23.503084+00:00",
-    "last_seen": "2026-09-01T18:24:46.460464+00:00",
+    "last_seen": "2026-09-01T21:47:43.067538+00:00",
     "location": "Remote - United States",
     "notified": false,
     "score": 65,
@@ -16414,7 +16480,7 @@
   "https://job-boards.greenhouse.io/scaleai/jobs/4599700005": {
     "company_normalized": "scaleai",
     "first_seen": "2026-08-16T19:01:13.154312+00:00",
-    "last_seen": "2026-09-01T18:24:46.463835+00:00",
+    "last_seen": "2026-09-01T21:47:43.072191+00:00",
     "location": "New York, NY; San Francisco, CA",
     "notified": true,
     "score": 80,
@@ -16546,7 +16612,7 @@
   "https://job-boards.greenhouse.io/scaleai/jobs/4703527005": {
     "company_normalized": "scaleai",
     "first_seen": "2026-08-28T17:24:16.514887+00:00",
-    "last_seen": "2026-09-01T18:24:46.463865+00:00",
+    "last_seen": "2026-09-01T21:47:43.072234+00:00",
     "location": "London, UK",
     "notified": true,
     "score": 74,
@@ -16557,7 +16623,7 @@
   "https://job-boards.greenhouse.io/scaleai/jobs/4711544005": {
     "company_normalized": "scaleai",
     "first_seen": "2026-08-28T17:24:16.514867+00:00",
-    "last_seen": "2026-09-01T18:24:46.463820+00:00",
+    "last_seen": "2026-09-01T21:47:43.072171+00:00",
     "location": "London, UK",
     "notified": true,
     "score": 74,
@@ -16601,10 +16667,10 @@
   "https://job-boards.greenhouse.io/scaleai/jobs/4717977005": {
     "company_normalized": "scaleai",
     "first_seen": "2026-08-16T19:01:13.153874+00:00",
-    "last_seen": "2026-08-18T04:48:23.160381+00:00",
+    "last_seen": "2026-09-01T21:47:43.072148+00:00",
     "location": "London, UK",
     "notified": true,
-    "score": 78,
+    "score": 87,
     "source": "greenhouse",
     "title_normalized": "ai infrastructure engineer serving platform",
     "url": "https://job-boards.greenhouse.io/scaleai/jobs/4717977005"
@@ -16656,7 +16722,7 @@
   "https://job-boards.greenhouse.io/scaleai/jobs/4725133005": {
     "company_normalized": "scaleai",
     "first_seen": "2026-08-20T18:56:50.407433+00:00",
-    "last_seen": "2026-09-01T18:24:46.463850+00:00",
+    "last_seen": "2026-09-01T21:47:43.072212+00:00",
     "location": "Doha, Qatar ",
     "notified": true,
     "score": 76,
@@ -16832,10 +16898,10 @@
   "https://jobicy.com/jobs/152325-senior-qa-engineer-2": {
     "company_normalized": "caylent",
     "first_seen": "2026-09-01T18:24:46.467919+00:00",
-    "last_seen": "2026-09-01T18:24:46.467919+00:00",
+    "last_seen": "2026-09-01T21:47:43.077511+00:00",
     "location": "USA",
     "notified": false,
-    "score": 73,
+    "score": 72,
     "source": "jobicy",
     "title_normalized": "senior qa engineer",
     "url": "https://jobicy.com/jobs/152325-senior-qa-engineer-2"
@@ -16905,6 +16971,17 @@
     "source": "ashby",
     "title_normalized": "technical program manager finance systems compliance",
     "url": "https://jobs.ashbyhq.com/notion/7ec83090-7c5b-4691-bf20-e11e892cede1/application"
+  },
+  "https://jobs.ashbyhq.com/notion/98bb09a8-2fdf-4c12-84dd-8568553159d8/application": {
+    "company_normalized": "notion",
+    "first_seen": "2026-09-01T21:47:43.075846+00:00",
+    "last_seen": "2026-09-01T21:47:43.075846+00:00",
+    "location": "San Francisco, California",
+    "notified": false,
+    "score": 68,
+    "source": "ashby",
+    "title_normalized": "manager enablement programs",
+    "url": "https://jobs.ashbyhq.com/notion/98bb09a8-2fdf-4c12-84dd-8568553159d8/application"
   },
   "https://jobs.ashbyhq.com/notion/a67d6f2b-7c13-41d0-b36b-b2f662c9873e/application": {
     "company_normalized": "notion",
@@ -17030,7 +17107,7 @@
   "https://jobs.ashbyhq.com/openai/1b268692-70d8-46c2-a347-2f7705b5c174/application": {
     "company_normalized": "openai",
     "first_seen": "2026-08-21T01:51:14.873005+00:00",
-    "last_seen": "2026-09-01T18:24:46.466866+00:00",
+    "last_seen": "2026-09-01T21:47:43.076174+00:00",
     "location": "San Francisco",
     "notified": true,
     "score": 65,
@@ -17151,7 +17228,7 @@
   "https://jobs.ashbyhq.com/openai/51977acc-b1f8-48af-bde6-95ddba936d65/application": {
     "company_normalized": "openai",
     "first_seen": "2026-08-26T19:16:11.816385+00:00",
-    "last_seen": "2026-09-01T18:24:46.466850+00:00",
+    "last_seen": "2026-09-01T21:47:43.076152+00:00",
     "location": "New York City",
     "notified": true,
     "score": 71,
@@ -17195,7 +17272,7 @@
   "https://jobs.ashbyhq.com/openai/6882c919-600e-43c8-92f9-803d4eb3bcd2/application": {
     "company_normalized": "openai",
     "first_seen": "2026-09-01T04:50:29.634058+00:00",
-    "last_seen": "2026-09-01T18:24:46.466910+00:00",
+    "last_seen": "2026-09-01T21:47:43.076217+00:00",
     "location": "Washington, DC",
     "notified": true,
     "score": 73,
@@ -17294,7 +17371,7 @@
   "https://jobs.ashbyhq.com/openai/9104a37c-6ae0-499b-a2f7-2785e63b5f0c/application": {
     "company_normalized": "openai",
     "first_seen": "2026-08-31T20:01:16.633252+00:00",
-    "last_seen": "2026-09-01T18:24:46.466835+00:00",
+    "last_seen": "2026-09-01T21:47:43.076126+00:00",
     "location": "San Francisco",
     "notified": true,
     "score": 74,
@@ -17305,7 +17382,7 @@
   "https://jobs.ashbyhq.com/openai/9248eab6-74e0-4940-98eb-ca09b17da532/application": {
     "company_normalized": "openai",
     "first_seen": "2026-08-24T19:40:39.408419+00:00",
-    "last_seen": "2026-09-01T18:24:46.466821+00:00",
+    "last_seen": "2026-09-01T21:47:43.076105+00:00",
     "location": "San Francisco",
     "notified": true,
     "score": 67,
@@ -17393,7 +17470,7 @@
   "https://jobs.ashbyhq.com/openai/b8fbe6d1-6363-4366-8484-de32cf4d1410/application": {
     "company_normalized": "openai",
     "first_seen": "2026-08-31T05:13:13.176937+00:00",
-    "last_seen": "2026-09-01T18:24:46.466763+00:00",
+    "last_seen": "2026-09-01T21:47:43.076021+00:00",
     "location": "Singapore",
     "notified": true,
     "score": 71,
@@ -17411,6 +17488,17 @@
     "source": "ashby",
     "title_normalized": "red team specialist cyber",
     "url": "https://jobs.ashbyhq.com/openai/badafdf8-116b-4849-b848-2f20a3ff2732/application"
+  },
+  "https://jobs.ashbyhq.com/openai/be7b1bf5-37ab-40f7-9ec1-e9732244f12a/application": {
+    "company_normalized": "openai",
+    "first_seen": "2026-09-01T21:47:43.065554+00:00",
+    "last_seen": "2026-09-01T21:47:43.076000+00:00",
+    "location": "Washington, DC",
+    "notified": true,
+    "score": 75,
+    "source": "ashby",
+    "title_normalized": "applied ai engineer cyber government",
+    "url": "https://jobs.ashbyhq.com/openai/be7b1bf5-37ab-40f7-9ec1-e9732244f12a/application"
   },
   "https://jobs.ashbyhq.com/openai/bf036b23-cd23-46d0-a02f-4b1483f4698a/application": {
     "company_normalized": "openai",
@@ -17437,7 +17525,7 @@
   "https://jobs.ashbyhq.com/openai/cadb7c24-2aea-4b98-a793-65ae9388b5d6/application": {
     "company_normalized": "openai",
     "first_seen": "2026-08-31T20:01:13.765841+00:00",
-    "last_seen": "2026-09-01T18:24:46.466806+00:00",
+    "last_seen": "2026-09-01T21:47:43.076082+00:00",
     "location": "San Francisco",
     "notified": true,
     "score": 80,
@@ -17448,12 +17536,12 @@
   "https://jobs.ashbyhq.com/openai/cf1e5c80-f42e-45ab-a937-2a4024b961e1/application": {
     "company_normalized": "openai",
     "first_seen": "2026-09-01T18:24:46.466792+00:00",
-    "last_seen": "2026-09-01T18:24:46.466792+00:00",
+    "last_seen": "2026-09-01T21:47:43.076061+00:00",
     "location": "San Francisco",
     "notified": false,
     "score": 74,
     "source": "ashby",
-    "title_normalized": "program manager product lifecycle assurance",
+    "title_normalized": "grc program manager product lifecycle assurance",
     "url": "https://jobs.ashbyhq.com/openai/cf1e5c80-f42e-45ab-a937-2a4024b961e1/application"
   },
   "https://jobs.ashbyhq.com/openai/d1121575-a1a7-47c9-97e6-56c70f441143/application": {
@@ -17514,7 +17602,7 @@
   "https://jobs.ashbyhq.com/openai/ec317080-e2d2-4a73-93e6-e0a9ae6fdf96/application": {
     "company_normalized": "openai",
     "first_seen": "2026-08-24T16:53:53.457696+00:00",
-    "last_seen": "2026-09-01T18:24:46.466896+00:00",
+    "last_seen": "2026-09-01T21:47:43.076196+00:00",
     "location": "San Francisco",
     "notified": true,
     "score": 74,
@@ -17525,7 +17613,7 @@
   "https://jobs.ashbyhq.com/openai/efed424b-e025-400f-8ac3-73e962b85751/application": {
     "company_normalized": "openai",
     "first_seen": "2026-08-26T19:16:11.816368+00:00",
-    "last_seen": "2026-09-01T18:24:46.466777+00:00",
+    "last_seen": "2026-09-01T21:47:43.076041+00:00",
     "location": "San Francisco",
     "notified": true,
     "score": 72,
@@ -17602,7 +17690,7 @@
   "https://jobs.ashbyhq.com/ramp/c01a2ed9-fcb4-48c0-ad7a-c59476d9c986/application": {
     "company_normalized": "ramp",
     "first_seen": "2026-08-28T17:24:16.514906+00:00",
-    "last_seen": "2026-09-01T18:24:46.466669+00:00",
+    "last_seen": "2026-09-01T21:47:43.075867+00:00",
     "location": "New York, NY (HQ)",
     "notified": true,
     "score": 68,
@@ -17635,7 +17723,7 @@
   "https://jobs.ashbyhq.com/replit/df7b6d30-9da1-4ace-8121-17c2aa55aa6f/application": {
     "company_normalized": "replit",
     "first_seen": "2026-09-01T04:50:28.630296+00:00",
-    "last_seen": "2026-09-01T18:24:46.466747+00:00",
+    "last_seen": "2026-09-01T21:47:43.075981+00:00",
     "location": "Foster City, CA",
     "notified": true,
     "score": 88,
@@ -17712,7 +17800,7 @@
   "https://jobs.ashbyhq.com/vanta/87d75493-1d6e-490e-b5ac-d807f5fb5621/application": {
     "company_normalized": "vanta",
     "first_seen": "2026-08-24T21:42:38.066971+00:00",
-    "last_seen": "2026-09-01T18:24:46.466718+00:00",
+    "last_seen": "2026-09-01T21:47:43.075936+00:00",
     "location": "Remote U.S.",
     "notified": true,
     "score": 76,
@@ -17723,7 +17811,7 @@
   "https://jobs.ashbyhq.com/vanta/a2371f65-5777-47b7-9f4e-bcb260ce70a4/application": {
     "company_normalized": "vanta",
     "first_seen": "2026-08-20T14:50:18.435060+00:00",
-    "last_seen": "2026-09-01T18:24:46.466685+00:00",
+    "last_seen": "2026-09-01T21:47:43.075887+00:00",
     "location": "London, UK",
     "notified": true,
     "score": 70,
@@ -17734,7 +17822,7 @@
   "https://jobs.ashbyhq.com/vanta/a59302dc-b7ea-4bba-af3c-ddab91489848/application": {
     "company_normalized": "vanta",
     "first_seen": "2026-08-24T23:35:34.938105+00:00",
-    "last_seen": "2026-09-01T18:24:46.466733+00:00",
+    "last_seen": "2026-09-01T21:47:43.075958+00:00",
     "location": "Remote - Canada",
     "notified": true,
     "score": 77,
@@ -17767,7 +17855,7 @@
   "https://jobs.ashbyhq.com/vanta/d38e7474-2b44-415c-824a-3debb757c9af/application": {
     "company_normalized": "vanta",
     "first_seen": "2026-08-20T14:50:18.435091+00:00",
-    "last_seen": "2026-09-01T18:24:46.466701+00:00",
+    "last_seen": "2026-09-01T21:47:43.075910+00:00",
     "location": "London, UK",
     "notified": true,
     "score": 70,
@@ -17844,7 +17932,7 @@
   "https://jobs.lever.co/jobgether/0110b5ef-6d60-4e27-a055-7eb466881171/apply": {
     "company_normalized": "jobgether",
     "first_seen": "2026-08-31T20:01:16.640186+00:00",
-    "last_seen": "2026-09-01T18:24:46.465002+00:00",
+    "last_seen": "2026-09-01T21:47:43.074055+00:00",
     "location": "Mexico",
     "notified": false,
     "score": 67,
@@ -17921,7 +18009,7 @@
   "https://jobs.lever.co/jobgether/039eb14e-e227-4cc1-8869-d3e141042978/apply": {
     "company_normalized": "jobgether",
     "first_seen": "2026-09-01T09:59:24.896289+00:00",
-    "last_seen": "2026-09-01T18:24:46.466359+00:00",
+    "last_seen": "2026-09-01T21:47:43.075457+00:00",
     "location": "US",
     "notified": false,
     "score": 72,
@@ -17954,10 +18042,10 @@
   "https://jobs.lever.co/jobgether/058575cb-de86-44d3-a17b-b0862ddbf3af/apply": {
     "company_normalized": "jobgether",
     "first_seen": "2026-09-01T14:48:57.827057+00:00",
-    "last_seen": "2026-09-01T18:24:46.466501+00:00",
+    "last_seen": "2026-09-01T21:47:43.075663+00:00",
     "location": "India",
     "notified": false,
-    "score": 66,
+    "score": 65,
     "source": "lever",
     "title_normalized": "senior platform engineer",
     "url": "https://jobs.lever.co/jobgether/058575cb-de86-44d3-a17b-b0862ddbf3af/apply"
@@ -18042,7 +18130,7 @@
   "https://jobs.lever.co/jobgether/09a089b6-b0c6-4996-a59c-56f67e594dcf/apply": {
     "company_normalized": "jobgether",
     "first_seen": "2026-08-31T20:01:16.640200+00:00",
-    "last_seen": "2026-09-01T18:24:46.465017+00:00",
+    "last_seen": "2026-09-01T21:47:43.074077+00:00",
     "location": "Netherlands",
     "notified": false,
     "score": 67,
@@ -18064,7 +18152,7 @@
   "https://jobs.lever.co/jobgether/0b621d7d-333f-4e51-88e4-8356d84b7f1a/apply": {
     "company_normalized": "jobgether",
     "first_seen": "2026-08-27T08:56:22.418331+00:00",
-    "last_seen": "2026-09-01T18:24:46.465894+00:00",
+    "last_seen": "2026-09-01T21:47:43.075231+00:00",
     "location": "Spain",
     "notified": true,
     "score": 80,
@@ -18130,7 +18218,7 @@
   "https://jobs.lever.co/jobgether/0c3656c9-a554-4fd1-b0a2-5177344fb6af/apply": {
     "company_normalized": "jobgether",
     "first_seen": "2026-08-31T20:01:16.640213+00:00",
-    "last_seen": "2026-09-01T18:24:46.465032+00:00",
+    "last_seen": "2026-09-01T21:47:43.074097+00:00",
     "location": "Switzerland",
     "notified": false,
     "score": 67,
@@ -18427,7 +18515,7 @@
   "https://jobs.lever.co/jobgether/16f9fd8f-0aa2-4a8a-ad99-ae45ac5e1060/apply": {
     "company_normalized": "jobgether",
     "first_seen": "2026-09-01T14:48:57.826882+00:00",
-    "last_seen": "2026-09-01T18:24:46.466374+00:00",
+    "last_seen": "2026-09-01T21:47:43.075480+00:00",
     "location": "US",
     "notified": false,
     "score": 65,
@@ -18504,7 +18592,7 @@
   "https://jobs.lever.co/jobgether/1acb425a-c76f-46b6-b0a2-ec14b83fa4b1/apply": {
     "company_normalized": "jobgether",
     "first_seen": "2026-08-27T08:56:24.361213+00:00",
-    "last_seen": "2026-09-01T18:24:46.465935+00:00",
+    "last_seen": "2026-09-01T21:47:43.075249+00:00",
     "location": "United Arab Emirates",
     "notified": true,
     "score": 80,
@@ -18658,7 +18746,7 @@
   "https://jobs.lever.co/jobgether/1d2239de-4c16-499b-9846-d6d7edb1b362/apply": {
     "company_normalized": "jobgether",
     "first_seen": "2026-09-01T04:50:29.643181+00:00",
-    "last_seen": "2026-09-01T18:24:46.465406+00:00",
+    "last_seen": "2026-09-01T21:47:43.074651+00:00",
     "location": "Brazil",
     "notified": false,
     "score": 66,
@@ -18669,7 +18757,7 @@
   "https://jobs.lever.co/jobgether/1db90a16-3185-4ab3-880d-44d76e14a941/apply": {
     "company_normalized": "jobgether",
     "first_seen": "2026-08-31T13:30:15.318370+00:00",
-    "last_seen": "2026-09-01T18:24:46.465670+00:00",
+    "last_seen": "2026-09-01T21:47:43.074987+00:00",
     "location": "Spain",
     "notified": true,
     "score": 72,
@@ -18691,7 +18779,7 @@
   "https://jobs.lever.co/jobgether/1eab1cb0-8458-4158-a1bf-835c5f9af824/apply": {
     "company_normalized": "jobgether",
     "first_seen": "2026-08-31T20:01:16.640227+00:00",
-    "last_seen": "2026-09-01T18:24:46.465045+00:00",
+    "last_seen": "2026-09-01T21:47:43.074118+00:00",
     "location": "India",
     "notified": false,
     "score": 67,
@@ -18867,7 +18955,7 @@
   "https://jobs.lever.co/jobgether/26eb4705-358a-4c1e-8e91-d8137f237a8f/apply": {
     "company_normalized": "jobgether",
     "first_seen": "2026-08-30T20:59:01.089895+00:00",
-    "last_seen": "2026-09-01T18:24:46.466417+00:00",
+    "last_seen": "2026-09-01T21:47:43.075542+00:00",
     "location": "Brazil",
     "notified": false,
     "score": 68,
@@ -18933,7 +19021,7 @@
   "https://jobs.lever.co/jobgether/293fdc0d-8467-436d-b129-d67adcf8084c/apply": {
     "company_normalized": "jobgether",
     "first_seen": "2026-08-31T20:01:16.640240+00:00",
-    "last_seen": "2026-09-01T18:24:46.465059+00:00",
+    "last_seen": "2026-09-01T21:47:43.074138+00:00",
     "location": "Spain",
     "notified": false,
     "score": 67,
@@ -19076,7 +19164,7 @@
   "https://jobs.lever.co/jobgether/2e4a20a6-6baf-43d9-9ff3-da08cc060c1d/apply": {
     "company_normalized": "jobgether",
     "first_seen": "2026-08-31T05:13:13.176883+00:00",
-    "last_seen": "2026-09-01T18:24:46.465692+00:00",
+    "last_seen": "2026-09-01T21:47:43.075007+00:00",
     "location": "India",
     "notified": true,
     "score": 72,
@@ -19087,7 +19175,7 @@
   "https://jobs.lever.co/jobgether/2f3046bd-ba1e-472e-bf84-ee03936ad990/apply": {
     "company_normalized": "jobgether",
     "first_seen": "2026-09-01T04:50:29.643233+00:00",
-    "last_seen": "2026-09-01T18:24:46.465449+00:00",
+    "last_seen": "2026-09-01T21:47:43.074711+00:00",
     "location": "India",
     "notified": false,
     "score": 68,
@@ -19142,7 +19230,7 @@
   "https://jobs.lever.co/jobgether/33bdb7cc-80ad-4915-a9e4-926213522d07/apply": {
     "company_normalized": "jobgether",
     "first_seen": "2026-08-31T13:30:15.318391+00:00",
-    "last_seen": "2026-09-01T18:24:46.465711+00:00",
+    "last_seen": "2026-09-01T21:47:43.075028+00:00",
     "location": "Netherlands",
     "notified": true,
     "score": 72,
@@ -19241,7 +19329,7 @@
   "https://jobs.lever.co/jobgether/36764198-a6ea-4c08-9797-7bbd1f8503e9/apply": {
     "company_normalized": "jobgether",
     "first_seen": "2026-08-27T08:56:26.321970+00:00",
-    "last_seen": "2026-09-01T18:24:46.465963+00:00",
+    "last_seen": "2026-09-01T21:47:43.075289+00:00",
     "location": "Chile",
     "notified": true,
     "score": 80,
@@ -19274,7 +19362,7 @@
   "https://jobs.lever.co/jobgether/3782d431-b9a4-4489-9986-78f55b3de905/apply": {
     "company_normalized": "jobgether",
     "first_seen": "2026-08-27T08:56:50.136610+00:00",
-    "last_seen": "2026-09-01T18:24:46.466617+00:00",
+    "last_seen": "2026-09-01T21:47:43.075826+00:00",
     "location": "India",
     "notified": true,
     "score": 68,
@@ -19428,7 +19516,7 @@
   "https://jobs.lever.co/jobgether/3d8d83a3-e3f5-4ae6-bae0-96ad304e2da8/apply": {
     "company_normalized": "jobgether",
     "first_seen": "2026-08-31T20:01:16.640253+00:00",
-    "last_seen": "2026-09-01T18:24:46.465072+00:00",
+    "last_seen": "2026-09-01T21:47:43.074158+00:00",
     "location": "Turkey",
     "notified": false,
     "score": 67,
@@ -19703,7 +19791,7 @@
   "https://jobs.lever.co/jobgether/46015184-fa2b-4b4e-b333-bf00aa62cf29/apply": {
     "company_normalized": "jobgether",
     "first_seen": "2026-08-31T05:13:13.176913+00:00",
-    "last_seen": "2026-09-01T18:24:46.466486+00:00",
+    "last_seen": "2026-09-01T21:47:43.075642+00:00",
     "location": "India",
     "notified": true,
     "score": 71,
@@ -19714,7 +19802,7 @@
   "https://jobs.lever.co/jobgether/4618b894-7827-463b-a52a-643a9cfddefe/apply": {
     "company_normalized": "jobgether",
     "first_seen": "2026-08-26T04:54:46.912429+00:00",
-    "last_seen": "2026-09-01T18:24:46.466589+00:00",
+    "last_seen": "2026-09-01T21:47:43.075786+00:00",
     "location": "Canada",
     "notified": true,
     "score": 74,
@@ -19736,7 +19824,7 @@
   "https://jobs.lever.co/jobgether/4756faa7-28e7-46e8-ba4b-ca86c8483524/apply": {
     "company_normalized": "jobgether",
     "first_seen": "2026-08-31T20:01:16.640265+00:00",
-    "last_seen": "2026-09-01T18:24:46.465085+00:00",
+    "last_seen": "2026-09-01T21:47:43.074177+00:00",
     "location": "Romania",
     "notified": false,
     "score": 67,
@@ -19747,7 +19835,7 @@
   "https://jobs.lever.co/jobgether/475ab8e4-91c3-4548-bc90-9541f9c42d2f/apply": {
     "company_normalized": "jobgether",
     "first_seen": "2026-08-27T08:56:28.319690+00:00",
-    "last_seen": "2026-09-01T18:24:46.466005+00:00",
+    "last_seen": "2026-09-01T21:47:43.075316+00:00",
     "location": "Saudi Arabia",
     "notified": true,
     "score": 80,
@@ -19813,7 +19901,7 @@
   "https://jobs.lever.co/jobgether/4aab0368-ae37-4028-8915-13b75fd679e7/apply": {
     "company_normalized": "jobgether",
     "first_seen": "2026-08-28T17:24:16.524691+00:00",
-    "last_seen": "2026-09-01T18:24:46.465615+00:00",
+    "last_seen": "2026-09-01T21:47:43.074926+00:00",
     "location": "US",
     "notified": false,
     "score": 68,
@@ -20033,7 +20121,7 @@
   "https://jobs.lever.co/jobgether/5574b906-f555-44f5-818d-b9968281b42d/apply": {
     "company_normalized": "jobgether",
     "first_seen": "2026-08-27T08:56:29.616007+00:00",
-    "last_seen": "2026-09-01T18:24:46.466034+00:00",
+    "last_seen": "2026-09-01T21:47:43.075336+00:00",
     "location": "Luxembourg",
     "notified": true,
     "score": 80,
@@ -20132,7 +20220,7 @@
   "https://jobs.lever.co/jobgether/5892275e-941a-497c-b8c4-55d34367ea68/apply": {
     "company_normalized": "jobgether",
     "first_seen": "2026-08-31T13:30:15.328853+00:00",
-    "last_seen": "2026-09-01T18:24:46.465878+00:00",
+    "last_seen": "2026-09-01T21:47:43.075209+00:00",
     "location": "Brazil",
     "notified": false,
     "score": 69,
@@ -20275,7 +20363,7 @@
   "https://jobs.lever.co/jobgether/5bff8a35-bc8d-4380-aacc-ea23615b4448/apply": {
     "company_normalized": "jobgether",
     "first_seen": "2026-08-31T13:30:15.318410+00:00",
-    "last_seen": "2026-09-01T18:24:46.465732+00:00",
+    "last_seen": "2026-09-01T21:47:43.075048+00:00",
     "location": "Portugal",
     "notified": true,
     "score": 72,
@@ -20407,7 +20495,7 @@
   "https://jobs.lever.co/jobgether/5f4f0250-7743-4fcf-93c7-6bcc8de9860e/apply": {
     "company_normalized": "jobgether",
     "first_seen": "2026-08-28T04:16:23.511122+00:00",
-    "last_seen": "2026-09-01T18:24:46.465601+00:00",
+    "last_seen": "2026-09-01T21:47:43.074905+00:00",
     "location": "Canada",
     "notified": false,
     "score": 67,
@@ -20429,7 +20517,7 @@
   "https://jobs.lever.co/jobgether/61ab094a-0dbe-4145-b5ff-f8ff6638b028/apply": {
     "company_normalized": "jobgether",
     "first_seen": "2026-09-01T04:50:29.643269+00:00",
-    "last_seen": "2026-09-01T18:24:46.465478+00:00",
+    "last_seen": "2026-09-01T21:47:43.074752+00:00",
     "location": "Netherlands",
     "notified": false,
     "score": 70,
@@ -20451,7 +20539,7 @@
   "https://jobs.lever.co/jobgether/61db58b8-cfb7-4081-820e-9f1ca8f817cb/apply": {
     "company_normalized": "jobgether",
     "first_seen": "2026-08-26T03:18:23.075387+00:00",
-    "last_seen": "2026-09-01T18:24:46.465421+00:00",
+    "last_seen": "2026-09-01T21:47:43.074671+00:00",
     "location": "Brazil",
     "notified": false,
     "score": 68,
@@ -20583,7 +20671,7 @@
   "https://jobs.lever.co/jobgether/65b0f687-a9e7-4936-938c-9f46aa716911/apply": {
     "company_normalized": "jobgether",
     "first_seen": "2026-08-26T04:54:46.912365+00:00",
-    "last_seen": "2026-09-01T18:24:46.466389+00:00",
+    "last_seen": "2026-09-01T21:47:43.075501+00:00",
     "location": "US",
     "notified": true,
     "score": 72,
@@ -20638,7 +20726,7 @@
   "https://jobs.lever.co/jobgether/68a392b4-0b97-4c78-8619-d77c992a7743/apply": {
     "company_normalized": "jobgether",
     "first_seen": "2026-08-28T17:24:16.524290+00:00",
-    "last_seen": "2026-09-01T18:24:46.465362+00:00",
+    "last_seen": "2026-09-01T21:47:43.074590+00:00",
     "location": "US",
     "notified": false,
     "score": 65,
@@ -20913,7 +21001,7 @@
   "https://jobs.lever.co/jobgether/7334ea4d-063b-41a6-a786-88bc06edd110/apply": {
     "company_normalized": "jobgether",
     "first_seen": "2026-08-27T08:56:31.595550+00:00",
-    "last_seen": "2026-09-01T18:24:46.466075+00:00",
+    "last_seen": "2026-09-01T21:47:43.075356+00:00",
     "location": "UK",
     "notified": true,
     "score": 80,
@@ -20979,7 +21067,7 @@
   "https://jobs.lever.co/jobgether/74c13818-3cb1-4b10-9a79-9f4d4adf827f/apply": {
     "company_normalized": "jobgether",
     "first_seen": "2026-08-27T08:56:32.227101+00:00",
-    "last_seen": "2026-09-01T18:24:46.466089+00:00",
+    "last_seen": "2026-09-01T21:47:43.075376+00:00",
     "location": "Germany",
     "notified": true,
     "score": 80,
@@ -21496,7 +21584,7 @@
   "https://jobs.lever.co/jobgether/847735cf-9592-4493-aa34-bbfef93c741c/apply": {
     "company_normalized": "jobgether",
     "first_seen": "2026-08-31T13:30:15.318427+00:00",
-    "last_seen": "2026-09-01T18:24:46.465753+00:00",
+    "last_seen": "2026-09-01T21:47:43.075068+00:00",
     "location": "Germany",
     "notified": true,
     "score": 72,
@@ -21573,7 +21661,7 @@
   "https://jobs.lever.co/jobgether/87638dfa-d94d-4d0b-9a77-81ff3bcaf2c5/apply": {
     "company_normalized": "jobgether",
     "first_seen": "2026-08-31T20:01:16.640775+00:00",
-    "last_seen": "2026-09-01T18:24:46.465651+00:00",
+    "last_seen": "2026-09-01T21:47:43.074967+00:00",
     "location": "US",
     "notified": false,
     "score": 71,
@@ -21584,7 +21672,7 @@
   "https://jobs.lever.co/jobgether/87b4e130-742f-42e4-b074-bebd65270900/apply": {
     "company_normalized": "jobgether",
     "first_seen": "2026-08-31T20:01:16.640278+00:00",
-    "last_seen": "2026-09-01T18:24:46.465099+00:00",
+    "last_seen": "2026-09-01T21:47:43.074198+00:00",
     "location": "US",
     "notified": false,
     "score": 67,
@@ -21705,7 +21793,7 @@
   "https://jobs.lever.co/jobgether/8b44a790-f2b5-4b00-a393-8db801ee7982/apply": {
     "company_normalized": "jobgether",
     "first_seen": "2026-08-31T13:30:15.318444+00:00",
-    "last_seen": "2026-09-01T18:24:46.465773+00:00",
+    "last_seen": "2026-09-01T21:47:43.075089+00:00",
     "location": "UK",
     "notified": true,
     "score": 72,
@@ -21760,7 +21848,7 @@
   "https://jobs.lever.co/jobgether/8cbe497c-d823-4633-8a90-a604bb8fd465/apply": {
     "company_normalized": "jobgether",
     "first_seen": "2026-09-01T09:59:24.894890+00:00",
-    "last_seen": "2026-09-01T18:24:46.465331+00:00",
+    "last_seen": "2026-09-01T21:47:43.074549+00:00",
     "location": "India",
     "notified": false,
     "score": 69,
@@ -21826,7 +21914,7 @@
   "https://jobs.lever.co/jobgether/8effae8e-4380-49ed-ad6f-131e61068ef2/apply": {
     "company_normalized": "jobgether",
     "first_seen": "2026-08-31T20:01:16.640291+00:00",
-    "last_seen": "2026-09-01T18:24:46.465113+00:00",
+    "last_seen": "2026-09-01T21:47:43.074217+00:00",
     "location": "South Africa",
     "notified": false,
     "score": 67,
@@ -21881,7 +21969,7 @@
   "https://jobs.lever.co/jobgether/909ed8af-ad41-4fa1-90fb-2081363d3e58/apply": {
     "company_normalized": "jobgether",
     "first_seen": "2026-08-31T20:01:16.640312+00:00",
-    "last_seen": "2026-09-01T18:24:46.465127+00:00",
+    "last_seen": "2026-09-01T21:47:43.074237+00:00",
     "location": "Australia",
     "notified": false,
     "score": 67,
@@ -21892,7 +21980,7 @@
   "https://jobs.lever.co/jobgether/909f5d8f-c71c-42fd-a9ca-56b80916136f/apply": {
     "company_normalized": "jobgether",
     "first_seen": "2026-08-26T03:18:23.073852+00:00",
-    "last_seen": "2026-09-01T18:24:46.465315+00:00",
+    "last_seen": "2026-09-01T21:47:43.074527+00:00",
     "location": "Canada",
     "notified": false,
     "score": 68,
@@ -22057,7 +22145,7 @@
   "https://jobs.lever.co/jobgether/9458a20b-f3f7-43f6-81ee-b2e9f57a5e58/apply": {
     "company_normalized": "jobgether",
     "first_seen": "2026-08-30T23:27:32.306599+00:00",
-    "last_seen": "2026-09-01T18:24:46.465571+00:00",
+    "last_seen": "2026-09-01T21:47:43.074885+00:00",
     "location": "US",
     "notified": false,
     "score": 65,
@@ -22079,7 +22167,7 @@
   "https://jobs.lever.co/jobgether/9573e3b0-6c66-4050-be93-69e9f93f8111/apply": {
     "company_normalized": "jobgether",
     "first_seen": "2026-08-27T08:56:21.780971+00:00",
-    "last_seen": "2026-09-01T18:24:46.465463+00:00",
+    "last_seen": "2026-09-01T21:47:43.074731+00:00",
     "location": "Brazil",
     "notified": true,
     "score": 82,
@@ -22156,7 +22244,7 @@
   "https://jobs.lever.co/jobgether/988e0e85-1d05-40a7-aaea-197497f003d7/apply": {
     "company_normalized": "jobgether",
     "first_seen": "2026-09-01T04:50:29.643285+00:00",
-    "last_seen": "2026-09-01T18:24:46.465492+00:00",
+    "last_seen": "2026-09-01T21:47:43.074772+00:00",
     "location": "Germany",
     "notified": false,
     "score": 70,
@@ -22387,7 +22475,7 @@
   "https://jobs.lever.co/jobgether/9fe934b3-8105-4411-b241-e31fe0f59a94/apply": {
     "company_normalized": "jobgether",
     "first_seen": "2026-08-31T20:01:16.640324+00:00",
-    "last_seen": "2026-09-01T18:24:46.465140+00:00",
+    "last_seen": "2026-09-01T21:47:43.074256+00:00",
     "location": "Ireland",
     "notified": false,
     "score": 67,
@@ -22618,7 +22706,7 @@
   "https://jobs.lever.co/jobgether/a98a4e8d-fbd2-4d3f-be72-9a6cb9772452/apply": {
     "company_normalized": "jobgether",
     "first_seen": "2026-09-01T04:50:29.643301+00:00",
-    "last_seen": "2026-09-01T18:24:46.465506+00:00",
+    "last_seen": "2026-09-01T21:47:43.074791+00:00",
     "location": "Spain",
     "notified": false,
     "score": 70,
@@ -22673,7 +22761,7 @@
   "https://jobs.lever.co/jobgether/ac0bfdc8-3989-49be-a649-cf0c9aa4e05b/apply": {
     "company_normalized": "jobgether",
     "first_seen": "2026-08-30T20:59:01.089908+00:00",
-    "last_seen": "2026-09-01T18:24:46.466430+00:00",
+    "last_seen": "2026-09-01T21:47:43.075562+00:00",
     "location": "US",
     "notified": false,
     "score": 68,
@@ -22838,7 +22926,7 @@
   "https://jobs.lever.co/jobgether/b4630545-63ab-4350-ae6f-9551177c2e4d/apply": {
     "company_normalized": "jobgether",
     "first_seen": "2026-08-31T13:30:15.329684+00:00",
-    "last_seen": "2026-09-01T18:24:46.466574+00:00",
+    "last_seen": "2026-09-01T21:47:43.075766+00:00",
     "location": "US",
     "notified": false,
     "score": 65,
@@ -23003,7 +23091,7 @@
   "https://jobs.lever.co/jobgether/bc7a0162-0c2e-4eb4-8cf3-4dcb169a26cc/apply": {
     "company_normalized": "jobgether",
     "first_seen": "2026-08-27T08:56:50.136555+00:00",
-    "last_seen": "2026-09-01T18:24:46.465391+00:00",
+    "last_seen": "2026-09-01T21:47:43.074632+00:00",
     "location": "South Africa",
     "notified": true,
     "score": 70,
@@ -23036,7 +23124,7 @@
   "https://jobs.lever.co/jobgether/bdfee040-6618-4de6-bbf5-d91810402f26/apply": {
     "company_normalized": "jobgether",
     "first_seen": "2026-08-31T13:30:15.318319+00:00",
-    "last_seen": "2026-09-01T18:24:46.465345+00:00",
+    "last_seen": "2026-09-01T21:47:43.074570+00:00",
     "location": "India",
     "notified": true,
     "score": 74,
@@ -23157,7 +23245,7 @@
   "https://jobs.lever.co/jobgether/c2f9cac6-50b1-4326-ada4-660f94504295/apply": {
     "company_normalized": "jobgether",
     "first_seen": "2026-08-31T20:01:16.640338+00:00",
-    "last_seen": "2026-09-01T18:24:46.465154+00:00",
+    "last_seen": "2026-09-01T21:47:43.074314+00:00",
     "location": "Canada",
     "notified": false,
     "score": 67,
@@ -23190,7 +23278,7 @@
   "https://jobs.lever.co/jobgether/c464c8ac-e82a-4777-92e4-c8ae98bc89f1/apply": {
     "company_normalized": "jobgether",
     "first_seen": "2026-08-31T20:01:16.640350+00:00",
-    "last_seen": "2026-09-01T18:24:46.465167+00:00",
+    "last_seen": "2026-09-01T21:47:43.074348+00:00",
     "location": "United Arab Emirates",
     "notified": false,
     "score": 67,
@@ -23377,7 +23465,7 @@
   "https://jobs.lever.co/jobgether/cceeed81-ffa9-47ff-8eac-6eeadd090be1/apply": {
     "company_normalized": "jobgether",
     "first_seen": "2026-08-30T20:59:01.082330+00:00",
-    "last_seen": "2026-09-01T18:24:46.466403+00:00",
+    "last_seen": "2026-09-01T21:47:43.075522+00:00",
     "location": "Brazil",
     "notified": true,
     "score": 73,
@@ -23410,7 +23498,7 @@
   "https://jobs.lever.co/jobgether/cdc7ddf5-2cc0-444a-87f5-cd89d0bd6247/apply": {
     "company_normalized": "jobgether",
     "first_seen": "2026-08-27T08:56:41.556570+00:00",
-    "last_seen": "2026-09-01T18:24:46.466278+00:00",
+    "last_seen": "2026-09-01T21:47:43.075397+00:00",
     "location": "India",
     "notified": true,
     "score": 80,
@@ -23487,7 +23575,7 @@
   "https://jobs.lever.co/jobgether/d1e314bb-5c2a-4aba-be1c-8b81fc38cae5/apply": {
     "company_normalized": "jobgether",
     "first_seen": "2026-08-26T03:18:23.063237+00:00",
-    "last_seen": "2026-09-01T18:24:46.466543+00:00",
+    "last_seen": "2026-09-01T21:47:43.075723+00:00",
     "location": "India",
     "notified": true,
     "score": 73,
@@ -23520,7 +23608,7 @@
   "https://jobs.lever.co/jobgether/d2b41fe5-73f0-4957-aeed-0897bd2aa44c/apply": {
     "company_normalized": "jobgether",
     "first_seen": "2026-08-27T08:56:50.148032+00:00",
-    "last_seen": "2026-09-01T18:24:46.466456+00:00",
+    "last_seen": "2026-09-01T21:47:43.075600+00:00",
     "location": "US",
     "notified": false,
     "score": 67,
@@ -23531,7 +23619,7 @@
   "https://jobs.lever.co/jobgether/d30aeed6-1dd1-435d-92a1-ddca4082c479/apply": {
     "company_normalized": "jobgether",
     "first_seen": "2026-08-26T03:18:23.076007+00:00",
-    "last_seen": "2026-09-01T18:24:46.466515+00:00",
+    "last_seen": "2026-09-01T21:47:43.075683+00:00",
     "location": "India",
     "notified": false,
     "score": 67,
@@ -23542,7 +23630,7 @@
   "https://jobs.lever.co/jobgether/d3b2bb1e-ea20-4a17-a67a-7102624ca6c4/apply": {
     "company_normalized": "jobgether",
     "first_seen": "2026-09-01T14:48:57.825568+00:00",
-    "last_seen": "2026-09-01T18:24:46.465375+00:00",
+    "last_seen": "2026-09-01T21:47:43.074609+00:00",
     "location": "US",
     "notified": false,
     "score": 68,
@@ -23652,7 +23740,7 @@
   "https://jobs.lever.co/jobgether/d6974cb9-a7a8-478d-acae-d2dad8501e7d/apply": {
     "company_normalized": "jobgether",
     "first_seen": "2026-08-31T20:01:16.640362+00:00",
-    "last_seen": "2026-09-01T18:24:46.465181+00:00",
+    "last_seen": "2026-09-01T21:47:43.074371+00:00",
     "location": "Italy",
     "notified": false,
     "score": 67,
@@ -23674,7 +23762,7 @@
   "https://jobs.lever.co/jobgether/d758c59b-5e0d-4ea9-b0bd-c01dd846ff41/apply": {
     "company_normalized": "jobgether",
     "first_seen": "2026-09-01T04:50:29.643317+00:00",
-    "last_seen": "2026-09-01T18:24:46.465519+00:00",
+    "last_seen": "2026-09-01T21:47:43.074810+00:00",
     "location": "France",
     "notified": false,
     "score": 70,
@@ -23685,7 +23773,7 @@
   "https://jobs.lever.co/jobgether/d7816f3a-1001-4447-a81f-3c67a0650d2e/apply": {
     "company_normalized": "jobgether",
     "first_seen": "2026-09-01T04:50:29.643334+00:00",
-    "last_seen": "2026-09-01T18:24:46.465532+00:00",
+    "last_seen": "2026-09-01T21:47:43.074829+00:00",
     "location": "UK",
     "notified": false,
     "score": 70,
@@ -23707,7 +23795,7 @@
   "https://jobs.lever.co/jobgether/d7b3e15d-14aa-4dd1-83e3-bfef0c8385d2/apply": {
     "company_normalized": "jobgether",
     "first_seen": "2026-08-31T13:30:15.318460+00:00",
-    "last_seen": "2026-09-01T18:24:46.465796+00:00",
+    "last_seen": "2026-09-01T21:47:43.075109+00:00",
     "location": "Switzerland",
     "notified": true,
     "score": 72,
@@ -23784,7 +23872,7 @@
   "https://jobs.lever.co/jobgether/d927b57b-fe69-4235-872e-d4abe09f4662/apply": {
     "company_normalized": "jobgether",
     "first_seen": "2026-08-31T20:01:16.640375+00:00",
-    "last_seen": "2026-09-01T18:24:46.465194+00:00",
+    "last_seen": "2026-09-01T21:47:43.074391+00:00",
     "location": "UK",
     "notified": false,
     "score": 67,
@@ -23806,7 +23894,7 @@
   "https://jobs.lever.co/jobgether/da602bb4-aff7-4f63-801e-ae805eb2b6c1/apply": {
     "company_normalized": "jobgether",
     "first_seen": "2026-08-26T03:18:23.063171+00:00",
-    "last_seen": "2026-09-01T18:24:46.466529+00:00",
+    "last_seen": "2026-09-01T21:47:43.075702+00:00",
     "location": "Canada",
     "notified": true,
     "score": 68,
@@ -23883,7 +23971,7 @@
   "https://jobs.lever.co/jobgether/dd892ab9-333a-4046-8243-2f31aebaffed/apply": {
     "company_normalized": "jobgether",
     "first_seen": "2026-08-27T08:56:43.506253+00:00",
-    "last_seen": "2026-09-01T18:24:46.466318+00:00",
+    "last_seen": "2026-09-01T21:47:43.075417+00:00",
     "location": "Turkey",
     "notified": true,
     "score": 80,
@@ -24070,7 +24158,7 @@
   "https://jobs.lever.co/jobgether/e5931489-ac7c-4e03-a6de-c0de63d28d3d/apply": {
     "company_normalized": "jobgether",
     "first_seen": "2026-08-31T20:01:16.640388+00:00",
-    "last_seen": "2026-09-01T18:24:46.465208+00:00",
+    "last_seen": "2026-09-01T21:47:43.074410+00:00",
     "location": "France",
     "notified": false,
     "score": 67,
@@ -24103,7 +24191,7 @@
   "https://jobs.lever.co/jobgether/e765bb21-c87f-40b7-9e02-b7b92fb6079f/apply": {
     "company_normalized": "jobgether",
     "first_seen": "2026-08-31T20:01:16.640400+00:00",
-    "last_seen": "2026-09-01T18:24:46.465221+00:00",
+    "last_seen": "2026-09-01T21:47:43.074429+00:00",
     "location": "Saudi Arabia",
     "notified": false,
     "score": 67,
@@ -24158,7 +24246,7 @@
   "https://jobs.lever.co/jobgether/e8de2170-0978-4f2c-af20-1cc352128bdd/apply": {
     "company_normalized": "jobgether",
     "first_seen": "2026-08-28T17:24:16.524708+00:00",
-    "last_seen": "2026-09-01T18:24:46.465638+00:00",
+    "last_seen": "2026-09-01T21:47:43.074946+00:00",
     "location": "Canada",
     "notified": false,
     "score": 68,
@@ -24235,7 +24323,7 @@
   "https://jobs.lever.co/jobgether/eafcab90-0273-43f5-9b42-93e5a290e054/apply": {
     "company_normalized": "jobgether",
     "first_seen": "2026-08-31T20:01:16.640412+00:00",
-    "last_seen": "2026-09-01T18:24:46.465234+00:00",
+    "last_seen": "2026-09-01T21:47:43.074449+00:00",
     "location": "Portugal",
     "notified": false,
     "score": 67,
@@ -24246,7 +24334,7 @@
   "https://jobs.lever.co/jobgether/ed163998-cd94-40f5-b737-eac93b5e6524/apply": {
     "company_normalized": "jobgether",
     "first_seen": "2026-08-31T20:01:16.633200+00:00",
-    "last_seen": "2026-09-01T18:24:46.466559+00:00",
+    "last_seen": "2026-09-01T21:47:43.075745+00:00",
     "location": "US",
     "notified": true,
     "score": 71,
@@ -24279,7 +24367,7 @@
   "https://jobs.lever.co/jobgether/edba2e72-a85e-4c01-955f-12ba86c8f5a8/apply": {
     "company_normalized": "jobgether",
     "first_seen": "2026-09-01T09:59:24.896421+00:00",
-    "last_seen": "2026-09-01T18:24:46.466471+00:00",
+    "last_seen": "2026-09-01T21:47:43.075620+00:00",
     "location": "India",
     "notified": false,
     "score": 70,
@@ -24345,7 +24433,7 @@
   "https://jobs.lever.co/jobgether/efff28d4-e483-4ad4-afb3-7ed392019df0/apply": {
     "company_normalized": "jobgether",
     "first_seen": "2026-08-30T20:59:01.089921+00:00",
-    "last_seen": "2026-09-01T18:24:46.466443+00:00",
+    "last_seen": "2026-09-01T21:47:43.075581+00:00",
     "location": "Canada",
     "notified": false,
     "score": 68,
@@ -24389,7 +24477,7 @@
   "https://jobs.lever.co/jobgether/f1ddc025-9fe1-4876-b26e-936436011d91/apply": {
     "company_normalized": "jobgether",
     "first_seen": "2026-09-01T04:50:29.643350+00:00",
-    "last_seen": "2026-09-01T18:24:46.465544+00:00",
+    "last_seen": "2026-09-01T21:47:43.074847+00:00",
     "location": "Ireland",
     "notified": false,
     "score": 70,
@@ -24400,7 +24488,7 @@
   "https://jobs.lever.co/jobgether/f214d597-27c0-4c6c-b5cc-6aba1430f13b/apply": {
     "company_normalized": "jobgether",
     "first_seen": "2026-08-31T13:30:15.318476+00:00",
-    "last_seen": "2026-09-01T18:24:46.465818+00:00",
+    "last_seen": "2026-09-01T21:47:43.075129+00:00",
     "location": "Ireland",
     "notified": true,
     "score": 72,
@@ -24411,7 +24499,7 @@
   "https://jobs.lever.co/jobgether/f3933f81-2490-4f62-b80c-0de3a5d77a29/apply": {
     "company_normalized": "jobgether",
     "first_seen": "2026-09-01T04:50:29.634037+00:00",
-    "last_seen": "2026-09-01T18:24:46.466603+00:00",
+    "last_seen": "2026-09-01T21:47:43.075806+00:00",
     "location": "US",
     "notified": true,
     "score": 79,
@@ -24422,7 +24510,7 @@
   "https://jobs.lever.co/jobgether/f3cf122d-79cd-4b41-a88b-a4bd18527db8/apply": {
     "company_normalized": "jobgether",
     "first_seen": "2026-08-31T20:01:16.640424+00:00",
-    "last_seen": "2026-09-01T18:24:46.465247+00:00",
+    "last_seen": "2026-09-01T21:47:43.074468+00:00",
     "location": "Belgium",
     "notified": false,
     "score": 67,
@@ -24466,7 +24554,7 @@
   "https://jobs.lever.co/jobgether/f4b053b9-3c1c-4410-b2d3-d9962b34d55c/apply": {
     "company_normalized": "jobgether",
     "first_seen": "2026-09-01T04:50:29.643365+00:00",
-    "last_seen": "2026-09-01T18:24:46.465557+00:00",
+    "last_seen": "2026-09-01T21:47:43.074866+00:00",
     "location": "Switzerland",
     "notified": false,
     "score": 70,
@@ -24510,7 +24598,7 @@
   "https://jobs.lever.co/jobgether/f5d0aa81-558c-42ad-a7c9-2c7b73baefa4/apply": {
     "company_normalized": "jobgether",
     "first_seen": "2026-08-31T13:30:15.318492+00:00",
-    "last_seen": "2026-09-01T18:24:46.465835+00:00",
+    "last_seen": "2026-09-01T21:47:43.075148+00:00",
     "location": "Romania",
     "notified": true,
     "score": 72,
@@ -24521,7 +24609,7 @@
   "https://jobs.lever.co/jobgether/f5ee1f51-e320-4795-8674-15c32ad2fed4/apply": {
     "company_normalized": "jobgether",
     "first_seen": "2026-08-31T13:30:15.318508+00:00",
-    "last_seen": "2026-09-01T18:24:46.465849+00:00",
+    "last_seen": "2026-09-01T21:47:43.075168+00:00",
     "location": "Italy",
     "notified": true,
     "score": 72,
@@ -24620,7 +24708,7 @@
   "https://jobs.lever.co/jobgether/fa81f23a-439b-49df-8c0d-b663e6fb7c2c/apply": {
     "company_normalized": "jobgether",
     "first_seen": "2026-08-26T03:18:23.075407+00:00",
-    "last_seen": "2026-09-01T18:24:46.465435+00:00",
+    "last_seen": "2026-09-01T21:47:43.074692+00:00",
     "location": "Brazil",
     "notified": false,
     "score": 65,
@@ -24664,7 +24752,7 @@
   "https://jobs.lever.co/jobgether/fe5e8fba-5e48-439c-ac8b-fe7e323fc87a/apply": {
     "company_normalized": "jobgether",
     "first_seen": "2026-08-27T08:56:45.464865+00:00",
-    "last_seen": "2026-09-01T18:24:46.466345+00:00",
+    "last_seen": "2026-09-01T21:47:43.075438+00:00",
     "location": "Switzerland",
     "notified": true,
     "score": 80,
@@ -24675,7 +24763,7 @@
   "https://jobs.lever.co/jobgether/fe789a3a-7024-4ee8-bb02-600b894a6b5d/apply": {
     "company_normalized": "jobgether",
     "first_seen": "2026-08-31T20:01:16.640437+00:00",
-    "last_seen": "2026-09-01T18:24:46.465260+00:00",
+    "last_seen": "2026-09-01T21:47:43.074487+00:00",
     "location": "Brazil",
     "notified": false,
     "score": 67,
@@ -24697,7 +24785,7 @@
   "https://jobs.lever.co/jobgether/fe79968c-d858-4f7b-b679-c63edcc12d5c/apply": {
     "company_normalized": "jobgether",
     "first_seen": "2026-08-31T20:01:16.640450+00:00",
-    "last_seen": "2026-09-01T18:24:46.465274+00:00",
+    "last_seen": "2026-09-01T21:47:43.074507+00:00",
     "location": "Germany",
     "notified": false,
     "score": 67,
@@ -24752,7 +24840,7 @@
   "https://jobs.lever.co/jobgether/ffa11e44-ee51-4894-8496-a9c0350bca64/apply": {
     "company_normalized": "jobgether",
     "first_seen": "2026-08-31T13:30:15.318523+00:00",
-    "last_seen": "2026-09-01T18:24:46.465863+00:00",
+    "last_seen": "2026-09-01T21:47:43.075188+00:00",
     "location": "France",
     "notified": true,
     "score": 72,
@@ -24851,7 +24939,7 @@
   "https://remotive.com/remote-jobs/qa/senior-qa-engineer-2091100": {
     "company_normalized": "lemonio",
     "first_seen": "2026-09-01T14:48:57.827636+00:00",
-    "last_seen": "2026-09-01T18:24:46.466924+00:00",
+    "last_seen": "2026-09-01T21:47:43.076237+00:00",
     "location": "Europe",
     "notified": false,
     "score": 65,
@@ -24862,7 +24950,7 @@
   "https://remotive.com/remote-jobs/software-development/senior-data-engineer-2091097": {
     "company_normalized": "lemonio",
     "first_seen": "2026-08-21T11:39:17.365551+00:00",
-    "last_seen": "2026-09-01T18:24:46.466939+00:00",
+    "last_seen": "2026-09-01T21:47:43.076260+00:00",
     "location": "LATAM, Europe, USA, Canada, APAC",
     "notified": false,
     "score": 67,
@@ -24983,7 +25071,7 @@
   "https://stripe.com/jobs/search?gh_jid=7688358": {
     "company_normalized": "stripe",
     "first_seen": "2026-08-28T04:16:23.501992+00:00",
-    "last_seen": "2026-09-01T18:24:46.459929+00:00",
+    "last_seen": "2026-09-01T21:47:43.066846+00:00",
     "location": "US-SEA, US-SF, US-NYC, US-Remote",
     "notified": false,
     "score": 65,
@@ -24994,7 +25082,7 @@
   "https://stripe.com/jobs/search?gh_jid=7712852": {
     "company_normalized": "stripe",
     "first_seen": "2026-08-16T19:01:13.145683+00:00",
-    "last_seen": "2026-09-01T18:24:46.460019+00:00",
+    "last_seen": "2026-09-01T21:47:43.066915+00:00",
     "location": "Toronto",
     "notified": true,
     "score": 73,
@@ -25016,10 +25104,10 @@
   "https://stripe.com/jobs/search?gh_jid=7737248": {
     "company_normalized": "stripe",
     "first_seen": "2026-09-01T14:48:57.815025+00:00",
-    "last_seen": "2026-09-01T18:24:46.460079+00:00",
+    "last_seen": "2026-09-01T21:47:43.066977+00:00",
     "location": "London",
     "notified": true,
-    "score": 81,
+    "score": 80,
     "source": "greenhouse",
     "title_normalized": "technical support engineer emea",
     "url": "https://stripe.com/jobs/search?gh_jid=7737248"
@@ -25060,7 +25148,7 @@
   "https://stripe.com/jobs/search?gh_jid=7860377": {
     "company_normalized": "stripe",
     "first_seen": "2026-08-16T19:01:13.145764+00:00",
-    "last_seen": "2026-09-01T18:24:46.460117+00:00",
+    "last_seen": "2026-09-01T21:47:43.067008+00:00",
     "location": "Dublin, Ireland",
     "notified": true,
     "score": 75,
@@ -25115,7 +25203,7 @@
   "https://stripe.com/jobs/search?gh_jid=7975725": {
     "company_normalized": "stripe",
     "first_seen": "2026-08-16T19:01:13.145596+00:00",
-    "last_seen": "2026-09-01T18:24:46.459977+00:00",
+    "last_seen": "2026-09-01T21:47:43.066882+00:00",
     "location": "Sydney, Australia",
     "notified": true,
     "score": 82,
@@ -25159,7 +25247,7 @@
   "https://stripe.com/jobs/search?gh_jid=8044460": {
     "company_normalized": "stripe",
     "first_seen": "2026-08-16T19:01:13.145413+00:00",
-    "last_seen": "2026-09-01T18:24:46.459895+00:00",
+    "last_seen": "2026-09-01T21:47:43.066796+00:00",
     "location": "Chicago",
     "notified": true,
     "score": 69,
@@ -25233,6 +25321,17 @@
     "title_normalized": "security incident response engineer",
     "url": "https://stripe.com/jobs/search?gh_jid=8142302"
   },
+  "https://stripe.com/jobs/search?gh_jid=8171539": {
+    "company_normalized": "stripe",
+    "first_seen": "2026-09-01T21:47:43.066947+00:00",
+    "last_seen": "2026-09-01T21:47:43.066947+00:00",
+    "location": "San Francisco, Seattle",
+    "notified": false,
+    "score": 71,
+    "source": "greenhouse",
+    "title_normalized": "staff software engineer storage abstractions",
+    "url": "https://stripe.com/jobs/search?gh_jid=8171539"
+  },
   "https://turing.betterteam.com/remote-python-docker-engineer-19": {
     "company_normalized": "turing",
     "first_seen": "2026-08-17T18:38:03.791450+00:00",
@@ -25258,7 +25357,7 @@
   "https://weworkremotely.com/remote-jobs/abnormal-application-security-engineer-ii": {
     "company_normalized": "abnormal",
     "first_seen": "2026-08-24T09:03:27.131686+00:00",
-    "last_seen": "2026-09-01T18:24:46.468069+00:00",
+    "last_seen": "2026-09-01T21:47:43.077742+00:00",
     "location": "Remote",
     "notified": true,
     "score": 77,
@@ -25288,6 +25387,17 @@
     "title_normalized": "associate instructor",
     "url": "https://weworkremotely.com/remote-jobs/beyondtrust-associate-instructor"
   },
+  "https://weworkremotely.com/remote-jobs/big-bear-vacations-owner-retention-specialist": {
+    "company_normalized": "big bear vacations",
+    "first_seen": "2026-09-01T21:47:43.077532+00:00",
+    "last_seen": "2026-09-01T21:47:43.077532+00:00",
+    "location": "Remote",
+    "notified": false,
+    "score": 68,
+    "source": "weworkremotely",
+    "title_normalized": "owner retention specialist",
+    "url": "https://weworkremotely.com/remote-jobs/big-bear-vacations-owner-retention-specialist"
+  },
   "https://weworkremotely.com/remote-jobs/brandog-digital-senior-digital-marketing-manager-paid-social": {
     "company_normalized": "brandog digital",
     "first_seen": "2026-08-18T16:45:49.443456+00:00",
@@ -25313,7 +25423,7 @@
   "https://weworkremotely.com/remote-jobs/circleci-senior-software-engineer": {
     "company_normalized": "circleci",
     "first_seen": "2026-08-31T13:30:14.739576+00:00",
-    "last_seen": "2026-09-01T18:24:46.467993+00:00",
+    "last_seen": "2026-09-01T21:47:43.077638+00:00",
     "location": "Remote",
     "notified": true,
     "score": 85,
@@ -25401,7 +25511,7 @@
   "https://weworkremotely.com/remote-jobs/cribl-customer-success-engineer-federal": {
     "company_normalized": "cribl",
     "first_seen": "2026-08-30T12:49:56.533806+00:00",
-    "last_seen": "2026-09-01T18:24:46.468008+00:00",
+    "last_seen": "2026-09-01T21:47:43.077658+00:00",
     "location": "Remote",
     "notified": true,
     "score": 77,
@@ -25434,7 +25544,7 @@
   "https://weworkremotely.com/remote-jobs/databricks-ai-engineer-fde-forward-deployed-engineer-1": {
     "company_normalized": "databricks",
     "first_seen": "2026-08-27T08:56:49.464509+00:00",
-    "last_seen": "2026-09-01T18:24:46.468037+00:00",
+    "last_seen": "2026-09-01T21:47:43.077699+00:00",
     "location": "Remote",
     "notified": true,
     "score": 89,
@@ -25467,7 +25577,7 @@
   "https://weworkremotely.com/remote-jobs/evaboot-agentic-python-engineer": {
     "company_normalized": "evaboot",
     "first_seen": "2026-08-31T20:01:16.633333+00:00",
-    "last_seen": "2026-09-01T18:24:46.467965+00:00",
+    "last_seen": "2026-09-01T21:47:43.077599+00:00",
     "location": "Remote",
     "notified": true,
     "score": 74,
@@ -25489,7 +25599,7 @@
   "https://weworkremotely.com/remote-jobs/gitlab-ai-transformation-owner-product-design": {
     "company_normalized": "gitlab",
     "first_seen": "2026-08-23T07:44:19.055453+00:00",
-    "last_seen": "2026-09-01T18:24:46.468100+00:00",
+    "last_seen": "2026-09-01T21:47:43.077784+00:00",
     "location": "Remote",
     "notified": true,
     "score": 81,
@@ -25522,7 +25632,7 @@
   "https://weworkremotely.com/remote-jobs/grafana-labs-associate-observability-architect-pst-remote": {
     "company_normalized": "grafana labs",
     "first_seen": "2026-08-23T07:44:19.670481+00:00",
-    "last_seen": "2026-09-01T18:24:46.468083+00:00",
+    "last_seen": "2026-09-01T21:47:43.077762+00:00",
     "location": "Remote",
     "notified": true,
     "score": 72,
@@ -25588,7 +25698,7 @@
   "https://weworkremotely.com/remote-jobs/launchdarkly-engineering-manager-experimentation": {
     "company_normalized": "launchdarkly",
     "first_seen": "2026-08-22T07:43:39.334968+00:00",
-    "last_seen": "2026-09-01T18:24:46.468115+00:00",
+    "last_seen": "2026-09-01T21:47:43.077804+00:00",
     "location": "Remote",
     "notified": true,
     "score": 69,
@@ -25621,7 +25731,7 @@
   "https://weworkremotely.com/remote-jobs/lemon-io-senior-react-full-stack-developer-6": {
     "company_normalized": "lemonio",
     "first_seen": "2026-08-27T19:53:12.713004+00:00",
-    "last_seen": "2026-09-01T18:24:46.468022+00:00",
+    "last_seen": "2026-09-01T21:47:43.077677+00:00",
     "location": "Remote",
     "notified": true,
     "score": 70,
@@ -25665,7 +25775,7 @@
   "https://weworkremotely.com/remote-jobs/mixpanel-customer-engineer": {
     "company_normalized": "mixpanel",
     "first_seen": "2026-08-31T13:30:15.331030+00:00",
-    "last_seen": "2026-09-01T18:24:46.467979+00:00",
+    "last_seen": "2026-09-01T21:47:43.077618+00:00",
     "location": "Remote",
     "notified": false,
     "score": 67,
@@ -25720,7 +25830,7 @@
   "https://weworkremotely.com/remote-jobs/onthegosystems-paid-ads-specialist": {
     "company_normalized": "onthegosystems",
     "first_seen": "2026-09-01T14:48:57.828835+00:00",
-    "last_seen": "2026-09-01T18:24:46.467933+00:00",
+    "last_seen": "2026-09-01T21:47:43.077554+00:00",
     "location": "Remote",
     "notified": false,
     "score": 70,
@@ -25940,7 +26050,7 @@
   "https://weworkremotely.com/remote-jobs/toptal-automation-engineer-uipath-for-innovative-ai-project": {
     "company_normalized": "toptal",
     "first_seen": "2026-08-26T14:57:40.307564+00:00",
-    "last_seen": "2026-09-01T18:24:46.468053+00:00",
+    "last_seen": "2026-09-01T21:47:43.077720+00:00",
     "location": "Remote",
     "notified": true,
     "score": 89,
@@ -26028,7 +26138,7 @@
   "https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-manager-data-platform": {
     "company_normalized": "zoominfo technologies",
     "first_seen": "2026-09-01T09:59:24.884959+00:00",
-    "last_seen": "2026-09-01T18:24:46.467949+00:00",
+    "last_seen": "2026-09-01T21:47:43.077575+00:00",
     "location": "Remote",
     "notified": true,
     "score": 75,

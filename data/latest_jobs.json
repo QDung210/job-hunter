@@ -108,6 +108,55 @@
   {
     "score": 91,
     "priority": "🔥 EXCEPTIONAL",
+    "title": "Migration Engineer - GitLab Dedicated",
+    "company": "gitlab",
+    "source": "greenhouse",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8710061002",
+    "posted_at": "2026-09-09T16:26:45-04:00",
+    "remote": true,
+    "location": "Remote, United States",
+    "salary": null,
+    "technical_matches": [
+      "agent orchestration",
+      "amazon web services",
+      "aws",
+      "python"
+    ],
+    "transferable_matches": [
+      "azure ← experience with amazon web services",
+      "dify ← experience with hermes agent",
+      "gcp ← experience with amazon web services",
+      "google cloud ← experience with amazon web services",
+      "otel ← experience with observability"
+    ],
+    "missing_skills": [
+      "go",
+      "kubernetes",
+      "rust",
+      "terraform"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "not specified",
+    "location_eligible": true,
+    "location_confidence": "high",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at gitlab with strong overlap in agent orchestration, python, aws, dify, otel.",
+    "recommended_action": "APPLY_NOW",
+    "response_probability": "HIGH",
+    "url_status": "ok",
+    "score_breakdown": {
+      "technical": 100,
+      "role": 84,
+      "remote": 100,
+      "freshness": 75,
+      "experience": 100,
+      "response": 100,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 89,
+    "priority": "🟢 HIGH MATCH",
     "title": "Senior Software Engineer, Agentic Ads Experience",
     "company": "reddit",
     "source": "greenhouse",
@@ -155,58 +204,68 @@
       "technical": 100,
       "role": 59,
       "remote": 100,
-      "freshness": 100,
+      "freshness": 90,
       "experience": 95,
       "response": 100,
       "compensation": 50
     }
   },
   {
-    "score": 91,
-    "priority": "🔥 EXCEPTIONAL",
-    "title": "Migration Engineer - GitLab Dedicated",
-    "company": "gitlab",
-    "source": "greenhouse",
-    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8710061002",
-    "posted_at": "2026-09-09T16:26:45-04:00",
-    "remote": true,
-    "location": "Remote, United States",
+    "score": 89,
+    "priority": "🟢 HIGH MATCH",
+    "title": "AI Engineer (m/w/d)",
+    "company": "adorsys GmbH",
+    "source": "arbeitnow",
+    "url": "https://www.arbeitnow.com/jobs/companies/adorsys-gmbh/ai-engineer-nurnberg-213617",
+    "posted_at": "2026-09-12T17:09:34+00:00",
+    "remote": false,
+    "location": "Nürnberg",
     "salary": null,
     "technical_matches": [
-      "agent orchestration",
-      "amazon web services",
       "aws",
-      "python"
+      "bedrock",
+      "claude",
+      "docker",
+      "langchain",
+      "langgraph",
+      "mcp",
+      "openai",
+      "python",
+      "rag"
     ],
     "transferable_matches": [
-      "azure ← experience with agentcore",
-      "dify ← experience with hermes agent",
-      "gcp ← experience with agentcore",
-      "google cloud ← experience with agentcore",
-      "otel ← experience with observability"
+      "autogen ← experience with hermes agent",
+      "aws bedrock ← experience with claude",
+      "crewai ← experience with hermes agent",
+      "gemini ← experience with claude",
+      "prompt engineering ← experience with pydantic"
     ],
     "missing_skills": [
-      "go",
+      "fine-tuning",
       "kubernetes",
-      "rust",
-      "terraform"
+      "mlflow",
+      "multimodal",
+      "nlp",
+      "retrieval",
+      "rlhf",
+      "sft"
     ],
     "hard_requirements_missing": [],
     "experience_required": "not specified",
     "location_eligible": true,
-    "location_confidence": "high",
+    "location_confidence": "low",
     "freshness_confidence": "known",
-    "reason": "Recently posted role at gitlab with strong overlap in agent orchestration, python, aws, dify, otel.",
+    "reason": "Recently posted role at adorsys GmbH with strong overlap in langgraph, langchain, mcp, crewai, autogen.",
     "recommended_action": "APPLY_NOW",
-    "response_probability": "HIGH",
+    "response_probability": "MEDIUM",
     "url_status": "ok",
     "score_breakdown": {
       "technical": 100,
-      "role": 84,
-      "remote": 100,
-      "freshness": 75,
+      "role": 100,
+      "remote": 55,
+      "freshness": 100,
       "experience": 100,
-      "response": 100,
+      "response": 60,
       "compensation": 50
     }
   },
@@ -406,9 +465,9 @@
       "rag"
     ],
     "transferable_matches": [
-      "azure ← experience with agentcore",
+      "azure ← experience with amazon web services",
       "dspy ← experience with hermes agent",
-      "gcp ← experience with agentcore",
+      "gcp ← experience with amazon web services",
       "hugging face ← experience with claude"
     ],
     "missing_skills": [
@@ -575,6 +634,116 @@
   {
     "score": 87,
     "priority": "🟢 HIGH MATCH",
+    "title": "Product Engineer (Backend/AI) @Briink",
+    "company": "Merantix",
+    "source": "arbeitnow",
+    "url": "https://www.arbeitnow.com/jobs/companies/merantix/product-engineer-backend-ai-at-briink-berlin-145032",
+    "posted_at": "2026-09-12T17:09:45+00:00",
+    "remote": false,
+    "location": "Berlin",
+    "salary": null,
+    "technical_matches": [
+      "ci/cd",
+      "fastapi",
+      "langchain",
+      "llm evaluation",
+      "observability",
+      "postgresql",
+      "python",
+      "rag",
+      "structured output"
+    ],
+    "transferable_matches": [
+      "langsmith ← experience with llm evaluation"
+    ],
+    "missing_skills": [
+      "java",
+      "postgres",
+      "reflection",
+      "retrieval",
+      "rust",
+      "tool use",
+      "typescript"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "not specified",
+    "location_eligible": true,
+    "location_confidence": "low",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at Merantix with strong overlap in langchain, rag, structured output, langsmith.",
+    "recommended_action": "APPLY_NOW",
+    "response_probability": "MEDIUM",
+    "url_status": "ok",
+    "score_breakdown": {
+      "technical": 100,
+      "role": 91,
+      "remote": 55,
+      "freshness": 100,
+      "experience": 100,
+      "response": 60,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 87,
+    "priority": "🟢 HIGH MATCH",
+    "title": "Senior Platform Engineer",
+    "company": "V7Labs.com",
+    "source": "arbeitnow",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/v7labscom/senior-platform-engineer-london-166593",
+    "posted_at": "2026-09-12T18:40:05+00:00",
+    "remote": false,
+    "location": "London",
+    "salary": null,
+    "technical_matches": [
+      "ai agents",
+      "aws",
+      "bedrock",
+      "ci/cd",
+      "claude",
+      "github actions",
+      "observability",
+      "python"
+    ],
+    "transferable_matches": [
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
+      "gemini ← experience with claude",
+      "gpt ← experience with claude",
+      "grafana ← experience with observability",
+      "prometheus ← experience with observability",
+      "transformers ← experience with claude",
+      "vertex ai ← experience with amazon web services"
+    ],
+    "missing_skills": [
+      "document ai",
+      "go",
+      "multimodal",
+      "rust",
+      "terraform"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "not specified",
+    "location_eligible": true,
+    "location_confidence": "low",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at V7Labs.com with strong overlap in ai agents, claude, observability, gpt, gemini.",
+    "recommended_action": "APPLY_NOW",
+    "response_probability": "MEDIUM",
+    "url_status": "unknown",
+    "score_breakdown": {
+      "technical": 100,
+      "role": 91,
+      "remote": 55,
+      "freshness": 100,
+      "experience": 100,
+      "response": 60,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 87,
+    "priority": "🟢 HIGH MATCH",
     "title": "Senior Backend Engineer - Databases - Loki Query  | Germany | Remote",
     "company": "grafanalabs",
     "source": "arbeitnow",
@@ -592,8 +761,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with agentcore",
-      "gcp ← experience with agentcore",
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
       "gemini ← experience with claude",
       "gpt ← experience with claude",
       "grafana ← experience with observability",
@@ -653,7 +822,7 @@
       "rag"
     ],
     "transferable_matches": [
-      "gcp ← experience with agentcore",
+      "gcp ← experience with amazon web services",
       "llama ← experience with claude"
     ],
     "missing_skills": [
@@ -688,6 +857,55 @@
   {
     "score": 86,
     "priority": "🟢 HIGH MATCH",
+    "title": "Senior Information Security Infrastructure Engineer - Security Architecture - InfoSec",
+    "company": "Elastic",
+    "source": "arbeitnow",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/elastic/senior-information-security-infrastructure-engineer-security-architecture-infosec-375393",
+    "posted_at": "2026-09-12T18:55:12+00:00",
+    "remote": false,
+    "location": "",
+    "salary": null,
+    "technical_matches": [
+      "github actions",
+      "observability",
+      "python"
+    ],
+    "transferable_matches": [
+      "dify ← experience with hermes agent",
+      "elasticsearch ← experience with qdrant",
+      "gcp ← experience with amazon web services",
+      "logging ← experience with observability",
+      "unstructured ← experience with llamaindex"
+    ],
+    "missing_skills": [
+      "api integration",
+      "kubernetes",
+      "rest api",
+      "rest apis",
+      "terraform"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "not specified",
+    "location_eligible": true,
+    "location_confidence": "low",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at Elastic with strong overlap in observability, python, github actions, dify, unstructured.",
+    "recommended_action": "APPLY_NOW",
+    "response_probability": "MEDIUM",
+    "url_status": "unknown",
+    "score_breakdown": {
+      "technical": 95,
+      "role": 93,
+      "remote": 55,
+      "freshness": 100,
+      "experience": 100,
+      "response": 60,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 86,
+    "priority": "🟢 HIGH MATCH",
     "title": "Senior Software Engineer - Node.js/TypeScript (x/f/m)",
     "company": "Doctolib",
     "source": "arbeitnow",
@@ -708,9 +926,9 @@
       "tool calling"
     ],
     "transferable_matches": [
-      "azure ← experience with agentcore",
+      "azure ← experience with amazon web services",
       "braintrust ← experience with llm evaluation",
-      "gcp ← experience with agentcore",
+      "gcp ← experience with amazon web services",
       "guardrails ← experience with pydantic",
       "prompt engineering ← experience with pydantic"
     ],
@@ -753,56 +971,6 @@
   {
     "score": 86,
     "priority": "🟢 HIGH MATCH",
-    "title": "DevOps Engineer Application Management Services (m/w/d)",
-    "company": "European IT Consultancy EITCO GmbH",
-    "source": "arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/european-it-consultancy-eitco-gmbh/devops-engineer-application-management-services-berlin-bonn-essen-254943",
-    "posted_at": "2026-09-11T17:09:49+00:00",
-    "remote": false,
-    "location": "Berlin/Bonn/Essen",
-    "salary": null,
-    "technical_matches": [
-      "ci/cd",
-      "docker",
-      "observability",
-      "postgresql"
-    ],
-    "transferable_matches": [
-      "grafana ← experience with observability",
-      "logging ← experience with observability",
-      "opentelemetry ← experience with observability",
-      "prometheus ← experience with observability"
-    ],
-    "missing_skills": [
-      "java",
-      "jenkins",
-      "kubernetes",
-      "postgres",
-      "spring boot",
-      "terraform"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "not specified",
-    "location_eligible": true,
-    "location_confidence": "low",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at European IT Consultancy EITCO GmbH with strong overlap in observability, postgresql, docker, opentelemetry, grafana.",
-    "recommended_action": "APPLY_NOW",
-    "response_probability": "MEDIUM",
-    "url_status": "ok",
-    "score_breakdown": {
-      "technical": 100,
-      "role": 93,
-      "remote": 55,
-      "freshness": 90,
-      "experience": 100,
-      "response": 60,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 86,
-    "priority": "🟢 HIGH MATCH",
     "title": "Backend Engineer - Platform - Stacks | Ireland | Remote",
     "company": "Grafana Labs",
     "source": "weworkremotely",
@@ -818,8 +986,8 @@
       "observability"
     ],
     "transferable_matches": [
-      "azure ← experience with agentcore",
-      "gcp ← experience with agentcore",
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
       "grafana ← experience with observability",
       "otel ← experience with observability",
       "together ai ← experience with claude"
@@ -925,8 +1093,8 @@
     "transferable_matches": [
       "agent evaluation ← experience with llm evaluation",
       "agno ← experience with hermes agent",
-      "azure ← experience with agentcore",
-      "gcp ← experience with agentcore",
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
       "guidance ← experience with pydantic",
       "tracing ← experience with observability"
     ],
@@ -960,52 +1128,6 @@
       "freshness": 35,
       "experience": 100,
       "response": 100,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 85,
-    "priority": "🟢 HIGH MATCH",
-    "title": "Senior Pipeline TD - Film 2D",
-    "company": "Framestore",
-    "source": "arbeitnow",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/framestore/remote-senior-pipeline-td-film-2d-london-448943",
-    "posted_at": "2026-09-11T18:30:05+00:00",
-    "remote": true,
-    "location": "Remote job",
-    "salary": null,
-    "technical_matches": [
-      "agentic ai",
-      "ci/cd",
-      "docker",
-      "fastapi",
-      "python",
-      "supervisor"
-    ],
-    "transferable_matches": [
-      "guidance ← experience with pydantic"
-    ],
-    "missing_skills": [
-      "api integration",
-      "document ai",
-      "sql"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "not specified",
-    "location_eligible": true,
-    "location_confidence": "high",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at Framestore with strong overlap in agentic ai, supervisor, python, guidance.",
-    "recommended_action": "APPLY_NOW",
-    "response_probability": "MEDIUM",
-    "url_status": "unknown",
-    "score_breakdown": {
-      "technical": 100,
-      "role": 40,
-      "remote": 100,
-      "freshness": 90,
-      "experience": 100,
-      "response": 60,
       "compensation": 50
     }
   },
@@ -1172,9 +1294,9 @@
       "rag"
     ],
     "transferable_matches": [
-      "azure ← experience with agentcore",
+      "azure ← experience with amazon web services",
       "dspy ← experience with hermes agent",
-      "gcp ← experience with agentcore",
+      "gcp ← experience with amazon web services",
       "hugging face ← experience with claude"
     ],
     "missing_skills": [
@@ -1222,9 +1344,9 @@
       "rag"
     ],
     "transferable_matches": [
-      "azure ← experience with agentcore",
+      "azure ← experience with amazon web services",
       "dspy ← experience with hermes agent",
-      "gcp ← experience with agentcore",
+      "gcp ← experience with amazon web services",
       "hugging face ← experience with claude"
     ],
     "missing_skills": [
@@ -1326,8 +1448,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with agentcore",
-      "gcp ← experience with agentcore"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "dbt",
@@ -1373,8 +1495,8 @@
       "python"
     ],
     "transferable_matches": [
-      "ecs ← experience with agentcore",
-      "eks ← experience with agentcore",
+      "ecs ← experience with amazon web services",
+      "eks ← experience with amazon web services",
       "guardrails ← experience with pydantic",
       "guidance ← experience with pydantic"
     ],
@@ -1426,7 +1548,7 @@
       "metrics ← experience with observability",
       "prompt engineering ← experience with pydantic",
       "together ai ← experience with claude",
-      "unstructured ← experience with lightrag"
+      "unstructured ← experience with llamaindex"
     ],
     "missing_skills": [
       "classification",
@@ -1717,8 +1839,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with agentcore",
-      "gcp ← experience with agentcore",
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
       "grafana ← experience with observability",
       "logging ← experience with observability",
       "metrics ← experience with observability",
@@ -1768,8 +1890,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with agentcore",
-      "gcp ← experience with agentcore",
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
       "logging ← experience with observability",
       "together ai ← experience with claude"
     ],
@@ -1793,6 +1915,52 @@
       "freshness": 55,
       "experience": 95,
       "response": 100,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 83,
+    "priority": "🟢 HIGH MATCH",
+    "title": "Senior Pipeline TD - Film 2D",
+    "company": "Framestore",
+    "source": "arbeitnow",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/framestore/remote-senior-pipeline-td-film-2d-london-448943",
+    "posted_at": "2026-09-11T18:30:05+00:00",
+    "remote": true,
+    "location": "Remote job",
+    "salary": null,
+    "technical_matches": [
+      "agentic ai",
+      "ci/cd",
+      "docker",
+      "fastapi",
+      "python",
+      "supervisor"
+    ],
+    "transferable_matches": [
+      "guidance ← experience with pydantic"
+    ],
+    "missing_skills": [
+      "api integration",
+      "document ai",
+      "sql"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "not specified",
+    "location_eligible": true,
+    "location_confidence": "high",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at Framestore with strong overlap in agentic ai, supervisor, python, guidance.",
+    "recommended_action": "APPLY_NOW",
+    "response_probability": "MEDIUM",
+    "url_status": "unknown",
+    "score_breakdown": {
+      "technical": 100,
+      "role": 40,
+      "remote": 100,
+      "freshness": 75,
+      "experience": 100,
+      "response": 60,
       "compensation": 50
     }
   },
@@ -1922,7 +2090,7 @@
       "guidance ← experience with pydantic",
       "metrics ← experience with observability",
       "prompt engineering ← experience with pydantic",
-      "unstructured ← experience with lightrag"
+      "unstructured ← experience with llamaindex"
     ],
     "missing_skills": [
       "distributed systems",
@@ -1952,100 +2120,6 @@
       "freshness": 55,
       "experience": 100,
       "response": 100,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 82,
-    "priority": "🟢 HIGH MATCH",
-    "title": "Freelance Cloud / Infrastructure Engineer (m/w/d) - DevOps | Platform | Security",
-    "company": "Nexgate IT GmbH",
-    "source": "arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/nexgate-it-gmbh/freelance-cloud-infrastructure-engineer-devops-platform-security-bad-homburg-447986",
-    "posted_at": "2026-09-12T12:00:22+00:00",
-    "remote": true,
-    "location": "Bad Homburg",
-    "salary": null,
-    "technical_matches": [
-      "aws",
-      "ci/cd",
-      "docker"
-    ],
-    "transferable_matches": [
-      "azure ← experience with agentcore",
-      "google cloud ← experience with agentcore"
-    ],
-    "missing_skills": [
-      "distributed systems",
-      "kubernetes",
-      "terraform"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "not specified",
-    "location_eligible": true,
-    "location_confidence": "high",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at Nexgate IT GmbH with strong overlap in docker, ci/cd, aws, azure, google cloud.",
-    "recommended_action": "APPLY_NOW",
-    "response_probability": "UNKNOWN",
-    "url_status": "ok",
-    "score_breakdown": {
-      "technical": 65,
-      "role": 93,
-      "remote": 100,
-      "freshness": 100,
-      "experience": 100,
-      "response": 50,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 82,
-    "priority": "🟢 HIGH MATCH",
-    "title": "Full Stack Engineer",
-    "company": "Kpler",
-    "source": "arbeitnow",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/kpler/full-stack-engineer-united-kingdom-2851",
-    "posted_at": "2026-09-11T18:05:08+00:00",
-    "remote": false,
-    "location": "United Kingdom",
-    "salary": null,
-    "technical_matches": [
-      "amazon web services",
-      "aws",
-      "ci/cd",
-      "docker",
-      "observability"
-    ],
-    "transferable_matches": [
-      "logging ← experience with observability"
-    ],
-    "missing_skills": [
-      "java",
-      "javascript",
-      "kubernetes",
-      "node.js",
-      "rest api",
-      "rest apis",
-      "sql",
-      "typescript"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "3+ years required",
-    "location_eligible": true,
-    "location_confidence": "low",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at Kpler with strong overlap in observability, docker, ci/cd, logging.",
-    "recommended_action": "APPLY_NOW",
-    "response_probability": "MEDIUM",
-    "url_status": "unknown",
-    "score_breakdown": {
-      "technical": 85,
-      "role": 100,
-      "remote": 55,
-      "freshness": 90,
-      "experience": 100,
-      "response": 60,
       "compensation": 50
     }
   },
@@ -2122,9 +2196,9 @@
     ],
     "transferable_matches": [
       "agno ← experience with hermes agent",
-      "gcp ← experience with agentcore",
-      "gke ← experience with agentcore",
-      "google cloud ← experience with agentcore",
+      "gcp ← experience with amazon web services",
+      "gke ← experience with amazon web services",
+      "google cloud ← experience with amazon web services",
       "guidance ← experience with pydantic"
     ],
     "missing_skills": [
@@ -2176,9 +2250,9 @@
       "python"
     ],
     "transferable_matches": [
-      "cloud run ← experience with agentcore",
+      "cloud run ← experience with amazon web services",
       "dify ← experience with hermes agent",
-      "gcp ← experience with agentcore",
+      "gcp ← experience with amazon web services",
       "gemini ← experience with claude",
       "guardrails ← experience with pydantic",
       "logging ← experience with observability"
@@ -2224,9 +2298,9 @@
       "rag"
     ],
     "transferable_matches": [
-      "azure ← experience with agentcore",
+      "azure ← experience with amazon web services",
       "dspy ← experience with hermes agent",
-      "gcp ← experience with agentcore",
+      "gcp ← experience with amazon web services",
       "hugging face ← experience with claude"
     ],
     "missing_skills": [
@@ -2274,9 +2348,9 @@
       "rag"
     ],
     "transferable_matches": [
-      "azure ← experience with agentcore",
+      "azure ← experience with amazon web services",
       "dspy ← experience with hermes agent",
-      "gcp ← experience with agentcore",
+      "gcp ← experience with amazon web services",
       "hugging face ← experience with claude"
     ],
     "missing_skills": [
@@ -2324,9 +2398,9 @@
       "rag"
     ],
     "transferable_matches": [
-      "azure ← experience with agentcore",
+      "azure ← experience with amazon web services",
       "dspy ← experience with hermes agent",
-      "gcp ← experience with agentcore",
+      "gcp ← experience with amazon web services",
       "hugging face ← experience with claude"
     ],
     "missing_skills": [
@@ -2387,8 +2461,8 @@
     ],
     "transferable_matches": [
       "autogen ← experience with hermes agent",
-      "azure ← experience with agentcore",
-      "gcp ← experience with agentcore",
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
       "guardrails ← experience with pydantic",
       "ragas ← experience with llm evaluation",
       "trulens ← experience with llm evaluation"
@@ -2455,8 +2529,8 @@
       "observability"
     ],
     "transferable_matches": [
-      "gcp ← experience with agentcore",
-      "google cloud ← experience with agentcore"
+      "gcp ← experience with amazon web services",
+      "google cloud ← experience with amazon web services"
     ],
     "missing_skills": [
       "embedding",
@@ -2544,7 +2618,7 @@
     ],
     "transferable_matches": [
       "agno ← experience with hermes agent",
-      "gcp ← experience with agentcore"
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "document ai",
@@ -2588,9 +2662,9 @@
       "aws"
     ],
     "transferable_matches": [
-      "azure ← experience with agentcore",
-      "gcp ← experience with agentcore",
-      "google cloud ← experience with agentcore",
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
+      "google cloud ← experience with amazon web services",
       "guidance ← experience with pydantic"
     ],
     "missing_skills": [
@@ -2636,10 +2710,10 @@
     "transferable_matches": [
       "agno ← experience with hermes agent",
       "arize ← experience with llm evaluation",
-      "azure ← experience with agentcore",
+      "azure ← experience with amazon web services",
       "datadog ← experience with observability",
       "elasticsearch ← experience with qdrant",
-      "gcp ← experience with agentcore",
+      "gcp ← experience with amazon web services",
       "grafana ← experience with observability",
       "logging ← experience with observability",
       "metrics ← experience with observability",
@@ -2694,8 +2768,8 @@
       "tool calling"
     ],
     "transferable_matches": [
-      "azure ← experience with agentcore",
-      "gcp ← experience with agentcore",
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
       "guardrails ← experience with pydantic",
       "hugging face ← experience with claude"
     ],
@@ -2746,8 +2820,8 @@
       "rag"
     ],
     "transferable_matches": [
-      "azure ← experience with agentcore",
-      "gcp ← experience with agentcore",
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
       "guidance ← experience with pydantic"
     ],
     "missing_skills": [
@@ -2803,7 +2877,7 @@
       "guidance ← experience with pydantic",
       "metrics ← experience with observability",
       "prompt engineering ← experience with pydantic",
-      "unstructured ← experience with lightrag"
+      "unstructured ← experience with llamaindex"
     ],
     "missing_skills": [
       "distributed systems",
@@ -2859,7 +2933,7 @@
       "guidance ← experience with pydantic",
       "metrics ← experience with observability",
       "prompt engineering ← experience with pydantic",
-      "unstructured ← experience with lightrag"
+      "unstructured ← experience with llamaindex"
     ],
     "missing_skills": [
       "distributed systems",
@@ -2915,7 +2989,7 @@
       "guidance ← experience with pydantic",
       "metrics ← experience with observability",
       "prompt engineering ← experience with pydantic",
-      "unstructured ← experience with lightrag"
+      "unstructured ← experience with llamaindex"
     ],
     "missing_skills": [
       "distributed systems",
@@ -2951,47 +3025,92 @@
   {
     "score": 80,
     "priority": "🟡 GOOD MATCH",
-    "title": "Database Engineer (DBA)",
-    "company": "Thgingenuity",
+    "title": "Freelance Cloud / Infrastructure Engineer (m/w/d) - DevOps | Platform | Security",
+    "company": "Nexgate IT GmbH",
     "source": "arbeitnow",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/thgingenuity/database-engineer-dba-manchester-168361",
-    "posted_at": "2026-09-11T18:55:13+00:00",
-    "remote": false,
-    "location": "Manchester",
+    "url": "https://www.arbeitnow.com/jobs/companies/nexgate-it-gmbh/freelance-cloud-infrastructure-engineer-devops-platform-security-bad-homburg-447986",
+    "posted_at": "2026-09-12T12:00:22+00:00",
+    "remote": true,
+    "location": "Bad Homburg",
     "salary": null,
     "technical_matches": [
+      "aws",
       "ci/cd",
-      "postgresql",
-      "python"
+      "docker"
     ],
     "transferable_matches": [
-      "gcp ← experience with agentcore",
-      "google cloud ← experience with agentcore",
-      "grafana ← experience with observability",
-      "prometheus ← experience with observability"
+      "azure ← experience with amazon web services",
+      "google cloud ← experience with amazon web services"
     ],
     "missing_skills": [
-      "document ai",
-      "go",
-      "kafka",
-      "postgres",
-      "sql",
+      "distributed systems",
+      "kubernetes",
       "terraform"
     ],
     "hard_requirements_missing": [],
     "experience_required": "not specified",
     "location_eligible": true,
+    "location_confidence": "high",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at Nexgate IT GmbH with strong overlap in docker, ci/cd, aws, azure, google cloud.",
+    "recommended_action": "REVIEW_AND_APPLY",
+    "response_probability": "UNKNOWN",
+    "url_status": "ok",
+    "score_breakdown": {
+      "technical": 65,
+      "role": 93,
+      "remote": 100,
+      "freshness": 90,
+      "experience": 100,
+      "response": 50,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 80,
+    "priority": "🟡 GOOD MATCH",
+    "title": "Full Stack Engineer",
+    "company": "Kpler",
+    "source": "arbeitnow",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/kpler/full-stack-engineer-united-kingdom-2851",
+    "posted_at": "2026-09-11T18:05:08+00:00",
+    "remote": false,
+    "location": "United Kingdom",
+    "salary": null,
+    "technical_matches": [
+      "amazon web services",
+      "aws",
+      "ci/cd",
+      "docker",
+      "observability"
+    ],
+    "transferable_matches": [
+      "logging ← experience with observability"
+    ],
+    "missing_skills": [
+      "java",
+      "javascript",
+      "kubernetes",
+      "node.js",
+      "rest api",
+      "rest apis",
+      "sql",
+      "typescript"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "3+ years required",
+    "location_eligible": true,
     "location_confidence": "low",
     "freshness_confidence": "known",
-    "reason": "Recently posted role at Thgingenuity with strong overlap in python, postgresql, ci/cd, grafana, prometheus.",
+    "reason": "Recently posted role at Kpler with strong overlap in observability, docker, ci/cd, logging.",
     "recommended_action": "REVIEW_AND_APPLY",
     "response_probability": "MEDIUM",
     "url_status": "unknown",
     "score_breakdown": {
       "technical": 85,
-      "role": 84,
+      "role": 100,
       "remote": 55,
-      "freshness": 90,
+      "freshness": 75,
       "experience": 100,
       "response": 60,
       "compensation": 50
@@ -3017,11 +3136,11 @@
       "python"
     ],
     "transferable_matches": [
-      "cloudwatch ← experience with observability",
+      "cloudwatch ← experience with amazon web services",
       "grafana ← experience with observability",
       "pydantic ai ← experience with hermes agent",
       "pydanticai ← experience with hermes agent",
-      "s3 ← experience with agentcore"
+      "s3 ← experience with amazon web services"
     ],
     "missing_skills": [
       "api integration",
@@ -3068,8 +3187,8 @@
       "observability"
     ],
     "transferable_matches": [
-      "azure ← experience with agentcore",
-      "google cloud ← experience with agentcore",
+      "azure ← experience with amazon web services",
+      "google cloud ← experience with amazon web services",
       "logging ← experience with observability",
       "tracing ← experience with observability"
     ],
@@ -3118,7 +3237,7 @@
       "rag"
     ],
     "transferable_matches": [
-      "gcp ← experience with agentcore",
+      "gcp ← experience with amazon web services",
       "guardrails ← experience with pydantic",
       "transformers ← experience with claude",
       "vllm ← experience with claude"
@@ -3212,8 +3331,8 @@
     ],
     "transferable_matches": [
       "agno ← experience with hermes agent",
-      "azure ← experience with agentcore",
-      "gcp ← experience with agentcore",
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
       "logging ← experience with observability",
       "metrics ← experience with observability",
       "tracing ← experience with observability"
@@ -3264,7 +3383,7 @@
       "retrieval augmented generation"
     ],
     "transferable_matches": [
-      "sagemaker ← experience with agentcore"
+      "sagemaker ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -3313,7 +3432,7 @@
       "retrieval augmented generation"
     ],
     "transferable_matches": [
-      "sagemaker ← experience with agentcore"
+      "sagemaker ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -3344,55 +3463,6 @@
   {
     "score": 79,
     "priority": "🟡 GOOD MATCH",
-    "title": "Senior Machine Learning Systems Engineer, Ads ML Experience Platform",
-    "company": "reddit",
-    "source": "greenhouse",
-    "url": "https://job-boards.greenhouse.io/reddit/jobs/8112967",
-    "posted_at": "2026-09-12T08:18:11-04:00",
-    "remote": true,
-    "location": "Remote - United States",
-    "salary": null,
-    "technical_matches": [
-      "agent orchestration",
-      "agentic ai",
-      "mcp"
-    ],
-    "transferable_matches": [
-      "arize ← experience with llm evaluation",
-      "otel ← experience with observability"
-    ],
-    "missing_skills": [
-      "a2a",
-      "airflow",
-      "distributed systems",
-      "human-in-the-loop",
-      "kubeflow",
-      "ray",
-      "rust",
-      "spark"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "5+ years required",
-    "location_eligible": true,
-    "location_confidence": "high",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at reddit with strong overlap in agentic ai, agent orchestration, mcp, arize, otel.",
-    "recommended_action": "REVIEW_AND_APPLY",
-    "response_probability": "MEDIUM",
-    "url_status": "ok",
-    "score_breakdown": {
-      "technical": 65,
-      "role": 78,
-      "remote": 100,
-      "freshness": 100,
-      "experience": 95,
-      "response": 60,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 79,
-    "priority": "🟡 GOOD MATCH",
     "title": "Engineering Manager, Platform Security",
     "company": "discord",
     "source": "greenhouse",
@@ -3409,7 +3479,7 @@
       "python"
     ],
     "transferable_matches": [
-      "gcp ← experience with agentcore"
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "kubernetes",
@@ -3737,8 +3807,8 @@
     ],
     "transferable_matches": [
       "agno ← experience with hermes agent",
-      "azure ← experience with agentcore",
-      "gcp ← experience with agentcore",
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
       "guardrails ← experience with pydantic"
     ],
     "missing_skills": [
@@ -3788,9 +3858,9 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with agentcore",
+      "azure ← experience with amazon web services",
       "datadog ← experience with observability",
-      "gcp ← experience with agentcore",
+      "gcp ← experience with amazon web services",
       "guidance ← experience with pydantic",
       "logging ← experience with observability",
       "metrics ← experience with observability",
@@ -3841,8 +3911,8 @@
       "rag"
     ],
     "transferable_matches": [
-      "azure ← experience with agentcore",
-      "gcp ← experience with agentcore",
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
       "guardrails ← experience with pydantic"
     ],
     "missing_skills": [
@@ -3892,8 +3962,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with agentcore",
-      "gcp ← experience with agentcore"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "distributed systems",
@@ -3947,7 +4017,7 @@
       "guidance ← experience with pydantic",
       "metrics ← experience with observability",
       "prompt engineering ← experience with pydantic",
-      "unstructured ← experience with lightrag"
+      "unstructured ← experience with llamaindex"
     ],
     "missing_skills": [
       "distributed systems",
@@ -4003,7 +4073,7 @@
       "guidance ← experience with pydantic",
       "metrics ← experience with observability",
       "prompt engineering ← experience with pydantic",
-      "unstructured ← experience with lightrag"
+      "unstructured ← experience with llamaindex"
     ],
     "missing_skills": [
       "distributed systems",
@@ -4059,7 +4129,7 @@
       "guidance ← experience with pydantic",
       "metrics ← experience with observability",
       "prompt engineering ← experience with pydantic",
-      "unstructured ← experience with lightrag"
+      "unstructured ← experience with llamaindex"
     ],
     "missing_skills": [
       "distributed systems",
@@ -4115,7 +4185,7 @@
       "guidance ← experience with pydantic",
       "metrics ← experience with observability",
       "prompt engineering ← experience with pydantic",
-      "unstructured ← experience with lightrag"
+      "unstructured ← experience with llamaindex"
     ],
     "missing_skills": [
       "distributed systems",
@@ -4171,7 +4241,7 @@
       "guidance ← experience with pydantic",
       "metrics ← experience with observability",
       "prompt engineering ← experience with pydantic",
-      "unstructured ← experience with lightrag"
+      "unstructured ← experience with llamaindex"
     ],
     "missing_skills": [
       "distributed systems",
@@ -4227,7 +4297,7 @@
       "guidance ← experience with pydantic",
       "metrics ← experience with observability",
       "prompt engineering ← experience with pydantic",
-      "unstructured ← experience with lightrag"
+      "unstructured ← experience with llamaindex"
     ],
     "missing_skills": [
       "distributed systems",
@@ -4448,8 +4518,8 @@
       "supervisor"
     ],
     "transferable_matches": [
-      "azure ← experience with agentcore",
-      "google cloud ← experience with agentcore",
+      "azure ← experience with amazon web services",
+      "google cloud ← experience with amazon web services",
       "otel ← experience with observability"
     ],
     "missing_skills": [
@@ -4578,6 +4648,55 @@
   {
     "score": 78,
     "priority": "🟡 GOOD MATCH",
+    "title": "Senior Machine Learning Systems Engineer, Ads ML Experience Platform",
+    "company": "reddit",
+    "source": "greenhouse",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/8112967",
+    "posted_at": "2026-09-12T08:18:11-04:00",
+    "remote": true,
+    "location": "Remote - United States",
+    "salary": null,
+    "technical_matches": [
+      "agent orchestration",
+      "agentic ai",
+      "mcp"
+    ],
+    "transferable_matches": [
+      "arize ← experience with llm evaluation",
+      "otel ← experience with observability"
+    ],
+    "missing_skills": [
+      "a2a",
+      "airflow",
+      "distributed systems",
+      "human-in-the-loop",
+      "kubeflow",
+      "ray",
+      "rust",
+      "spark"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "5+ years required",
+    "location_eligible": true,
+    "location_confidence": "high",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at reddit with strong overlap in agentic ai, agent orchestration, mcp, arize, otel.",
+    "recommended_action": "REVIEW_AND_APPLY",
+    "response_probability": "MEDIUM",
+    "url_status": "ok",
+    "score_breakdown": {
+      "technical": 65,
+      "role": 78,
+      "remote": 100,
+      "freshness": 90,
+      "experience": 95,
+      "response": 60,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 78,
+    "priority": "🟡 GOOD MATCH",
     "title": "Senior Manager, Product Management: Agentic Software Delivery",
     "company": "gitlab",
     "source": "greenhouse",
@@ -4692,10 +4811,10 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with agentcore",
-      "cloudwatch ← experience with observability",
-      "gcp ← experience with agentcore",
-      "google cloud ← experience with agentcore",
+      "azure ← experience with amazon web services",
+      "cloudwatch ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
+      "google cloud ← experience with amazon web services",
       "guidance ← experience with pydantic"
     ],
     "missing_skills": [
@@ -4744,7 +4863,7 @@
       "tool calling"
     ],
     "transferable_matches": [
-      "gcp ← experience with agentcore",
+      "gcp ← experience with amazon web services",
       "prompt templates ← experience with pydantic",
       "sglang ← experience with claude",
       "tensorrt-llm ← experience with claude",
@@ -4796,8 +4915,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with agentcore",
-      "gcp ← experience with agentcore",
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
       "golden dataset ← experience with llm evaluation",
       "guardrails ← experience with pydantic",
       "llm-as-a-judge ← experience with llm evaluation",
@@ -4853,7 +4972,7 @@
       "python"
     ],
     "transferable_matches": [
-      "google cloud ← experience with agentcore"
+      "google cloud ← experience with amazon web services"
     ],
     "missing_skills": [
       "distributed systems",
@@ -4991,8 +5110,8 @@
       "openai"
     ],
     "transferable_matches": [
-      "azure ← experience with agentcore",
-      "gcp ← experience with agentcore"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "agent workflows",
@@ -5041,13 +5160,13 @@
     ],
     "transferable_matches": [
       "datadog ← experience with observability",
-      "eks ← experience with agentcore",
-      "google cloud ← experience with agentcore",
+      "eks ← experience with amazon web services",
+      "google cloud ← experience with amazon web services",
       "grafana ← experience with observability",
       "guidance ← experience with pydantic",
       "otel ← experience with observability",
       "prometheus ← experience with observability",
-      "s3 ← experience with agentcore"
+      "s3 ← experience with amazon web services"
     ],
     "missing_skills": [
       "classification",
@@ -5092,12 +5211,12 @@
       "knowledge graph"
     ],
     "transferable_matches": [
-      "azure ← experience with agentcore",
-      "gcp ← experience with agentcore",
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
       "guidance ← experience with pydantic",
       "metrics ← experience with observability",
       "otel ← experience with observability",
-      "unstructured ← experience with lightrag"
+      "unstructured ← experience with llamaindex"
     ],
     "missing_skills": [
       "document ai",
@@ -5141,7 +5260,7 @@
       "python"
     ],
     "transferable_matches": [
-      "gcp ← experience with agentcore"
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "autonomous agents",
@@ -5233,7 +5352,7 @@
       "python"
     ],
     "transferable_matches": [
-      "gcp ← experience with agentcore",
+      "gcp ← experience with amazon web services",
       "logging ← experience with observability",
       "together ai ← experience with claude"
     ],
@@ -5512,8 +5631,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with agentcore",
-      "gcp ← experience with agentcore"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -5560,11 +5679,11 @@
       "python"
     ],
     "transferable_matches": [
-      "aks ← experience with agentcore",
-      "azure ← experience with agentcore",
+      "aks ← experience with amazon web services",
+      "azure ← experience with amazon web services",
       "datadog ← experience with observability",
-      "eks ← experience with agentcore",
-      "gcp ← experience with agentcore",
+      "eks ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
       "guidance ← experience with pydantic",
       "logging ← experience with observability",
       "metrics ← experience with observability",
@@ -5615,8 +5734,8 @@
     ],
     "transferable_matches": [
       "agno ← experience with hermes agent",
-      "azure ← experience with agentcore",
-      "gcp ← experience with agentcore",
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
       "guardrails ← experience with pydantic"
     ],
     "missing_skills": [
@@ -5762,7 +5881,7 @@
       "python"
     ],
     "transferable_matches": [
-      "ecs ← experience with agentcore",
+      "ecs ← experience with amazon web services",
       "instructor ← experience with pydantic",
       "otel ← experience with observability",
       "together ai ← experience with claude"
@@ -5810,8 +5929,8 @@
       "redis"
     ],
     "transferable_matches": [
-      "azure ← experience with agentcore",
-      "google cloud ← experience with agentcore",
+      "azure ← experience with amazon web services",
+      "google cloud ← experience with amazon web services",
       "logging ← experience with observability",
       "otel ← experience with observability"
     ],
@@ -5845,49 +5964,49 @@
   {
     "score": 77,
     "priority": "🟡 GOOD MATCH",
-    "title": "Senior Data Engineer - Real time analytics",
-    "company": "Aircall",
+    "title": "Database Engineer (DBA)",
+    "company": "Thgingenuity",
     "source": "arbeitnow",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/aircall/senior-data-engineer-real-time-analytics-london-office-177011",
-    "posted_at": "2026-09-11T18:25:12+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/thgingenuity/database-engineer-dba-manchester-168361",
+    "posted_at": "2026-09-11T18:55:13+00:00",
     "remote": false,
-    "location": "London Office",
+    "location": "Manchester",
     "salary": null,
     "technical_matches": [
-      "aws",
+      "ci/cd",
+      "postgresql",
       "python"
     ],
     "transferable_matches": [
-      "eks ← experience with agentcore",
-      "guidance ← experience with pydantic",
-      "s3 ← experience with agentcore",
-      "together ai ← experience with claude",
-      "unstructured ← experience with lightrag"
+      "gcp ← experience with amazon web services",
+      "google cloud ← experience with amazon web services",
+      "grafana ← experience with observability",
+      "prometheus ← experience with observability"
     ],
     "missing_skills": [
-      "airflow",
+      "document ai",
       "go",
       "kafka",
-      "rust",
+      "postgres",
       "sql",
-      "typescript"
+      "terraform"
     ],
     "hard_requirements_missing": [],
-    "experience_required": "5+ years required",
+    "experience_required": "not specified",
     "location_eligible": true,
     "location_confidence": "low",
     "freshness_confidence": "known",
-    "reason": "Recently posted role at Aircall with strong overlap in python, aws, unstructured, together ai.",
+    "reason": "Recently posted role at Thgingenuity with strong overlap in python, postgresql, ci/cd, grafana, prometheus.",
     "recommended_action": "REVIEW_AND_APPLY",
-    "response_probability": "UNKNOWN",
+    "response_probability": "MEDIUM",
     "url_status": "unknown",
     "score_breakdown": {
-      "technical": 80,
+      "technical": 85,
       "role": 84,
       "remote": 55,
-      "freshness": 90,
-      "experience": 95,
-      "response": 50,
+      "freshness": 75,
+      "experience": 100,
+      "response": 60,
       "compensation": 50
     }
   },
@@ -6002,8 +6121,8 @@
       "docker"
     ],
     "transferable_matches": [
-      "azure ← experience with agentcore",
-      "gcp ← experience with agentcore",
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
       "guidance ← experience with pydantic",
       "together ai ← experience with claude"
     ],
@@ -6143,9 +6262,9 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with agentcore",
+      "azure ← experience with amazon web services",
       "dify ← experience with hermes agent",
-      "gcp ← experience with agentcore"
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "dynamodb",
@@ -6196,8 +6315,8 @@
     ],
     "transferable_matches": [
       "agno ← experience with hermes agent",
-      "azure ← experience with agentcore",
-      "gcp ← experience with agentcore"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "kubernetes",
@@ -6244,8 +6363,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with agentcore",
-      "gcp ← experience with agentcore"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "distributed systems",
@@ -6296,8 +6415,8 @@
       "retrieval augmented generation"
     ],
     "transferable_matches": [
-      "azure ← experience with agentcore",
-      "gcp ← experience with agentcore",
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
       "guardrails ← experience with pydantic",
       "prompt engineering ← experience with pydantic"
     ],
@@ -6429,7 +6548,7 @@
     "company": "Nexgate IT GmbH",
     "source": "arbeitnow",
     "url": "https://www.arbeitnow.com/jobs/companies/nexgate-it-gmbh/freelance-software-data-ai-engineer-development-data-ai-bad-homburg-260868",
-    "posted_at": "2026-09-12T12:00:24+00:00",
+    "posted_at": "2026-09-12T16:17:25+00:00",
     "remote": true,
     "location": "Bad Homburg",
     "salary": null,
@@ -6474,53 +6593,6 @@
   {
     "score": 76,
     "priority": "🟡 GOOD MATCH",
-    "title": "Senior Software Developer (JCP Core Foundation Licensing and Quotation)",
-    "company": "jetbrains",
-    "source": "arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/jetbrains/remote-senior-software-developer-jcp-core-foundation-licensing-and-quotation-326822",
-    "posted_at": "2026-09-12T11:55:09+00:00",
-    "remote": false,
-    "location": "Berlin; Munich; Remote",
-    "salary": null,
-    "technical_matches": [
-      "observability",
-      "postgresql"
-    ],
-    "transferable_matches": [
-      "agno ← experience with hermes agent",
-      "metrics ← experience with observability",
-      "otel ← experience with observability",
-      "traces ← experience with observability"
-    ],
-    "missing_skills": [
-      "distributed systems",
-      "java",
-      "kafka",
-      "postgres",
-      "rust"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "not specified",
-    "location_eligible": true,
-    "location_confidence": "low",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at jetbrains with strong overlap in observability, postgresql, agno, otel.",
-    "recommended_action": "REVIEW_AND_APPLY",
-    "response_probability": "UNKNOWN",
-    "url_status": "ok",
-    "score_breakdown": {
-      "technical": 70,
-      "role": 85,
-      "remote": 55,
-      "freshness": 100,
-      "experience": 100,
-      "response": 50,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 76,
-    "priority": "🟡 GOOD MATCH",
     "title": "Machine Learning Ops Engineer - Personalization (m|w|d)",
     "company": "idealo internet GmbH",
     "source": "arbeitnow",
@@ -6536,7 +6608,7 @@
       "python"
     ],
     "transferable_matches": [
-      "sagemaker ← experience with agentcore"
+      "sagemaker ← experience with amazon web services"
     ],
     "missing_skills": [
       "embedding",
@@ -6723,7 +6795,7 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with agentcore"
+      "azure ← experience with amazon web services"
     ],
     "missing_skills": [
       "document ai",
@@ -6755,53 +6827,6 @@
   {
     "score": 75,
     "priority": "🟡 GOOD MATCH",
-    "title": "Staff Backend Engineer, Database Automation (Go)",
-    "company": "gitlab",
-    "source": "greenhouse",
-    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8770702002",
-    "posted_at": "2026-09-09T14:06:57-04:00",
-    "remote": true,
-    "location": "Remote, Canada; Remote, United States",
-    "salary": null,
-    "technical_matches": [
-      "agent orchestration",
-      "ai agents",
-      "postgresql"
-    ],
-    "transferable_matches": [
-      "cohere ← experience with claude",
-      "guidance ← experience with pydantic"
-    ],
-    "missing_skills": [
-      "document ai",
-      "go",
-      "kubernetes",
-      "postgres",
-      "rust",
-      "sql"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "not specified",
-    "location_eligible": true,
-    "location_confidence": "high",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at gitlab with strong overlap in ai agents, agent orchestration, postgresql, cohere, guidance.",
-    "recommended_action": "REVIEW_AND_APPLY",
-    "response_probability": "MEDIUM",
-    "url_status": "ok",
-    "score_breakdown": {
-      "technical": 65,
-      "role": 68,
-      "remote": 100,
-      "freshness": 75,
-      "experience": 100,
-      "response": 60,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 75,
-    "priority": "🟡 GOOD MATCH",
     "title": "Customer Engineer, Korea",
     "company": "cloudflare",
     "source": "greenhouse",
@@ -6822,7 +6847,7 @@
       "guidance ← experience with pydantic",
       "metrics ← experience with observability",
       "prompt engineering ← experience with pydantic",
-      "unstructured ← experience with lightrag"
+      "unstructured ← experience with llamaindex"
     ],
     "missing_skills": [
       "distributed systems",
@@ -6873,9 +6898,9 @@
       "postgresql"
     ],
     "transferable_matches": [
-      "azure ← experience with agentcore",
+      "azure ← experience with amazon web services",
       "elasticsearch ← experience with qdrant",
-      "gcp ← experience with agentcore",
+      "gcp ← experience with amazon web services",
       "grafana ← experience with observability",
       "prometheus ← experience with observability"
     ],
@@ -6950,29 +6975,31 @@
   {
     "score": 75,
     "priority": "🟡 GOOD MATCH",
-    "title": "Senior AI Engineer, Location AI",
-    "company": "Mapbox",
+    "title": "Senior Data Engineer - Real time analytics",
+    "company": "Aircall",
     "source": "arbeitnow",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/mapbox/senior-ai-engineer-location-ai-mapbox-uk-263919",
-    "posted_at": "2026-09-11T21:40:06+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/aircall/senior-data-engineer-real-time-analytics-london-office-177011",
+    "posted_at": "2026-09-11T18:25:12+00:00",
     "remote": false,
-    "location": "Mapbox UK",
+    "location": "London Office",
     "salary": null,
     "technical_matches": [
-      "agent orchestration",
-      "mcp",
-      "python",
-      "tool calling"
+      "aws",
+      "python"
     ],
     "transferable_matches": [
-      "agno ← experience with hermes agent",
-      "evals ← experience with llm evaluation"
+      "eks ← experience with amazon web services",
+      "guidance ← experience with pydantic",
+      "s3 ← experience with amazon web services",
+      "together ai ← experience with claude",
+      "unstructured ← experience with llamaindex"
     ],
     "missing_skills": [
-      "asr",
-      "document ai",
+      "airflow",
+      "go",
+      "kafka",
+      "rust",
       "sql",
-      "tts",
       "typescript"
     ],
     "hard_requirements_missing": [],
@@ -6980,15 +7007,15 @@
     "location_eligible": true,
     "location_confidence": "low",
     "freshness_confidence": "known",
-    "reason": "Recently posted role at Mapbox with strong overlap in agent orchestration, tool calling, mcp, agno, evals.",
+    "reason": "Recently posted role at Aircall with strong overlap in python, aws, unstructured, together ai.",
     "recommended_action": "REVIEW_AND_APPLY",
     "response_probability": "UNKNOWN",
     "url_status": "unknown",
     "score_breakdown": {
       "technical": 80,
-      "role": 69,
+      "role": 84,
       "remote": 55,
-      "freshness": 90,
+      "freshness": 75,
       "experience": 95,
       "response": 50,
       "compensation": 50
@@ -7059,8 +7086,8 @@
     ],
     "transferable_matches": [
       "agno ← experience with hermes agent",
-      "azure ← experience with agentcore",
-      "gcp ← experience with agentcore",
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
       "otel ← experience with observability"
     ],
     "missing_skills": [
@@ -7141,102 +7168,6 @@
   {
     "score": 74,
     "priority": "⚪ REVIEW",
-    "title": "Senior Frontend Engineer, Ads Creative",
-    "company": "reddit",
-    "source": "greenhouse",
-    "url": "https://job-boards.greenhouse.io/reddit/jobs/8175520",
-    "posted_at": "2026-09-12T08:18:17-04:00",
-    "remote": true,
-    "location": "Remote - United States",
-    "salary": null,
-    "technical_matches": [
-      "claude",
-      "observability"
-    ],
-    "transferable_matches": [
-      "arize ← experience with llm evaluation",
-      "guidance ← experience with pydantic",
-      "metrics ← experience with observability"
-    ],
-    "missing_skills": [
-      "api integration",
-      "document ai",
-      "java",
-      "javascript",
-      "recommendation",
-      "rust",
-      "typescript"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "5+ years required",
-    "location_eligible": true,
-    "location_confidence": "high",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at reddit with strong overlap in claude, observability, guidance, arize.",
-    "recommended_action": "SKIP",
-    "response_probability": "MEDIUM",
-    "url_status": "not_checked",
-    "score_breakdown": {
-      "technical": 60,
-      "role": 54,
-      "remote": 100,
-      "freshness": 100,
-      "experience": 95,
-      "response": 60,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 74,
-    "priority": "⚪ REVIEW",
-    "title": "Senior Machine Learning Engineer, Ads Optimization",
-    "company": "reddit",
-    "source": "greenhouse",
-    "url": "https://job-boards.greenhouse.io/reddit/jobs/8029120",
-    "posted_at": "2026-09-12T08:18:16-04:00",
-    "remote": true,
-    "location": "Remote - United States",
-    "salary": null,
-    "technical_matches": [
-      "python",
-      "redis"
-    ],
-    "transferable_matches": [
-      "arize ← experience with llm evaluation",
-      "metrics ← experience with observability"
-    ],
-    "missing_skills": [
-      "airflow",
-      "bigquery",
-      "go",
-      "java",
-      "kafka",
-      "ranking",
-      "rust",
-      "spark"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "5+ years required",
-    "location_eligible": true,
-    "location_confidence": "high",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at reddit with strong overlap in python, redis, arize, metrics.",
-    "recommended_action": "SKIP",
-    "response_probability": "MEDIUM",
-    "url_status": "not_checked",
-    "score_breakdown": {
-      "technical": 50,
-      "role": 78,
-      "remote": 100,
-      "freshness": 100,
-      "experience": 95,
-      "response": 60,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 74,
-    "priority": "⚪ REVIEW",
     "title": "Senior Software Engineer, Safety Processing",
     "company": "discord",
     "source": "greenhouse",
@@ -7251,7 +7182,7 @@
       "python"
     ],
     "transferable_matches": [
-      "gcp ← experience with agentcore",
+      "gcp ← experience with amazon web services",
       "metrics ← experience with observability",
       "otel ← experience with observability"
     ],
@@ -7301,8 +7232,8 @@
       "tool calling"
     ],
     "transferable_matches": [
-      "azure ← experience with agentcore",
-      "gcp ← experience with agentcore",
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
       "guardrails ← experience with pydantic",
       "hugging face ← experience with claude"
     ],
@@ -7351,8 +7282,8 @@
       "tool calling"
     ],
     "transferable_matches": [
-      "azure ← experience with agentcore",
-      "gcp ← experience with agentcore",
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
       "guardrails ← experience with pydantic",
       "hugging face ← experience with claude"
     ],
@@ -7401,8 +7332,8 @@
       "tool calling"
     ],
     "transferable_matches": [
-      "azure ← experience with agentcore",
-      "gcp ← experience with agentcore",
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
       "guardrails ← experience with pydantic",
       "hugging face ← experience with claude"
     ],
@@ -7453,7 +7384,7 @@
       "guidance ← experience with pydantic",
       "metrics ← experience with observability",
       "prompt engineering ← experience with pydantic",
-      "unstructured ← experience with lightrag"
+      "unstructured ← experience with llamaindex"
     ],
     "missing_skills": [
       "distributed systems",
@@ -7509,7 +7440,7 @@
       "guidance ← experience with pydantic",
       "metrics ← experience with observability",
       "prompt engineering ← experience with pydantic",
-      "unstructured ← experience with lightrag"
+      "unstructured ← experience with llamaindex"
     ],
     "missing_skills": [
       "distributed systems",
@@ -7565,7 +7496,7 @@
       "guidance ← experience with pydantic",
       "metrics ← experience with observability",
       "prompt engineering ← experience with pydantic",
-      "unstructured ← experience with lightrag"
+      "unstructured ← experience with llamaindex"
     ],
     "missing_skills": [
       "distributed systems",
@@ -7621,7 +7552,7 @@
       "guidance ← experience with pydantic",
       "metrics ← experience with observability",
       "prompt engineering ← experience with pydantic",
-      "unstructured ← experience with lightrag"
+      "unstructured ← experience with llamaindex"
     ],
     "missing_skills": [
       "distributed systems",
@@ -7678,7 +7609,7 @@
       "metrics ← experience with observability",
       "phoenix ← experience with llm evaluation",
       "prompt engineering ← experience with pydantic",
-      "unstructured ← experience with lightrag"
+      "unstructured ← experience with llamaindex"
     ],
     "missing_skills": [
       "distributed systems",
@@ -7734,7 +7665,7 @@
       "guidance ← experience with pydantic",
       "metrics ← experience with observability",
       "prompt engineering ← experience with pydantic",
-      "unstructured ← experience with lightrag"
+      "unstructured ← experience with llamaindex"
     ],
     "missing_skills": [
       "distributed systems",
@@ -7786,7 +7717,7 @@
       "python"
     ],
     "transferable_matches": [
-      "google cloud ← experience with agentcore"
+      "google cloud ← experience with amazon web services"
     ],
     "missing_skills": [
       "document ai",
@@ -7836,7 +7767,7 @@
       "retrieval augmented generation"
     ],
     "transferable_matches": [
-      "azure ← experience with agentcore"
+      "azure ← experience with amazon web services"
     ],
     "missing_skills": [
       "java",
@@ -8001,6 +7932,98 @@
   {
     "score": 74,
     "priority": "⚪ REVIEW",
+    "title": "Junior Data & Analytics Consultant (M/F/D)",
+    "company": "Kaiser X Labs",
+    "source": "arbeitnow",
+    "url": "https://www.arbeitnow.com/jobs/companies/kaiser-x-labs/junior-data-analytics-consultant-munich-stuttgart-frankfurt-hanover-452791",
+    "posted_at": "2026-09-12T14:09:15+00:00",
+    "remote": false,
+    "location": "Munich - Stuttgart - Frankfurt - Hanover",
+    "salary": null,
+    "technical_matches": [
+      "ai agents",
+      "multi-agent systems",
+      "python"
+    ],
+    "transferable_matches": [
+      "gemini ← experience with claude",
+      "gpt ← experience with claude",
+      "guidance ← experience with pydantic",
+      "prompt engineering ← experience with pydantic"
+    ],
+    "missing_skills": [
+      "recommendation",
+      "sql"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "not specified",
+    "location_eligible": true,
+    "location_confidence": "low",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at Kaiser X Labs with strong overlap in ai agents, multi-agent systems, python, gpt, gemini.",
+    "recommended_action": "SKIP",
+    "response_probability": "MEDIUM",
+    "url_status": "not_checked",
+    "score_breakdown": {
+      "technical": 85,
+      "role": 38,
+      "remote": 55,
+      "freshness": 100,
+      "experience": 100,
+      "response": 60,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 74,
+    "priority": "⚪ REVIEW",
+    "title": "Senior Software Developer (JCP Core Foundation Licensing and Quotation)",
+    "company": "jetbrains",
+    "source": "arbeitnow",
+    "url": "https://www.arbeitnow.com/jobs/companies/jetbrains/remote-senior-software-developer-jcp-core-foundation-licensing-and-quotation-326822",
+    "posted_at": "2026-09-12T11:55:09+00:00",
+    "remote": false,
+    "location": "Berlin; Munich; Remote",
+    "salary": null,
+    "technical_matches": [
+      "observability",
+      "postgresql"
+    ],
+    "transferable_matches": [
+      "agno ← experience with hermes agent",
+      "metrics ← experience with observability",
+      "otel ← experience with observability",
+      "traces ← experience with observability"
+    ],
+    "missing_skills": [
+      "distributed systems",
+      "java",
+      "kafka",
+      "postgres",
+      "rust"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "not specified",
+    "location_eligible": true,
+    "location_confidence": "low",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at jetbrains with strong overlap in observability, postgresql, agno, otel.",
+    "recommended_action": "SKIP",
+    "response_probability": "UNKNOWN",
+    "url_status": "not_checked",
+    "score_breakdown": {
+      "technical": 70,
+      "role": 85,
+      "remote": 55,
+      "freshness": 90,
+      "experience": 100,
+      "response": 50,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 74,
+    "priority": "⚪ REVIEW",
     "title": "Senior Design Engineer, Design System",
     "company": "celonis",
     "source": "arbeitnow",
@@ -8061,8 +8084,8 @@
       "docker"
     ],
     "transferable_matches": [
-      "azure ← experience with agentcore",
-      "gcp ← experience with agentcore",
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
       "otel ← experience with observability"
     ],
     "missing_skills": [
@@ -8108,8 +8131,8 @@
       "docker"
     ],
     "transferable_matches": [
-      "azure ← experience with agentcore",
-      "gcp ← experience with agentcore",
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
       "otel ← experience with observability"
     ],
     "missing_skills": [
@@ -8155,8 +8178,8 @@
       "openai"
     ],
     "transferable_matches": [
-      "azure ← experience with agentcore",
-      "gcp ← experience with agentcore",
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
       "gemini ← experience with claude",
       "guidance ← experience with pydantic"
     ],
@@ -8250,9 +8273,9 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with agentcore",
-      "gcp ← experience with agentcore",
-      "unstructured ← experience with lightrag"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
+      "unstructured ← experience with llamaindex"
     ],
     "missing_skills": [
       "autonomous agents",
@@ -8283,44 +8306,95 @@
   {
     "score": 73,
     "priority": "⚪ REVIEW",
-    "title": "Engineering Manager, Ads ML Efficiency",
+    "title": "Senior Frontend Engineer, Ads Creative",
     "company": "reddit",
     "source": "greenhouse",
-    "url": "https://job-boards.greenhouse.io/reddit/jobs/8022366",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/8175520",
+    "posted_at": "2026-09-12T08:18:17-04:00",
+    "remote": true,
+    "location": "Remote - United States",
+    "salary": null,
+    "technical_matches": [
+      "claude",
+      "observability"
+    ],
+    "transferable_matches": [
+      "arize ← experience with llm evaluation",
+      "guidance ← experience with pydantic",
+      "metrics ← experience with observability"
+    ],
+    "missing_skills": [
+      "api integration",
+      "document ai",
+      "java",
+      "javascript",
+      "recommendation",
+      "rust",
+      "typescript"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "5+ years required",
+    "location_eligible": true,
+    "location_confidence": "high",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at reddit with strong overlap in claude, observability, guidance, arize.",
+    "recommended_action": "SKIP",
+    "response_probability": "MEDIUM",
+    "url_status": "not_checked",
+    "score_breakdown": {
+      "technical": 60,
+      "role": 54,
+      "remote": 100,
+      "freshness": 90,
+      "experience": 95,
+      "response": 60,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 73,
+    "priority": "⚪ REVIEW",
+    "title": "Senior Machine Learning Engineer, Ads Optimization",
+    "company": "reddit",
+    "source": "greenhouse",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/8029120",
     "posted_at": "2026-09-12T08:18:16-04:00",
     "remote": true,
     "location": "Remote - United States",
     "salary": null,
     "technical_matches": [
-      "observability"
+      "python",
+      "redis"
     ],
     "transferable_matches": [
       "arize ← experience with llm evaluation",
-      "benchmarking ← experience with llm evaluation",
-      "guardrails ← experience with pydantic",
-      "otel ← experience with observability"
+      "metrics ← experience with observability"
     ],
     "missing_skills": [
-      "distributed systems",
-      "pytorch",
+      "airflow",
+      "bigquery",
+      "go",
+      "java",
+      "kafka",
       "ranking",
-      "rust"
+      "rust",
+      "spark"
     ],
     "hard_requirements_missing": [],
-    "experience_required": "not specified",
+    "experience_required": "5+ years required",
     "location_eligible": true,
     "location_confidence": "high",
     "freshness_confidence": "known",
-    "reason": "Recently posted role at reddit with strong overlap in observability, guardrails, arize.",
+    "reason": "Recently posted role at reddit with strong overlap in python, redis, arize, metrics.",
     "recommended_action": "SKIP",
     "response_probability": "MEDIUM",
     "url_status": "not_checked",
     "score_breakdown": {
-      "technical": 55,
-      "role": 54,
+      "technical": 50,
+      "role": 78,
       "remote": 100,
-      "freshness": 100,
-      "experience": 100,
+      "freshness": 90,
+      "experience": 95,
       "response": 60,
       "compensation": 50
     }
@@ -8511,108 +8585,6 @@
   {
     "score": 73,
     "priority": "⚪ REVIEW",
-    "title": "Senior Designated Support Engineer",
-    "company": "databricks",
-    "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8564166002",
-    "posted_at": "2026-09-11T13:03:03-04:00",
-    "remote": false,
-    "location": "Bengaluru, India",
-    "salary": null,
-    "technical_matches": [
-      "aws",
-      "ci/cd",
-      "python"
-    ],
-    "transferable_matches": [
-      "azure ← experience with agentcore",
-      "gcp ← experience with agentcore",
-      "metrics ← experience with observability"
-    ],
-    "missing_skills": [
-      "bigquery",
-      "databricks",
-      "document ai",
-      "java",
-      "knowledge base",
-      "rust",
-      "snowflake",
-      "spark",
-      "sql"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "8+ years required",
-    "location_eligible": true,
-    "location_confidence": "low",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at databricks with strong overlap in python, ci/cd, aws, metrics, azure.",
-    "recommended_action": "SKIP",
-    "response_probability": "HIGH",
-    "url_status": "not_checked",
-    "score_breakdown": {
-      "technical": 75,
-      "role": 84,
-      "remote": 55,
-      "freshness": 90,
-      "experience": 50,
-      "response": 100,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 73,
-    "priority": "⚪ REVIEW",
-    "title": "Staff Designated Support Engineer",
-    "company": "databricks",
-    "source": "greenhouse",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8554463002",
-    "posted_at": "2026-09-11T13:03:05-04:00",
-    "remote": false,
-    "location": "Bengaluru, India",
-    "salary": null,
-    "technical_matches": [
-      "aws",
-      "ci/cd",
-      "python"
-    ],
-    "transferable_matches": [
-      "azure ← experience with agentcore",
-      "gcp ← experience with agentcore",
-      "metrics ← experience with observability"
-    ],
-    "missing_skills": [
-      "bigquery",
-      "databricks",
-      "document ai",
-      "java",
-      "knowledge base",
-      "rust",
-      "snowflake",
-      "spark",
-      "sql"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "12+ years required",
-    "location_eligible": true,
-    "location_confidence": "low",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at databricks with strong overlap in python, ci/cd, aws, metrics, azure.",
-    "recommended_action": "SKIP",
-    "response_probability": "HIGH",
-    "url_status": "not_checked",
-    "score_breakdown": {
-      "technical": 75,
-      "role": 84,
-      "remote": 55,
-      "freshness": 90,
-      "experience": 50,
-      "response": 100,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 73,
-    "priority": "⚪ REVIEW",
     "title": "Presales Customer Engineer, Enterprise (Sydney)",
     "company": "cloudflare",
     "source": "greenhouse",
@@ -8633,7 +8605,7 @@
       "guidance ← experience with pydantic",
       "metrics ← experience with observability",
       "prompt engineering ← experience with pydantic",
-      "unstructured ← experience with lightrag"
+      "unstructured ← experience with llamaindex"
     ],
     "missing_skills": [
       "distributed systems",
@@ -8684,8 +8656,8 @@
       "retrieval augmented generation"
     ],
     "transferable_matches": [
-      "azure ← experience with agentcore",
-      "gcp ← experience with agentcore",
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
       "metrics ← experience with observability",
       "prompt engineering ← experience with pydantic"
     ],
@@ -8736,8 +8708,8 @@
       "retrieval augmented generation"
     ],
     "transferable_matches": [
-      "azure ← experience with agentcore",
-      "gcp ← experience with agentcore",
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
       "metrics ← experience with observability",
       "prompt engineering ← experience with pydantic"
     ],
@@ -8791,7 +8763,7 @@
       "guidance ← experience with pydantic",
       "metrics ← experience with observability",
       "prompt engineering ← experience with pydantic",
-      "unstructured ← experience with lightrag"
+      "unstructured ← experience with llamaindex"
     ],
     "missing_skills": [
       "distributed systems",
@@ -8847,7 +8819,7 @@
       "guidance ← experience with pydantic",
       "metrics ← experience with observability",
       "prompt engineering ← experience with pydantic",
-      "unstructured ← experience with lightrag"
+      "unstructured ← experience with llamaindex"
     ],
     "missing_skills": [
       "distributed systems",
@@ -8903,7 +8875,7 @@
       "guidance ← experience with pydantic",
       "metrics ← experience with observability",
       "prompt engineering ← experience with pydantic",
-      "unstructured ← experience with lightrag"
+      "unstructured ← experience with llamaindex"
     ],
     "missing_skills": [
       "distributed systems",
@@ -8959,7 +8931,7 @@
       "guidance ← experience with pydantic",
       "metrics ← experience with observability",
       "prompt engineering ← experience with pydantic",
-      "unstructured ← experience with lightrag"
+      "unstructured ← experience with llamaindex"
     ],
     "missing_skills": [
       "distributed systems",
@@ -9015,7 +8987,7 @@
       "guidance ← experience with pydantic",
       "metrics ← experience with observability",
       "prompt engineering ← experience with pydantic",
-      "unstructured ← experience with lightrag"
+      "unstructured ← experience with llamaindex"
     ],
     "missing_skills": [
       "distributed systems",
@@ -9071,7 +9043,7 @@
       "guidance ← experience with pydantic",
       "metrics ← experience with observability",
       "prompt engineering ← experience with pydantic",
-      "unstructured ← experience with lightrag"
+      "unstructured ← experience with llamaindex"
     ],
     "missing_skills": [
       "distributed systems",
@@ -9101,6 +9073,54 @@
       "freshness": 35,
       "experience": 100,
       "response": 100,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 73,
+    "priority": "⚪ REVIEW",
+    "title": "Senior Data & Backend Software Engineer (f/m/d)",
+    "company": "isaraerospace",
+    "source": "arbeitnow",
+    "url": "https://www.arbeitnow.com/jobs/companies/isaraerospace/senior-data-backend-software-engineer-ottobrunn-bavaria-290266",
+    "posted_at": "2026-09-12T17:55:16+00:00",
+    "remote": false,
+    "location": "Ottobrunn, Bavaria",
+    "salary": null,
+    "technical_matches": [
+      "ci/cd",
+      "observability",
+      "python"
+    ],
+    "transferable_matches": [
+      "azure ← experience with amazon web services",
+      "unstructured ← experience with llamaindex"
+    ],
+    "missing_skills": [
+      "c#",
+      "databricks",
+      "document ai",
+      "java",
+      "kafka",
+      "rust",
+      "snowflake"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "6+ years required",
+    "location_eligible": true,
+    "location_confidence": "low",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at isaraerospace with strong overlap in observability, python, ci/cd, unstructured, azure.",
+    "recommended_action": "SKIP",
+    "response_probability": "UNKNOWN",
+    "url_status": "not_checked",
+    "score_breakdown": {
+      "technical": 65,
+      "role": 100,
+      "remote": 55,
+      "freshness": 100,
+      "experience": 70,
+      "response": 50,
       "compensation": 50
     }
   },
@@ -9165,8 +9185,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with agentcore",
-      "gcp ← experience with agentcore",
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
       "grafana ← experience with observability",
       "otel ← experience with observability",
       "prometheus ← experience with observability"
@@ -9213,7 +9233,7 @@
       "python"
     ],
     "transferable_matches": [
-      "gcp ← experience with agentcore",
+      "gcp ← experience with amazon web services",
       "prompt engineering ← experience with pydantic"
     ],
     "missing_skills": [
@@ -9301,8 +9321,8 @@
       "postgresql"
     ],
     "transferable_matches": [
-      "azure ← experience with agentcore",
-      "gcp ← experience with agentcore",
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
       "metrics ← experience with observability",
       "tracing ← experience with observability"
     ],
@@ -9441,8 +9461,8 @@
       "aws"
     ],
     "transferable_matches": [
-      "gcp ← experience with agentcore",
-      "google cloud ← experience with agentcore"
+      "gcp ← experience with amazon web services",
+      "google cloud ← experience with amazon web services"
     ],
     "missing_skills": [
       "document ai",
@@ -9471,6 +9491,53 @@
   {
     "score": 72,
     "priority": "⚪ REVIEW",
+    "title": "Staff Backend Engineer, Database Automation (Go)",
+    "company": "gitlab",
+    "source": "greenhouse",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8770702002",
+    "posted_at": "2026-09-09T14:06:57-04:00",
+    "remote": true,
+    "location": "Remote, Canada; Remote, United States",
+    "salary": null,
+    "technical_matches": [
+      "agent orchestration",
+      "ai agents",
+      "postgresql"
+    ],
+    "transferable_matches": [
+      "cohere ← experience with claude",
+      "guidance ← experience with pydantic"
+    ],
+    "missing_skills": [
+      "document ai",
+      "go",
+      "kubernetes",
+      "postgres",
+      "rust",
+      "sql"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "not specified",
+    "location_eligible": true,
+    "location_confidence": "high",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at gitlab with strong overlap in ai agents, agent orchestration, postgresql, cohere, guidance.",
+    "recommended_action": "SKIP",
+    "response_probability": "MEDIUM",
+    "url_status": "not_checked",
+    "score_breakdown": {
+      "technical": 65,
+      "role": 68,
+      "remote": 100,
+      "freshness": 55,
+      "experience": 100,
+      "response": 60,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 72,
+    "priority": "⚪ REVIEW",
     "title": "Staff Infrastructure Security Engineer (EMEA/APJ)",
     "company": "gitlab",
     "source": "greenhouse",
@@ -9485,8 +9552,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with agentcore",
-      "gcp ← experience with agentcore"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "go",
@@ -9530,8 +9597,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with agentcore",
-      "gcp ← experience with agentcore"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "agent framework",
@@ -9577,8 +9644,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with agentcore",
-      "cloudwatch ← experience with observability"
+      "azure ← experience with amazon web services",
+      "cloudwatch ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -9627,9 +9694,9 @@
     ],
     "transferable_matches": [
       "autogen ← experience with hermes agent",
-      "azure ← experience with agentcore",
+      "azure ← experience with amazon web services",
       "dspy ← experience with hermes agent",
-      "gcp ← experience with agentcore",
+      "gcp ← experience with amazon web services",
       "llama ← experience with claude",
       "mistral ← experience with claude"
     ],
@@ -9677,8 +9744,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with agentcore",
-      "gcp ← experience with agentcore"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "distributed systems",
@@ -9731,7 +9798,7 @@
       "guidance ← experience with pydantic",
       "metrics ← experience with observability",
       "prompt engineering ← experience with pydantic",
-      "unstructured ← experience with lightrag"
+      "unstructured ← experience with llamaindex"
     ],
     "missing_skills": [
       "distributed systems",
@@ -9974,8 +10041,8 @@
       "rag"
     ],
     "transferable_matches": [
-      "azure ← experience with agentcore",
-      "gcp ← experience with agentcore",
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
       "prompt engineering ← experience with pydantic"
     ],
     "missing_skills": [
@@ -10399,8 +10466,8 @@
       "observability"
     ],
     "transferable_matches": [
-      "azure ai ← experience with agentcore",
-      "azure ← experience with agentcore"
+      "azure ai ← experience with amazon web services",
+      "azure ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -10693,7 +10760,7 @@
       "observability"
     ],
     "transferable_matches": [
-      "gcp ← experience with agentcore"
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "kubernetes"
@@ -10720,98 +10787,89 @@
   {
     "score": 72,
     "priority": "⚪ REVIEW",
-    "title": "Senior Data Engineer - Real time analytics",
-    "company": "Aircall",
+    "title": "Applied AI Engineer, AI for Mistral",
+    "company": "Mistral.ai",
     "source": "arbeitnow",
-    "url": "https://www.arbeitnow.fr/jobs/companies/aircall/remote-senior-data-engineer-real-time-analytics-62324",
-    "posted_at": "2026-09-09T16:04:35+00:00",
+    "url": "https://www.arbeitnow.fr/jobs/companies/mistralai/applied-ai-engineer-ai-for-mistral-paris-166874",
+    "posted_at": "2026-09-12T16:40:05+00:00",
     "remote": false,
-    "location": "France Remote",
+    "location": "Paris",
     "salary": null,
     "technical_matches": [
-      "aws",
-      "python"
+      "fastapi",
+      "python",
+      "rag"
     ],
     "transferable_matches": [
-      "eks ← experience with agentcore",
-      "guidance ← experience with pydantic",
-      "s3 ← experience with agentcore",
-      "together ai ← experience with claude",
-      "unstructured ← experience with lightrag"
+      "metrics ← experience with observability",
+      "mistral ← experience with claude"
     ],
     "missing_skills": [
-      "airflow",
-      "go",
-      "kafka",
+      "dbt",
       "rust",
-      "sql",
       "typescript"
     ],
     "hard_requirements_missing": [],
-    "experience_required": "5+ years required",
+    "experience_required": "3+ years required",
     "location_eligible": true,
     "location_confidence": "low",
     "freshness_confidence": "known",
-    "reason": "Recently posted role at Aircall with strong overlap in python, aws, unstructured, together ai.",
+    "reason": "Recently posted role at Mistral.ai with strong overlap in rag, python, fastapi, mistral, metrics.",
     "recommended_action": "SKIP",
     "response_probability": "UNKNOWN",
     "url_status": "not_checked",
     "score_breakdown": {
-      "technical": 80,
-      "role": 84,
+      "technical": 65,
+      "role": 74,
       "remote": 55,
-      "freshness": 55,
-      "experience": 95,
+      "freshness": 100,
+      "experience": 100,
       "response": 50,
       "compensation": 50
     }
   },
   {
-    "score": 72,
+    "score": 71,
     "priority": "⚪ REVIEW",
-    "title": "Senior Data Engineer - Real time analytics",
-    "company": "Aircall",
-    "source": "arbeitnow",
-    "url": "https://www.arbeitnow.fr/jobs/companies/aircall/senior-data-engineer-real-time-analytics-paris-office-122301",
-    "posted_at": "2026-09-09T16:04:35+00:00",
-    "remote": false,
-    "location": "Paris Office",
+    "title": "Engineering Manager, Ads ML Efficiency",
+    "company": "reddit",
+    "source": "greenhouse",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/8022366",
+    "posted_at": "2026-09-12T08:18:16-04:00",
+    "remote": true,
+    "location": "Remote - United States",
     "salary": null,
     "technical_matches": [
-      "aws",
-      "python"
+      "observability"
     ],
     "transferable_matches": [
-      "eks ← experience with agentcore",
-      "guidance ← experience with pydantic",
-      "s3 ← experience with agentcore",
-      "together ai ← experience with claude",
-      "unstructured ← experience with lightrag"
+      "arize ← experience with llm evaluation",
+      "benchmarking ← experience with llm evaluation",
+      "guardrails ← experience with pydantic",
+      "otel ← experience with observability"
     ],
     "missing_skills": [
-      "airflow",
-      "go",
-      "kafka",
-      "rust",
-      "sql",
-      "typescript"
+      "distributed systems",
+      "pytorch",
+      "ranking",
+      "rust"
     ],
     "hard_requirements_missing": [],
-    "experience_required": "5+ years required",
+    "experience_required": "not specified",
     "location_eligible": true,
-    "location_confidence": "low",
+    "location_confidence": "high",
     "freshness_confidence": "known",
-    "reason": "Recently posted role at Aircall with strong overlap in python, aws, unstructured, together ai.",
+    "reason": "Recently posted role at reddit with strong overlap in observability, guardrails, arize.",
     "recommended_action": "SKIP",
-    "response_probability": "UNKNOWN",
+    "response_probability": "MEDIUM",
     "url_status": "not_checked",
     "score_breakdown": {
-      "technical": 80,
-      "role": 84,
-      "remote": 55,
-      "freshness": 55,
-      "experience": 95,
-      "response": 50,
+      "technical": 55,
+      "role": 54,
+      "remote": 100,
+      "freshness": 90,
+      "experience": 100,
+      "response": 60,
       "compensation": 50
     }
   },
@@ -10832,7 +10890,7 @@
     ],
     "transferable_matches": [
       "elasticsearch ← experience with qdrant",
-      "graph database ← experience with neo4j",
+      "graph database ← experience with knowledge graph",
       "guidance ← experience with pydantic",
       "together ai ← experience with claude"
     ],
@@ -10878,7 +10936,7 @@
       "python"
     ],
     "transferable_matches": [
-      "gcp ← experience with agentcore",
+      "gcp ← experience with amazon web services",
       "together ai ← experience with claude"
     ],
     "missing_skills": [
@@ -10921,8 +10979,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with agentcore",
-      "gcp ← experience with agentcore",
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
       "guidance ← experience with pydantic"
     ],
     "missing_skills": [
@@ -10946,6 +11004,108 @@
       "freshness": 90,
       "experience": 100,
       "response": 60,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 71,
+    "priority": "⚪ REVIEW",
+    "title": "Senior Designated Support Engineer",
+    "company": "databricks",
+    "source": "greenhouse",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8564166002",
+    "posted_at": "2026-09-11T13:03:03-04:00",
+    "remote": false,
+    "location": "Bengaluru, India",
+    "salary": null,
+    "technical_matches": [
+      "aws",
+      "ci/cd",
+      "python"
+    ],
+    "transferable_matches": [
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
+      "metrics ← experience with observability"
+    ],
+    "missing_skills": [
+      "bigquery",
+      "databricks",
+      "document ai",
+      "java",
+      "knowledge base",
+      "rust",
+      "snowflake",
+      "spark",
+      "sql"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "8+ years required",
+    "location_eligible": true,
+    "location_confidence": "low",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at databricks with strong overlap in python, ci/cd, aws, metrics, azure.",
+    "recommended_action": "SKIP",
+    "response_probability": "HIGH",
+    "url_status": "not_checked",
+    "score_breakdown": {
+      "technical": 75,
+      "role": 84,
+      "remote": 55,
+      "freshness": 75,
+      "experience": 50,
+      "response": 100,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 71,
+    "priority": "⚪ REVIEW",
+    "title": "Staff Designated Support Engineer",
+    "company": "databricks",
+    "source": "greenhouse",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8554463002",
+    "posted_at": "2026-09-11T13:03:05-04:00",
+    "remote": false,
+    "location": "Bengaluru, India",
+    "salary": null,
+    "technical_matches": [
+      "aws",
+      "ci/cd",
+      "python"
+    ],
+    "transferable_matches": [
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
+      "metrics ← experience with observability"
+    ],
+    "missing_skills": [
+      "bigquery",
+      "databricks",
+      "document ai",
+      "java",
+      "knowledge base",
+      "rust",
+      "snowflake",
+      "spark",
+      "sql"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "12+ years required",
+    "location_eligible": true,
+    "location_confidence": "low",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at databricks with strong overlap in python, ci/cd, aws, metrics, azure.",
+    "recommended_action": "SKIP",
+    "response_probability": "HIGH",
+    "url_status": "not_checked",
+    "score_breakdown": {
+      "technical": 75,
+      "role": 84,
+      "remote": 55,
+      "freshness": 75,
+      "experience": 50,
+      "response": 100,
       "compensation": 50
     }
   },
@@ -11079,7 +11239,7 @@
       "guidance ← experience with pydantic",
       "metrics ← experience with observability",
       "prompt engineering ← experience with pydantic",
-      "unstructured ← experience with lightrag"
+      "unstructured ← experience with llamaindex"
     ],
     "missing_skills": [
       "distributed systems",
@@ -11129,8 +11289,8 @@
     ],
     "transferable_matches": [
       "agno ← experience with hermes agent",
-      "azure ← experience with agentcore",
-      "gcp ← experience with agentcore",
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
       "guidance ← experience with pydantic",
       "logging ← experience with observability"
     ],
@@ -11397,9 +11557,9 @@
       "observability"
     ],
     "transferable_matches": [
-      "azure ← experience with agentcore",
-      "ec2 ← experience with agentcore",
-      "gcp ← experience with agentcore"
+      "azure ← experience with amazon web services",
+      "ec2 ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "distributed systems",
@@ -11444,7 +11604,7 @@
       "python"
     ],
     "transferable_matches": [
-      "eks ← experience with agentcore",
+      "eks ← experience with amazon web services",
       "guardrails ← experience with pydantic",
       "metrics ← experience with observability"
     ],
@@ -11474,52 +11634,6 @@
       "freshness": 55,
       "experience": 100,
       "response": 100,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 70,
-    "priority": "⚪ REVIEW",
-    "title": "Frontend Engineer, Ads",
-    "company": "reddit",
-    "source": "greenhouse",
-    "url": "https://job-boards.greenhouse.io/reddit/jobs/8194576",
-    "posted_at": "2026-09-12T08:18:14-04:00",
-    "remote": true,
-    "location": "Remote - United States",
-    "salary": null,
-    "technical_matches": [
-      "docker",
-      "observability"
-    ],
-    "transferable_matches": [
-      "arize ← experience with llm evaluation"
-    ],
-    "missing_skills": [
-      "go",
-      "grpc",
-      "java",
-      "javascript",
-      "kubernetes",
-      "rust",
-      "typescript"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "3+ years required",
-    "location_eligible": true,
-    "location_confidence": "high",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at reddit with strong overlap in observability, docker, arize.",
-    "recommended_action": "SKIP",
-    "response_probability": "MEDIUM",
-    "url_status": "not_checked",
-    "score_breakdown": {
-      "technical": 40,
-      "role": 68,
-      "remote": 100,
-      "freshness": 100,
-      "experience": 100,
-      "response": 60,
       "compensation": 50
     }
   },
@@ -11572,49 +11686,6 @@
       "freshness": 35,
       "experience": 50,
       "response": 100,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 70,
-    "priority": "⚪ REVIEW",
-    "title": "Staff Technical Product Manager, Ads ML Platform ",
-    "company": "reddit",
-    "source": "greenhouse",
-    "url": "https://job-boards.greenhouse.io/reddit/jobs/7954001",
-    "posted_at": "2026-09-12T08:18:15-04:00",
-    "remote": true,
-    "location": "Remote - United States",
-    "salary": null,
-    "technical_matches": [
-      "agentic ai",
-      "rag"
-    ],
-    "transferable_matches": [
-      "arize ← experience with llm evaluation",
-      "metrics ← experience with observability"
-    ],
-    "missing_skills": [
-      "fine-tuning",
-      "ranking",
-      "rust"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "7+ years required",
-    "location_eligible": true,
-    "location_confidence": "high",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at reddit with strong overlap in agentic ai, rag, arize, metrics.",
-    "recommended_action": "SKIP",
-    "response_probability": "MEDIUM",
-    "url_status": "not_checked",
-    "score_breakdown": {
-      "technical": 50,
-      "role": 70,
-      "remote": 100,
-      "freshness": 100,
-      "experience": 70,
-      "response": 60,
       "compensation": 50
     }
   },
@@ -11815,8 +11886,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with agentcore",
-      "gcp ← experience with agentcore"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -11861,8 +11932,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with agentcore",
-      "gcp ← experience with agentcore",
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
       "guidance ← experience with pydantic"
     ],
     "missing_skills": [
@@ -11910,8 +11981,8 @@
       "tool calling"
     ],
     "transferable_matches": [
-      "azure ← experience with agentcore",
-      "gcp ← experience with agentcore",
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
       "guardrails ← experience with pydantic",
       "hugging face ← experience with claude"
     ],
@@ -11957,8 +12028,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with agentcore",
-      "gcp ← experience with agentcore"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -12004,8 +12075,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with agentcore",
-      "gcp ← experience with agentcore"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -12051,8 +12122,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with agentcore",
-      "gcp ← experience with agentcore"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -12098,8 +12169,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with agentcore",
-      "gcp ← experience with agentcore"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -12145,8 +12216,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with agentcore",
-      "gcp ← experience with agentcore"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -12192,8 +12263,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with agentcore",
-      "gcp ← experience with agentcore"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -12239,8 +12310,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with agentcore",
-      "gcp ← experience with agentcore"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -12283,8 +12354,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with agentcore",
-      "gcp ← experience with agentcore"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -12330,8 +12401,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with agentcore",
-      "gcp ← experience with agentcore"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -12377,8 +12448,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with agentcore",
-      "gcp ← experience with agentcore"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -12424,8 +12495,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with agentcore",
-      "gcp ← experience with agentcore"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -12471,8 +12542,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with agentcore",
-      "gcp ← experience with agentcore"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -12518,8 +12589,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with agentcore",
-      "gcp ← experience with agentcore"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -12565,8 +12636,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with agentcore",
-      "gcp ← experience with agentcore"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -12612,8 +12683,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with agentcore",
-      "gcp ← experience with agentcore"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -12659,8 +12730,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with agentcore",
-      "gcp ← experience with agentcore"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -12706,8 +12777,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with agentcore",
-      "gcp ← experience with agentcore"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -12753,8 +12824,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with agentcore",
-      "gcp ← experience with agentcore"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -12804,8 +12875,8 @@
       "tool calling"
     ],
     "transferable_matches": [
-      "azure ← experience with agentcore",
-      "gcp ← experience with agentcore",
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
       "logging ← experience with observability",
       "metrics ← experience with observability",
       "sglang ← experience with claude",
@@ -12864,7 +12935,7 @@
       "guidance ← experience with pydantic",
       "metrics ← experience with observability",
       "prompt engineering ← experience with pydantic",
-      "unstructured ← experience with lightrag"
+      "unstructured ← experience with llamaindex"
     ],
     "missing_skills": [
       "distributed systems",
@@ -13285,6 +13356,50 @@
   {
     "score": 70,
     "priority": "⚪ REVIEW",
+    "title": "Senior DevX Engineer (f/m/d)",
+    "company": "isaraerospace",
+    "source": "arbeitnow",
+    "url": "https://www.arbeitnow.com/jobs/companies/isaraerospace/senior-devx-engineer-ottobrunn-bavaria-444135",
+    "posted_at": "2026-09-12T17:55:16+00:00",
+    "remote": false,
+    "location": "Ottobrunn, Bavaria",
+    "salary": null,
+    "technical_matches": [
+      "ci/cd",
+      "observability",
+      "python"
+    ],
+    "transferable_matches": [
+      "azure ← experience with amazon web services"
+    ],
+    "missing_skills": [
+      "document ai",
+      "gitlab ci",
+      "kubernetes",
+      "terraform"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "5+ years required",
+    "location_eligible": true,
+    "location_confidence": "low",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at isaraerospace with strong overlap in observability, python, ci/cd, azure.",
+    "recommended_action": "SKIP",
+    "response_probability": "UNKNOWN",
+    "url_status": "not_checked",
+    "score_breakdown": {
+      "technical": 55,
+      "role": 84,
+      "remote": 55,
+      "freshness": 100,
+      "experience": 95,
+      "response": 50,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 70,
+    "priority": "⚪ REVIEW",
     "title": "Software Engineer - Data (All Genders)",
     "company": "PREMATCH Sports GmbH",
     "source": "arbeitnow",
@@ -13330,86 +13445,42 @@
   {
     "score": 70,
     "priority": "⚪ REVIEW",
-    "title": "Tech Lead Full-Stack Engineer (f/m/x)",
-    "company": "LiveEO GmbH",
+    "title": "Regional Demand Generation Marketer",
+    "company": "LangChain",
     "source": "arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/liveeo-gmbh/tech-lead-full-stack-engineer-liveeo-gmbh-berlin-office-hybrid-196417",
-    "posted_at": "2026-09-12T11:09:54+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/langchain/regional-demand-generation-marketer-london-378646",
+    "posted_at": "2026-09-12T18:40:02+00:00",
     "remote": false,
-    "location": "LiveEO GmbH Berlin Office (Hybrid)",
+    "location": "London",
     "salary": null,
     "technical_matches": [
-      "aws",
-      "ci/cd",
-      "postgresql"
-    ],
-    "transferable_matches": [
-      "together ai ← experience with claude"
-    ],
-    "missing_skills": [
-      "nestjs",
-      "node.js",
-      "postgres",
-      "rust",
-      "typescript"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "not specified",
-    "location_eligible": true,
-    "location_confidence": "low",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at LiveEO GmbH with strong overlap in postgresql, ci/cd, aws, together ai.",
-    "recommended_action": "SKIP",
-    "response_probability": "UNKNOWN",
-    "url_status": "not_checked",
-    "score_breakdown": {
-      "technical": 55,
-      "role": 84,
-      "remote": 55,
-      "freshness": 100,
-      "experience": 100,
-      "response": 50,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 70,
-    "priority": "⚪ REVIEW",
-    "title": "Senior Salesforce Developer (m/f/d)",
-    "company": "Auxmoney Gmbh",
-    "source": "arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/auxmoney-gmbh/remote-senior-salesforce-developer-288295",
-    "posted_at": "2026-09-12T11:09:26+00:00",
-    "remote": true,
-    "location": "Remote / Düsseldorf",
-    "salary": null,
-    "technical_matches": [
-      "github actions",
+      "ai agents",
+      "langchain",
+      "langgraph",
       "observability"
     ],
     "transferable_matches": [
-      "guidance ← experience with pydantic",
-      "otel ← experience with observability"
+      "evals ← experience with llm evaluation",
+      "langsmith ← experience with llm evaluation"
     ],
     "missing_skills": [
-      "document ai",
-      "rust"
+      "autonomous agents"
     ],
     "hard_requirements_missing": [],
-    "experience_required": "8+ years required",
+    "experience_required": "7+ years required",
     "location_eligible": true,
-    "location_confidence": "high",
+    "location_confidence": "low",
     "freshness_confidence": "known",
-    "reason": "Recently posted role at Auxmoney Gmbh with strong overlap in observability, github actions, guidance, otel.",
+    "reason": "Recently posted role at LangChain with strong overlap in ai agents, langgraph, langchain, evals, langsmith.",
     "recommended_action": "SKIP",
     "response_probability": "UNKNOWN",
     "url_status": "not_checked",
     "score_breakdown": {
-      "technical": 50,
-      "role": 85,
-      "remote": 100,
+      "technical": 80,
+      "role": 45,
+      "remote": 55,
       "freshness": 100,
-      "experience": 50,
+      "experience": 70,
       "response": 50,
       "compensation": 50
     }
@@ -13431,8 +13502,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with agentcore",
-      "gcp ← experience with agentcore",
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
       "guidance ← experience with pydantic"
     ],
     "missing_skills": [
@@ -13481,8 +13552,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with agentcore",
-      "gcp ← experience with agentcore",
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
       "guidance ← experience with pydantic"
     ],
     "missing_skills": [
@@ -13532,8 +13603,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with agentcore",
-      "gcp ← experience with agentcore",
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
       "together ai ← experience with claude"
     ],
     "missing_skills": [
@@ -13575,7 +13646,7 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with agentcore",
+      "azure ← experience with amazon web services",
       "guardrails ← experience with pydantic",
       "together ai ← experience with claude"
     ],
@@ -13618,8 +13689,8 @@
       "aws"
     ],
     "transferable_matches": [
-      "azure ← experience with agentcore",
-      "gcp ← experience with agentcore",
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
       "guardrails ← experience with pydantic"
     ],
     "missing_skills": [
@@ -13740,6 +13811,49 @@
   {
     "score": 69,
     "priority": "⚪ REVIEW",
+    "title": "Staff Technical Product Manager, Ads ML Platform ",
+    "company": "reddit",
+    "source": "greenhouse",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/7954001",
+    "posted_at": "2026-09-12T08:18:15-04:00",
+    "remote": true,
+    "location": "Remote - United States",
+    "salary": null,
+    "technical_matches": [
+      "agentic ai",
+      "rag"
+    ],
+    "transferable_matches": [
+      "arize ← experience with llm evaluation",
+      "metrics ← experience with observability"
+    ],
+    "missing_skills": [
+      "fine-tuning",
+      "ranking",
+      "rust"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "7+ years required",
+    "location_eligible": true,
+    "location_confidence": "high",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at reddit with strong overlap in agentic ai, rag, arize, metrics.",
+    "recommended_action": "SKIP",
+    "response_probability": "MEDIUM",
+    "url_status": "not_checked",
+    "score_breakdown": {
+      "technical": 50,
+      "role": 70,
+      "remote": 100,
+      "freshness": 90,
+      "experience": 70,
+      "response": 60,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 69,
+    "priority": "⚪ REVIEW",
     "title": "Professional Services - Technical Architect",
     "company": "gitlab",
     "source": "greenhouse",
@@ -13843,8 +13957,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with agentcore",
-      "gcp ← experience with agentcore"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -13890,8 +14004,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with agentcore",
-      "gcp ← experience with agentcore",
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
       "metrics ← experience with observability"
     ],
     "missing_skills": [
@@ -13985,8 +14099,8 @@
     ],
     "transferable_matches": [
       "agno ← experience with hermes agent",
-      "azure ← experience with agentcore",
-      "gcp ← experience with agentcore",
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
       "metrics ← experience with observability"
     ],
     "missing_skills": [
@@ -14032,8 +14146,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with agentcore",
-      "gcp ← experience with agentcore"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -14080,7 +14194,7 @@
     ],
     "transferable_matches": [
       "benchmarking ← experience with llm evaluation",
-      "gcp ← experience with agentcore",
+      "gcp ← experience with amazon web services",
       "swarm ← experience with hermes agent"
     ],
     "missing_skills": [
@@ -14134,7 +14248,7 @@
       "guidance ← experience with pydantic",
       "metrics ← experience with observability",
       "prompt engineering ← experience with pydantic",
-      "unstructured ← experience with lightrag"
+      "unstructured ← experience with llamaindex"
     ],
     "missing_skills": [
       "distributed systems",
@@ -14313,6 +14427,93 @@
   {
     "score": 69,
     "priority": "⚪ REVIEW",
+    "title": "Tech Lead Full-Stack Engineer (f/m/x)",
+    "company": "LiveEO GmbH",
+    "source": "arbeitnow",
+    "url": "https://www.arbeitnow.com/jobs/companies/liveeo-gmbh/tech-lead-full-stack-engineer-liveeo-gmbh-berlin-office-hybrid-196417",
+    "posted_at": "2026-09-12T11:09:54+00:00",
+    "remote": false,
+    "location": "LiveEO GmbH Berlin Office (Hybrid)",
+    "salary": null,
+    "technical_matches": [
+      "aws",
+      "ci/cd",
+      "postgresql"
+    ],
+    "transferable_matches": [
+      "together ai ← experience with claude"
+    ],
+    "missing_skills": [
+      "nestjs",
+      "node.js",
+      "postgres",
+      "rust",
+      "typescript"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "not specified",
+    "location_eligible": true,
+    "location_confidence": "low",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at LiveEO GmbH with strong overlap in postgresql, ci/cd, aws, together ai.",
+    "recommended_action": "SKIP",
+    "response_probability": "UNKNOWN",
+    "url_status": "not_checked",
+    "score_breakdown": {
+      "technical": 55,
+      "role": 84,
+      "remote": 55,
+      "freshness": 90,
+      "experience": 100,
+      "response": 50,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 69,
+    "priority": "⚪ REVIEW",
+    "title": "Senior Salesforce Developer (m/f/d)",
+    "company": "Auxmoney Gmbh",
+    "source": "arbeitnow",
+    "url": "https://www.arbeitnow.com/jobs/companies/auxmoney-gmbh/remote-senior-salesforce-developer-288295",
+    "posted_at": "2026-09-12T11:09:26+00:00",
+    "remote": true,
+    "location": "Remote / Düsseldorf",
+    "salary": null,
+    "technical_matches": [
+      "github actions",
+      "observability"
+    ],
+    "transferable_matches": [
+      "guidance ← experience with pydantic",
+      "otel ← experience with observability"
+    ],
+    "missing_skills": [
+      "document ai",
+      "rust"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "8+ years required",
+    "location_eligible": true,
+    "location_confidence": "high",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at Auxmoney Gmbh with strong overlap in observability, github actions, guidance, otel.",
+    "recommended_action": "SKIP",
+    "response_probability": "UNKNOWN",
+    "url_status": "not_checked",
+    "score_breakdown": {
+      "technical": 50,
+      "role": 85,
+      "remote": 100,
+      "freshness": 90,
+      "experience": 50,
+      "response": 50,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 69,
+    "priority": "⚪ REVIEW",
     "title": "Senior Machine Learning Engineer, Search & Recommendations",
     "company": "Roku",
     "source": "arbeitnow",
@@ -14328,7 +14529,7 @@
       "python"
     ],
     "transferable_matches": [
-      "s3 ← experience with agentcore",
+      "s3 ← experience with amazon web services",
       "transformers ← experience with claude"
     ],
     "missing_skills": [
@@ -14428,7 +14629,7 @@
     ],
     "transferable_matches": [
       "guidance ← experience with pydantic",
-      "s3 ← experience with agentcore"
+      "s3 ← experience with amazon web services"
     ],
     "missing_skills": [
       "airflow",
@@ -14474,7 +14675,7 @@
     ],
     "transferable_matches": [
       "evals ← experience with llm evaluation",
-      "gcp ← experience with agentcore",
+      "gcp ← experience with amazon web services",
       "logging ← experience with observability"
     ],
     "missing_skills": [
@@ -14503,86 +14704,45 @@
   {
     "score": 68,
     "priority": "⚪ REVIEW",
-    "title": "Senior Data Scientist - Consumer",
+    "title": "Frontend Engineer, Ads",
     "company": "reddit",
     "source": "greenhouse",
-    "url": "https://job-boards.greenhouse.io/reddit/jobs/8126946",
-    "posted_at": "2026-09-12T08:18:11-04:00",
-    "remote": true,
-    "location": "Remote - United States",
-    "salary": null,
-    "technical_matches": [
-      "python"
-    ],
-    "transferable_matches": [
-      "a/b testing ← experience with llm evaluation",
-      "arize ← experience with llm evaluation",
-      "metrics ← experience with observability"
-    ],
-    "missing_skills": [
-      "go",
-      "recommendation",
-      "rust",
-      "sql"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "5+ years required",
-    "location_eligible": true,
-    "location_confidence": "high",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at reddit with strong overlap in python, arize, a/b testing.",
-    "recommended_action": "SKIP",
-    "response_probability": "MEDIUM",
-    "url_status": "not_checked",
-    "score_breakdown": {
-      "technical": 45,
-      "role": 48,
-      "remote": 100,
-      "freshness": 100,
-      "experience": 95,
-      "response": 60,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 68,
-    "priority": "⚪ REVIEW",
-    "title": "Senior Director, Product & Technology Finance",
-    "company": "reddit",
-    "source": "greenhouse",
-    "url": "https://job-boards.greenhouse.io/reddit/jobs/8011163",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/8194576",
     "posted_at": "2026-09-12T08:18:14-04:00",
     "remote": true,
     "location": "Remote - United States",
     "salary": null,
     "technical_matches": [
-      "aws"
+      "docker",
+      "observability"
     ],
     "transferable_matches": [
-      "agno ← experience with hermes agent",
-      "arize ← experience with llm evaluation",
-      "gcp ← experience with agentcore",
-      "metrics ← experience with observability"
+      "arize ← experience with llm evaluation"
     ],
     "missing_skills": [
-      "recommendation",
-      "rust"
+      "go",
+      "grpc",
+      "java",
+      "javascript",
+      "kubernetes",
+      "rust",
+      "typescript"
     ],
     "hard_requirements_missing": [],
-    "experience_required": "15+ years required",
+    "experience_required": "3+ years required",
     "location_eligible": true,
     "location_confidence": "high",
     "freshness_confidence": "known",
-    "reason": "Recently posted role at reddit with strong overlap in aws, agno, arize.",
+    "reason": "Recently posted role at reddit with strong overlap in observability, docker, arize.",
     "recommended_action": "SKIP",
     "response_probability": "MEDIUM",
     "url_status": "not_checked",
     "score_breakdown": {
-      "technical": 55,
-      "role": 53,
+      "technical": 40,
+      "role": 68,
       "remote": 100,
-      "freshness": 100,
-      "experience": 50,
+      "freshness": 90,
+      "experience": 100,
       "response": 60,
       "compensation": 50
     }
@@ -14603,7 +14763,7 @@
       "python"
     ],
     "transferable_matches": [
-      "gcp ← experience with agentcore",
+      "gcp ← experience with amazon web services",
       "guardrails ← experience with pydantic"
     ],
     "missing_skills": [
@@ -14825,49 +14985,6 @@
   {
     "score": 68,
     "priority": "⚪ REVIEW",
-    "title": "Senior Internal Auditor, Technology",
-    "company": "gitlab",
-    "source": "greenhouse",
-    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8643077002",
-    "posted_at": "2026-09-09T13:58:37-04:00",
-    "remote": true,
-    "location": "Remote, Canada; Remote, United States",
-    "salary": null,
-    "technical_matches": [
-      "agent orchestration",
-      "amazon web services",
-      "supervisor"
-    ],
-    "transferable_matches": [
-      "google cloud ← experience with agentcore"
-    ],
-    "missing_skills": [
-      "document ai",
-      "recommendation",
-      "rust"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "not specified",
-    "location_eligible": true,
-    "location_confidence": "high",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at gitlab with strong overlap in agent orchestration, supervisor, amazon web services, google cloud.",
-    "recommended_action": "SKIP",
-    "response_probability": "MEDIUM",
-    "url_status": "not_checked",
-    "score_breakdown": {
-      "technical": 55,
-      "role": 44,
-      "remote": 100,
-      "freshness": 75,
-      "experience": 100,
-      "response": 60,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 68,
-    "priority": "⚪ REVIEW",
     "title": "Senior Designated Support Engineer",
     "company": "databricks",
     "source": "greenhouse",
@@ -14882,8 +14999,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with agentcore",
-      "gcp ← experience with agentcore",
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
       "metrics ← experience with observability"
     ],
     "missing_skills": [
@@ -14933,8 +15050,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with agentcore",
-      "gcp ← experience with agentcore"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -14982,8 +15099,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with agentcore",
-      "gcp ← experience with agentcore"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -15031,8 +15148,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with agentcore",
-      "gcp ← experience with agentcore"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -15078,8 +15195,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with agentcore",
-      "gcp ← experience with agentcore"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -15112,48 +15229,6 @@
   {
     "score": 68,
     "priority": "⚪ REVIEW",
-    "title": "Engineering Manager, Frontier AI Infrastructure - Public Sector ",
-    "company": "scaleai",
-    "source": "greenhouse",
-    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4732365005",
-    "posted_at": "2026-09-09T14:44:54-04:00",
-    "remote": false,
-    "location": "Washington, DC",
-    "salary": null,
-    "technical_matches": [
-      "aws",
-      "docker"
-    ],
-    "transferable_matches": [
-      "azure ← experience with agentcore",
-      "gcp ← experience with agentcore",
-      "metrics ← experience with observability"
-    ],
-    "missing_skills": [
-      "kubernetes"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "2+ years required (meets bar)",
-    "location_eligible": true,
-    "location_confidence": "low",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at scaleai with strong overlap in docker, aws, metrics, azure.",
-    "recommended_action": "SKIP",
-    "response_probability": "MEDIUM",
-    "url_status": "not_checked",
-    "score_breakdown": {
-      "technical": 60,
-      "role": 79,
-      "remote": 55,
-      "freshness": 75,
-      "experience": 100,
-      "response": 60,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 68,
-    "priority": "⚪ REVIEW",
     "title": "Network Hardware Engineer",
     "company": "cloudflare",
     "source": "greenhouse",
@@ -15169,7 +15244,7 @@
     "transferable_matches": [
       "benchmarking ← experience with llm evaluation",
       "grafana ← experience with observability",
-      "networkx ← experience with neo4j",
+      "networkx ← experience with knowledge graph",
       "prometheus ← experience with observability"
     ],
     "missing_skills": [
@@ -15210,7 +15285,7 @@
     ],
     "transferable_matches": [
       "agno ← experience with hermes agent",
-      "azure ← experience with agentcore",
+      "azure ← experience with amazon web services",
       "guidance ← experience with pydantic"
     ],
     "missing_skills": [],
@@ -15385,7 +15460,7 @@
       "redis"
     ],
     "transferable_matches": [
-      "eks ← experience with agentcore",
+      "eks ← experience with amazon web services",
       "guidance ← experience with pydantic",
       "opensearch ← experience with qdrant",
       "together ai ← experience with claude"
@@ -15519,54 +15594,6 @@
   {
     "score": 67,
     "priority": "⚪ REVIEW",
-    "title": "Senior Data Scientist, Ads",
-    "company": "reddit",
-    "source": "greenhouse",
-    "url": "https://job-boards.greenhouse.io/reddit/jobs/8104403",
-    "posted_at": "2026-09-12T08:18:10-04:00",
-    "remote": true,
-    "location": "Remote - United States",
-    "salary": null,
-    "technical_matches": [
-      "python"
-    ],
-    "transferable_matches": [
-      "a/b testing ← experience with llm evaluation",
-      "arize ← experience with llm evaluation",
-      "metrics ← experience with observability"
-    ],
-    "missing_skills": [
-      "bigquery",
-      "pytorch",
-      "recommendation",
-      "rust",
-      "scikit-learn",
-      "spark",
-      "sql",
-      "tensorflow"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "5+ years required",
-    "location_eligible": true,
-    "location_confidence": "high",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at reddit with strong overlap in python, arize, a/b testing.",
-    "recommended_action": "SKIP",
-    "response_probability": "MEDIUM",
-    "url_status": "not_checked",
-    "score_breakdown": {
-      "technical": 45,
-      "role": 44,
-      "remote": 100,
-      "freshness": 100,
-      "experience": 95,
-      "response": 60,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 67,
-    "priority": "⚪ REVIEW",
     "title": "Staff Software Engineer, Experimentation Platform",
     "company": "discord",
     "source": "greenhouse",
@@ -15581,7 +15608,7 @@
     ],
     "transferable_matches": [
       "a/b testing ← experience with llm evaluation",
-      "google cloud ← experience with agentcore"
+      "google cloud ← experience with amazon web services"
     ],
     "missing_skills": [
       "human-in-the-loop",
@@ -15667,8 +15694,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with agentcore",
-      "gcp ← experience with agentcore"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -15714,8 +15741,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with agentcore",
-      "gcp ← experience with agentcore"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -15761,8 +15788,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with agentcore",
-      "gcp ← experience with agentcore"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -15806,8 +15833,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with agentcore",
-      "gcp ← experience with agentcore"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -15855,9 +15882,9 @@
       "observability"
     ],
     "transferable_matches": [
-      "azure ← experience with agentcore",
+      "azure ← experience with amazon web services",
       "guardrails ← experience with pydantic",
-      "vertex ai ← experience with agentcore"
+      "vertex ai ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -16324,7 +16351,7 @@
       "python"
     ],
     "transferable_matches": [
-      "unstructured ← experience with lightrag"
+      "unstructured ← experience with llamaindex"
     ],
     "missing_skills": [
       "bigquery",
@@ -16705,47 +16732,6 @@
   {
     "score": 67,
     "priority": "⚪ REVIEW",
-    "title": "Business Automation Engineer",
-    "company": "Perk",
-    "source": "arbeitnow",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/perk/business-automation-engineer-birmingham-225263",
-    "posted_at": "2026-09-12T12:40:10+00:00",
-    "remote": false,
-    "location": "Birmingham",
-    "salary": null,
-    "technical_matches": [
-      "amazon web services",
-      "aws"
-    ],
-    "transferable_matches": [
-      "together ai ← experience with claude"
-    ],
-    "missing_skills": [
-      "agent platform",
-      "rust"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "not specified",
-    "location_eligible": true,
-    "location_confidence": "low",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at Perk with strong overlap in aws, amazon web services, together ai.",
-    "recommended_action": "SKIP",
-    "response_probability": "UNKNOWN",
-    "url_status": "not_checked",
-    "score_breakdown": {
-      "technical": 40,
-      "role": 100,
-      "remote": 55,
-      "freshness": 100,
-      "experience": 100,
-      "response": 50,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 67,
-    "priority": "⚪ REVIEW",
     "title": "Stage Data Analyst - Paris (H/F/X)",
     "company": "Artefactlinkedin",
     "source": "arbeitnow",
@@ -16759,8 +16745,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with agentcore",
-      "gcp ← experience with agentcore",
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
       "otel ← experience with observability",
       "transformers ← experience with claude"
     ],
@@ -16803,8 +16789,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with agentcore",
-      "gcp ← experience with agentcore",
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
       "otel ← experience with observability",
       "transformers ← experience with claude"
     ],
@@ -16832,86 +16818,48 @@
     }
   },
   {
-    "score": 67,
+    "score": 66,
     "priority": "⚪ REVIEW",
-    "title": "Senior Backend Engineer - Core Engine / Decision Intelligence (m/w/d)",
-    "company": "Taledo GmbH",
-    "source": "arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/taledo-gmbh/remote-senior-backend-engineer-core-engine-decision-intelligence-deutschlandweit-13391",
-    "posted_at": "2026-09-11T17:30:29+00:00",
+    "title": "Senior Data Scientist, Ads",
+    "company": "reddit",
+    "source": "greenhouse",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/8104403",
+    "posted_at": "2026-09-12T08:18:10-04:00",
     "remote": true,
-    "location": "Homeoffice",
+    "location": "Remote - United States",
     "salary": null,
     "technical_matches": [
       "python"
     ],
     "transferable_matches": [
-      "agno ← experience with hermes agent"
+      "a/b testing ← experience with llm evaluation",
+      "arize ← experience with llm evaluation",
+      "metrics ← experience with observability"
     ],
     "missing_skills": [
-      "go",
-      "java",
-      "rust"
+      "bigquery",
+      "pytorch",
+      "recommendation",
+      "rust",
+      "scikit-learn",
+      "spark",
+      "sql",
+      "tensorflow"
     ],
     "hard_requirements_missing": [],
-    "experience_required": "not specified",
+    "experience_required": "5+ years required",
     "location_eligible": true,
     "location_confidence": "high",
     "freshness_confidence": "known",
-    "reason": "Recently posted role at Taledo GmbH with strong overlap in python, agno.",
+    "reason": "Recently posted role at reddit with strong overlap in python, arize, a/b testing.",
     "recommended_action": "SKIP",
-    "response_probability": "UNKNOWN",
+    "response_probability": "MEDIUM",
     "url_status": "not_checked",
     "score_breakdown": {
-      "technical": 25,
-      "role": 100,
+      "technical": 45,
+      "role": 44,
       "remote": 100,
       "freshness": 90,
-      "experience": 100,
-      "response": 50,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 66,
-    "priority": "⚪ REVIEW",
-    "title": "Senior Business Engineer - Ads",
-    "company": "reddit",
-    "source": "greenhouse",
-    "url": "https://job-boards.greenhouse.io/reddit/jobs/7954598",
-    "posted_at": "2026-09-12T08:18:15-04:00",
-    "remote": true,
-    "location": "Remote - United States",
-    "salary": null,
-    "technical_matches": [
-      "python"
-    ],
-    "transferable_matches": [
-      "arize ← experience with llm evaluation"
-    ],
-    "missing_skills": [
-      "document ai",
-      "java",
-      "javascript",
-      "node.js",
-      "rest api",
-      "rest apis",
-      "rust"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "5+ years required",
-    "location_eligible": true,
-    "location_confidence": "high",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at reddit with strong overlap in python, arize.",
-    "recommended_action": "SKIP",
-    "response_probability": "MEDIUM",
-    "url_status": "not_checked",
-    "score_breakdown": {
-      "technical": 25,
-      "role": 84,
-      "remote": 100,
-      "freshness": 100,
       "experience": 95,
       "response": 60,
       "compensation": 50
@@ -16920,102 +16868,11 @@
   {
     "score": 66,
     "priority": "⚪ REVIEW",
-    "title": "Senior Business Engineer - Ads",
+    "title": "Senior Data Scientist - Consumer",
     "company": "reddit",
     "source": "greenhouse",
-    "url": "https://job-boards.greenhouse.io/reddit/jobs/8022260",
-    "posted_at": "2026-09-12T08:18:15-04:00",
-    "remote": true,
-    "location": "Remote - British Columbia, Canada",
-    "salary": null,
-    "technical_matches": [
-      "python"
-    ],
-    "transferable_matches": [
-      "arize ← experience with llm evaluation"
-    ],
-    "missing_skills": [
-      "document ai",
-      "java",
-      "javascript",
-      "node.js",
-      "rest api",
-      "rest apis",
-      "rust"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "5+ years required",
-    "location_eligible": true,
-    "location_confidence": "high",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at reddit with strong overlap in python, arize.",
-    "recommended_action": "SKIP",
-    "response_probability": "MEDIUM",
-    "url_status": "not_checked",
-    "score_breakdown": {
-      "technical": 25,
-      "role": 84,
-      "remote": 100,
-      "freshness": 100,
-      "experience": 95,
-      "response": 60,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 66,
-    "priority": "⚪ REVIEW",
-    "title": "Senior Staff Data Scientist - Consumer Experimentation",
-    "company": "reddit",
-    "source": "greenhouse",
-    "url": "https://job-boards.greenhouse.io/reddit/jobs/7974507",
-    "posted_at": "2026-09-12T08:18:14-04:00",
-    "remote": true,
-    "location": "Remote - Ontario, Canada",
-    "salary": null,
-    "technical_matches": [
-      "python"
-    ],
-    "transferable_matches": [
-      "a/b testing ← experience with llm evaluation",
-      "arize ← experience with llm evaluation",
-      "guardrails ← experience with pydantic",
-      "metrics ← experience with observability"
-    ],
-    "missing_skills": [
-      "document ai",
-      "go",
-      "recommendation",
-      "rust",
-      "sql"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "12+ years required",
-    "location_eligible": true,
-    "location_confidence": "high",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at reddit with strong overlap in python, guardrails, arize.",
-    "recommended_action": "SKIP",
-    "response_probability": "MEDIUM",
-    "url_status": "not_checked",
-    "score_breakdown": {
-      "technical": 55,
-      "role": 44,
-      "remote": 100,
-      "freshness": 100,
-      "experience": 50,
-      "response": 60,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 66,
-    "priority": "⚪ REVIEW",
-    "title": "Senior Staff Data Scientist - Consumer Experimentation",
-    "company": "reddit",
-    "source": "greenhouse",
-    "url": "https://job-boards.greenhouse.io/reddit/jobs/7974504",
-    "posted_at": "2026-09-12T08:18:14-04:00",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/8126946",
+    "posted_at": "2026-09-12T08:18:11-04:00",
     "remote": true,
     "location": "Remote - United States",
     "salary": null,
@@ -17025,30 +16882,71 @@
     "transferable_matches": [
       "a/b testing ← experience with llm evaluation",
       "arize ← experience with llm evaluation",
-      "guardrails ← experience with pydantic",
       "metrics ← experience with observability"
     ],
     "missing_skills": [
-      "document ai",
       "go",
       "recommendation",
       "rust",
       "sql"
     ],
     "hard_requirements_missing": [],
-    "experience_required": "12+ years required",
+    "experience_required": "5+ years required",
     "location_eligible": true,
     "location_confidence": "high",
     "freshness_confidence": "known",
-    "reason": "Recently posted role at reddit with strong overlap in python, guardrails, arize.",
+    "reason": "Recently posted role at reddit with strong overlap in python, arize, a/b testing.",
+    "recommended_action": "SKIP",
+    "response_probability": "MEDIUM",
+    "url_status": "not_checked",
+    "score_breakdown": {
+      "technical": 45,
+      "role": 48,
+      "remote": 100,
+      "freshness": 90,
+      "experience": 95,
+      "response": 60,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 66,
+    "priority": "⚪ REVIEW",
+    "title": "Senior Director, Product & Technology Finance",
+    "company": "reddit",
+    "source": "greenhouse",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/8011163",
+    "posted_at": "2026-09-12T08:18:14-04:00",
+    "remote": true,
+    "location": "Remote - United States",
+    "salary": null,
+    "technical_matches": [
+      "aws"
+    ],
+    "transferable_matches": [
+      "agno ← experience with hermes agent",
+      "arize ← experience with llm evaluation",
+      "gcp ← experience with amazon web services",
+      "metrics ← experience with observability"
+    ],
+    "missing_skills": [
+      "recommendation",
+      "rust"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "15+ years required",
+    "location_eligible": true,
+    "location_confidence": "high",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at reddit with strong overlap in aws, agno, arize.",
     "recommended_action": "SKIP",
     "response_probability": "MEDIUM",
     "url_status": "not_checked",
     "score_breakdown": {
       "technical": 55,
-      "role": 44,
+      "role": 53,
       "remote": 100,
-      "freshness": 100,
+      "freshness": 90,
       "experience": 50,
       "response": 60,
       "compensation": 50
@@ -17117,8 +17015,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with agentcore",
-      "gcp ← experience with agentcore",
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
       "guidance ← experience with pydantic"
     ],
     "missing_skills": [
@@ -17162,10 +17060,10 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with agentcore",
-      "cloudwatch ← experience with observability",
-      "gcp ← experience with agentcore",
-      "google cloud ← experience with agentcore"
+      "azure ← experience with amazon web services",
+      "cloudwatch ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
+      "google cloud ← experience with amazon web services"
     ],
     "missing_skills": [
       "bigquery",
@@ -17211,8 +17109,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with agentcore",
-      "gcp ← experience with agentcore"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -17259,8 +17157,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with agentcore",
-      "gcp ← experience with agentcore"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -17305,8 +17203,8 @@
       "aws"
     ],
     "transferable_matches": [
-      "azure ← experience with agentcore",
-      "gcp ← experience with agentcore"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -17348,8 +17246,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with agentcore",
-      "gcp ← experience with agentcore",
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
       "guardrails ← experience with pydantic"
     ],
     "missing_skills": [
@@ -17395,8 +17293,8 @@
     ],
     "transferable_matches": [
       "agno ← experience with hermes agent",
-      "azure ← experience with agentcore",
-      "gcp ← experience with agentcore"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "java",
@@ -17442,7 +17340,7 @@
       "python"
     ],
     "transferable_matches": [
-      "gcp ← experience with agentcore"
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "agent framework",
@@ -17973,8 +17871,8 @@
       "ci/cd"
     ],
     "transferable_matches": [
-      "azure ← experience with agentcore",
-      "gcp ← experience with agentcore"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "document ai",
@@ -18018,8 +17916,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure functions ← experience with agentcore",
-      "azure ← experience with agentcore",
+      "azure functions ← experience with amazon web services",
+      "azure ← experience with amazon web services",
       "metrics ← experience with observability"
     ],
     "missing_skills": [
@@ -18106,7 +18004,7 @@
       "observability"
     ],
     "transferable_matches": [
-      "networkx ← experience with neo4j"
+      "networkx ← experience with knowledge graph"
     ],
     "missing_skills": [
       "agent workflows"
@@ -18537,6 +18435,47 @@
   {
     "score": 66,
     "priority": "⚪ REVIEW",
+    "title": "Business Automation Engineer",
+    "company": "Perk",
+    "source": "arbeitnow",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/perk/business-automation-engineer-birmingham-225263",
+    "posted_at": "2026-09-12T12:40:10+00:00",
+    "remote": false,
+    "location": "Birmingham",
+    "salary": null,
+    "technical_matches": [
+      "amazon web services",
+      "aws"
+    ],
+    "transferable_matches": [
+      "together ai ← experience with claude"
+    ],
+    "missing_skills": [
+      "agent platform",
+      "rust"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "not specified",
+    "location_eligible": true,
+    "location_confidence": "low",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at Perk with strong overlap in aws, amazon web services, together ai.",
+    "recommended_action": "SKIP",
+    "response_probability": "UNKNOWN",
+    "url_status": "not_checked",
+    "score_breakdown": {
+      "technical": 40,
+      "role": 100,
+      "remote": 55,
+      "freshness": 90,
+      "experience": 100,
+      "response": 50,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 66,
+    "priority": "⚪ REVIEW",
     "title": "Solutions Architect, CustomerLake",
     "company": "databricks",
     "source": "arbeitnow",
@@ -18550,8 +18489,8 @@
       "aws"
     ],
     "transferable_matches": [
-      "azure ← experience with agentcore",
-      "gcp ← experience with agentcore",
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
       "guardrails ← experience with pydantic"
     ],
     "missing_skills": [
@@ -18633,8 +18572,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with agentcore",
-      "google cloud ← experience with agentcore"
+      "azure ← experience with amazon web services",
+      "google cloud ← experience with amazon web services"
     ],
     "missing_skills": [
       "go",
@@ -18677,8 +18616,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with agentcore",
-      "gcp ← experience with agentcore",
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
       "guardrails ← experience with pydantic"
     ],
     "missing_skills": [
@@ -18938,8 +18877,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with agentcore",
-      "gcp ← experience with agentcore"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "distributed systems",
@@ -18985,7 +18924,7 @@
       "logging ← experience with observability",
       "metrics ← experience with observability",
       "traces ← experience with observability",
-      "unstructured ← experience with lightrag"
+      "unstructured ← experience with llamaindex"
     ],
     "missing_skills": [
       "airflow",
@@ -19023,24 +18962,27 @@
   {
     "score": 65,
     "priority": "⚪ REVIEW",
-    "title": "Senior Product Manager, Ads -  Shopping Catalogs",
+    "title": "Senior Business Engineer - Ads",
     "company": "reddit",
     "source": "greenhouse",
-    "url": "https://job-boards.greenhouse.io/reddit/jobs/8120503",
-    "posted_at": "2026-09-12T08:18:12-04:00",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/7954598",
+    "posted_at": "2026-09-12T08:18:15-04:00",
     "remote": true,
     "location": "Remote - United States",
     "salary": null,
     "technical_matches": [
-      "knowledge graph"
+      "python"
     ],
     "transferable_matches": [
-      "agno ← experience with hermes agent",
       "arize ← experience with llm evaluation"
     ],
     "missing_skills": [
-      "ranking",
-      "retrieval",
+      "document ai",
+      "java",
+      "javascript",
+      "node.js",
+      "rest api",
+      "rest apis",
       "rust"
     ],
     "hard_requirements_missing": [],
@@ -19048,15 +18990,15 @@
     "location_eligible": true,
     "location_confidence": "high",
     "freshness_confidence": "known",
-    "reason": "Recently posted role at reddit with strong overlap in knowledge graph, agno, arize.",
+    "reason": "Recently posted role at reddit with strong overlap in python, arize.",
     "recommended_action": "SKIP",
     "response_probability": "MEDIUM",
     "url_status": "not_checked",
     "score_breakdown": {
-      "technical": 35,
-      "role": 53,
+      "technical": 25,
+      "role": 84,
       "remote": 100,
-      "freshness": 100,
+      "freshness": 90,
       "experience": 95,
       "response": 60,
       "compensation": 50
@@ -19065,11 +19007,102 @@
   {
     "score": 65,
     "priority": "⚪ REVIEW",
-    "title": "Sr. Staff Data Scientist - Ads Measurement, Signals, Privacy",
+    "title": "Senior Business Engineer - Ads",
     "company": "reddit",
     "source": "greenhouse",
-    "url": "https://job-boards.greenhouse.io/reddit/jobs/8072046",
-    "posted_at": "2026-09-12T08:18:16-04:00",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/8022260",
+    "posted_at": "2026-09-12T08:18:15-04:00",
+    "remote": true,
+    "location": "Remote - British Columbia, Canada",
+    "salary": null,
+    "technical_matches": [
+      "python"
+    ],
+    "transferable_matches": [
+      "arize ← experience with llm evaluation"
+    ],
+    "missing_skills": [
+      "document ai",
+      "java",
+      "javascript",
+      "node.js",
+      "rest api",
+      "rest apis",
+      "rust"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "5+ years required",
+    "location_eligible": true,
+    "location_confidence": "high",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at reddit with strong overlap in python, arize.",
+    "recommended_action": "SKIP",
+    "response_probability": "MEDIUM",
+    "url_status": "not_checked",
+    "score_breakdown": {
+      "technical": 25,
+      "role": 84,
+      "remote": 100,
+      "freshness": 90,
+      "experience": 95,
+      "response": 60,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 65,
+    "priority": "⚪ REVIEW",
+    "title": "Senior Staff Data Scientist - Consumer Experimentation",
+    "company": "reddit",
+    "source": "greenhouse",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/7974507",
+    "posted_at": "2026-09-12T08:18:14-04:00",
+    "remote": true,
+    "location": "Remote - Ontario, Canada",
+    "salary": null,
+    "technical_matches": [
+      "python"
+    ],
+    "transferable_matches": [
+      "a/b testing ← experience with llm evaluation",
+      "arize ← experience with llm evaluation",
+      "guardrails ← experience with pydantic",
+      "metrics ← experience with observability"
+    ],
+    "missing_skills": [
+      "document ai",
+      "go",
+      "recommendation",
+      "rust",
+      "sql"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "12+ years required",
+    "location_eligible": true,
+    "location_confidence": "high",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at reddit with strong overlap in python, guardrails, arize.",
+    "recommended_action": "SKIP",
+    "response_probability": "MEDIUM",
+    "url_status": "not_checked",
+    "score_breakdown": {
+      "technical": 55,
+      "role": 44,
+      "remote": 100,
+      "freshness": 90,
+      "experience": 50,
+      "response": 60,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 65,
+    "priority": "⚪ REVIEW",
+    "title": "Senior Staff Data Scientist - Consumer Experimentation",
+    "company": "reddit",
+    "source": "greenhouse",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/7974504",
+    "posted_at": "2026-09-12T08:18:14-04:00",
     "remote": true,
     "location": "Remote - United States",
     "salary": null,
@@ -19077,31 +19110,32 @@
       "python"
     ],
     "transferable_matches": [
-      "agno ← experience with hermes agent",
+      "a/b testing ← experience with llm evaluation",
       "arize ← experience with llm evaluation",
       "guardrails ← experience with pydantic",
       "metrics ← experience with observability"
     ],
     "missing_skills": [
-      "ranking",
+      "document ai",
+      "go",
       "recommendation",
       "rust",
       "sql"
     ],
     "hard_requirements_missing": [],
-    "experience_required": "10+ years required",
+    "experience_required": "12+ years required",
     "location_eligible": true,
     "location_confidence": "high",
     "freshness_confidence": "known",
-    "reason": "Recently posted role at reddit with strong overlap in python, agno, guardrails.",
+    "reason": "Recently posted role at reddit with strong overlap in python, guardrails, arize.",
     "recommended_action": "SKIP",
     "response_probability": "MEDIUM",
     "url_status": "not_checked",
     "score_breakdown": {
       "technical": 55,
-      "role": 33,
+      "role": 44,
       "remote": 100,
-      "freshness": 100,
+      "freshness": 90,
       "experience": 50,
       "response": 60,
       "compensation": 50
@@ -19327,7 +19361,7 @@
       "aws"
     ],
     "transferable_matches": [
-      "google cloud ← experience with agentcore",
+      "google cloud ← experience with amazon web services",
       "metrics ← experience with observability"
     ],
     "missing_skills": [
@@ -19369,7 +19403,7 @@
       "aws"
     ],
     "transferable_matches": [
-      "google cloud ← experience with agentcore",
+      "google cloud ← experience with amazon web services",
       "metrics ← experience with observability"
     ],
     "missing_skills": [
@@ -19484,6 +19518,49 @@
   {
     "score": 65,
     "priority": "⚪ REVIEW",
+    "title": "Senior Internal Auditor, Technology",
+    "company": "gitlab",
+    "source": "greenhouse",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8643077002",
+    "posted_at": "2026-09-09T13:58:37-04:00",
+    "remote": true,
+    "location": "Remote, Canada; Remote, United States",
+    "salary": null,
+    "technical_matches": [
+      "agent orchestration",
+      "amazon web services",
+      "supervisor"
+    ],
+    "transferable_matches": [
+      "google cloud ← experience with amazon web services"
+    ],
+    "missing_skills": [
+      "document ai",
+      "recommendation",
+      "rust"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "not specified",
+    "location_eligible": true,
+    "location_confidence": "high",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at gitlab with strong overlap in agent orchestration, supervisor, amazon web services, google cloud.",
+    "recommended_action": "SKIP",
+    "response_probability": "MEDIUM",
+    "url_status": "not_checked",
+    "score_breakdown": {
+      "technical": 55,
+      "role": 44,
+      "remote": 100,
+      "freshness": 55,
+      "experience": 100,
+      "response": 60,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 65,
+    "priority": "⚪ REVIEW",
     "title": "Senior Software Engineer (Typescript), AI Clients: Duo CLI",
     "company": "gitlab",
     "source": "greenhouse",
@@ -19580,8 +19657,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with agentcore",
-      "gcp ← experience with agentcore"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "databricks",
@@ -19627,8 +19704,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with agentcore",
-      "gcp ← experience with agentcore",
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
       "metrics ← experience with observability"
     ],
     "missing_skills": [
@@ -19678,8 +19755,8 @@
       "python"
     ],
     "transferable_matches": [
-      "azure ← experience with agentcore",
-      "gcp ← experience with agentcore",
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
       "guidance ← experience with pydantic",
       "together ai ← experience with claude"
     ],
@@ -19704,6 +19781,48 @@
       "freshness": 35,
       "experience": 50,
       "response": 100,
+      "compensation": 50
+    }
+  },
+  {
+    "score": 65,
+    "priority": "⚪ REVIEW",
+    "title": "Engineering Manager, Frontier AI Infrastructure - Public Sector ",
+    "company": "scaleai",
+    "source": "greenhouse",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4732365005",
+    "posted_at": "2026-09-09T14:44:54-04:00",
+    "remote": false,
+    "location": "Washington, DC",
+    "salary": null,
+    "technical_matches": [
+      "aws",
+      "docker"
+    ],
+    "transferable_matches": [
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services",
+      "metrics ← experience with observability"
+    ],
+    "missing_skills": [
+      "kubernetes"
+    ],
+    "hard_requirements_missing": [],
+    "experience_required": "2+ years required (meets bar)",
+    "location_eligible": true,
+    "location_confidence": "low",
+    "freshness_confidence": "known",
+    "reason": "Recently posted role at scaleai with strong overlap in docker, aws, metrics, azure.",
+    "recommended_action": "SKIP",
+    "response_probability": "MEDIUM",
+    "url_status": "not_checked",
+    "score_breakdown": {
+      "technical": 60,
+      "role": 79,
+      "remote": 55,
+      "freshness": 55,
+      "experience": 100,
+      "response": 60,
       "compensation": 50
     }
   },
@@ -19859,8 +19978,8 @@
       "aws"
     ],
     "transferable_matches": [
-      "azure ← experience with agentcore",
-      "gcp ← experience with agentcore"
+      "azure ← experience with amazon web services",
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "rust"
@@ -20423,7 +20542,7 @@
       "python"
     ],
     "transferable_matches": [
-      "gcp ← experience with agentcore"
+      "gcp ← experience with amazon web services"
     ],
     "missing_skills": [
       "go",
@@ -20492,45 +20611,6 @@
       "role": 84,
       "remote": 55,
       "freshness": 90,
-      "experience": 100,
-      "response": 50,
-      "compensation": 50
-    }
-  },
-  {
-    "score": 65,
-    "priority": "⚪ REVIEW",
-    "title": "Binance Accelerator Program - AI Intelligence Efficiency Engineer",
-    "company": "Binance",
-    "source": "jobicy",
-    "url": "https://jobicy.com/jobs/153012-binance-accelerator-program-ai-intelligence-efficiency-engineer",
-    "posted_at": "2026-09-11T12:58:41+00:00",
-    "remote": true,
-    "location": "APAC",
-    "salary": null,
-    "technical_matches": [
-      "rag"
-    ],
-    "transferable_matches": [
-      "prompt optimization ← experience with pydantic"
-    ],
-    "missing_skills": [
-      "document ai"
-    ],
-    "hard_requirements_missing": [],
-    "experience_required": "not specified",
-    "location_eligible": true,
-    "location_confidence": "high",
-    "freshness_confidence": "known",
-    "reason": "Recently posted role at Binance with strong overlap in rag, prompt optimization.",
-    "recommended_action": "SKIP",
-    "response_probability": "UNKNOWN",
-    "url_status": "not_checked",
-    "score_breakdown": {
-      "technical": 25,
-      "role": 100,
-      "remote": 100,
-      "freshness": 75,
       "experience": 100,
       "response": 50,
       "compensation": 50
